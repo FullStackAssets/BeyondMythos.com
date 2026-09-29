@@ -94,8 +94,9 @@ test("store lists books before kits and keeps the working buy-now script", async
     const html = await res.text();
     assert.match(html, /Autonomous Publisher/);
     const bookPos = html.indexOf("product-301");
-    const kitPos = html.indexOf("product-201");
-    assert.ok(bookPos !== -1 && kitPos !== -1 && bookPos < kitPos, "book 301 before kit 201");
+    assert.ok(bookPos !== -1, "book 301 listed");
+    // Kits with no downloadable files are hidden until stocked (honest catalog)
+    assert.ok(html.indexOf("product-201") === -1, "fileless kit 201 hidden");
     assert.match(html, /data-buy-now/);
   });
 });

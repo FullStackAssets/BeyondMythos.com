@@ -214,7 +214,9 @@ const PAGE_STYLE = `body{margin:0;background:#0b1020;color:#eef2ff;font-family:I
 
 function renderBookstoreHomepage() {
   const books = listBooks();
-  const kits = listProducts({ type: "digital" }).filter((p) => p.category !== "books");
+  const kits = listProducts({ type: "digital" }).filter(
+    (p) => p.category !== "books" && p.hasFiles
+  );
   const bookCards = books.map(productCard).join("");
   const kitCards = kits.map(productCard).join("");
   return `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>BeyondMythos Press — Bookstore</title><meta name="description" content="Direct bookstore for BeyondMythos Press: ebooks on autonomous publishing, plus creator kits and templates."><style>${PAGE_STYLE}.hero{padding:2.5rem 0 1rem}.hero h1{font-size:2.2rem;margin:.4rem 0}.kicker{display:inline-block;padding:.25rem .6rem;border:1px solid rgba(249,115,22,.5);border-radius:999px;font-size:.75rem;text-transform:uppercase;letter-spacing:.1em;color:#fdba74}h2.section{margin:2.5rem 0 1rem;font-size:1.4rem}</style></head><body><main class="wrap">
@@ -395,7 +397,9 @@ app.get("/healthz", (req, res) => {
 
 app.get("/store", (req, res) => {
   const books = listBooks();
-  const kits = listProducts({ type: "digital" }).filter((p) => p.category !== "books");
+  const kits = listProducts({ type: "digital" }).filter(
+    (p) => p.category !== "books" && p.hasFiles
+  );
   const markets = getMarketplaceLinks();
   const bookCards = books.map(productCard).join("");
   const kitCards = kits.map(productCard).join("");

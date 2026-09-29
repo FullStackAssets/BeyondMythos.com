@@ -94,8 +94,13 @@ describe("products and checkout", () => {
   });
 
   it("limits digital products to one per order", () => {
-    const result = buildCheckoutLineItems([{ id: 201, quantity: 2 }]);
+    const result = buildCheckoutLineItems([{ id: 301, quantity: 2 }]);
     assert.match(result.error, /Digital products are limited/);
+  });
+
+  it("rejects digital products with no downloadable files", () => {
+    const result = buildCheckoutLineItems([{ id: 201, quantity: 1 }]);
+    assert.match(result.error, /not available for purchase yet/);
   });
 });
 
