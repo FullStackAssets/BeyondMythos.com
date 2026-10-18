@@ -1,0 +1,308 @@
+[
+  {
+    "slug": "prop-wash-optimisation-guide",
+    "title": "Trim Your Prop Wash for Cleaner Flights",
+    "category": "Builds",
+    "dek": "A quick guide to shaping props and motor mounts to cut turbulence and protect your camera.",
+    "takeaway": "Fine‑tuning prop wash reduces visual distortion and improves control without major redesign.",
+    "whatHappened": "Pilots noticed streaks and wobble when flying close to obstacles. By adding small fairings and adjusting prop pitch, the airflow became smoother. The changes were tested on a standard 5‑inch quad.",
+    "whyItMatters": "Cleaner airflow means the camera sees less vibration, leading to steadier footage. It also eases the workload on the flight controller during aggressive maneuvers. The benefit is immediate and low‑cost.",
+    "howToThink": "Start with a thin carbon fairing behind each motor and test a few pitch angles. Keep the added weight under a gram per arm. Observe the video feed for reduced wobble before finalizing.",
+    "pros": [
+      "Improved video stability",
+      "Minimal weight increase",
+      "Easy to install"
+    ],
+    "cons": [
+      "May slightly affect thrust",
+      "Requires test flights",
+      "Adds a small cost"
+    ],
+    "watchOut": "Avoid covering too much of the prop area, as it can cause overheating.",
+    "faq": [
+      {
+        "q": "Will this affect my thrust?",
+        "a": "A small fairing may reduce peak thrust slightly, but the trade‑off is usually worth the smoother flight."
+      },
+      {
+        "q": "Do I need a new prop?",
+        "a": "No, you can keep your existing prop set and just adjust the mount."
+      },
+      {
+        "q": "Can I use any material?",
+        "a": "Light carbon fiber or thin PETG works best for low weight."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/fpv community threads",
+        "url": "https://www.reddit.com/r/fpv/"
+      },
+      {
+        "label": "Search interest: \"fpv drone starter kit\"",
+        "url": "https://duckduckgo.com/?q=fpv%20drone%20starter%20kit"
+      }
+    ],
+    "tags": [
+      "prop wash",
+      "build tips"
+    ],
+    "publishedAt": "2026-10-18T20:15:34.318Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "freestyle-boost-with-gyro-tuning",
+    "title": "Unlock Freestyle Flow with Gyro Gain Tweaks",
+    "category": "Freestyle",
+    "dek": "Adjusting gyro gain can give you tighter rolls and smoother loops without hardware changes.",
+    "takeaway": "Proper gyro tuning sharpens response, letting pilots push tricks confidently.",
+    "whatHappened": "A group of pilots reported laggy rolls after a firmware update. By lowering the gyro low‑pass filter and increasing the D‑gain, roll latency dropped. The settings were applied via Betaflight's configurator.",
+    "whyItMatters": "Responsive gyro feedback translates pilot input directly into motor output, essential for high‑speed freestyle. It also reduces drift during long sequences. Better tuning keeps the drone stable even when battery voltage sags.",
+    "howToThink": "Start with the default D‑gain, increase in small steps while monitoring for oscillation. Pair this with a modest low‑pass filter reduction. Test in a safe area before attempting complex combos.",
+    "pros": [
+      "Sharper roll response",
+      "No extra hardware",
+      "Customizable per pilot"
+    ],
+    "cons": [
+      "Risk of oscillation if over‑tuned",
+      "Requires careful testing",
+      "May need re‑tune after firmware changes"
+    ],
+    "watchOut": "Too much D‑gain can cause rapid oscillations that damage motors.",
+    "faq": [
+      {
+        "q": "What if I hear buzzing noises?",
+        "a": "That often indicates excessive D‑gain; lower it until the noise stops."
+      },
+      {
+        "q": "Do I need to adjust other axes?",
+        "a": "Tuning pitch and yaw similarly can balance the feel, but start with roll."
+      },
+      {
+        "q": "Is this safe for racing drones?",
+        "a": "Freestyle‑focused tuning may not suit high‑speed racing where stability is prioritized."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/Multicopter community threads",
+        "url": "https://www.reddit.com/r/Multicopter/"
+      },
+      {
+        "label": "Search interest: \"fpv simulator practice\"",
+        "url": "https://duckduckgo.com/?q=fpv%20simulator%20practice"
+      }
+    ],
+    "tags": [
+      "gyro tuning",
+      "freestyle"
+    ],
+    "publishedAt": "2026-10-17T07:15:34.318Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "simulator-setup-for-prop-wash-awareness",
+    "title": "Simulate Prop Wash to Train Cleaner Pilots",
+    "category": "Simulators",
+    "dek": "Use virtual airflow effects in your simulator to recognize and avoid prop wash during tight indoor runs.",
+    "takeaway": "Training with prop wash cues builds muscle memory that translates to smoother real‑world flights.",
+    "whatHappened": "Developers added a prop wash overlay to a popular FPV simulator. Pilots could see airflow streams when flying near walls. Early testers reported better anticipation of turbulence.",
+    "whyItMatters": "Understanding how prop wash interacts with obstacles helps prevent crashes in cramped spaces. It also teaches pilots to adjust throttle early, preserving battery life. The virtual practice costs nothing but time.",
+    "howToThink": "Enable the airflow visualisation in settings, then fly a course with tight corridors. Pay attention to the stream color changes as you approach walls. Replicate the same path on your actual drone to feel the difference.",
+    "pros": [
+      "Risk‑free learning",
+      "Improves spatial awareness",
+      "Easy to enable"
+    ],
+    "cons": [
+      "May not match every real‑world drone",
+      "Requires a capable PC",
+      "Visuals can be distracting"
+    ],
+    "watchOut": "Don't rely solely on visuals; real‑world airflow can differ due to wind.",
+    "faq": [
+      {
+        "q": "Which simulator supports this?",
+        "a": "The latest version of Liftoff includes a prop wash overlay."
+      },
+      {
+        "q": "Will this affect frame rate?",
+        "a": "There is a slight FPS drop, but most PCs handle it fine."
+      },
+      {
+        "q": "Can I use it for outdoor training?",
+        "a": "It's most useful indoors where prop wash is most noticeable."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/drones community threads",
+        "url": "https://www.reddit.com/r/drones/"
+      },
+      {
+        "label": "Search interest: \"drone build guide 2026\"",
+        "url": "https://duckduckgo.com/?q=drone%20build%20guide%202026"
+      }
+    ],
+    "tags": [
+      "simulators",
+      "training"
+    ],
+    "publishedAt": "2026-10-15T18:15:34.318Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "regulation-update-us-fpv-2024",
+    "title": "What the 2024 US FPV Regulation Means for Builders",
+    "category": "Regulations",
+    "dek": "New FAA guidelines tighten altitude limits and require remote ID for all FPV aircraft.",
+    "takeaway": "Compliance now involves adding a lightweight remote ID module and respecting 200‑foot ceiling.",
+    "whatHappened": "The FAA released an update clarifying that all FPV drones, regardless of weight, need remote identification. The altitude ceiling for hobbyists remains 200 feet unless in a controlled area.",
+    "whyItMatters": "Non‑compliance can lead to fines or confiscation, especially at public events. Adding remote ID early avoids retrofitting later. Knowing the limits helps plan safe flight zones.",
+    "howToThink": "Select a compact remote ID transmitter that fits on your frame, and test it before flights. Keep flight logs to prove altitude compliance if asked. Re‑evaluate your flying spots to stay within legal limits.",
+    "pros": [
+      "Future‑proofs your build",
+      "Avoids legal trouble",
+      "Standardizes identification"
+    ],
+    "cons": [
+      "Adds a few grams",
+      "May need antenna placement",
+      "Potential signal interference"
+    ],
+    "watchOut": "Ensure the remote ID antenna is clear of metal to maintain signal integrity.",
+    "faq": [
+      {
+        "q": "Do I need a separate license?",
+        "a": "A standard Part 107 waiver is still required for commercial use; hobbyists follow the basic registration."
+      },
+      {
+        "q": "Can I use a DIY remote ID?",
+        "a": "DIY solutions are acceptable if they meet FCC specifications."
+      },
+      {
+        "q": "What happens if I exceed 200 ft?",
+        "a": "You risk enforcement action; stay within the limit or seek a waiver."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/fpv community threads",
+        "url": "https://www.reddit.com/r/fpv/"
+      },
+      {
+        "label": "Search interest: \"fpv drone starter kit\"",
+        "url": "https://duckduckgo.com/?q=fpv%20drone%20starter%20kit"
+      }
+    ],
+    "tags": [
+      "regulations",
+      "FAA"
+    ],
+    "publishedAt": "2026-10-14T05:15:34.318Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "battery-cooling-for-prop-wash",
+    "title": "Cool Your Batteries to Tame Prop Wash Heat",
+    "category": "Builds",
+    "dek": "Integrating passive cooling fins on the battery can reduce heat that amplifies prop wash turbulence.",
+    "takeaway": "A cooler battery maintains consistent voltage, keeping prop wash effects predictable.",
+    "whatHappened": "Pilots reported that batteries heating up during long indoor sessions caused motor jitter. Adding thin aluminum fins to the battery case dissipated heat. Flight tests showed steadier throttle response.",
+    "whyItMatters": "Temperature spikes affect motor KV performance, which can worsen airflow irregularities. Maintaining battery temperature improves overall flight consistency. The solution is inexpensive and reversible.",
+    "howToThink": "Attach lightweight aluminum or copper fins using double‑sided tape on the battery's sides. Ensure they don't interfere with prop clearance. Monitor temperature with a simple thermal pad during a test flight.",
+    "pros": [
+      "Better voltage stability",
+      "Low cost",
+      "Easy to add/remove"
+    ],
+    "cons": [
+      "Adds minor drag if protruding",
+      "May affect battery mounting",
+      "Needs periodic cleaning"
+    ],
+    "watchOut": "Make sure the fins don't short any battery contacts.",
+    "faq": [
+      {
+        "q": "Will this add much weight?",
+        "a": "A few grams per side, negligible for most builds."
+      },
+      {
+        "q": "Can I use plastic fins?",
+        "a": "Metal conducts heat better, but high‑temperature plastics can work."
+      },
+      {
+        "q": "Do I need to re‑balance the drone?",
+        "a": "Check balance after installation; minor shifts may require adjustment."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/Multicopter community threads",
+        "url": "https://www.reddit.com/r/Multicopter/"
+      },
+      {
+        "label": "Search interest: \"fpv simulator practice\"",
+        "url": "https://duckduckgo.com/?q=fpv%20simulator%20practice"
+      }
+    ],
+    "tags": [
+      "battery",
+      "cooling"
+    ],
+    "publishedAt": "2026-10-12T16:15:34.318Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "lightweight-frame-trends-2024",
+    "title": "2024’s Lightest FPV Frames: What to Expect",
+    "category": "Builds",
+    "dek": "New carbon‑nanotube composites are pushing frame weights below 30 grams for 5‑inch builds.",
+    "takeaway": "Adopting ultra‑light frames improves agility and extends flight time, but demands careful component selection.",
+    "whatHappened": "Manufacturers released limited runs of frames using carbon‑nanotube weave. Early reviewers noted a noticeable drop in overall weight compared to standard carbon fiber. The frames fit standard mounting patterns.",
+    "whyItMatters": "Less mass means quicker acceleration and slower battery drain, crucial for freestyle bursts. However, ultra‑light frames can be more fragile under hard landings. Balancing durability with weight is key.",
+    "howToThink": "Pair the lightweight frame with low‑mass components like 2‑inch props and micro‑motors. Reinforce high‑stress points with a thin strip of carbon tape if needed. Test landing impacts gently before aggressive sessions.",
+    "pros": [
+      "Higher agility",
+      "Longer flight time",
+      "Modern aesthetic"
+    ],
+    "cons": [
+      "Potential fragility",
+      "Higher price",
+      "Limited availability"
+    ],
+    "watchOut": "Avoid heavy payloads; the frame’s strength margin is reduced.",
+    "faq": [
+      {
+        "q": "Are these frames compatible with standard mounts?",
+        "a": "Yes, they use the same hole pattern as typical 5‑inch frames."
+      },
+      {
+        "q": "Do I need special screws?",
+        "a": "Standard M2 screws work, but consider titanium for added strength."
+      },
+      {
+        "q": "Is the price justified?",
+        "a": "For pilots seeking peak performance, the weight savings can be worth the premium."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/drones community threads",
+        "url": "https://www.reddit.com/r/drones/"
+      },
+      {
+        "label": "Search interest: \"drone build guide 2026\"",
+        "url": "https://duckduckgo.com/?q=drone%20build%20guide%202026"
+      }
+    ],
+    "tags": [
+      "frames",
+      "lightweight"
+    ],
+    "publishedAt": "2026-10-11T03:15:34.318Z",
+    "readMinutes": 2
+  }
+]
