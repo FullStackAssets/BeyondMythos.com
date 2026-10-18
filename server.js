@@ -10,8 +10,9 @@ const { contentModeLabel } = require("./lib/content-provider");
 const { listProducts, listBooks, listCategories, listProductTypes } = require("./lib/products");
 const { buildCheckoutLineItems } = require("./lib/checkout");
 const { purchasePayloadFromSession } = require("./lib/stripe-webhooks");
+const { strict: strictLimit, standard: standardLimit } = require("./lib/rate-limit"); // WORKER-4R 2026-10-18 item 378 — review before deploy
 const { getMarketplaceLinks, getSponsorSlot, affiliateDisclosure } = require("./lib/monetization");
-const { recordNewsletterSignup } = require("./lib/newsletter");
+const { recordNewsletterSignup, recordNewsletterUnsubscribe, verifyUnsubscribeSignature } = require("./lib/newsletter");
 const { loadPortfolioStrategy, summarizePortfolio, listPortfolioDomains } = require("./lib/portfolio");
 const {
   recordCheckoutStarted,
@@ -137,6 +138,23 @@ app.post("/api/stripe/webhook", express.raw({ type: "application/json" }), async
   }
 });
 app.use(express.json({ limit: "1mb" }));
+// REVIVE-KIT 2026-10-18: 301 pruned duplicate blog sites (-2/-3 suffixed slugs)
+// to their canonical one-per-niche site. Must run before express.static.
+let siteRedirects = {};
+try {
+  siteRedirects = require("./data/site-redirects.json");
+} catch (_siteRedirectError) {
+  siteRedirects = {};
+}
+app.use("/sites", (req, res, next) => {
+  const slug = req.path.split("/").filter(Boolean)[0];
+  const canonical = slug ? siteRedirects[slug] : null;
+  if (canonical) {
+    const rest = req.url.slice(`/${slug}`.length) || "/";
+    return res.redirect(301, `/sites/${canonical}${rest}`);
+  }
+  next();
+});
 app.use(express.static(path.join(__dirname, "public")));
 
 let stripeClient;
@@ -311,6 +329,7 @@ app.get("/contact", (req, res) => {
   res.set("Cache-Control", "public, max-age=3600");
   res.type("html").send(legalPage("Contact", `
 <p>For order help, refunds, or anything else:</p>
+<p>Email us: <a href="mailto:Nicholas@fullstackassets.com">Nicholas@fullstackassets.com</a></p>
 <ul><li><strong>Lost downloads?</strong> Use purchase recovery on the <a href="/success">order success page</a> — instant, no email needed.</li><li><strong>Refunds &amp; order issues:</strong> include your purchase email and we'll sort it out.</li><li><strong>Press &amp; wholesale:</strong> BeyondMythos Press titles are available for bundle licensing — get in touch.</li></ul>
 <p>We answer within two business days.</p>`));
 });
@@ -419,7 +438,7 @@ app.get("/api/store/config", (req, res) => {
   });
 });
 
-app.get("/api/store/products", async (req, res) => {
+app.get("/api/store/products", standardLimit, async (req, res) => {
   res.set("Cache-Control", "public, max-age=60, stale-while-revalidate=30");
   const filters = {};
   if (req.query.type) filters.type = String(req.query.type);
@@ -440,7 +459,7 @@ app.get("/api/monetization/config", (req, res) => {
   });
 });
 
-app.post("/api/newsletter/subscribe", async (req, res) => {
+app.post("/api/newsletter/subscribe", strictLimit, async (req, res) => {
   const email = String(req.body?.email || "").trim().toLowerCase();
   const site = String(req.body?.site || "").trim();
   const hp = String(req.body?.website || "").trim();
@@ -474,7 +493,45 @@ app.post("/api/newsletter/subscribe", async (req, res) => {
   }
 });
 
-app.post("/api/create-checkout", async (req, res) => {
+app.get("/unsubscribe", (req, res) => {
+  res.set("Cache-Control", "no-store");
+  res.type("html").send(legalPage("Unsubscribe", `
+<p>Enter the email you signed up with and we'll remove you from the newsletter right away.</p>
+<div class="checkout"><label for="unsub-email">Email</label><input id="unsub-email" type="email" placeholder="you@example.com" autocomplete="email" /><button id="unsub-btn" type="button" style="cursor:pointer;padding:.45rem .7rem;border-radius:.6rem;border:1px solid rgba(96,165,250,.45);background:#2563eb;color:#fff">Unsubscribe</button><span id="unsub-status" style="color:#93c5fd;font-size:.9rem"></span></div>
+<script>document.getElementById("unsub-btn").addEventListener("click",async function(){var email=document.getElementById("unsub-email").value.trim();var status=document.getElementById("unsub-status");status.textContent="Working...";try{var r=await fetch("/api/newsletter/unsubscribe",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({email:email})});var p=await r.json();if(!r.ok||!p.ok)throw new Error(p.error||"Unsubscribe failed");status.textContent="You're unsubscribed.";}catch(e){status.textContent=e.message||"Unsubscribe failed";}});</script>`));
+});
+
+app.post("/api/newsletter/unsubscribe", strictLimit, async (req, res) => {
+  const email = String(req.body?.email || "").trim().toLowerCase();
+  if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
+    return res.status(400).json({ error: "Valid email required" });
+  }
+
+  const result = recordNewsletterUnsubscribe({ email });
+  if (result.error) {
+    return res.status(404).json({ error: result.error });
+  }
+  res.json({ ok: true });
+});
+
+// One-click unsubscribe: GET /api/newsletter/unsubscribe?email=X&sig=Y
+// sig = HMAC-SHA256 (hex or base64url) of the normalized email.
+app.get("/api/newsletter/unsubscribe", (req, res) => {
+  const email = String(req.query.email || "").trim().toLowerCase();
+  const sig = String(req.query.sig || "");
+  const invalid = legalPage("Unsubscribe", `<p>This unsubscribe link is invalid. Try the <a href="/unsubscribe">unsubscribe page</a> instead.</p>`);
+  if (!email || !sig || !verifyUnsubscribeSignature(email, sig)) {
+    return res.status(400).type("html").send(invalid);
+  }
+
+  const result = recordNewsletterUnsubscribe({ email });
+  if (result.error) {
+    return res.status(404).type("html").send(legalPage("Unsubscribe", `<p>We couldn't find that email on the newsletter list.</p>`));
+  }
+  res.type("html").send(legalPage("Unsubscribed", `<p>You've been removed from the BeyondMythos newsletter. Sorry to see you go.</p>`));
+});
+
+app.post("/api/create-checkout", strictLimit, async (req, res) => {
   const items = req.body && Array.isArray(req.body.items) ? req.body.items : null;
   const email = String(req.body?.email || "").trim().toLowerCase();
   const site = String(req.body?.site || "beyondmythos.com").trim().toLowerCase();
@@ -533,7 +590,7 @@ app.post("/api/purchases/record", (req, res) => {
   res.status(201).json(result);
 });
 
-app.post("/api/customer/access/request", (req, res) => {
+app.post("/api/customer/access/request", strictLimit, (req, res) => {
   const result = requestCustomerAccess(req.body?.email);
   if (result.error) return res.status(404).json({ error: result.error });
   res.status(202).json(result);
@@ -546,7 +603,7 @@ app.get("/api/customer/access", (req, res) => {
   res.json(result);
 });
 
-app.post("/api/purchases/recover", (req, res) => {
+app.post("/api/purchases/recover", strictLimit, (req, res) => {
   const result = recoverPurchaseAccess({
     email: req.body?.email,
     purchaseId: req.body?.purchaseId
