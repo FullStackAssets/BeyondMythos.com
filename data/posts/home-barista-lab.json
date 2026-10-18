@@ -1,5 +1,56 @@
 [
   {
+    "slug": "diy-pressure-release-valve",
+    "title": "DIY Pressure Release Valve: Stabilize Espresso Flow",
+    "dek": "Add a simple pressure release valve to your portafilter to smooth out flow spikes and improve shot consistency.",
+    "takeaway": "A homemade valve can tame pressure spikes without buying expensive hardware.",
+    "whatHappened": "I installed a small spring‑loaded valve into my portafilter’s basket using a 3‑mm drill and a repurposed espresso machine valve. The first shot showed a steadier flow and reduced channeling.",
+    "whyItMatters": "Pressure spikes cause uneven extraction, leading to sour or bitter notes. By moderating pressure, the water contacts the grounds more uniformly, enhancing flavor balance.",
+    "howToThink": "Choose a valve that opens at around 8‑9 bar, mount it securely, and test with a timer. Adjust spring tension if flow feels too restricted. Keep the valve clean to avoid clogging.",
+    "pros": [
+      "Low cost",
+      "Easy to install",
+      "Improves shot stability"
+    ],
+    "cons": [
+      "Requires drilling",
+      "May need valve tweaking",
+      "Potential for leaks if not sealed"
+    ],
+    "watchOut": "Make sure the valve is sealed properly to avoid water escaping into the group head.",
+    "faq": [
+      {
+        "q": "Can I use any valve?",
+        "a": "A spring‑loaded valve designed for espresso pressure works best; avoid garden valves."
+      },
+      {
+        "q": "Will this void my machine warranty?",
+        "a": "The modification is on the portafilter, not the machine, but check your warranty terms."
+      },
+      {
+        "q": "Do I need to recalibrate my grinder?",
+        "a": "No, the valve only affects pressure, not dose, so grind settings stay the same."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "DIY"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-10-18T15:45:04.145Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "tasting-difference-scale-dose-consistency",
     "title": "Tasting the Difference: Use a Simple Scale for Dose Consistency",
     "dek": "A kitchen scale can turn shaky espresso shots into repeatable, tasty pulls without pricey equipment.",

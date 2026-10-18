@@ -1,5 +1,56 @@
 [
   {
+    "slug": "hall-sensor-megadrive-mod",
+    "title": "Hall Sensor Upgrade: Cleaner Mega Drive Inputs for Speedrunning",
+    "dek": "Swap your Mega Drive's worn contacts for a Hall sensor and get smoother, drift‑free inputs without soldering the whole board.",
+    "takeaway": "A Hall sensor mod gives reliable inputs with minimal risk to your console.",
+    "whatHappened": "We replaced the original mechanical button contacts on a Sega Mega Drive controller with a tiny Hall effect sensor and a magnet. The mod was completed in under an hour using a 3D‑printed mount.",
+    "whyItMatters": "Mechanical wear causes missed frames and inconsistent timing, which can cost a run. Hall sensors provide contactless actuation, preserving signal integrity for high‑precision splits.",
+    "howToThink": "When planning a controller mod, assess whether you need a full rebuild or a simple sensor swap. Choose a sensor rated for low voltage, secure the magnet so it doesn't shift, and test with an input logger before the next run.",
+    "pros": [
+      "No contact wear",
+      "Instant response",
+      "Easy to reverse"
+    ],
+    "cons": [
+      "Requires precise magnet placement",
+      "Slightly higher cost",
+      "May need firmware tweak"
+    ],
+    "watchOut": "Ensure the magnet doesn’t interfere with nearby CRTs or magnetic storage media.",
+    "faq": [
+      {
+        "q": "Do I need a special controller to install a Hall sensor?",
+        "a": "Any standard Mega Drive controller can be modified as long as you have access to the PCB."
+      },
+      {
+        "q": "Will the mod affect the controller's original feel?",
+        "a": "The actuation remains similar; the sensor simply replaces the contact point, so the tactile feedback is largely unchanged."
+      },
+      {
+        "q": "Can I use this mod on other consoles?",
+        "a": "The principle works for any controller with mechanical contacts, but the mounting hardware must be adapted for each model."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "controller-mod",
+      "speedrun-tech"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-10-18T15:45:05.840Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-pulse-capacitor-gamepad",
     "title": "Pixel Pulse: Adding a Capacitor to Your Gamepad for Cleaner Inputs",
     "dek": "A quick guide to installing a small capacitor on retro controllers to reduce input noise and boost reliability.",

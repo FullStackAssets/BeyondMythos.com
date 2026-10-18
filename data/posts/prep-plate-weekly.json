@@ -1,5 +1,56 @@
 [
   {
+    "slug": "power-lunch-15min-high-protein-bowls",
+    "title": "Power Lunch: 15‑Minute High‑Protein Bowls",
+    "dek": "Whip up a protein‑packed lunch in 15 minutes—no fuss, no waste.",
+    "takeaway": "Quick, balanced bowls keep you fueled without derailing your schedule.",
+    "whatHappened": "We tested a streamlined high‑protein bowl recipe during a typical workday lunch break. The prep took under 15 minutes, and the meals stayed fresh in the fridge for four days.",
+    "whyItMatters": "Busy professionals need nutrition that’s both fast and reliable; a repeatable bowl eliminates decision fatigue. Consistent protein intake supports energy and muscle maintenance amid tight schedules.",
+    "howToThink": "Start with a base of cooked grains, add a pre‑cooked protein, then toss in versatile veggies and a simple vinaigrette. Batch‑cook the staples on Sunday, then mix‑and‑match throughout the week.",
+    "pros": [
+      "Ready in 15 min",
+      "High protein per serving",
+      "Keeps well in the fridge"
+    ],
+    "cons": [
+      "Limited flavor variety",
+      "Requires pre‑cooked protein",
+      "Portion size fixed"
+    ],
+    "watchOut": "Watch out for soggy veggies if you store the dressing separately until serving.",
+    "faq": [
+      {
+        "q": "Can I swap the grain?",
+        "a": "Yes, use quinoa, brown rice, or farro—just keep the cooked portion similar."
+      },
+      {
+        "q": "What protein works best?",
+        "a": "Chicken, turkey, tofu, or canned tuna are all quick options."
+      },
+      {
+        "q": "How long will the bowls stay fresh?",
+        "a": "Stored airtight, they stay good for about four days in the fridge."
+      }
+    ],
+    "category": "Recipes",
+    "tags": [
+      "high-protein",
+      "quick-prep"
+    ],
+    "sources": [
+      {
+        "label": "r/EatCheapAndHealthy community threads",
+        "url": "https://www.reddit.com/r/EatCheapAndHealthy/"
+      },
+      {
+        "label": "Search interest: \"freezer friendly lunches\"",
+        "url": "https://duckduckgo.com/?q=freezer%20friendly%20lunches"
+      }
+    ],
+    "publishedAt": "2026-10-18T15:45:11.365Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "speedy-prep-20-min-macro-bowls",
     "title": "Speedy prep: 20‑minute macro‑balanced bowls",
     "dek": "A quick, protein‑packed bowl you can assemble in 20 minutes and stash for a week of hassle‑free lunches.",

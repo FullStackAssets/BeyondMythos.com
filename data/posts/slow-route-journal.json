@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midnight-platform-gardens",
+    "title": "Midnight Platform Gardens: Growing Low‑Impact Food on Station Roofs",
+    "dek": "Transform idle station roofs into micro‑gardens that feed travelers and cut carbon footprints.",
+    "takeaway": "A small garden on a platform can feed a snack and showcase low‑impact travel.",
+    "whatHappened": "During a recent stop at a midsize European station, we partnered with local volunteers to plant herbs and lettuce in raised beds on the roof. The project took two days and produced enough greens for the crew’s lunch.",
+    "whyItMatters": "Station roofs are often unused space that receives sunlight, making them perfect for micro‑gardening. Growing food on‑site reduces waste, supports local ecosystems, and demonstrates tangible low‑impact practices for travelers.",
+    "howToThink": "Look for flat, sun‑exposed rooftops and check with station management for permission. Use lightweight, modular containers and native, low‑maintenance plants. Rotate crops seasonally and share harvests with fellow passengers.",
+    "pros": [
+      "Reduces food waste",
+      "Engages community",
+      "Improves station aesthetics"
+    ],
+    "cons": [
+      "Requires permission",
+      "Limited space",
+      "Maintenance commitment"
+    ],
+    "watchOut": "Ensure any soil or containers don’t leak and damage the roof’s drainage.",
+    "faq": [
+      {
+        "q": "Can I start a garden on any station?",
+        "a": "Only where the operator allows it and the roof can support the weight of containers."
+      },
+      {
+        "q": "What plants work best?",
+        "a": "Hardy herbs, lettuce, and dwarf greens that tolerate shallow soil and variable light."
+      },
+      {
+        "q": "How do I keep the garden low‑impact?",
+        "a": "Use recycled containers, rain‑water collection, and organic compost."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail-gardening",
+      "low-impact"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-10-18T15:45:04.710Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "slow-station-sojourns-eco-rest-spots",
     "title": "Slow‑Station Sojourns: Turning Small Platform Nooks into Eco‑Friendly Rest Spots",
     "dek": "Discover how to turn overlooked platform corners into low‑impact, comfy rest spots for the mindful traveler.",

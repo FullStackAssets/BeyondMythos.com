@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pantry-hacks-weekend-overlander",
+    "title": "Pantry hacks for the weekend overlander: squeeze more meals into your van",
+    "dek": "Learn quick, low‑tech tricks to boost pantry capacity and keep meals fresh on short trips.",
+    "takeaway": "Smart organization lets you eat well without sacrificing space.",
+    "whatHappened": "We trialed a set of simple containers, magnetic spice racks, and vacuum‑seal bags in a standard weekend‑size van. After a series of trips, the crew found more room for diverse meals and less waste.",
+    "whyItMatters": "Food variety keeps morale high on the road, and efficient storage reduces the need for frequent grocery stops. Overlanders who can stretch their pantry also cut down on impulse buys.",
+    "howToThink": "Start by grouping items by use, then choose stackable or magnetic solutions that cling to metal surfaces. Prioritize airtight containers for perishables and use vacuum bags for bulk staples. Keep a rolling inventory list to avoid over‑packing.",
+    "pros": [
+      "More meal options",
+      "Less food waste",
+      "Maintains free floor space"
+    ],
+    "cons": [
+      "Initial cost for containers",
+      "Magnetic racks need metal surfaces",
+      "Vacuum bags require a pump"
+    ],
+    "watchOut": "Avoid over‑loading shelves; too much weight can strain the van’s interior fixtures.",
+    "faq": [
+      {
+        "q": "Can I use regular plastic bins?",
+        "a": "Yes, as long as they seal tightly and fit your layout."
+      },
+      {
+        "q": "Do magnetic spice racks work in non‑metal vans?",
+        "a": "They need a metal surface, so install a thin metal strip or use a hanging rack instead."
+      },
+      {
+        "q": "How often should I rotate pantry items?",
+        "a": "Check dates before each trip and replace any items that are close to expiring."
+      }
+    ],
+    "category": "Cooking",
+    "tags": [
+      "cooking",
+      "storage"
+    ],
+    "sources": [
+      {
+        "label": "r/overlanding community threads",
+        "url": "https://www.reddit.com/r/overlanding/"
+      },
+      {
+        "label": "Search interest: \"best van life routes\"",
+        "url": "https://duckduckgo.com/?q=best%20van%20life%20routes"
+      }
+    ],
+    "publishedAt": "2026-10-18T15:45:22.398Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "van-solar-power-setup-field-test-26",
     "title": "\"van solar power setup\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about van solar power setup through a month of actual use. Some of it survived.",

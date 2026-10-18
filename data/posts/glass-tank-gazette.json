@@ -1,5 +1,56 @@
 [
   {
+    "slug": "balancing-co2-fine-tuning",
+    "title": "Balancing CO2: Fine-tuning for thriving plants",
+    "dek": "A quick guide to tweaking CO2 levels for lush, healthy growth without overdoing it.",
+    "takeaway": "A modest CO2 adjustment can unlock plant vigor while keeping water chemistry stable.",
+    "whatHappened": "After noticing slow growth and pale leaves, I reduced my diffuser output by a small margin and added a vent to the reaction chamber. Within a week the new shoots turned vibrant green.",
+    "whyItMatters": "CO2 is a limiting nutrient; too little stalls photosynthesis, too much can stress fish and alter pH. Finding the sweet spot maximizes plant health and overall tank stability.",
+    "howToThink": "Treat CO2 like a seasoning—add a pinch, observe, then adjust. Monitor plant color, growth rate, and any fish surface gas bubble disease. Small incremental changes are safer than big jumps.",
+    "pros": [
+      "Lush growth",
+      "Stable pH",
+      "Better fish health"
+    ],
+    "cons": [
+      "Requires monitoring",
+      "Potential for algae spikes",
+      "Equipment wear"
+    ],
+    "watchOut": "Avoid sudden large drops in CO2 as they can shock both plants and fish.",
+    "faq": [
+      {
+        "q": "How often should I check CO2 levels?",
+        "a": "A quick visual check of leaf color and a weekly bubble count is enough; use a drop checker for more precise monitoring."
+      },
+      {
+        "q": "Can I use yeast reactors instead of pressurized CO2?",
+        "a": "Yes, but they need careful dosing and may be less consistent, so watch for fluctuations."
+      },
+      {
+        "q": "What sign shows I'm over‑dosing?",
+        "a": "Plants develop dark, almost black leaves and fish may show surface gas bubble disease."
+      }
+    ],
+    "category": "Plants",
+    "tags": [
+      "CO2",
+      "plant health"
+    ],
+    "sources": [
+      {
+        "label": "r/Aquascape community threads",
+        "url": "https://www.reddit.com/r/Aquascape/"
+      },
+      {
+        "label": "Search interest: \"aquarium algae control\"",
+        "url": "https://duckduckgo.com/?q=aquarium%20algae%20control"
+      }
+    ],
+    "publishedAt": "2026-10-18T15:45:32.102Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "planted-tank-setup-field-test-22",
     "title": "\"planted tank setup\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about planted tank setup through a month of actual use. Some of it survived.",

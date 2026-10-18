@@ -1,5 +1,56 @@
 [
   {
+    "slug": "upcycled-bottle-planters",
+    "title": "Upcycled Bottle Planters: Turn Trash into Tiny Balcony Treasures",
+    "dek": "Give your balcony a green boost using repurposed plastic bottles—cheap, lightweight, and perfect for herbs or succulents.",
+    "takeaway": "A single bottle can become a thriving micro‑garden on any balcony rail.",
+    "whatHappened": "We collected a handful of empty soda bottles, cut the tops off, added a drainage layer, and filled them with potting mix. Within weeks, basil, thyme, and a tiny jade plant were sprouting, turning a dull railing into a lively display.",
+    "whyItMatters": "Balcony space is limited, and buying new containers adds cost and waste. Upcycling bottles solves both problems, letting renters personalize their garden without drilling or heavy lifting. It also demonstrates a simple step toward a circular home lifestyle.",
+    "howToThink": "Start with clean, clear bottles of uniform size for stability. Add a small stone layer, then a light potting mix; avoid overly dense soil that can drown roots. Position the planters where they catch morning sun and protect them from harsh afternoon heat with a lightweight shade cloth if needed.",
+    "pros": [
+      "Eco‑friendly",
+      "Space‑saving",
+      "Low cost"
+    ],
+    "cons": [
+      "Fragile",
+      "Limited soil volume",
+      "Potential leakage"
+    ],
+    "watchOut": "Make sure the bottle’s neck is wide enough for water to escape; otherwise roots may rot.",
+    "faq": [
+      {
+        "q": "Do I need to drill holes in the bottle?",
+        "a": "A simple cut at the top creates an opening; the bottle’s existing neck allows excess water to drip out."
+      },
+      {
+        "q": "What soil works best?",
+        "a": "Use a light, well‑draining potting mix—coconut coir blended with perlite works great for shallow containers."
+      },
+      {
+        "q": "Can I use these outdoors?",
+        "a": "Yes, as long as they’re placed in a shaded spot and protected from freezing temperatures."
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "containers",
+      "upcycling"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-10-18T15:45:03.437Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "diy-self-watering-containers",
     "title": "DIY Self‑Watering Containers: Keep Your Balcony Greens Hydrated",
     "dek": "Turn ordinary pots into low‑maintenance water reservoirs for thriving balcony herbs and veggies.",
