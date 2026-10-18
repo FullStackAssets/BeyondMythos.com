@@ -1,0 +1,308 @@
+[
+  {
+    "slug": "state-of-classics",
+    "title": "The state of Classics in 2026",
+    "category": "Classics",
+    "dek": "A field report on classics: where things stand, and what home bartenders and cocktail hobbyists should do next.",
+    "takeaway": "Classics is consolidating around a few repeatable workflows. Pick one, master it, and ignore the churn.",
+    "whatHappened": "Over the last year the conversation around classics shifted from novelty to fundamentals. The communities where home bartenders and cocktail hobbyists gather have converged on a shorter list of tools and techniques that actually hold up, while the long tail of hype has quietly thinned out.",
+    "whyItMatters": "For home bartenders and cocktail hobbyists, the noise-to-signal ratio has never mattered more. Time invested in the wrong setup compounds badly, and the difference between a stalled hobby and a durable habit usually comes down to choosing boring, proven fundamentals early.",
+    "howToThink": "Treat every new trend in classics as optional until it survives three months of scrutiny. Start with the smallest workable setup, measure your results weekly, and only upgrade when a specific bottleneck tells you to.",
+    "pros": [
+      "Clearer best practices for classics",
+      "Cheaper entry points than a year ago",
+      "Stronger communities to learn from"
+    ],
+    "cons": [
+      "Hype cycles still bury good information",
+      "Gear churn tempts constant upgrades",
+      "Advice rarely accounts for small budgets"
+    ],
+    "watchOut": "Beware of roundups that rank classics options without disclosing how they tested. If there is no methodology, it is marketing.",
+    "faq": [
+      {
+        "q": "Is classics worth getting into now?",
+        "a": "Yes — the fundamentals are more accessible than ever, and the learning curve is well documented by communities of home bartenders and cocktail hobbyists."
+      },
+      {
+        "q": "How much should a beginner spend?",
+        "a": "As little as possible at first. Prove the habit before you fund the hobby."
+      },
+      {
+        "q": "Where do experienced people hang out?",
+        "a": "Community forums and subreddits remain the highest-signal places to compare notes."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/cocktails community threads",
+        "url": "https://www.reddit.com/r/cocktails/"
+      },
+      {
+        "label": "Search interest: \"home bar starter bottles\"",
+        "url": "https://duckduckgo.com/?q=home%20bar%20starter%20bottles"
+      }
+    ],
+    "tags": [
+      "Classics",
+      "Tools"
+    ],
+    "publishedAt": "2026-10-18T21:15:40.887Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "starter-guide-tools",
+    "title": "Starter guide: Tools without the overwhelm",
+    "category": "Tools",
+    "dek": "A practical on-ramp to tools for home bartenders and cocktail hobbyists — one repeatable workflow, no gear debt.",
+    "takeaway": "You need far less than the internet says. One core setup plus a weekly routine beats a cart full of gear.",
+    "whatHappened": "Every week, newcomers ask the same question in every community for home bartenders and cocktail hobbyists: where do I actually start with tools? The honest answer has stabilized — start small, publish or practice on a schedule, and iterate.",
+    "whyItMatters": "The dropout rate in tools is driven by overwhelm, not difficulty. People who scope their first month tightly are still around in month six; people who buy everything up front usually are not.",
+    "howToThink": "Pick one sub-topic from classics, tools, ingredients, batching and commit to it for thirty days. Keep a simple log of what worked. Momentum, not equipment, is the real unlock.",
+    "pros": [
+      "Low starting costs",
+      "Fast feedback loops",
+      "A forgiving learning curve when scoped small"
+    ],
+    "cons": [
+      "Endless conflicting advice online",
+      "Easy to over-buy in week one",
+      "Progress feels slow without a log"
+    ],
+    "watchOut": "The \"buy once, cry once\" advice is usually premature for beginners — rent, borrow, or go entry-level until your routine survives a month.",
+    "faq": [
+      {
+        "q": "What is the single best first step?",
+        "a": "Block thirty minutes, twice a week, for tools — the schedule matters more than the content of the sessions."
+      },
+      {
+        "q": "How do I avoid bad advice?",
+        "a": "Prefer sources that show their process and their failures, not just results."
+      },
+      {
+        "q": "When should I upgrade?",
+        "a": "When a specific, recurring bottleneck — not boredom — tells you to."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/bartenders community threads",
+        "url": "https://www.reddit.com/r/bartenders/"
+      },
+      {
+        "label": "Search interest: \"cocktail tools essentials\"",
+        "url": "https://duckduckgo.com/?q=cocktail%20tools%20essentials"
+      }
+    ],
+    "tags": [
+      "Tools",
+      "Ingredients"
+    ],
+    "publishedAt": "2026-10-17T08:15:40.887Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "signal-vs-noise-home-bar-starter-bottles",
+    "title": "\"home bar starter bottles\" — separating signal from noise",
+    "category": "Ingredients",
+    "dek": "Thousands of people search \"home bar starter bottles\" every month. Most of what they find is recycled. Here is what holds up.",
+    "takeaway": "Most top results for \"home bar starter bottles\" are affiliate-first content. The durable advice fits in three paragraphs.",
+    "whatHappened": "Search results for \"home bar starter bottles\" have been overrun by templated listicles that rank products no one tested. Meanwhile, the practical consensus among home bartenders and cocktail hobbyists lives in forum threads and comment sections that never rank.",
+    "whyItMatters": "If you are making decisions based on page-one results, you are optimizing for what advertisers want to sell this quarter — not for what works. Knowing how to read past the SEO layer is now a core skill.",
+    "howToThink": "Cross-reference any recommendation against a community of practitioners before acting on it. One enthusiastic forum thread with photos and follow-ups outweighs ten anonymous listicles.",
+    "pros": [
+      "Community answers are richer than ever",
+      "Real long-term reviews do exist",
+      "Skepticism is cheap and effective"
+    ],
+    "cons": [
+      "Page-one results skew commercial",
+      "Good threads are hard to search",
+      "Dated advice lingers for years"
+    ],
+    "watchOut": "Any article that answers \"home bar starter bottles\" with exactly ten products, each linked to a retailer, was written for the retailer — not for you.",
+    "faq": [
+      {
+        "q": "Are listicles ever useful?",
+        "a": "As a vocabulary builder, yes. As a buying guide, rarely."
+      },
+      {
+        "q": "What is the fastest credibility check?",
+        "a": "Look for testing methodology, dates, and follow-up edits. Absence of all three is disqualifying."
+      },
+      {
+        "q": "Where is the real signal?",
+        "a": "Practitioner communities, maintained wikis, and creators who show failures."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/mixology community threads",
+        "url": "https://www.reddit.com/r/mixology/"
+      },
+      {
+        "label": "Search interest: \"batch cocktails for parties\"",
+        "url": "https://duckduckgo.com/?q=batch%20cocktails%20for%20parties"
+      }
+    ],
+    "tags": [
+      "Ingredients",
+      "Batching"
+    ],
+    "publishedAt": "2026-10-15T19:15:40.887Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "rethinking-ingredients",
+    "title": "Why home bartenders are rethinking Ingredients",
+    "category": "Ingredients",
+    "dek": "A quiet shift is underway in how home bartenders and cocktail hobbyists approach ingredients — less maximalism, more maintenance.",
+    "takeaway": "The upgrade treadmill is losing to a maintenance mindset: keep what works, fix what breaks, learn what lasts.",
+    "whatHappened": "Across communities of home bartenders and cocktail hobbyists, the loudest voices are no longer the ones with the newest setups. Long-term reports, repair logs, and \"one year later\" retrospectives are earning the attention that unboxings used to get.",
+    "whyItMatters": "This changes what beginners should copy. The most reliable path through ingredients now looks like stewardship: fewer acquisitions, better habits, and skills that transfer even when the gear changes.",
+    "howToThink": "Before adding anything new to your ingredients routine, ask what you would remove to make room for it. A stable baseline you understand beats a rotating cast of novelties.",
+    "pros": [
+      "Lower ongoing costs",
+      "Deeper skill development",
+      "Less decision fatigue"
+    ],
+    "cons": [
+      "Slower dopamine than new-gear day",
+      "Requires honest self-tracking",
+      "Community status still favors novelty"
+    ],
+    "watchOut": "Minimalism can become its own consumption genre. The goal is fewer, better decisions in ingredients — not a new aesthetic to shop for.",
+    "faq": [
+      {
+        "q": "Is this just frugality rebranded?",
+        "a": "Partly — but the bigger driver is that maintenance produces better results than acquisition past a modest baseline."
+      },
+      {
+        "q": "What should I track?",
+        "a": "Usage, not ownership. What you touch weekly deserves investment; what you don't, doesn't."
+      },
+      {
+        "q": "Does this apply to beginners?",
+        "a": "Especially to beginners — they have the most to gain from skipping the treadmill entirely."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/cocktails community threads",
+        "url": "https://www.reddit.com/r/cocktails/"
+      },
+      {
+        "label": "Search interest: \"home bar starter bottles\"",
+        "url": "https://duckduckgo.com/?q=home%20bar%20starter%20bottles"
+      }
+    ],
+    "tags": [
+      "Batching",
+      "Classics"
+    ],
+    "publishedAt": "2026-10-14T06:15:40.887Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "budget-batching",
+    "title": "Batching on a budget: what actually matters",
+    "category": "Batching",
+    "dek": "Where money changes outcomes in batching — and the line items that are pure vanity.",
+    "takeaway": "Spend on the two or three things that touch every session; go cheap or secondhand on everything else.",
+    "whatHappened": "Price-performance in batching has quietly improved: entry-level options that were compromised a few years ago are now genuinely serviceable, and the secondhand market for home bartenders and cocktail hobbyists has matured.",
+    "whyItMatters": "The budget question is really a sequencing question. The first hundred dollars matters enormously; the fifth hundred barely registers. Knowing which purchases carry the outcome lets you stop guessing.",
+    "howToThink": "List every component of your batching setup, then rank by hours of contact per week. Fund the top of the list. Everything below the fold can wait, be borrowed, or be bought used.",
+    "pros": [
+      "Entry-level quality is real now",
+      "Secondhand markets are deep",
+      "Communities publish honest budget builds"
+    ],
+    "cons": [
+      "Cheap tiers still hide a few traps",
+      "Shipping and extras erode budgets",
+      "Premium marketing targets beginners"
+    ],
+    "watchOut": "The most expensive mistake in batching is buying the same category twice — once cheap and once right. For contact-heavy items, mid-tier first is often the cheaper path.",
+    "faq": [
+      {
+        "q": "What deserves the biggest share of budget?",
+        "a": "Whatever you physically interact with the most, every single session."
+      },
+      {
+        "q": "Is secondhand safe?",
+        "a": "Generally yes, if you buy from active community members and test before paying when possible."
+      },
+      {
+        "q": "When is premium worth it?",
+        "a": "When you can name the specific limitation it removes. Otherwise it's decoration."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/bartenders community threads",
+        "url": "https://www.reddit.com/r/bartenders/"
+      },
+      {
+        "label": "Search interest: \"cocktail tools essentials\"",
+        "url": "https://duckduckgo.com/?q=cocktail%20tools%20essentials"
+      }
+    ],
+    "tags": [
+      "Classics",
+      "Tools"
+    ],
+    "publishedAt": "2026-10-12T17:15:40.887Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "what-to-watch-tools",
+    "title": "What to watch next in Tools: five quiet shifts",
+    "category": "Tools",
+    "dek": "Ignore the headlines — these are the slower currents reshaping tools for home bartenders and cocktail hobbyists.",
+    "takeaway": "The interesting changes in tools are structural: better communities, cheaper tools, and knowledge that compounds.",
+    "whatHappened": "While attention chased launches, the infrastructure around tools kept improving: guides got maintained, prices drifted down, and the gap between beginner and intermediate practice narrowed for home bartenders and cocktail hobbyists.",
+    "whyItMatters": "Structural shifts outlast news cycles. Anyone planning their next year in tools should be positioning for these currents rather than reacting to whatever trended this week.",
+    "howToThink": "Once a quarter, review what has become easier, cheaper, or better documented in tools — then simplify your setup accordingly. The best time to shed complexity is when the ecosystem absorbs it for you.",
+    "pros": [
+      "Knowledge bases keep improving",
+      "Costs trend down over time",
+      "On-ramps get gentler every year"
+    ],
+    "cons": [
+      "Quiet shifts are easy to miss",
+      "Old guides pollute search results",
+      "Communities fragment across platforms"
+    ],
+    "watchOut": "A \"quiet shift\" that only one vendor is announcing is not a shift — it's a campaign. Look for the same signal from at least two unaffiliated communities.",
+    "faq": [
+      {
+        "q": "How do I track slow changes?",
+        "a": "A quarterly review of your own logs plus one trusted community digest is enough."
+      },
+      {
+        "q": "Should I act on trends early?",
+        "a": "Only when the cost of being wrong is trivial. Otherwise let early adopters absorb the risk."
+      },
+      {
+        "q": "What's the biggest shift right now?",
+        "a": "The consolidation of reliable knowledge — good defaults for tools are easier to find than ever."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/mixology community threads",
+        "url": "https://www.reddit.com/r/mixology/"
+      },
+      {
+        "label": "Search interest: \"batch cocktails for parties\"",
+        "url": "https://duckduckgo.com/?q=batch%20cocktails%20for%20parties"
+      }
+    ],
+    "tags": [
+      "Tools",
+      "Ingredients"
+    ],
+    "publishedAt": "2026-10-11T04:15:40.887Z",
+    "readMinutes": 2
+  }
+]

@@ -1341,8 +1341,29 @@
       "streamUrl": "https://beyondmythos.com/",
       "elevenlabsAgentId": null,
       "lastPostAt": "2026-10-18T20:45:45.379Z"
+    },
+    {
+      "id": "back-bar-bulletin-2-1792358140887",
+      "slug": "back-bar-bulletin-2",
+      "name": "Back Bar Bulletin",
+      "tagline": "Fresh takes for home bartenders and cocktail hobbyists.",
+      "nicheId": "home-bar",
+      "audience": "home bartenders and cocktail hobbyists",
+      "categories": [
+        "Classics",
+        "Tools",
+        "Ingredients",
+        "Batching"
+      ],
+      "url": "https://beyondmythos.com/sites/back-bar-bulletin-2/",
+      "localUrl": "https://beyondmythos.com/sites/back-bar-bulletin-2/",
+      "design": "prism",
+      "postCount": 6,
+      "createdAt": "2026-10-18T21:15:40.732Z",
+      "streamUrl": "https://beyondmythos.com/",
+      "elevenlabsAgentId": null
     }
   ],
-  "lastGeneratedAt": "2026-10-18T20:15:24.596Z",
+  "lastGeneratedAt": "2026-10-18T21:15:40.732Z",
   "lastPostRunAt": "2026-10-18T20:45:45.480Z"
 }
