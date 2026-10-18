@@ -1,0 +1,308 @@
+[
+  {
+    "slug": "city-hall-archives-tour",
+    "title": "Exploring the City Hall Archives on Foot",
+    "category": "Archives",
+    "dek": "A short walk through municipal records reveals the hidden stories of city governance.",
+    "takeaway": "On‑site archive visits turn bureaucratic paperwork into vivid local narratives.",
+    "whatHappened": "We followed the public path behind City Hall, stopping at the newly opened records pavilion. The guide highlighted original council minutes and early zoning maps.",
+    "whyItMatters": "Seeing primary documents in context shows how policy decisions shaped neighborhoods. It also demystifies the often‑overlooked municipal archive.",
+    "howToThink": "Plan a 30‑minute route, bring a notebook, and focus on one era at a time. Photograph permissible pages and note any references to familiar streets.",
+    "pros": [
+      "Free entry",
+      "Immediate access to originals",
+      "Guided context"
+    ],
+    "cons": [
+      "Limited opening hours",
+      "No seating",
+      "Potential crowds"
+    ],
+    "watchOut": "Check the archive’s photography policy before snapping pictures.",
+    "faq": [
+      {
+        "q": "Do I need a reservation?",
+        "a": "Most municipal archives accept walk‑ins, but a quick call can confirm peak times."
+      },
+      {
+        "q": "Can I copy documents?",
+        "a": "Copying is usually allowed for a small fee; check the onsite guidelines."
+      },
+      {
+        "q": "Is the pavilion wheelchair‑accessible?",
+        "a": "The pavilion has a ramp and wide aisles for accessibility."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/AskHistorians community threads",
+        "url": "https://www.reddit.com/r/AskHistorians/"
+      },
+      {
+        "label": "Search interest: \"local history research\"",
+        "url": "https://duckduckgo.com/?q=local%20history%20research"
+      }
+    ],
+    "tags": [
+      "city‑hall",
+      "archives"
+    ],
+    "publishedAt": "2026-10-18T23:24:50.948Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "old-maps-walking-route",
+    "title": "Tracing the Town’s Evolution with Historic Maps",
+    "category": "Maps",
+    "dek": "Follow a mapped trail that layers nineteenth‑century cartography over today’s streets.",
+    "takeaway": "Overlaying old maps onto modern routes reveals forgotten streetscapes.",
+    "whatHappened": "We printed a 1885 survey map and plotted its streets onto a current GPS track. Along the walk, we stopped where a former creek once ran.",
+    "whyItMatters": "Understanding past geography helps explain present land use and property lines. It also uncovers sites worth preserving.",
+    "howToThink": "Download a public domain historic map, use a free mapping app to align it, and mark points of interest before heading out.",
+    "pros": [
+      "Free resources",
+      "Clear visual contrast",
+      "Engages curiosity"
+    ],
+    "cons": [
+      "Map alignment can be fiddly",
+      "Older street names may confuse",
+      "Weather affects outdoor reading"
+    ],
+    "watchOut": "Beware of private property when stepping onto historic right‑of‑ways.",
+    "faq": [
+      {
+        "q": "Where can I find historic maps?",
+        "a": "Many city archives and libraries offer digitized maps online."
+      },
+      {
+        "q": "Do I need special software?",
+        "a": "A basic map‑overlay app or even a printed transparency works."
+      },
+      {
+        "q": "Is GPS alignment accurate?",
+        "a": "It’s sufficient for a casual walk, but expect minor offsets."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/Genealogy community threads",
+        "url": "https://www.reddit.com/r/Genealogy/"
+      },
+      {
+        "label": "Search interest: \"old map archives\"",
+        "url": "https://duckduckgo.com/?q=old%20map%20archives"
+      }
+    ],
+    "tags": [
+      "maps",
+      "walks"
+    ],
+    "publishedAt": "2026-10-17T10:24:50.948Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "historic-factory-landmark",
+    "title": "From Brick to Beacon: The Old Textile Mill Walk",
+    "category": "Landmarks",
+    "dek": "A stroll around the repurposed mill shows how industrial heritage can anchor community identity.",
+    "takeaway": "Preserved industrial sites serve as tangible links between past labor and present culture.",
+    "whatHappened": "The walk began at the mill’s original loading dock, now a public plaza. Plaques described the shift from cotton production to mixed‑use space.",
+    "whyItMatters": "Seeing adaptive reuse in person illustrates sustainable preservation and sparks ideas for other neglected sites.",
+    "howToThink": "Observe the building’s structural clues—large windows, timber beams—to infer original functions, then compare with current uses.",
+    "pros": [
+      "Visible architecture",
+      "Interpretive signage",
+      "Community events"
+    ],
+    "cons": [
+      "Limited interior access",
+      "Potential safety zones",
+      "Noise from nearby traffic"
+    ],
+    "watchOut": "Stay on marked paths; some sections are off‑limits for safety.",
+    "faq": [
+      {
+        "q": "Can I tour the interior?",
+        "a": "Tours are occasional; check the venue’s schedule online."
+      },
+      {
+        "q": "Is there parking nearby?",
+        "a": "A small municipal lot is a short walk away."
+      },
+      {
+        "q": "Are there guided talks?",
+        "a": "Local heritage groups host monthly talks at the plaza."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/urbanexploration community threads",
+        "url": "https://www.reddit.com/r/urbanexploration/"
+      },
+      {
+        "label": "Search interest: \"community archive project\"",
+        "url": "https://duckduckgo.com/?q=community%20archive%20project"
+      }
+    ],
+    "tags": [
+      "factory",
+      "landmark"
+    ],
+    "publishedAt": "2026-10-15T21:24:50.948Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "digital-records-research",
+    "title": "Digitizing Neighborhood Histories: A Walk‑Through Guide",
+    "category": "Research",
+    "dek": "Learn how to blend field walking with online digitized records for richer local history research.",
+    "takeaway": "Combining on‑site observation with digital archives creates a fuller picture of community change.",
+    "whatHappened": "We selected a block, consulted the city’s digitized property records, then walked the street noting surviving architectural details.",
+    "whyItMatters": "Digital records make distant archives accessible, while walking validates and enriches that data. The method reduces time spent in reading rooms.",
+    "howToThink": "Start with a clear research question, pull relevant documents, then map them onto a physical walk. Record discrepancies for later follow‑up.",
+    "pros": [
+      "Time‑efficient",
+      "Broad source base",
+      "Encourages active learning"
+    ],
+    "cons": [
+      "Digital gaps for older periods",
+      "Device battery limits",
+      "Potential data overload"
+    ],
+    "watchOut": "Ensure you have permission to view and photograph any private property.",
+    "faq": [
+      {
+        "q": "What platforms host digitized records?",
+        "a": "Many municipal websites and state archives provide searchable databases."
+      },
+      {
+        "q": "Do I need a laptop?",
+        "a": "A tablet or smartphone is usually sufficient for viewing PDFs and images."
+      },
+      {
+        "q": "How to cite on‑site observations?",
+        "a": "Note the date, location, and any visible identifiers, then reference the digital source separately."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/AskHistorians community threads",
+        "url": "https://www.reddit.com/r/AskHistorians/"
+      },
+      {
+        "label": "Search interest: \"local history research\"",
+        "url": "https://duckduckgo.com/?q=local%20history%20research"
+      }
+    ],
+    "tags": [
+      "digital",
+      "research"
+    ],
+    "publishedAt": "2026-10-14T08:24:50.948Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "neighborhood-photos-walk",
+    "title": "Capturing Change: A Photo Walk Through the Historic District",
+    "category": "Archives",
+    "dek": "A guided photo walk helps archive volunteers document architectural shifts before they vanish.",
+    "takeaway": "Systematic photography builds a community archive that preserves visual memory.",
+    "whatHappened": "Volunteers met at the district’s corner library, received a checklist of façade features, and photographed each building within a half‑mile radius.",
+    "whyItMatters": "Visual records complement written archives, offering future researchers a direct view of past streetscapes.",
+    "howToThink": "Use a consistent framing and lighting approach, label each file with address and date, and upload to a shared repository.",
+    "pros": [
+      "Creates reusable assets",
+      "Engages volunteers",
+      "Improves archive depth"
+    ],
+    "cons": [
+      "Weather dependent",
+      "Requires basic photography skill",
+      "Potential privacy concerns"
+    ],
+    "watchOut": "Respect residents’ privacy; avoid photographing windows where occupants are visible.",
+    "faq": [
+      {
+        "q": "Do I need a professional camera?",
+        "a": "A modern smartphone camera is sufficient for archival purposes."
+      },
+      {
+        "q": "How to store the images?",
+        "a": "Save in a lossless format and back up to at least two locations."
+      },
+      {
+        "q": "Can I share the photos publicly?",
+        "a": "Check local consent guidelines before posting images of private homes."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/Genealogy community threads",
+        "url": "https://www.reddit.com/r/Genealogy/"
+      },
+      {
+        "label": "Search interest: \"old map archives\"",
+        "url": "https://duckduckgo.com/?q=old%20map%20archives"
+      }
+    ],
+    "tags": [
+      "photos",
+      "archives"
+    ],
+    "publishedAt": "2026-10-12T19:24:50.948Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "railway-line-heritage-trail",
+    "title": "Riding the Rails: Walking the Abandoned Railway Corridor",
+    "category": "Landmarks",
+    "dek": "The former freight line now serves as a heritage trail, linking industrial past with green recreation.",
+    "takeaway": "Rail corridors repurposed as trails preserve transport history while offering community space.",
+    "whatHappened": "We followed the rust‑stained tracks from the old depot to the river bridge, noting interpretive signs about the line’s peak years.",
+    "whyItMatters": "The trail illustrates how disused infrastructure can become a cultural asset, encouraging preservation advocacy.",
+    "howToThink": "Spot original rail ties, signal posts, and bridge engineering; compare them with historic timetables available online.",
+    "pros": [
+      "Scenic route",
+      "Historical markers",
+      "Free public access"
+    ],
+    "cons": [
+      "Uneven surface in spots",
+      "Limited lighting at night",
+      "Some sections overgrown"
+    ],
+    "watchOut": "Watch for loose ties and uneven ground, especially after rain.",
+    "faq": [
+      {
+        "q": "Is the trail open year‑round?",
+        "a": "It’s generally open, though heavy snow may temporarily close sections."
+      },
+      {
+        "q": "Are dogs allowed?",
+        "a": "Leashed dogs are permitted along the entire route."
+      },
+      {
+        "q": "Where can I learn more history?",
+        "a": "A small visitor kiosk near the depot offers brochures and QR codes to digital archives."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/urbanexploration community threads",
+        "url": "https://www.reddit.com/r/urbanexploration/"
+      },
+      {
+        "label": "Search interest: \"community archive project\"",
+        "url": "https://duckduckgo.com/?q=community%20archive%20project"
+      }
+    ],
+    "tags": [
+      "railway",
+      "trail"
+    ],
+    "publishedAt": "2026-10-11T06:24:50.948Z",
+    "readMinutes": 2
+  }
+]
