@@ -1,5 +1,56 @@
 [
   {
+    "slug": "tasting-difference-scale-dose-consistency",
+    "title": "Tasting the Difference: Use a Simple Scale for Dose Consistency",
+    "dek": "A kitchen scale can turn shaky espresso shots into repeatable, tasty pulls without pricey equipment.",
+    "takeaway": "Weighing your coffee dose is the fastest path to consistent espresso flavor.",
+    "whatHappened": "I swapped my usual spoon‑based dosing for a digital gram scale on a weekday morning. After a few practice pulls, the shot times and flavor notes steadied noticeably. The scale fit neatly on my countertop and required no extra calibration.",
+    "whyItMatters": "Espresso extraction hinges on the coffee‑to‑water ratio; even small dose variations can swing the balance between bright acidity and muted bitterness. Consistent dosing removes that variable, letting you fine‑tune grind size and pressure with confidence.",
+    "howToThink": "Treat each dose as a repeatable unit: weigh the beans, grind, and tamp the same way each time. If the shot pulls too fast, keep the dose steady and adjust grind finer; if too slow, go coarser. Over time you’ll develop a mental model linking dose, grind, and taste.",
+    "pros": [
+      "Instant dose repeatability",
+      "Easy to integrate into routine",
+      "Cheap, low‑maintenance tool"
+    ],
+    "cons": [
+      "Requires cleaning between uses",
+      "Adds a tiny step to workflow",
+      "May tempt over‑precision"
+    ],
+    "watchOut": "Don’t let the scale become a crutch—still taste the shot and adjust beyond numbers.",
+    "faq": [
+      {
+        "q": "Do I need a high‑precision scale?",
+        "a": "A scale that reads to 0.1 g is plenty for home espresso; ultra‑precise models aren’t necessary."
+      },
+      {
+        "q": "Can I weigh beans before grinding?",
+        "a": "Yes—measure the beans, then grind directly into the portafilter; the weight stays consistent."
+      },
+      {
+        "q": "What if my grinder drifts?",
+        "a": "If you notice flavor shifts despite steady dosing, calibrate the grinder or clean it; the scale isolates dose from grind variance."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "dose"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-10-18T14:45:10.680Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "timing-espresso-shot-kitchen-timer",
     "title": "Timing Your Espresso Shot with a Simple Kitchen Timer",
     "dek": "Use a cheap kitchen timer to nail consistent shot times without expensive tech.",

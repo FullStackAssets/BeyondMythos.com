@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/budget-build-bench/</link>
     <description>Fresh takes for PC builders on a budget.</description>
     <item>
+      <title>Stretching a GTX 1660 Super: 1080p performance on a shoestring</title>
+      <link>https://www.beyondmythos.com/sites/budget-build-bench/posts/gtx-1660-super-budget-1080p.html</link>
+      <guid>https://www.beyondmythos.com/sites/budget-build-bench/posts/gtx-1660-super-budget-1080p.html</guid>
+      <pubDate>Sun, 18 Oct 2026 14:45:11 GMT</pubDate>
+      <description>A pragmatic look at getting solid 1080p framerates from a GTX 1660 Super without breaking the bank.</description>
+    </item>
+    <item>
       <title>Hidden gems: 12‑month‑old GPUs that still punch above their weight</title>
       <link>https://www.beyondmythos.com/sites/budget-build-bench/posts/hidden-gems-12-month-old-gpus.html</link>
       <guid>https://www.beyondmythos.com/sites/budget-build-bench/posts/hidden-gems-12-month-old-gpus.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/budget-build-bench/posts/weekend-project-gpus-74.html</guid>
       <pubDate>Tue, 25 Aug 2026 14:27:00 GMT</pubDate>
       <description>One contained, satisfying gpus project for PC builders on a budget — start Saturday morning, done by lunch.</description>
-    </item>
-    <item>
-      <title>Community pulse: what r/buildapcsales is debating this week</title>
-      <link>https://www.beyondmythos.com/sites/budget-build-bench/posts/community-pulse-buildapcsales-25.html</link>
-      <guid>https://www.beyondmythos.com/sites/budget-build-bench/posts/community-pulse-buildapcsales-25.html</guid>
-      <pubDate>Tue, 25 Aug 2026 13:33:45 GMT</pubDate>
-      <description>The arguments, consensus shifts, and quietly useful threads from the benchmarks community this week.</description>
     </item>
   </channel>
 </rss>

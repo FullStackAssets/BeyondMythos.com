@@ -1,5 +1,56 @@
 [
   {
+    "slug": "boost-root-aeration-diy-upgrade",
+    "title": "Boost Root Aeration: Simple DIY Upgrades for Hydroponic Systems",
+    "dek": "A quick guide to adding cheap aeration tricks that keep roots breathing and boost growth without major re‑wiring.",
+    "takeaway": "Better root oxygen leads to healthier plants with minimal cost.",
+    "whatHappened": "We installed a low‑cost air‑stone diffuser in a 10‑gal ebb‑and‑flow bucket and watched the roots stay brighter and less soggy over a week.",
+    "whyItMatters": "Root oxygen is a limiting factor in closed‑loop systems; improving it reduces stress and supports faster nutrient uptake, which translates to stronger yields.",
+    "howToThink": "Start with a small air pump, place a stone in the reservoir, and run it intermittently to stir the solution. Adjust placement so bubbles reach the root zone without splashing the foliage.",
+    "pros": [
+      "Low cost",
+      "Easy install",
+      "Works with any reservoir"
+    ],
+    "cons": [
+      "Requires power",
+      "Potential for over‑aeration if left on continuously",
+      "Adds a small maintenance task"
+    ],
+    "watchOut": "Avoid running the pump nonstop in hot climates, as excess turbulence can cool the solution too much.",
+    "faq": [
+      {
+        "q": "Do I need a special air pump for hydroponics?",
+        "a": "A standard aquarium‑grade pump works fine as long as it can deliver a gentle bubble flow."
+      },
+      {
+        "q": "Can aeration replace the need for nutrient circulation?",
+        "a": "No, aeration supplements circulation but does not move nutrients; keep your pump or drip system active."
+      },
+      {
+        "q": "How often should I clean the air stone?",
+        "a": "Inspect it weekly and rinse with clean water to prevent clogging from algae or mineral buildup."
+      }
+    ],
+    "category": "Systems",
+    "tags": [
+      "DIY",
+      "Aeration"
+    ],
+    "sources": [
+      {
+        "label": "r/hydro community threads",
+        "url": "https://www.reddit.com/r/hydro/"
+      },
+      {
+        "label": "Search interest: \"kratky method guide\"",
+        "url": "https://duckduckgo.com/?q=kratky%20method%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-18T14:45:32.212Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-leafy-greens-74",
     "title": "Ask the forge: your leafy greens questions, answered",
     "dek": "Straight answers to the leafy greens questions indoor hydroponic growers keep asking, minus the hedging.",

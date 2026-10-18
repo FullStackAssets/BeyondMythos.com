@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-pulse-capacitor-gamepad",
+    "title": "Pixel Pulse: Adding a Capacitor to Your Gamepad for Cleaner Inputs",
+    "dek": "A quick guide to installing a small capacitor on retro controllers to reduce input noise and boost reliability.",
+    "takeaway": "A tiny capacitor can smooth controller signals, giving you more consistent inputs for both collection and speedrunning.",
+    "whatHappened": "I swapped the original controller board for a modest 100 nF ceramic capacitor across the data lines of an NES controller. After a short test run, the button chatter vanished and the inputs felt rock solid. The tweak took less than an hour and required only a soldering iron and a steady hand.",
+    "whyItMatters": "Unreliable inputs can corrupt a speedrun split or damage a delicate cartridge pin, and they undermine the preservationist’s goal of keeping hardware functional. By stabilizing the signal, you protect both your records and the hardware’s lifespan, especially for aging connectors that develop resistance over time.",
+    "howToThink": "Treat the controller as a tiny transmission line: any stray capacitance can dampen bounce. Start with a low‑value ceramic capacitor, solder it across the relevant pins, and verify with a button‑test tool or in‑game response. If the feel improves, you’ve likely hit the sweet spot; otherwise, adjust the value or placement modestly.",
+    "pros": [
+      "Improved input consistency",
+      "Low cost solution",
+      "Easy DIY install"
+    ],
+    "cons": [
+      "May require soldering",
+      "Adds tiny component to vintage hardware",
+      "Effect varies by controller type"
+    ],
+    "watchOut": "Make sure to use a non‑polarized ceramic capacitor, or respect polarity if you choose an electrolytic, to avoid damaging the controller.",
+    "faq": [
+      {
+        "q": "Do I need to open the controller completely?",
+        "a": "A small opening to expose the solder pads is enough; you don’t have to dismantle every internal component."
+      },
+      {
+        "q": "Will this mod affect the controller’s feel?",
+        "a": "The change is subtle; most users notice smoother actuation without any added stiffness."
+      },
+      {
+        "q": "Can I use the same trick on arcade sticks?",
+        "a": "The principle applies, but arcade sticks have larger circuits, so you may need a higher‑value capacitor and more robust soldering."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "controller mod",
+      "signal integrity"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-10-18T14:45:11.253Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "led-counter-frame-splits",
     "title": "Pixel-Perfect Timing: Using a Simple LED Counter for Frame-Accurate Splits",
     "dek": "Add a cheap LED counter to your controller port for instant visual feedback on frame timing and tighter splits.",

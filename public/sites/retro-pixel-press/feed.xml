@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Pulse: Adding a Capacitor to Your Gamepad for Cleaner Inputs</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-pulse-capacitor-gamepad.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-pulse-capacitor-gamepad.html</guid>
+      <pubDate>Sun, 18 Oct 2026 14:45:11 GMT</pubDate>
+      <description>A quick guide to installing a small capacitor on retro controllers to reduce input noise and boost reliability.</description>
+    </item>
+    <item>
       <title>Pixel-Perfect Timing: Using a Simple LED Counter for Frame-Accurate Splits</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/led-counter-frame-splits.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/led-counter-frame-splits.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/snes-controller-response-boost.html</guid>
       <pubDate>Tue, 25 Aug 2026 14:27:01 GMT</pubDate>
       <description>A quick mod to shave milliseconds off SNES button latency for speedrunners and collectors alike.</description>
-    </item>
-    <item>
-      <title>Turbocharging Your NES Controller: A DIY Upgrade for Speedrunners</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/turbocharging-nes-controller-upgrade.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/turbocharging-nes-controller-upgrade.html</guid>
-      <pubDate>Tue, 25 Aug 2026 13:33:48 GMT</pubDate>
-      <description>Boost your NES controller&apos;s responsiveness with a cheap mod that cuts input lag for faster runs.</description>
     </item>
   </channel>
 </rss>

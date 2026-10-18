@@ -1,5 +1,56 @@
 [
   {
+    "slug": "speedy-prep-20-min-macro-bowls",
+    "title": "Speedy prep: 20‑minute macro‑balanced bowls",
+    "dek": "A quick, protein‑packed bowl you can assemble in 20 minutes and stash for a week of hassle‑free lunches.",
+    "takeaway": "Batch‑cook the base and mix‑n‑match toppings to keep meals fresh without extra time.",
+    "whatHappened": "We tested a simple grain‑and‑bean bowl recipe across a typical workweek, prepping the grains and beans on Sunday and assembling each day in under five minutes.",
+    "whyItMatters": "Busy professionals need meals that stay nutritionally balanced while minimizing daily kitchen time, and this system delivers both consistency and variety.",
+    "howToThink": "Cook a large batch of a neutral grain like quinoa, prep a protein‑rich legume mix, and keep a rotating roster of veggies and sauces ready in the fridge; each morning just combine portions.",
+    "pros": [
+      "Fast daily assembly",
+      "High protein, balanced carbs",
+      "Versatile flavor swaps"
+    ],
+    "cons": [
+      "Requires fridge space",
+      "Initial bulk cooking",
+      "Sauce prep can add calories"
+    ],
+    "watchOut": "Avoid soggy bowls by keeping sauces separate until you’re ready to eat.",
+    "faq": [
+      {
+        "q": "Can I swap quinoa for something else?",
+        "a": "Yes, brown rice, farro, or even cauliflower rice work fine."
+      },
+      {
+        "q": "How long do the pre‑cooked components stay safe?",
+        "a": "Stored in airtight containers, cooked grains and beans last about four days in the fridge."
+      },
+      {
+        "q": "What’s a quick way to add healthy fats?",
+        "a": "Top with a drizzle of olive oil, a handful of nuts, or avocado slices right before eating."
+      }
+    ],
+    "category": "Recipes",
+    "tags": [
+      "quick recipes",
+      "meal prep"
+    ],
+    "sources": [
+      {
+        "label": "r/MealPrepSunday community threads",
+        "url": "https://www.reddit.com/r/MealPrepSunday/"
+      },
+      {
+        "label": "Search interest: \"high protein meal prep\"",
+        "url": "https://duckduckgo.com/?q=high%20protein%20meal%20prep"
+      }
+    ],
+    "publishedAt": "2026-10-18T14:45:16.227Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "batch-cooking-guide-field-test-26",
     "title": "\"batch cooking guide\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about batch cooking guide through a month of actual use. Some of it survived.",

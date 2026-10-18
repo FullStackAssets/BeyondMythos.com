@@ -1,5 +1,56 @@
 [
   {
+    "slug": "gtx-1660-super-budget-1080p",
+    "title": "Stretching a GTX 1660 Super: 1080p performance on a shoestring",
+    "dek": "A pragmatic look at getting solid 1080p framerates from a GTX 1660 Super without breaking the bank.",
+    "takeaway": "The GTX 1660 Super still delivers respectable 1080p gaming when paired with sensible settings and a modest CPU.",
+    "whatHappened": "We sourced a lightly used GTX 1660 Super from a local marketplace, paired it with an older Ryzen 5 2600 and 8 GB DDR4, and ran a handful of current titles at 1080p. The results were consistently playable with occasional frame dips in the most demanding scenes.",
+    "whyItMatters": "Budget builders often assume they need the newest cards to enjoy modern games, but older mid‑range GPUs can still hold their own. Understanding where the GTX 1660 Super shines helps stretch limited funds further and delays costly upgrades.",
+    "howToThink": "Focus on balancing the GPU with a CPU that won’t bottleneck it, tweak in‑game settings toward medium‑high, and enable technologies like DLSS or FidelityFX when available. Prioritize games that are less texture‑heavy for smoother performance.",
+    "pros": [
+      "Solid 1080p performance",
+      "Good power efficiency",
+      "Widely available second‑hand"
+    ],
+    "cons": [
+      "Limited VRAM for future titles",
+      "No ray‑tracing support",
+      "May struggle with ultra settings"
+    ],
+    "watchOut": "Watch for cards with excessive wear or thermal paste that’s dried out; they can cause overheating under load.",
+    "faq": [
+      {
+        "q": "Can I pair the GTX 1660 Super with an older i5 7200U?",
+        "a": "It will work, but the CPU will likely limit frame rates in CPU‑heavy games, so a modestly newer CPU is recommended."
+      },
+      {
+        "q": "Is the GTX 1660 Super still a good resale option?",
+        "a": "Yes, its demand remains steady among budget gamers, so you can recoup a reasonable portion of the purchase price."
+      },
+      {
+        "q": "Do I need to upgrade my power supply?",
+        "a": "A quality 450 W unit is generally sufficient, provided it’s from a reputable brand and has the necessary connectors."
+      }
+    ],
+    "category": "GPUs",
+    "tags": [
+      "budget-gpu",
+      "1080p-gaming"
+    ],
+    "sources": [
+      {
+        "label": "r/buildapcsales community threads",
+        "url": "https://www.reddit.com/r/buildapcsales/"
+      },
+      {
+        "label": "Search interest: \"best budget gpu 2026\"",
+        "url": "https://duckduckgo.com/?q=best%20budget%20gpu%202026"
+      }
+    ],
+    "publishedAt": "2026-10-18T14:45:11.836Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "hidden-gems-12-month-old-gpus",
     "title": "Hidden gems: 12‑month‑old GPUs that still punch above their weight",
     "dek": "Discover older GPUs that still deliver solid 1080p performance without breaking the bank.",

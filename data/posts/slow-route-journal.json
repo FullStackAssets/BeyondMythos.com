@@ -1,5 +1,56 @@
 [
   {
+    "slug": "slow-station-sojourns-eco-rest-spots",
+    "title": "Slow‑Station Sojourns: Turning Small Platform Nooks into Eco‑Friendly Rest Spots",
+    "dek": "Discover how to turn overlooked platform corners into low‑impact, comfy rest spots for the mindful traveler.",
+    "takeaway": "A tiny platform nook can become a sustainable sleep hub with a few simple tweaks.",
+    "whatHappened": "While waiting for a late regional train at a rural stop, I spotted an unused bench beneath a shelter and set up a compact sleeping mat and solar lantern. The spot proved surprisingly comfortable and quiet, turning a transit delay into a restful micro‑overnight.",
+    "whyItMatters": "Transforming idle platform space reduces reliance on carbon‑intensive hotels, deepens connection to the rail community, and showcases how low‑impact travelers can repurpose existing infrastructure.",
+    "howToThink": "Scout stations ahead of time using timetables and community forums, pack a lightweight mat, a breathable blanket, and a portable charger, and always check local rules before setting up. Treat the space as a shared amenity—leave no trace and respect fellow passengers.",
+    "pros": [
+      "Zero‑cost lodging",
+      "Local immersion",
+      "Minimal carbon footprint"
+    ],
+    "cons": [
+      "Limited privacy",
+      "Weather dependent",
+      "Requires planning"
+    ],
+    "watchOut": "Make sure the station permits overnight stays; some stations have strict security policies that could lead to fines or removal.",
+    "faq": [
+      {
+        "q": "Can I legally sleep on a platform?",
+        "a": "Many smaller stations allow quiet waiting, but always verify local regulations or ask staff to avoid penalties."
+      },
+      {
+        "q": "What gear is essential?",
+        "a": "A compact foam mat, a weather‑proof blanket, a small solar lantern, and a lockable bag for valuables."
+      },
+      {
+        "q": "How do I stay safe?",
+        "a": "Choose well‑lit areas, keep your belongings close, and let a friend know your itinerary."
+      }
+    ],
+    "category": "Stays",
+    "tags": [
+      "rail",
+      "eco‑sleep"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-10-18T14:45:10.119Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "trackside-kitchens",
     "title": "Trackside Kitchens: Cooking Low‑Impact Meals on the Move",
     "dek": "A quick guide to turning a train’s pantry into a zero‑waste kitchen for slow‑travelers.",

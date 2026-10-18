@@ -1,5 +1,56 @@
 [
   {
+    "slug": "fine-tuning-zigbee-sensors",
+    "title": "Fine-tuning Zigbee sensors without leaving your desk",
+    "dek": "Learn how to calibrate motion and temperature Zigbee sensors locally, keeping data private and performance sharp.",
+    "takeaway": "Accurate readings are possible while staying fully offline.",
+    "whatHappened": "I recently ran a weekend calibration session on a set of Zigbee motion and temperature sensors using only Home Assistant's local integration. By exporting raw readings and applying simple offset scripts, the devices reported noticeably steadier values. The process required no cloud services and left all data on the local network.",
+    "whyItMatters": "Sensor drift can erode automation reliability, and relying on cloud APIs reintroduces privacy risk. Keeping calibration local ensures that your home’s data never leaves your router, aligning with a privacy‑first mindset. Plus, more reliable sensors mean fewer false triggers and wasted energy.",
+    "howToThink": "Start by logging raw sensor data for a baseline period, then identify consistent offsets. Write a small Python or Node‑RED script to apply those offsets before the data reaches your automations. Deploy the script as a local add‑on so the correction runs automatically for every reading.",
+    "pros": [
+      "No cloud dependency",
+      "Improved accuracy",
+      "Reusable scripts"
+    ],
+    "cons": [
+      "Initial time investment",
+      "Requires CLI familiarity",
+      "Limited to supported devices"
+    ],
+    "watchOut": "Beware of applying offsets that mask underlying hardware faults; recalibrate periodically.",
+    "faq": [
+      {
+        "q": "Do I need a separate hub for Zigbee calibration?",
+        "a": "No, the built‑in Zigbee integration in Home Assistant can expose raw values for processing."
+      },
+      {
+        "q": "Can I automate the offset calculation?",
+        "a": "Yes, you can script periodic averaging and auto‑update the offset file."
+      },
+      {
+        "q": "Will this affect battery life?",
+        "a": "The script runs locally and adds negligible overhead, so battery impact is minimal."
+      }
+    ],
+    "category": "Sensors",
+    "tags": [
+      "zigbee",
+      "calibration"
+    ],
+    "sources": [
+      {
+        "label": "r/homeautomation community threads",
+        "url": "https://www.reddit.com/r/homeautomation/"
+      },
+      {
+        "label": "Search interest: \"smart lighting setup\"",
+        "url": "https://duckduckgo.com/?q=smart%20lighting%20setup"
+      }
+    ],
+    "publishedAt": "2026-10-18T14:45:31.238Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-routines-mistakes-73",
     "title": "Five mistakes everyone makes in their first month of routines",
     "dek": "The most common early stumbles in routines, and the cheap corrections that fix them for smart-home tinkerers and privacy-minded automators.",

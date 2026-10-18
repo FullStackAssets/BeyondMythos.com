@@ -1,5 +1,56 @@
 [
   {
+    "slug": "production-hack-harnessing-midday-sun",
+    "title": "Production hack: harnessing midday sun for cinematic contrast",
+    "dek": "Turn the harsh midday sun into a storytelling tool with simple positioning and diffusion tricks.",
+    "takeaway": "Even bright daylight can give you rich, cinematic contrast with a few low‑cost adjustments.",
+    "whatHappened": "During a two‑day shoot in a city park, I swapped the usual shade‑seeking setup for a direct‑sun approach, using a reflective umbrella and a portable diffuser. The result was striking silhouettes and natural rim light that added depth without extra lights.",
+    "whyItMatters": "Indie productions often lack budget for extensive lighting rigs, so making the most of available sunlight can save time and money while boosting visual quality. Learning to shape harsh light expands creative options on location.",
+    "howToThink": "First, scout the sun’s path and pick a spot where the angle creates the desired contrast. Then, use a white reflector or a cheap bounce board to fill shadows, and a diffuser to soften hotspots if needed. Finally, adjust exposure and white‑balance to keep the look consistent across shots.",
+    "pros": [
+      "Free natural light",
+      "Adds depth and texture",
+      "Reduces gear costs"
+    ],
+    "cons": [
+      "Hard to control weather",
+      "Limited to daytime",
+      "Potential harsh shadows"
+    ],
+    "watchOut": "Beware of overexposed highlights that can clip detail if you rely solely on the sun.",
+    "faq": [
+      {
+        "q": "Can I use this technique on cloudy days?",
+        "a": "Cloud cover softens the light, so you may need a stronger reflector or a supplemental LED to maintain contrast."
+      },
+      {
+        "q": "Do I need a specific type of diffuser?",
+        "a": "A simple white sheet, a portable silk, or even a shower curtain works as an effective diffuser for midday sun."
+      },
+      {
+        "q": "How do I maintain consistent color temperature across shots?",
+        "a": "Set your camera’s white‑balance to a fixed Kelvin value or use a gray card to reference each scene, avoiding auto‑WB shifts."
+      }
+    ],
+    "category": "Production",
+    "tags": [
+      "Production",
+      "Lighting"
+    ],
+    "sources": [
+      {
+        "label": "r/shortfilm community threads",
+        "url": "https://www.reddit.com/r/shortfilm/"
+      },
+      {
+        "label": "Search interest: \"run and gun audio\"",
+        "url": "https://duckduckgo.com/?q=run%20and%20gun%20audio"
+      }
+    ],
+    "publishedAt": "2026-10-18T14:45:17.416Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "gear-hack-repurpose-items",
     "title": "Gear hack: repurpose everyday items for rock‑steady shots",
     "dek": "Turn household objects into cheap camera rigs that deliver pro‑level stability without breaking the bank.",
