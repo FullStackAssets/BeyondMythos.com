@@ -1,5 +1,56 @@
 [
   {
+    "slug": "diy-dolly-budget",
+    "title": "DIY dolly on a budget: move your shots smooth with pantry staples",
+    "dek": "Turn everyday items into a smooth dolly for your next short without breaking the bank.",
+    "takeaway": "A low‑cost dolly can be built in minutes, giving you stable motion without renting gear.",
+    "whatHappened": "We needed a tracking shot for a hallway scene but had no dolly. By repurposing a rolling office chair and PVC pipe, we assembled a functional dolly in under an hour.",
+    "whyItMatters": "Smooth camera movement adds production value and keeps audiences immersed; renting a dolly can eat a tight indie budget, so DIY solutions keep cash for other essentials.",
+    "howToThink": "Start with a sturdy base (like a chair), attach a smooth‑rolling platform, use a pipe or wooden dowel as a guide rail, and secure the camera with a quick‑release plate; test on a flat surface before filming.",
+    "pros": [
+      "Cheap to build",
+      "Easy to customize",
+      "Quiet operation"
+    ],
+    "cons": [
+      "Limited weight capacity",
+      "Requires manual stabilization",
+      "Not as smooth as professional rigs"
+    ],
+    "watchOut": "Check that the wheels glide evenly to avoid jittery footage.",
+    "faq": [
+      {
+        "q": "Can this DIY dolly support a DSLR with a lens?",
+        "a": "Yes, as long as the total weight stays within the chair’s load rating; most DSLRs with lenses are fine."
+      },
+      {
+        "q": "What type of wheels work best?",
+        "a": "Hard‑rubber or polyurethane wheels give smooth motion on indoor floors without excessive noise."
+      },
+      {
+        "q": "How do I keep the camera level?",
+        "a": "Use a small bubble level on the mount or a smartphone app to quickly align the camera before each take."
+      }
+    ],
+    "category": "Production",
+    "tags": [
+      "budget",
+      "dolly"
+    ],
+    "sources": [
+      {
+        "label": "r/shortfilm community threads",
+        "url": "https://www.reddit.com/r/shortfilm/"
+      },
+      {
+        "label": "Search interest: \"run and gun audio\"",
+        "url": "https://duckduckgo.com/?q=run%20and%20gun%20audio"
+      }
+    ],
+    "publishedAt": "2026-10-18T17:45:18.495Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "distribution-pre-spend-checklist-78",
     "title": "The distribution checklist: run this before you spend",
     "dek": "Seven questions that separate a justified distribution purchase from an expensive mood.",

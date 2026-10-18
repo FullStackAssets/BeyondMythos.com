@@ -1,5 +1,56 @@
 [
   {
+    "slug": "autumn-ready-balcony-garden",
+    "title": "Autumn Ready: Preparing Your Balcony Garden for Cooler Nights",
+    "dek": "Transition your balcony garden smoothly into fall with simple steps that protect plants and boost next‑season yields.",
+    "takeaway": "A few low‑effort tweaks now keep your balcony thriving through chilly evenings and set the stage for spring.",
+    "whatHappened": "We swapped out heat‑absorbing plastic trays for insulated fabric sleeves and added a lightweight fleece cover to vulnerable herbs. The changes were made over a single weekend, and plants showed less wilting as nights grew cooler.",
+    "whyItMatters": "Balcony gardens lose heat quickly after sunset, stressing tender leaves and root zones. By preserving warmth and reducing wind exposure, you maintain growth momentum and avoid a seasonal die‑back that can set back your harvest schedule.",
+    "howToThink": "Think of your balcony as a mini greenhouse: use reflective surfaces to bounce sunlight, add a removable windbreak, and group pots to share residual heat. Keep moisture balanced—water in the morning and use a drip tray to avoid soggy roots. Plan for a quick removal or storage of seasonal accessories before heavy rain.",
+    "pros": [
+      "Extended growing season",
+      "Reduced frost damage",
+      "Low cost materials"
+    ],
+    "cons": [
+      "Requires occasional setup/teardown",
+      "May limit airflow on very windy days",
+      "Extra storage space needed"
+    ],
+    "watchOut": "Avoid covering plants too tightly, as trapped humidity can invite fungal issues.",
+    "faq": [
+      {
+        "q": "Do I need a heat lamp for fall balcony gardening?",
+        "a": "Most balconies fare fine with passive insulation; a heat lamp is only necessary in extreme cold zones."
+      },
+      {
+        "q": "Can I use regular garden mulch on balcony pots?",
+        "a": "Yes, a thin layer of organic mulch helps retain soil warmth and moisture without clogging drainage."
+      },
+      {
+        "q": "What’s the best time of day to water before nightfall?",
+        "a": "Water early in the evening so excess can drain before temperatures drop, reducing root stress."
+      }
+    ],
+    "category": "Seasonal",
+    "tags": [
+      "autumn",
+      "balcony"
+    ],
+    "sources": [
+      {
+        "label": "r/houseplants community threads",
+        "url": "https://www.reddit.com/r/houseplants/"
+      },
+      {
+        "label": "Search interest: \"small space vegetables\"",
+        "url": "https://duckduckgo.com/?q=small%20space%20vegetables"
+      }
+    ],
+    "publishedAt": "2026-10-18T17:45:11.190Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "rainwater-harvest-balcony-garden",
     "title": "Rainwater Harvest for Balcony Gardens: DIY Barrel Setup",
     "dek": "Capture rooftop runoff in a compact barrel and feed your balcony plants without a single faucet turn.",

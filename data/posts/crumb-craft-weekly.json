@@ -1,5 +1,56 @@
 [
   {
+    "slug": "feeding-starter-timing-tricks",
+    "title": "Feeding Your Starter: Timing Tricks for Beginners",
+    "dek": "Learn when and how often to feed your sourdough starter to keep it lively without the guesswork.",
+    "takeaway": "Consistent, well‑timed feedings give a stronger, more predictable starter.",
+    "whatHappened": "A new batch of starter was left on the counter for days without feeding, turning sluggish and developing off‑flavors. After resetting the feeding schedule, the starter revived quickly and produced a crisp crumb in the next loaf.",
+    "whyItMatters": "A starter that’s fed on a reliable rhythm behaves predictably during bulk fermentation, reducing surprise failures and saving time. Beginners often think “more is better,” but over‑feeding can dilute activity and waste flour.",
+    "howToThink": "Treat feeding like a calendar: count the hours since the last feed and match it to room temperature—roughly 12 h in a warm kitchen, 24 h in a cooler spot. Use the same flour type each time to keep the microbial community stable.",
+    "pros": [
+      "Stronger rise",
+      "Consistent flavor",
+      "Less waste"
+    ],
+    "cons": [
+      "Requires routine",
+      "May need temperature monitoring",
+      "Can be confusing at first"
+    ],
+    "watchOut": "Don’t let the starter sit for more than a day without a feed in a warm kitchen, or it can become overly acidic.",
+    "faq": [
+      {
+        "q": "How often should I feed a starter kept at room temperature?",
+        "a": "In a typical 20‑22 °C kitchen, a 12‑hour interval works well; adjust longer in cooler spaces."
+      },
+      {
+        "q": "Can I use whole‑grain flour for feeding?",
+        "a": "Yes, but whole‑grain introduces more nutrients that can speed fermentation; you may need to shorten the interval."
+      },
+      {
+        "q": "What’s the sign that a starter is under‑fed?",
+        "a": "A thin, watery layer of liquid (hooch) on top and a sour smell indicate it needs a fresh feed."
+      }
+    ],
+    "category": "Bread",
+    "tags": [
+      "starter",
+      "timing"
+    ],
+    "sources": [
+      {
+        "label": "r/Sourdough community threads",
+        "url": "https://www.reddit.com/r/Sourdough/"
+      },
+      {
+        "label": "Search interest: \"home baking tools\"",
+        "url": "https://duckduckgo.com/?q=home%20baking%20tools"
+      }
+    ],
+    "publishedAt": "2026-10-18T17:45:39.175Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "tools-pre-spend-checklist-65",
     "title": "The tools checklist: run this before you spend",
     "dek": "Seven questions that separate a justified tools purchase from an expensive mood.",

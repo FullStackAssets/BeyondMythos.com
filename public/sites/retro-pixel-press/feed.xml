@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Four-Player Frenzy: Building a SNES Adapter for Multiplayer Speedruns</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/four-player-snes-adapter.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/four-player-snes-adapter.html</guid>
+      <pubDate>Sun, 18 Oct 2026 17:45:11 GMT</pubDate>
+      <description>Turn a single‑port SNES into a four‑controller hub for couch co‑op and competitive runs.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Adding a Schmitt Trigger for Consistent Button Presses</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/schmitt-trigger-button-mod.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/schmitt-trigger-button-mod.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-snes-power-supply.html</guid>
       <pubDate>Tue, 25 Aug 2026 17:15:27 GMT</pubDate>
       <description>Swap the SNES PSU for a regulated module and shave off frame‑time jitter in minutes.</description>
-    </item>
-    <item>
-      <title>Myth vs. reality: hidden snes gems</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/myth-vs-reality-hidden-snes-gems-17.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/myth-vs-reality-hidden-snes-gems-17.html</guid>
-      <pubDate>Tue, 25 Aug 2026 16:18:26 GMT</pubDate>
-      <description>The persistent myths around hidden snes gems, stress-tested against what retro game collectors and speedrunners actually report.</description>
     </item>
   </channel>
 </rss>

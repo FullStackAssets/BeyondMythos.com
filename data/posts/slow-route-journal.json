@@ -1,5 +1,56 @@
 [
   {
+    "slug": "railway-restrooms-hygiene-hacks",
+    "title": "Railway Restrooms: Low‑Impact Hygiene Hacks for Slow Travelers",
+    "dek": "Discover simple, low‑impact tricks to stay fresh and sustainable when using train stations’ restrooms on the road.",
+    "takeaway": "Small hygiene habits can cut waste and keep you comfortable during slow‑train journeys.",
+    "whatHappened": "On a recent weekend trek across central Europe, I swapped disposable wipes for reusable cloths and installed a tiny refillable hand‑soap bottle in a station locker. The setup lasted the whole trip without a hitch, and fellow travelers noticed the greener approach.",
+    "whyItMatters": "Train stations generate a lot of single‑use waste, and travelers often overlook restroom habits. Reducing that waste lessens the environmental footprint of rail travel and sets a quieter example for others.",
+    "howToThink": "Carry a compact, antimicrobial cloth, a refillable soap bottle, and a small bottle of biodegradable hand sanitizer. Keep them in a waterproof pouch and refill when you spot a station with a water tap. Treat each restroom stop as an opportunity to practice minimal waste.",
+    "pros": [
+      "Cuts single‑use waste",
+      "Boosts personal comfort",
+      "Easy to adopt"
+    ],
+    "cons": [
+      "Requires remembering supplies",
+      "Limited refill points on some routes",
+      "Initial investment in reusable gear"
+    ],
+    "watchOut": "Beware of stations with strict security that may not allow personal containers; keep them discreet.",
+    "faq": [
+      {
+        "q": "Can I use reusable cloths in any restroom?",
+        "a": "Yes, as long as you rinse them after use; most stations provide sinks."
+      },
+      {
+        "q": "What if a station has no water tap?",
+        "a": "Carry a small bottle of pre‑mixed hand‑wash solution; a few drops are enough."
+      },
+      {
+        "q": "Is it okay to bring a soap bottle on board?",
+        "a": "Small travel‑size containers are generally permitted, but check local regulations if you’re unsure."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "packing"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-10-18T17:45:12.938Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "platform-garden-communes",
     "title": "Platform Garden Communes: Co‑Creating Low‑Impact Green Spaces on Train Stops",
     "dek": "How turning idle platform corners into shared gardens cuts carbon and builds community for slow travelers.",

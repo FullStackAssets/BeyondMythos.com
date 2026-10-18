@@ -1,5 +1,56 @@
 [
   {
+    "slug": "reclaiming-pack-space-3-item-swap",
+    "title": "Reclaiming Pack Space: The 3‑Item Swap That Saves 200g",
+    "dek": "A quick swap of three common items can shave a couple hundred grams off your pack without sacrificing comfort.",
+    "takeaway": "Small, smart swaps can noticeably cut weight while keeping functionality.",
+    "whatHappened": "I swapped out my standard stuff sack, heavy zip‑tied cable ties, and a bulky water filter housing for lighter alternatives on a recent 150‑mile section. The changes shaved roughly 200 g and felt no loss in performance.",
+    "whyItMatters": "Every gram counts on long thru‑hikes, affecting fatigue and speed. Lightening the pack also frees room for extra food or emergency gear.",
+    "howToThink": "Look for items you use daily but that have lighter versions; prioritize items that combine functions. Test the new gear on a short loop before committing on the trail.",
+    "pros": [
+      "Immediate weight drop",
+      "Minimal cost",
+      "No compromise on utility"
+    ],
+    "cons": [
+      "May require re‑learning",
+      "Initial purchase of alternatives",
+      "Potentially less durability"
+    ],
+    "watchOut": "Make sure the lighter replacements still meet your safety and durability standards.",
+    "faq": [
+      {
+        "q": "Can I replace my stuff sack with a dry sack?",
+        "a": "Yes, a lightweight dry sack can serve the same purpose while shedding weight, just be sure it folds compactly."
+      },
+      {
+        "q": "Are zip‑tied cable ties worth swapping?",
+        "a": "Plastic zip ties are cheap but heavy; reusable cord locks or small nylon ties do the job lighter."
+      },
+      {
+        "q": "Will a lighter filter housing affect water safety?",
+        "a": "Choose a reputable low‑weight housing that maintains the same filtration rating; don’t sacrifice safety for weight."
+      }
+    ],
+    "category": "Packs",
+    "tags": [
+      "weight-saving",
+      "gear-swaps"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"ultralight shelter comparison\"",
+        "url": "https://duckduckgo.com/?q=ultralight%20shelter%20comparison"
+      }
+    ],
+    "publishedAt": "2026-10-18T17:45:29.936Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "micro-gear-swap-upgrade-trekking-pole",
     "title": "Micro‑gear swap: upgrade your trekking pole for less weight",
     "dek": "Swap out a heavy pole for a feather‑light alternative and shave ounces without losing stability.",

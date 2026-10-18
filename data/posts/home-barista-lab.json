@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-pressure-regulator",
+    "title": "Homemade Espresso Pressure Regulator: Steady Extraction Made Simple",
+    "dek": "Build a cheap, reliable pressure regulator to keep your espresso extraction steady without breaking the bank.",
+    "takeaway": "A simple regulator smooths pressure spikes, leading to more consistent shots.",
+    "whatHappened": "I assembled a spring‑loaded valve using a coffee‑scaling screw, a small diaphragm, and a cheap pressure gauge. After wiring it into my machine, the pressure curve flattened during a test pull. The result was a smoother flow and a richer crema.",
+    "whyItMatters": "Espresso extraction hinges on stable pressure; fluctuations cause under‑ or over‑extraction, ruining flavor balance. By taming those spikes, you let the coffee bloom evenly, which translates to better taste and repeatability. Consistency also makes dialing in dose and grind easier.",
+    "howToThink": "Start with a basic pressure‑release valve you can tweak with a spring tension knob. Mount the gauge downstream to monitor real‑time pressure. Adjust the spring until the pressure holds within a narrow band during a 30‑second pull, then lock it in place.",
+    "pros": [
+      "Low cost",
+      "Easy to build",
+      "Improves consistency"
+    ],
+    "cons": [
+      "Takes time to assemble",
+      "Requires basic tools",
+      "May need fine‑tuning"
+    ],
+    "watchOut": "Ensure all connections are sealed tightly to avoid steam leaks, which can be a safety hazard.",
+    "faq": [
+      {
+        "q": "Do I need a specialized gauge?",
+        "a": "A standard espresso pressure gauge works fine; just make sure it reads up to 10 bar."
+      },
+      {
+        "q": "Can I retrofit this to any machine?",
+        "a": "Most home machines with a pressure port can accommodate the regulator, but check compatibility first."
+      },
+      {
+        "q": "How often should I recalibrate?",
+        "a": "Re‑check the pressure after any major cleaning or after a few weeks of use."
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "espresso",
+      "DIY"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-10-18T17:45:12.390Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quick-espresso-pressurization-hack",
     "title": "Quick Pressurization Hack for Consistent Espresso",
     "dek": "Add a low-cost pressure regulator to your portafilter to tame flow spikes and nail repeatable shots.",

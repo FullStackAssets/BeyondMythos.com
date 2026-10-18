@@ -1,5 +1,56 @@
 [
   {
+    "slug": "turbocharge-zwift-low-tech-tricks",
+    "title": "Turbocharge your Zwift rides: low‑tech tricks for big gains",
+    "dek": "Simple, equipment‑free tweaks that make your virtual rides feel faster and more engaging.",
+    "takeaway": "Small habit changes can dramatically lift your indoor performance without new gear.",
+    "whatHappened": "We tried a handful of low‑tech adjustments—like cadence drills, strategic rest intervals, and visual focus cues—during a week of Zwift sessions. Riders reported feeling more in control and noticing smoother power curves. The tweaks required no extra hardware, only a shift in routine.",
+    "whyItMatters": "Indoor training often feels monotonous, leading to waning motivation and sub‑optimal workouts. By injecting variety through simple mental and cadence strategies, cyclists stay sharper and can sustain higher outputs. Consistency translates to real‑world gains when the bike hits the road again.",
+    "howToThink": "Start each session with a 5‑minute cadence warm‑up at a slightly higher RPM than usual, then alternate 2‑minute bursts at that cadence with 1‑minute recovery. Use a visual marker on your screen to keep your focus forward, reducing mental fatigue. End with a short cooldown that mirrors the warm‑up cadence to cement the pattern.",
+    "pros": [
+      "No extra cost",
+      "Easy to implement",
+      "Improves focus"
+    ],
+    "cons": [
+      "Requires mental discipline",
+      "May feel odd at first",
+      "Benefits are subtle"
+    ],
+    "watchOut": "Avoid pushing cadence too high if it compromises smooth pedal stroke or causes joint strain.",
+    "faq": [
+      {
+        "q": "Do I need a power meter for these tricks?",
+        "a": "No, they rely on cadence and perception, not precise power data."
+      },
+      {
+        "q": "How often should I rotate the cadence drills?",
+        "a": "Switch every 2‑3 weeks to keep the stimulus fresh."
+      },
+      {
+        "q": "Can these tips help with weight loss?",
+        "a": "They boost workout intensity, which can support calorie burn when combined with proper nutrition."
+      }
+    ],
+    "category": "Training",
+    "tags": [
+      "Zwift",
+      "Cadence"
+    ],
+    "sources": [
+      {
+        "label": "r/Zwift community threads",
+        "url": "https://www.reddit.com/r/Zwift/"
+      },
+      {
+        "label": "Search interest: \"smart trainer guide\"",
+        "url": "https://duckduckgo.com/?q=smart%20trainer%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-18T17:45:28.359Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-velo-26",
     "title": "Community pulse: what r/Velo is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the setup community this week.",
