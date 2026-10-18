@@ -205,8 +205,13 @@ function buildPdf(book, chapters, outPath) {
   const need = (h) => {
     if (y - h < MARGIN) newPage();
   };
-  const drawText = (text, size, bold) => {
-    const words = text.split(/\s+/).filter(Boolean);
+  // The hand-rolled PDF uses WinAnsi Helvetica; multi-byte Unicode punctuation
+  // (em/en dashes etc.) would render as garbage, so normalize to ASCII here.
+  // Manuscripts keep their Unicode (EPUB/HTML render it fine).
+  const asciiSafe = (s) =>
+    s.replace(/[—–]/g, "-").replace(/[·•]/g, "-").replace(/[‘’]/g, "'").replace(/[“”]/g, '"');
+  const wrapLines = (text, size, bold) => {
+    const words = asciiSafe(text).split(/\s+/).filter(Boolean);
     let line = "";
     const lines = [];
     for (const word of words) {
@@ -219,8 +224,11 @@ function buildPdf(book, chapters, outPath) {
       }
     }
     if (line) lines.push(line);
+    return lines;
+  };
+  const drawText = (text, size, bold) => {
     const lh = size * 1.45;
-    for (const ln of lines) {
+    for (const ln of wrapLines(text, size, bold)) {
       need(lh);
       current.push({ x: MARGIN, y, size, bold, text: ln });
       y -= lh;
@@ -231,32 +239,45 @@ function buildPdf(book, chapters, outPath) {
     y -= h;
   };
 
-  // Title page
+  // Title page (titles wrapped + centered per line — never past the margins)
+  const drawCentered = (text, size, bold) => {
+    for (const ln of wrapLines(text, size, bold)) {
+      need(size * 1.45);
+      const cx = (PAGE_W - textWidth(ln, size, bold)) / 2;
+      current.push({ x: Math.max(cx, MARGIN), y, size, bold, text: ln });
+      y -= size * 1.45;
+    }
+  };
   y = PAGE_H - 200;
-  current.push({ x: MARGIN, y, size: 28, bold: true, centered: true, text: book.title });
-  y -= 60;
-  current.push({ x: MARGIN, y, size: 13, bold: false, centered: true, text: book.subtitle });
-  y -= 60;
-  current.push({ x: MARGIN, y, size: 12, bold: false, centered: true, text: book.author + " · First Edition" });
+  drawCentered(book.title, 28, true);
+  y -= 24;
+  drawCentered(book.subtitle, 13, false);
+  y -= 30;
+  current.push({ x: MARGIN, y, size: 12, bold: false, centered: true, text: book.author + " - First Edition" });
   newPage();
 
   let firstChapter = true;
   for (const ch of chapters) {
     if (!firstChapter) newPage();
     firstChapter = false;
-    // chapter title
-    need(60);
-    y -= 10;
-    current.push({ x: MARGIN, y, size: 20, bold: true, text: ch.title });
-    y -= 34;
+    // chapter title (wrapped — long titles must not run past the margin)
+    for (const ln of wrapLines(ch.title, 20, true)) {
+      need(29);
+      current.push({ x: MARGIN, y, size: 20, bold: true, text: ln });
+      y -= 29;
+    }
+    y -= 5;
     for (const b of ch.blocks) {
       if (b.type === "h2") {
         spacer(10);
-        need(24);
-        current.push({ x: MARGIN, y, size: 14, bold: true, text: b.text });
-        y -= 24;
+        for (const ln of wrapLines(b.text, 14, true)) {
+          need(21);
+          current.push({ x: MARGIN, y, size: 14, bold: true, text: ln });
+          y -= 21;
+        }
       } else if (b.type === "li") {
-        drawText("•  " + b.text, 11, false);
+        // ASCII hyphen — the • glyph is not in the hand-rolled PDF's encoding
+        drawText("-  " + b.text, 11, false);
         spacer(2);
       } else if (b.type === "hr") {
         spacer(12);
@@ -287,12 +308,14 @@ function buildPdf(book, chapters, outPath) {
       const font = it.bold ? "F2" : "F1";
       let x = it.x;
       if (it.centered) x = (PAGE_W - textWidth(it.text, it.size, it.bold)) / 2;
-      stream += `${font} ${it.size} Tf\n${x.toFixed(2)} ${it.y.toFixed(2)} Td\n(${pdfEscape(it.text)}) Tj\n`;
+      // NOTE: Tm (absolute text matrix), not Td — Td is relative to the previous
+      // text position and would send every line after the first off the page.
+      stream += `/${font} ${it.size} Tf\n1 0 0 1 ${x.toFixed(2)} ${it.y.toFixed(2)} Tm\n(${pdfEscape(it.text)}) Tj\n`;
     }
     // footer page number
     const label = `${i + 1}`;
     const fx = (PAGE_W - textWidth(label, 9, false)) / 2;
-    stream += `F1 9 Tf\n${fx.toFixed(2)} 40 Td\n(${label}) Tj\nET`;
+    stream += `/F1 9 Tf\n1 0 0 1 ${fx.toFixed(2)} 40 Tm\n(${label}) Tj\nET`;
     const streamBody = `<< /Length ${Buffer.byteLength(stream, "utf8")} >>\nstream\n${stream}\nendstream`;
     contentObjs.push(addObj(streamBody));
   }
