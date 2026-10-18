@@ -1253,8 +1253,29 @@
       "streamUrl": "https://beyondmythos.com/",
       "elevenlabsAgentId": null,
       "lastPostAt": "2026-10-18T16:45:46.546Z"
+    },
+    {
+      "id": "tiny-brush-review-2-1792343743865",
+      "slug": "tiny-brush-review-2",
+      "name": "Tiny Brush Review",
+      "tagline": "Fresh takes for miniature painters and tabletop hobbyists.",
+      "nicheId": "miniature-painting",
+      "audience": "miniature painters and tabletop hobbyists",
+      "categories": [
+        "Paints",
+        "Techniques",
+        "Tools",
+        "Showcase"
+      ],
+      "url": "https://beyondmythos.com/sites/tiny-brush-review-2/",
+      "localUrl": "https://beyondmythos.com/sites/tiny-brush-review-2/",
+      "design": "prism",
+      "postCount": 6,
+      "createdAt": "2026-10-18T17:15:37.284Z",
+      "streamUrl": "https://beyondmythos.com/",
+      "elevenlabsAgentId": null
     }
   ],
-  "lastGeneratedAt": "2026-10-18T16:15:38.426Z",
+  "lastGeneratedAt": "2026-10-18T17:15:37.284Z",
   "lastPostRunAt": "2026-10-18T16:45:46.945Z"
 }
