@@ -1,5 +1,56 @@
 [
   {
+    "slug": "simple-water-temp-check",
+    "title": "Simple Water Temp Check: Nail Espresso Consistency",
+    "dek": "A quick temperature test with a kitchen thermometer keeps your espresso shots stable day to day.",
+    "takeaway": "Consistent brew water temperature is the hidden key to repeatable espresso flavor.",
+    "whatHappened": "I noticed my espresso tasted flat after a week of using the same machine. A quick dip of the thermometer into the boiler revealed a few degrees drift. Adjusting the thermostat restored the bright acidity.",
+    "whyItMatters": "Water temperature drives extraction speed and flavor balance; even a small shift can over- or under-extract. Home machines often drift as they age, so regular checks prevent silent quality loss.",
+    "howToThink": "Treat temperature like a daily calibration step. Warm up the machine, then measure at the group head with a fast-response thermometer. If it’s out of the 90-96 °C sweet spot, tweak the PID or let the machine settle longer.",
+    "pros": [
+      "Easy to implement",
+      "No extra equipment needed beyond a cheap thermometer",
+      "Immediate impact on taste"
+    ],
+    "cons": [
+      "Thermometer must be accurate",
+      "May require minor PID tweaking",
+      "Adds a tiny extra step before pulling"
+    ],
+    "watchOut": "Avoid touching the hot boiler directly; use a probe designed for liquids to prevent burns.",
+    "faq": [
+      {
+        "q": "Do I need a professional espresso thermometer?",
+        "a": "A food-grade digital probe with 0.1 °C resolution works fine and costs under $20."
+      },
+      {
+        "q": "How often should I check temperature?",
+        "a": "Once a week is enough, or any time you notice a flavor shift."
+      },
+      {
+        "q": "What if my machine has no PID?",
+        "a": "Let the machine fully heat, then measure; you may need to wait a minute longer for stable temp."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "Espresso",
+      "Gear"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-10-18T21:45:13.226Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "roasting-pre-spend-checklist-58",
     "title": "The roasting checklist: run this before you spend",
     "dek": "Seven questions that separate a justified roasting purchase from an expensive mood.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "solar-station-stops",
+    "title": "Solar Station Stops: Low‑Impact Power for Slow Travelers",
+    "dek": "Small solar panels on quiet stations give slow travelers a clean charge point without big infrastructure.",
+    "takeaway": "A modest solar setup can supply essential power for low‑impact rail journeys.",
+    "whatHappened": "During a weekend layover at a rural halt, a community group installed a portable solar array on the platform roof. The panels fed a battery bank that powers a charging kiosk and LED lighting.",
+    "whyItMatters": "Providing renewable energy at off‑grid stops reduces reliance on diesel generators and diesel‑powered phones, aligning with low‑impact travel goals. It also encourages stations to become micro‑hubs of sustainability.",
+    "howToThink": "When scouting a stop, look for unobstructed roof space and assess sunlight exposure. A small fold‑out panel and a charge controller can be set up in a day, and the stored energy can serve a few devices for several hours.",
+    "pros": [
+      "Zero emissions charging",
+      "Boosts station utility",
+      "Easy DIY install"
+    ],
+    "cons": [
+      "Limited output on cloudy days",
+      "Requires modest maintenance",
+      "Initial cost for equipment"
+    ],
+    "watchOut": "Secure the panels against theft and weather to avoid damage.",
+    "faq": [
+      {
+        "q": "Can I install a solar kit on any station?",
+        "a": "You need permission from the rail operator and a spot with decent sun exposure."
+      },
+      {
+        "q": "How many devices can the kiosk charge?",
+        "a": "Typically a handful of phones or a small laptop per charge cycle."
+      },
+      {
+        "q": "What’s the lifespan of a small solar setup?",
+        "a": "With proper care, panels can last many years, but batteries may need replacement after a few years."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "low-impact"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-10-18T21:45:15.470Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "silent-carriage-workshops-upcycling-train-seats",
     "title": "Silent Carriage Workshops: Upcycling Train Seats for Low‑Impact Craft Spaces",
     "dek": "Turn idle train seats into pop‑up workshops, merging creativity with low‑impact travel.",

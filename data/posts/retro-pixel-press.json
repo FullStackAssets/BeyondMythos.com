@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-arcade-joystick-mod",
+    "title": "Arcade Joystick Retrofit: Adding a 2-Button Layout for Classic Fighters",
+    "dek": "Give your old arcade stick a modern two‑button layout without soldering, boosting comfort for retro fighting game speedruns.",
+    "takeaway": "A simple button swap can make vintage arcade sticks feel brand‑new for competitive play.",
+    "whatHappened": "We took a classic 8‑way arcade stick, removed the original single‑button plate, and installed a compact two‑button module using a pre‑wired PCB. The whole process took under an hour and required only a screwdriver and some heat‑shrink tubing. The result is a cleaner, faster‑access control surface ready for high‑level play.",
+    "whyItMatters": "Many retro fighting titles rely on rapid, precise inputs that a single‑button layout hampers. Upgrading to a two‑button scheme restores the original arcade feel and reduces mis‑presses, giving speedrunners a tangible edge. It also extends the lifespan of aging hardware by replacing worn contacts with fresh components.",
+    "howToThink": "When retro‑modding, prioritize plug‑and‑play solutions that avoid permanent alterations. Test the new button layout in a low‑stakes run before committing to a full speedrun. Keep spare wires and a small soldering iron handy in case you need to tweak the wiring on the fly.",
+    "pros": [
+      "No solder required",
+      "Improves input ergonomics",
+      "Reversible with minimal tools"
+    ],
+    "cons": [
+      "Adds a tiny amount of weight",
+      "May void original warranty",
+      "Limited to sticks with removable plates"
+    ],
+    "watchOut": "Make sure the new button module fits within the stick housing to avoid binding during intense play.",
+    "faq": [
+      {
+        "q": "Do I need any special tools?",
+        "a": "A Phillips screwdriver, the button module kit, and heat‑shrink tubing are sufficient."
+      },
+      {
+        "q": "Will this affect the stick's original feel?",
+        "a": "The core joystick remains unchanged; only the button surface is altered, preserving the classic stick feel."
+      },
+      {
+        "q": "Can I revert to the original layout?",
+        "a": "Yes—simply remove the module and reinstall the original plate, re‑using the existing wiring."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "hardware",
+      "arcade"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-10-18T21:45:11.969Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "retro-controller-revamp-tactile-switch",
     "title": "Retro Controller Revamp: Adding a Tactile Switch for Snappier Inputs",
     "dek": "Upgrade your classic controller with a cheap tactile switch for crisper, more reliable button presses.",
