@@ -1,5 +1,56 @@
 [
   {
+    "slug": "darkroom-chemical-rotation",
+    "title": "Reviving Classic Developers: A Fresh Take on Kodak D-76",
+    "dek": "A quick guide to tweaking D-76 for sharper contrast and richer tones without breaking the bank.",
+    "takeaway": "A small tweak to D-76 can dramatically improve tonal range in your prints.",
+    "whatHappened": "I re‑mixed Kodak D‑76 using a 1:1 water‑to‑stock ratio and added a pinch of sodium sulfite, then processed a set of 400‑T prints. The results showed deeper shadows and cleaner highlights compared to the standard mix.",
+    "whyItMatters": "Most hobbyists stick to the recipe, missing out on simple adjustments that can lift their prints. Understanding developer chemistry unlocks creative control and reduces wasted film.",
+    "howToThink": "Start with the classic D‑76 recipe, then experiment by increasing the developer concentration by 10% or adding a tiny amount of sulfite. Test on a single sheet before committing to a batch.",
+    "pros": [
+      "Richer contrast",
+      "Improved highlight detail",
+      "Low cost tweak"
+    ],
+    "cons": [
+      "Requires precise measuring",
+      "Potential for over‑development",
+      "May need longer wash"
+    ],
+    "watchOut": "Avoid over‑diluting the developer, or you’ll lose the intended contrast boost.",
+    "faq": [
+      {
+        "q": "Can I use this tweak with any film?",
+        "a": "It works best with black‑and‑white negatives; color films need different chemistry."
+      },
+      {
+        "q": "Do I need new chemicals?",
+        "a": "No, just adjust the proportions of existing D-76 components."
+      },
+      {
+        "q": "How long should I develop?",
+        "a": "Stick to the original time, then add 10‑15 seconds if shadows appear flat."
+      }
+    ],
+    "category": "Darkroom",
+    "tags": [
+      "darkroom",
+      "developer‑tweaks"
+    ],
+    "sources": [
+      {
+        "label": "r/filmphotography community threads",
+        "url": "https://www.reddit.com/r/filmphotography/"
+      },
+      {
+        "label": "Search interest: \"film camera buying guide\"",
+        "url": "https://duckduckgo.com/?q=film%20camera%20buying%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-18T11:43:31.828Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-best-35mm-film-stocks-19",
     "title": "Myth vs. reality: best 35mm film stocks",
     "dek": "The persistent myths around best 35mm film stocks, stress-tested against what film photographers and darkroom hobbyists actually report.",

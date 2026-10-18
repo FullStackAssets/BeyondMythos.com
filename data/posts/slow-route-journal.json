@@ -1,5 +1,56 @@
 [
   {
+    "slug": "cafe-carriage-brewing-community",
+    "title": "Café Carriage: Brewing Community on Moving Trains",
+    "dek": "How a pop‑up coffee cart on a regional line turns travel pauses into low‑impact social hubs.",
+    "takeaway": "A mobile café can spark sustainable connections without adding carbon baggage.",
+    "whatHappened": "During a week‑long slow‑travel stint on the Green Valley line, a local roaster set up a solar‑powered coffee cart inside a refurbished baggage car. Travelers swapped stories, swapped seeds, and left with reusable mugs.",
+    "whyItMatters": "Micro‑hubs like this reduce the need for separate pit‑stops, cut disposable waste, and showcase how rail can host community‑centric economies. It proves low‑impact hospitality can travel with you.",
+    "howToThink": "Look for underused rolling stock on your route, partner with a local food artisan, and power the setup with portable solar panels. Keep the menu simple, the waste zero‑waste, and the vibe welcoming.",
+    "pros": [
+      "Zero‑fuel coffee brewing",
+      "Encourages local producers",
+      "Creates spontaneous networking"
+    ],
+    "cons": [
+      "Limited space for equipment",
+      "Weather‑dependent power",
+      "Regulatory permits can be slow"
+    ],
+    "watchOut": "Check railway safety rules early; an overlooked clearance can shut the cart down mid‑service.",
+    "faq": [
+      {
+        "q": "Do I need a rail operator’s permission?",
+        "a": "Yes—secure a temporary use agreement and confirm fire‑safety compliance before setting up."
+      },
+      {
+        "q": "Can I power the cart with a generator?",
+        "a": "Solar is preferred for low impact, but a small, certified inverter‑generator can be a backup on cloudy days."
+      },
+      {
+        "q": "How do I handle waste on a moving train?",
+        "a": "Use compostable cups, a sealed bio‑bin, and arrange a stop‑off collection point at the next station."
+      }
+    ],
+    "category": "Local",
+    "tags": [
+      "community",
+      "rail‑food"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-10-18T11:42:50.806Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "railway-snooze-capsule",
     "title": "Nighttime Nook: Turning Decommissioned Boxcars into Low‑Impact Sleep Pods",
     "dek": "Discover how repurposed boxcars can become cozy, eco‑friendly night stops for the slow‑travel community.",

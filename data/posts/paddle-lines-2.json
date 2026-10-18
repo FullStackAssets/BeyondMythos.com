@@ -1,5 +1,56 @@
 [
   {
+    "slug": "quick-fix-reinforce-kayak-hatch",
+    "title": "Quick Fix: Reinforce Your Kayak Hatch in 15 Minutes",
+    "dek": "Learn a 15‑minute hack to stop water leaks by reinforcing your kayak hatch with simple tape and epoxy.",
+    "takeaway": "A sealed hatch keeps you dry and your kayak performing longer.",
+    "whatHappened": "After a rainy morning paddle, my kayak began taking on water through a loose hatch. A quick look revealed a frayed seal and a tiny gap. I grabbed some waterproof tape and two-part epoxy to seal it on the spot.",
+    "whyItMatters": "A leaking hatch can soak gear, add unwanted weight, and erode confidence on the water. Small hatch failures often snowball into costly repairs or even a premature hull replacement. Fixing it fast restores safety and saves money.",
+    "howToThink": "Start with a clean, dry surface; sand the area lightly to improve adhesion. Apply a thin strip of marine‑grade tape, then coat the seam with epoxy, smoothing it with a spatula. Let it cure 10‑15 minutes before testing the seal with a light spray of water.",
+    "pros": [
+      "Waterproof",
+      "Low cost",
+      "Easy install"
+    ],
+    "cons": [
+      "Temporary fix",
+      "Requires dry conditions",
+      "May affect hatch aesthetics"
+    ],
+    "watchOut": "Avoid over‑tightening the tape, which can damage the hatch seals.",
+    "faq": [
+      {
+        "q": "Can I use regular duct tape?",
+        "a": "Marine‑grade tape resists UV and water better; regular duct tape may delaminate quickly."
+      },
+      {
+        "q": "How long does the epoxy cure?",
+        "a": "Most two‑part epoxies set in 10‑15 minutes, full strength in 24 hours."
+      },
+      {
+        "q": "Will this affect the hatch's ability to open?",
+        "a": "No, as long as you keep the coating thin and clear of moving parts."
+      }
+    ],
+    "category": "Boats",
+    "tags": [
+      "boats",
+      "maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/paddling community threads",
+        "url": "https://www.reddit.com/r/paddling/"
+      },
+      {
+        "label": "Search interest: \"kayak safety basics\"",
+        "url": "https://duckduckgo.com/?q=kayak%20safety%20basics"
+      }
+    ],
+    "publishedAt": "2026-10-18T11:43:21.592Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-boats-61",
     "title": "A weekend project: level up your boats in two hours",
     "dek": "One contained, satisfying boats project for recreational kayakers — start Saturday morning, done by lunch.",

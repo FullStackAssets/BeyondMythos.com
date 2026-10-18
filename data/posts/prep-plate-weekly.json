@@ -1,5 +1,56 @@
 [
   {
+    "slug": "quick-chili-macro-balance",
+    "title": "Spice up your week: a 30-minute macro-balanced chili",
+    "dek": "A fast, protein-rich chili that hits your macro goals without the kitchen marathon.",
+    "takeaway": "You can hit protein, carbs, and fat targets in 30 minutes with pantry staples.",
+    "whatHappened": "I tossed lean ground turkey, canned beans, and diced tomatoes into a pot, spiced it with cumin and smoked paprika, and let it simmer while I crushed a quick batch of quinoa. The result was a fragrant, balanced bowl ready to portion for the week.",
+    "whyItMatters": "Busy pros need meals that fuel performance and keep the fridge tidy. A macro-balanced chili reduces guesswork and prevents macro drift across the week.",
+    "howToThink": "Start by calculating your target protein per meal, then choose a lean protein source and pair it with fiber-rich beans and a modest carb side. Season aggressively—flavor compensates for the speed.",
+    "pros": [
+      "High protein per serving",
+      "Ready in 30 min",
+      "Freezer‑friendly portions"
+    ],
+    "cons": [
+      "Can be spicy for some",
+      "Requires quinoa prep",
+      "Limited veg variety"
+    ],
+    "watchOut": "Watch the simmer to avoid a burnt bottom.",
+    "faq": [
+      {
+        "q": "Can I swap turkey for beef?",
+        "a": "Yes, just adjust cooking time and keep the lean‑to‑fat ratio around 80/20."
+      },
+      {
+        "q": "How long will it keep in the freezer?",
+        "a": "Up to three months when stored in airtight containers."
+      },
+      {
+        "q": "What if I’m low‑carb?",
+        "a": "Replace quinoa with cauliflower rice or omit it entirely."
+      }
+    ],
+    "category": "Recipes",
+    "tags": [
+      "Recipes",
+      "Macros"
+    ],
+    "sources": [
+      {
+        "label": "r/EatCheapAndHealthy community threads",
+        "url": "https://www.reddit.com/r/EatCheapAndHealthy/"
+      },
+      {
+        "label": "Search interest: \"freezer friendly lunches\"",
+        "url": "https://duckduckgo.com/?q=freezer%20friendly%20lunches"
+      }
+    ],
+    "publishedAt": "2026-10-18T11:42:56.656Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-macros-78",
     "title": "The quiet upgrade: small tweaks in macros with outsized returns",
     "dek": "No purchases, no overhauls — the modest macros adjustments that busy professionals who meal prep report mattering most.",

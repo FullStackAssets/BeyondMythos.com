@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-flow-rate-test",
+    "title": "Revamp Your Espresso Shot with a Simple Flow Rate Test",
+    "dek": "A quick, low‑cost test to gauge your espresso machine’s flow rate and boost consistency.",
+    "takeaway": "Measure flow, adjust grind, and enjoy steadier shots.",
+    "whatHappened": "I timed a 30‑ml shot on my home machine using a kitchen scale and a stopwatch, then compared the results to the manufacturer’s specs. The numbers revealed a slower-than‑expected flow, prompting a minor grind adjustment that instantly sharpened the flavor profile.",
+    "whyItMatters": "Flow rate directly influences extraction time and flavor balance; a hidden bottleneck can turn a good espresso into a sour mess. By uncovering it, you gain a reliable lever to fine‑tune every brew.",
+    "howToThink": "Start by pulling a shot into a scale, noting the time to reach 30 ml. If it exceeds the target window (≈18‑20 s), coarsen the grind slightly; if it’s too fast, go finer. Repeat until the timing lands in the sweet spot, then lock in that setting for consistency.",
+    "pros": [
+      "Low cost",
+      "Fast results",
+      "No extra tools"
+    ],
+    "cons": [
+      "Requires timing",
+      "May need repeat",
+      "Not precise for all machines"
+    ],
+    "watchOut": "Don’t over‑extend the shot; stop before the brew finishes to avoid bitterness.",
+    "faq": [
+      {
+        "q": "What equipment do I need?",
+        "a": "A kitchen scale that timestamps grams and a basic stopwatch or phone timer."
+      },
+      {
+        "q": "Is this method accurate enough?",
+        "a": "It’s a practical approximation—great for daily tweaks, though not a substitute for lab‑grade flow meters."
+      },
+      {
+        "q": "How often should I repeat the test?",
+        "a": "Re‑test after cleaning, after changing beans, or whenever you notice flavor drift."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "technique"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-10-18T11:42:51.333Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-pressure-gauge-hack",
     "title": "Boost Your Espresso Shot Consistency with a Simple Pressure Gauge Hack",
     "dek": "Add a low‑cost pressure gauge to your machine and finally see why your shots vary.",

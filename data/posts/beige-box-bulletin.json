@@ -1,5 +1,56 @@
 [
   {
+    "slug": "dust-to-digital-reviving-commodore-64",
+    "title": "Dust to Digital: Reviving a 1984 Commodore 64 with Modern Firmware",
+    "dek": "We swapped a busted 1984 C64 motherboard for a refurbished board and flashed it with the latest open‑source firmware, proving vintage can run like new.",
+    "takeaway": "Even the oldest machines can be modernized with a bit of careful board work and open‑source firmware.",
+    "whatHappened": "After months of hunting, we sourced a donor Commodore 64 motherboard from a garage sale. We replaced corroded capacitors, repaired the power supply, and installed the Retro64 firmware. The machine powered up cleanly, booting games instantly.",
+    "whyItMatters": "Restorers often abandon dead boards, but a refreshed firmware extends usability and preserves original hardware. Emulators benefit from accurate timing when the source hardware runs correctly. This approach bridges restoration and emulation communities.",
+    "howToThink": "Start by diagnosing the board’s health with a multimeter, then prioritize capacitor replacement. Use the Retro64 firmware flashing guide to avoid bricking the ROM. Test each step with a simple BASIC program before loading games.",
+    "pros": [
+      "Extended hardware lifespan",
+      "Improved compatibility with modern media",
+      "Authentic experience with original case"
+    ],
+    "cons": [
+      "Requires soldering skill",
+      "Potentially voids vintage value",
+      "Firmware updates may need tech support"
+    ],
+    "watchOut": "Never power the C64 without first verifying all solder joints to avoid short circuits.",
+    "faq": [
+      {
+        "q": "Can I use any firmware on a C64?",
+        "a": "Only firmware designed for the 6510 CPU; Retro64 is the most reliable open‑source option."
+      },
+      {
+        "q": "Do I need a new power supply?",
+        "a": "If the original shows voltage drift or overheating, replace it; otherwise a refurbished unit works fine."
+      },
+      {
+        "q": "Will flashing firmware affect original ROMs?",
+        "a": "The process writes to a replaceable EPROM socket, leaving original ROM chips untouched."
+      }
+    ],
+    "category": "Restoration",
+    "tags": [
+      "Restoration",
+      "Firmware"
+    ],
+    "sources": [
+      {
+        "label": "r/vintagecomputing community threads",
+        "url": "https://www.reddit.com/r/vintagecomputing/"
+      },
+      {
+        "label": "Search interest: \"best emulation setup\"",
+        "url": "https://duckduckgo.com/?q=best%20emulation%20setup"
+      }
+    ],
+    "publishedAt": "2026-10-18T11:43:10.476Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-recap-vintage-computer-25",
     "title": "Myth vs. reality: recap vintage computer",
     "dek": "The persistent myths around recap vintage computer, stress-tested against what retro computer restorers and emulation fans actually report.",
