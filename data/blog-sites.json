@@ -1297,8 +1297,29 @@
       "streamUrl": "https://beyondmythos.com/",
       "elevenlabsAgentId": null,
       "lastPostAt": "2026-10-18T18:45:48.108Z"
+    },
+    {
+      "id": "glass-box-gardens-2-1792350930299",
+      "slug": "glass-box-gardens-2",
+      "name": "Glass Box Gardens",
+      "tagline": "Fresh takes for planted-tank keepers and aquascapers.",
+      "nicheId": "aquascaping",
+      "audience": "planted-tank keepers and aquascapers",
+      "categories": [
+        "Plants",
+        "Hardscape",
+        "CO2",
+        "Livestock"
+      ],
+      "url": "https://beyondmythos.com/sites/glass-box-gardens-2/",
+      "localUrl": "https://beyondmythos.com/sites/glass-box-gardens-2/",
+      "design": "cinema",
+      "postCount": 6,
+      "createdAt": "2026-10-18T19:15:23.768Z",
+      "streamUrl": "https://beyondmythos.com/",
+      "elevenlabsAgentId": null
     }
   ],
-  "lastGeneratedAt": "2026-10-18T18:15:22.169Z",
+  "lastGeneratedAt": "2026-10-18T19:15:23.768Z",
   "lastPostRunAt": "2026-10-18T18:45:48.118Z"
 }

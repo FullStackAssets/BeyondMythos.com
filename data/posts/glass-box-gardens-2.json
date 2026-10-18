@@ -1,0 +1,308 @@
+[
+  {
+    "slug": "glass-box-lighting-upgrade",
+    "title": "Boosting Your Glass Box with Smarter Lighting",
+    "category": "Hardscape",
+    "dek": "A quick guide to swapping out old fixtures for brighter, more efficient LEDs without breaking the bank.",
+    "takeaway": "Modern LED lighting gives stronger growth and clearer visuals for less power.",
+    "whatHappened": "Many hobbyists keep outdated fluorescent tubes that waste energy and produce uneven light. Switching to full‑spectrum LEDs improves plant photosynthesis and reveals hidden details in the aquascape. The upgrade is simple: match wattage, fit the same mount, and calibrate the timer.",
+    "whyItMatters": "Consistent light quality drives healthier plant roots and reduces algae spikes caused by light gaps. Better illumination also enhances viewer appeal, which matters for display tanks and contests. Energy savings add up over months of daily use.",
+    "howToThink": "Choose LEDs with a balanced 5,000–7,000 K spectrum and a dimming option. Start at 0.5 W per litre and watch plant response before raising intensity. Keep the fixture at a 45‑degree angle to avoid shadows.",
+    "pros": [
+      "Energy efficient",
+      "Long lifespan",
+      "Even spectrum"
+    ],
+    "cons": [
+      "Higher upfront cost",
+      "Heat management needed",
+      "Potential over‑lighting"
+    ],
+    "watchOut": "Avoid setting intensity too high, which can stress delicate mosses and trigger algae.",
+    "faq": [
+      {
+        "q": "Do I need a new controller for LED fixtures?",
+        "a": "Most LED strips plug into existing sockets; a simple timer works fine."
+      },
+      {
+        "q": "Can I mix LEDs with my current fluorescents?",
+        "a": "Mixing creates uneven spectra and defeats the purpose of an upgrade."
+      },
+      {
+        "q": "How often should I replace LED units?",
+        "a": "LEDs typically last several years, replace only when brightness drops noticeably."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/PlantedTank community threads",
+        "url": "https://www.reddit.com/r/PlantedTank/"
+      },
+      {
+        "label": "Search interest: \"low tech planted tank\"",
+        "url": "https://duckduckgo.com/?q=low%20tech%20planted%20tank"
+      }
+    ],
+    "tags": [
+      "lighting",
+      "hardscape"
+    ],
+    "publishedAt": "2026-10-18T19:15:30.299Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "microfauna-intro",
+    "title": "Microfauna: The Unsung Heroes of Glass Box Gardens",
+    "category": "Livestock",
+    "dek": "Why adding a handful of micro‑crustaceans can keep your substrate clean and boost plant health.",
+    "takeaway": "Tiny detritivores recycle waste faster than water changes alone.",
+    "whatHappened": "Aquascapers often overlook the role of micro‑fauna, focusing on visible fish and shrimp. Introducing species like copepods and amphipods creates a living cleanup crew that consumes excess algae and uneaten food. They also become a natural food source for larger inhabitants.",
+    "whyItMatters": "A balanced micro‑fauna population reduces nitrate spikes and promotes a stable bio‑film, which supports plant root uptake. It also mimics natural ecosystems, leading to more resilient tanks. Less reliance on chemical cleaners means a more organic look.",
+    "howToThink": "Seed your tank with a starter culture from a reputable source, then feed them powdered algae or finely crushed leaf litter. Keep the water flow gentle to let them graze. Monitor numbers; a sudden bloom signals excess nutrients.",
+    "pros": [
+      "Natural waste reduction",
+      "Food chain starter",
+      "Low maintenance"
+    ],
+    "cons": [
+      "May be eaten by larger fish",
+      "Sensitive to copper",
+      "Requires initial seeding"
+    ],
+    "watchOut": "Avoid copper‑based medications, which can wipe out your micro‑fauna overnight.",
+    "faq": [
+      {
+        "q": "Do micro‑fauna need special water parameters?",
+        "a": "They thrive in the same range as most community tanks; stable temperature and pH are enough."
+      },
+      {
+        "q": "Can I over‑stock micro‑fauna?",
+        "a": "High densities can compete with plants for nutrients, so keep them moderate."
+      },
+      {
+        "q": "How long does a starter culture last?",
+        "a": "With regular feeding, it can sustain the tank indefinitely."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/Aquascape community threads",
+        "url": "https://www.reddit.com/r/Aquascape/"
+      },
+      {
+        "label": "Search interest: \"aquascape hardscape ideas\"",
+        "url": "https://duckduckgo.com/?q=aquascape%20hardscape%20ideas"
+      }
+    ],
+    "tags": [
+      "livestock",
+      "microfauna"
+    ],
+    "publishedAt": "2026-10-17T06:15:30.299Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "low-tech-co2-alternatives",
+    "title": "Low‑Tech CO₂ Alternatives for Beginner Glass Boxes",
+    "category": "CO2",
+    "dek": "Explore cheap, low‑maintenance ways to boost carbon without a pressurized system.",
+    "takeaway": "DIY carbon sources can give plants a gentle boost without the hassle of regulators.",
+    "whatHappened": "New hobbyists often skip CO₂ due to cost and complexity, resulting in slower plant growth. Simple methods like liquid carbon additives or DIY yeast reactors provide a modest carbon supply. The key is matching the output to the tank’s light level.",
+    "whyItMatters": "Even a small CO₂ boost can improve leaf coloration and reduce unwanted algae, especially under moderate lighting. Low‑tech solutions also lower the barrier to entry, encouraging more aquascapers to experiment with plant‑heavy layouts.",
+    "howToThink": "Start with a reputable liquid carbon product, dosing according to label instructions. If you prefer a DIY approach, use a small yeast bottle, monitor bubbles, and adjust sugar feedings weekly. Keep the system out of direct light to avoid unwanted algae growth in the reactor.",
+    "pros": [
+      "Affordable",
+      "Easy setup",
+      "Low maintenance"
+    ],
+    "cons": [
+      "Limited carbon output",
+      "Potential for contamination",
+      "Less precise control"
+    ],
+    "watchOut": "Never over‑dose liquid carbon; excess can cause plant leaf burn.",
+    "faq": [
+      {
+        "q": "Is liquid carbon safe for fish?",
+        "a": "Yes, when used at recommended levels it does not harm most community fish."
+      },
+      {
+        "q": "How often should I replace a yeast reactor?",
+        "a": "Refresh the mixture every 1–2 weeks to maintain activity."
+      },
+      {
+        "q": "Can I combine a reactor with a small pressurized system?",
+        "a": "Mixing methods can work, but monitor for excess bubbles and adjust dosing."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/shrimptank community threads",
+        "url": "https://www.reddit.com/r/shrimptank/"
+      },
+      {
+        "label": "Search interest: \"beginner aquarium plants\"",
+        "url": "https://duckduckgo.com/?q=beginner%20aquarium%20plants"
+      }
+    ],
+    "tags": [
+      "co2",
+      "lowtech"
+    ],
+    "publishedAt": "2026-10-15T17:15:30.299Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "java-fern-tricks",
+    "title": "Java Fern Mastery: Placement, Pruning, and Propagation",
+    "category": "Plants",
+    "dek": "Maximize growth and visual impact of Java Fern with three proven techniques.",
+    "takeaway": "Anchoring, light positioning, and regular trimming keep Java Fern lush and tidy.",
+    "whatHappened": "Java Fern is a go‑to plant for beginners, yet many keep it loosely attached, leading to drift and unsightly fronds. By securing rhizomes to rocks or driftwood, you give the plant a stable anchor. Adjusting light to medium intensity and trimming dead leaves twice a month encourages new growth.",
+    "whyItMatters": "A well‑anchored fern reduces the need for frequent repositioning and prevents leaf loss that can cloud water. Proper pruning improves gas exchange, which translates to richer green tones and healthier stems. These steps also make the plant more resilient to water changes.",
+    "howToThink": "Use zip ties or fishing line to fasten the rhizome without crushing it. Place the plant where light reaches but not directly overhead to avoid scorching. Clip any brown or mushy leaves at the base, leaving a clean edge.",
+    "pros": [
+      "Hardy",
+      "Low light tolerant",
+      "Easy to propagate"
+    ],
+    "cons": [
+      "Slow initial growth",
+      "Can become tangled",
+      "Needs occasional anchoring"
+    ],
+    "watchOut": "Avoid burying the rhizome in substrate; it can rot and kill the plant.",
+    "faq": [
+      {
+        "q": "Can I float Java Fern?",
+        "a": "Yes, but it will grow slower without a solid anchor."
+      },
+      {
+        "q": "How often should I re‑anchor drifting fronds?",
+        "a": "Check weekly and re‑tie as needed."
+      },
+      {
+        "q": "Is CO₂ necessary for Java Fern?",
+        "a": "Not essential; the plant thrives with modest carbon levels."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/PlantedTank community threads",
+        "url": "https://www.reddit.com/r/PlantedTank/"
+      },
+      {
+        "label": "Search interest: \"low tech planted tank\"",
+        "url": "https://duckduckgo.com/?q=low%20tech%20planted%20tank"
+      }
+    ],
+    "tags": [
+      "plants",
+      "java-fern"
+    ],
+    "publishedAt": "2026-10-14T04:15:30.299Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "substrate-layering-tips",
+    "title": "Layering Substrate for Optimal Plant Roots",
+    "category": "Hardscape",
+    "dek": "A step‑by‑step method to build a nutrient‑rich base without over‑compacting the tank.",
+    "takeaway": "Strategic layering delivers nutrients where roots need them while keeping water flow healthy.",
+    "whatHappened": "Many aquascapers dump a single grain‑size substrate, leading to compaction and poor root aeration. By placing a coarse base layer, followed by a fine nutrient layer, you create pockets for water exchange and a rich feeding zone. The top decorative layer then protects the nutrients from being flushed out.",
+    "whyItMatters": "Properly layered substrate supports vigorous root development, which translates to stronger, greener plants. It also reduces the frequency of substrate vacuuming because nutrients stay where they belong. A well‑structured base helps prevent unwanted algae by limiting excess nutrients in the water column.",
+    "howToThink": "Start with 1‑2 cm of aquarium gravel for drainage, add 2‑3 cm of nutrient‑rich soil, then top with a thin (5‑10 mm) layer of fine sand or laterite. Lightly press each layer to eliminate voids, but avoid compacting fully. Monitor plant response and adjust top layer thickness if you see cloudiness.",
+    "pros": [
+      "Improved root health",
+      "Better nutrient retention",
+      "Reduced algae risk"
+    ],
+    "cons": [
+      "More setup time",
+      "Potential for layer disturbance",
+      "Needs careful cleaning"
+    ],
+    "watchOut": "Do not over‑fill the nutrient layer, as excess can leach into the water and fuel algae.",
+    "faq": [
+      {
+        "q": "Can I use plain sand as the top layer?",
+        "a": "Yes, a thin sand cap works well to keep soil in place."
+      },
+      {
+        "q": "How often should I replace the nutrient layer?",
+        "a": "Only when you notice depletion, usually after several months of heavy planting."
+      },
+      {
+        "q": "Is a DIY soil mix safe for fish?",
+        "a": "When properly rinsed and sealed, it is safe for most community species."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/Aquascape community threads",
+        "url": "https://www.reddit.com/r/Aquascape/"
+      },
+      {
+        "label": "Search interest: \"aquascape hardscape ideas\"",
+        "url": "https://duckduckgo.com/?q=aquascape%20hardscape%20ideas"
+      }
+    ],
+    "tags": [
+      "hardscape",
+      "substrate"
+    ],
+    "publishedAt": "2026-10-12T15:15:30.299Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "shrimp-compatibility-guide",
+    "title": "Choosing Shrimp Species That Play Nice in Glass Boxes",
+    "category": "Livestock",
+    "dek": "A quick compatibility chart to avoid predation and keep your shrimp thriving.",
+    "takeaway": "Select shrimp that match tank size, water parameters, and resident fish temperament.",
+    "whatHappened": "Aquascapers often add popular cherry shrimp to tanks that already house aggressive dwarf cichlids, leading to high shrimp loss. By checking temperament, size, and water preferences, you can pair shrimp with peaceful community fish or keep a dedicated shrimp refugium. Providing hiding spots like moss and leaf litter further boosts survival.",
+    "whyItMatters": "Healthy shrimp contribute to algae control and serve as a natural food source for small fish, creating a balanced ecosystem. Their vivid colors also add visual interest without dominating the layout. Avoiding predation reduces stress for all inhabitants, leading to steadier water parameters.",
+    "howToThink": "Match shrimp to a temperature range of 22‑26 °C and a pH of 6.5‑7.5, common for most planted tanks. Pair with fish that stay below the mid‑water line and avoid mouth‑gaping species. Add dense foliage or sponge caves to give shrimp escape routes.",
+    "pros": [
+      "Algae grazers",
+      "Colorful accents",
+      "Easy breeding"
+    ],
+    "cons": [
+      "Sensitive to copper",
+      "Can be preyed upon",
+      "Requires stable parameters"
+    ],
+    "watchOut": "Never introduce copper‑based medications while shrimp are present; it can be lethal.",
+    "faq": [
+      {
+        "q": "Can I keep ghost shrimp with guppies?",
+        "a": "Yes, guppies are generally peaceful enough to coexist with ghost shrimp."
+      },
+      {
+        "q": "Do shrimp need extra food?",
+        "a": "Supplement with algae wafers or blanched vegetables if natural bio‑film is low."
+      },
+      {
+        "q": "How many shrimp per litre is safe?",
+        "a": "A modest colony of 2‑3 shrimp per litre works well without over‑crowding."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/shrimptank community threads",
+        "url": "https://www.reddit.com/r/shrimptank/"
+      },
+      {
+        "label": "Search interest: \"beginner aquarium plants\"",
+        "url": "https://duckduckgo.com/?q=beginner%20aquarium%20plants"
+      }
+    ],
+    "tags": [
+      "livestock",
+      "shrimp"
+    ],
+    "publishedAt": "2026-10-11T02:15:30.299Z",
+    "readMinutes": 2
+  }
+]
