@@ -1,5 +1,56 @@
 [
   {
+    "slug": "ask-the-forge-troubleshooting-64",
+    "title": "Ask the forge: your troubleshooting questions, answered",
+    "dek": "Straight answers to the troubleshooting questions home bakers and sourdough beginners keep asking, minus the hedging.",
+    "takeaway": "Most troubleshooting questions have boring, reliable answers. Here they are, without the two thousand words of preamble.",
+    "whatHappened": "We gathered the questions that appear weekly wherever home bakers and sourdough beginners compare notes — the ones usually answered with \"it depends\" — and committed to actual answers with actual reasoning.",
+    "whyItMatters": "\"It depends\" is true and useless. Newcomers to troubleshooting don't need every caveat; they need a defensible default they can adjust later.",
+    "howToThink": "Take the default, use it for a month, then earn your deviations. Customization is a reward for data, not a starting requirement.",
+    "pros": [
+      "Defaults beat decision paralysis",
+      "Reasoning shown, not just verdicts",
+      "Adjustable once you have data"
+    ],
+    "cons": [
+      "Defaults fit most, not all",
+      "Experts will quibble — always",
+      "Questions evolve; answers date"
+    ],
+    "watchOut": "Any answer that can't say what would change its mind isn't an answer — it's an identity. Ours come with conditions attached.",
+    "faq": [
+      {
+        "q": "What's the most-asked question?",
+        "a": "\"What should I buy first?\" — and the answer is almost always: nothing yet. Run the routine for two weeks first."
+      },
+      {
+        "q": "Why give defaults instead of options?",
+        "a": "Because ten options produce paralysis and one default produces feedback. You can only iterate on something you started."
+      },
+      {
+        "q": "How often do these answers change?",
+        "a": "We revisit quarterly. The fundamentals drift slowly; the gear recommendations drift fast."
+      }
+    ],
+    "category": "Troubleshooting",
+    "tags": [
+      "Troubleshooting",
+      "Bread"
+    ],
+    "sources": [
+      {
+        "label": "r/Breadit community threads",
+        "url": "https://www.reddit.com/r/Breadit/"
+      },
+      {
+        "label": "Search interest: \"sourdough starter troubleshooting\"",
+        "url": "https://duckduckgo.com/?q=sourdough%20starter%20troubleshooting"
+      }
+    ],
+    "publishedAt": "2026-10-18T14:31:09.244Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-tools-63",
     "title": "The quiet upgrade: small tweaks in tools with outsized returns",
     "dek": "No purchases, no overhauls — the modest tools adjustments that home bakers and sourdough beginners report mattering most.",

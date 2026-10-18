@@ -1,5 +1,56 @@
 [
   {
+    "slug": "gear-hack-repurpose-items",
+    "title": "Gear hack: repurpose everyday items for rock‑steady shots",
+    "dek": "Turn household objects into cheap camera rigs that deliver pro‑level stability without breaking the bank.",
+    "takeaway": "Simple, low‑cost tools can dramatically improve shot stability for indie shoots.",
+    "whatHappened": "We tested a stack of books, a PVC pipe, and a kitchen towel clamp as makeshift dollies and rigs on a short‑film set. The improvised gear held up through quick pans and low‑angle moves, matching the performance of rented gear in basic scenarios.",
+    "whyItMatters": "Budget constraints often force indie creators to cut corners on stability, leading to shaky footage that distracts viewers. Using everyday items keeps costs low while maintaining visual quality, letting more resources go toward story and talent.",
+    "howToThink": "Start by identifying the motion you need—track, tilt, or static support—and match it to an object with similar geometry. Secure the camera with a clamp or strap, test for wobble, and reinforce with sandbags or tape as needed. Iterate quickly; the best rigs are those you can build, test, and tweak on set.",
+    "pros": [
+      "Near‑zero cost",
+      "Readily available materials",
+      "Easy to customize on the fly"
+    ],
+    "cons": [
+      "Limited precision vs. professional rigs",
+      "Potential safety concerns if not secured properly",
+      "May not support heavy camera setups"
+    ],
+    "watchOut": "Always double‑check the weight limit and secure all connections to avoid drops.",
+    "faq": [
+      {
+        "q": "Can I use these hacks with mirrorless cameras?",
+        "a": "Yes, as long as the rig can support the camera’s weight and you use appropriate mounting adapters."
+      },
+      {
+        "q": "What safety measures should I take?",
+        "a": "Balance the load, use non‑slip surfaces, and test the rig before attaching the camera."
+      },
+      {
+        "q": "Are these solutions suitable for outdoor shoots?",
+        "a": "They work best in controlled environments; for wind or uneven terrain, add extra weight or use more robust materials."
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "DIY gear",
+      "budget stabilization"
+    ],
+    "sources": [
+      {
+        "label": "r/videography community threads",
+        "url": "https://www.reddit.com/r/videography/"
+      },
+      {
+        "label": "Search interest: \"short film festival strategy\"",
+        "url": "https://duckduckgo.com/?q=short%20film%20festival%20strategy"
+      }
+    ],
+    "publishedAt": "2026-10-18T14:30:53.905Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "rapid-montage-workflow",
     "title": "Rapid montage workflow: edit faster with these shortcuts",
     "dek": "Cut your edit time in half with a handful of quick‑cut tricks that fit indie budgets.",

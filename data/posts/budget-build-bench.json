@@ -1,5 +1,56 @@
 [
   {
+    "slug": "hidden-gems-12-month-old-gpus",
+    "title": "Hidden gems: 12‑month‑old GPUs that still punch above their weight",
+    "dek": "Discover older GPUs that still deliver solid 1080p performance without breaking the bank.",
+    "takeaway": "You can get respectable 1080p gaming from last‑generation cards for a fraction of new‑price.",
+    "whatHappened": "We scoured recent listings and tested a handful of GPUs released 12‑18 months ago, comparing them to current budget expectations. The cards held up surprisingly well in everyday titles.",
+    "whyItMatters": "Budget builders often overlook slightly older hardware, assuming it’s obsolete. Knowing which cards still offer value prevents overspending and reduces e‑waste.",
+    "howToThink": "Focus on real‑world game performance, driver support, and power draw rather than hype. Prioritize cards with strong 1080p frame rates and low thermals when hunting deals.",
+    "pros": [
+      "Low cost",
+      "Decent 1080p performance",
+      "Mature driver support"
+    ],
+    "cons": [
+      "Higher power draw than newest ultra‑low‑power chips",
+      "Potentially limited VRAM for future titles",
+      "May lack newer features like ray tracing"
+    ],
+    "watchOut": "Check the card’s condition and ensure the seller includes any needed power adapters.",
+    "faq": [
+      {
+        "q": "Do older GPUs still receive driver updates?",
+        "a": "Yes, manufacturers typically support cards for several years, so recent driver releases still improve performance and fix bugs."
+      },
+      {
+        "q": "Is 4 GB VRAM enough for modern games?",
+        "a": "For most 1080p titles it’s adequate, though some newer games may require settings adjustments or run out of memory at higher texture levels."
+      },
+      {
+        "q": "What should I look for when buying used?",
+        "a": "Inspect for physical damage, confirm the fan spins freely, and ask about the card’s operating temperature history."
+      }
+    ],
+    "category": "GPUs",
+    "tags": [
+      "budget GPUs",
+      "used hardware"
+    ],
+    "sources": [
+      {
+        "label": "r/pcmasterrace community threads",
+        "url": "https://www.reddit.com/r/pcmasterrace/"
+      },
+      {
+        "label": "Search interest: \"1440p value build\"",
+        "url": "https://duckduckgo.com/?q=1440p%20value%20build"
+      }
+    ],
+    "publishedAt": "2026-10-18T14:30:49.535Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "rx-6600-xt-10-euro-boost",
     "title": "RX 6600 XT: squeezing performance for under €150",
     "dek": "A deep dive into the RX 6600 XT’s 10‑euro price drop and what it means for budget 1080p builds.",

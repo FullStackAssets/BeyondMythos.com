@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel-Perfect Timing: Using a Simple LED Counter for Frame-Accurate Splits</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/led-counter-frame-splits.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/led-counter-frame-splits.html</guid>
+      <pubDate>Sun, 18 Oct 2026 14:30:46 GMT</pubDate>
+      <description>Add a cheap LED counter to your controller port for instant visual feedback on frame timing and tighter splits.</description>
+    </item>
+    <item>
       <title>Turbocharging Your TurboGrafx: A Simple Button Mod for Speedrun Gains</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/turbocharging-turbografx-button-mod.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/turbocharging-turbografx-button-mod.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/turbocharging-nes-controller-upgrade.html</guid>
       <pubDate>Tue, 25 Aug 2026 13:33:48 GMT</pubDate>
       <description>Boost your NES controller&apos;s responsiveness with a cheap mod that cuts input lag for faster runs.</description>
-    </item>
-    <item>
-      <title>Five mistakes everyone makes in their first month of speedruns</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/five-speedruns-mistakes-53.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/five-speedruns-mistakes-53.html</guid>
-      <pubDate>Tue, 25 Aug 2026 12:01:51 GMT</pubDate>
-      <description>The most common early stumbles in speedruns, and the cheap corrections that fix them for retro game collectors and speedrunners.</description>
     </item>
   </channel>
 </rss>

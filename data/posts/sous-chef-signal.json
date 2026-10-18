@@ -1,5 +1,56 @@
 [
   {
+    "slug": "five-pantry-mistakes-72",
+    "title": "Five mistakes everyone makes in their first month of pantry",
+    "dek": "The most common early stumbles in pantry, and the cheap corrections that fix them for home cooks systematizing weeknight dinners.",
+    "takeaway": "Month-one mistakes in pantry are nearly universal — and nearly all reversible if you catch them early.",
+    "whatHappened": "We combed the recurring \"what did I do wrong\" threads that home cooks systematizing weeknight dinners post and the same five pantry mistakes appear over and over: buying before learning, copying advanced setups, skipping the log, chasing novelty, and quitting during the boring middle.",
+    "whyItMatters": "Each of these mistakes feels productive while you're making it. That's why they persist — and why naming them explicitly saves newcomers weeks of stalled progress in pantry.",
+    "howToThink": "Audit yourself against the list once a month. The point isn't guilt — it's that every one of these has a five-minute correction if you notice it early enough.",
+    "pros": [
+      "Each mistake has a cheap fix",
+      "Recognition is most of the cure",
+      "Applies at any experience level"
+    ],
+    "cons": [
+      "Easy to nod along and change nothing",
+      "Some mistakes feel like progress",
+      "Lists can't replace a habit"
+    ],
+    "watchOut": "The most expensive version of every month-one mistake is the one you rationalize as \"investing in the hobby.\"",
+    "faq": [
+      {
+        "q": "Which mistake costs the most?",
+        "a": "Buying before learning — it converts enthusiasm into clutter and guilt instead of skill."
+      },
+      {
+        "q": "I already made all five. Now what?",
+        "a": "Good news: so did everyone else. Pick the one currently costing you the most and fix only that."
+      },
+      {
+        "q": "How do I avoid new mistakes?",
+        "a": "Keep the log. Most errors are invisible until they're written down."
+      }
+    ],
+    "category": "Pantry",
+    "tags": [
+      "Pantry",
+      "Knife Skills"
+    ],
+    "sources": [
+      {
+        "label": "r/MealPrepSunday community threads",
+        "url": "https://www.reddit.com/r/MealPrepSunday/"
+      },
+      {
+        "label": "Search interest: \"pantry staples list\"",
+        "url": "https://duckduckgo.com/?q=pantry%20staples%20list"
+      }
+    ],
+    "publishedAt": "2026-10-18T14:31:03.227Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weeknight-dinner-formula-field-test-25",
     "title": "\"weeknight dinner formula\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about weeknight dinner formula through a month of actual use. Some of it survived.",

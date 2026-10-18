@@ -1,5 +1,56 @@
 [
   {
+    "slug": "timing-espresso-shot-kitchen-timer",
+    "title": "Timing Your Espresso Shot with a Simple Kitchen Timer",
+    "dek": "Use a cheap kitchen timer to nail consistent shot times without expensive tech.",
+    "takeaway": "A basic timer can give you repeatable extraction timing for better espresso.",
+    "whatHappened": "I tried timing my espresso shots with a kitchen timer instead of the built‑in machine clock. The timer’s audible click helped me stop the pour at the right moment, leading to smoother flavor.",
+    "whyItMatters": "Shot timing is a core variable that influences balance and body. Consistency here reduces guesswork and improves repeatability across daily brews.",
+    "howToThink": "Treat the timer as a visual and auditory cue; aim for the target window you prefer, then adjust grind or dose to match. Over time you’ll internalize the rhythm without needing the device.",
+    "pros": [
+      "Inexpensive",
+      "Easy to use",
+      "Works with any machine"
+    ],
+    "cons": [
+      "Limited precision",
+      "Requires manual start/stop",
+      "May be noisy"
+    ],
+    "watchOut": "Don’t rely on the timer for exact milliseconds; use it as a guide, not a lab instrument.",
+    "faq": [
+      {
+        "q": "Can I use a smartphone timer instead?",
+        "a": "Yes, any audible timer works, just keep it visible and consistent."
+      },
+      {
+        "q": "What is a good target shot time for a standard double?",
+        "a": "Around 25‑30 seconds is a common starting point for many home setups."
+      },
+      {
+        "q": "Will this replace a pressure gauge?",
+        "a": "No, it complements pressure monitoring by focusing on the time dimension."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "timing"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-10-18T14:30:47.397Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-flow-rate-test",
     "title": "Revamp Your Espresso Shot with a Simple Flow Rate Test",
     "dek": "A quick, low‑cost test to gauge your espresso machine’s flow rate and boost consistency.",

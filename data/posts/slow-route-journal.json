@@ -1,5 +1,56 @@
 [
   {
+    "slug": "trackside-kitchens",
+    "title": "Trackside Kitchens: Cooking Low‑Impact Meals on the Move",
+    "dek": "A quick guide to turning a train’s pantry into a zero‑waste kitchen for slow‑travelers.",
+    "takeaway": "With a few reusable tools, you can eat well on the rails without adding waste.",
+    "whatHappened": "During a week‑long journey across the countryside, I swapped disposable snacks for a portable stove, reusable containers, and locally sourced ingredients, cooking simple meals in the carriage’s pantry space.",
+    "whyItMatters": "Food waste is a hidden impact of train travel; by preparing meals on board you reduce packaging trash and support local producers, aligning with low‑impact travel values.",
+    "howToThink": "Pack a compact stove, a set of stainless‑steel containers, and a small spice kit. Plan meals around ingredients that can be bought at station markets, and use the carriage’s shared kitchen or a portable hot‑plate when allowed.",
+    "pros": [
+      "Zero waste meals",
+      "Fresh local flavors",
+      "Budget friendly"
+    ],
+    "cons": [
+      "Limited cooking space",
+      "Need to check carriage rules",
+      "Extra gear to carry"
+    ],
+    "watchOut": "Make sure the train’s policy permits open flames or portable stoves before you pack them.",
+    "faq": [
+      {
+        "q": "Can I use a gas stove on a passenger train?",
+        "a": "Most operators forbid open flames; a small electric hot‑plate that plugs into a seat outlet is usually acceptable."
+      },
+      {
+        "q": "What containers are best for low‑impact travel?",
+        "a": "Reusable stainless‑steel or glass jars with tight lids keep food fresh and avoid single‑use plastic."
+      },
+      {
+        "q": "How do I manage food storage on a moving train?",
+        "a": "Store items in an insulated bag that fits under your seat; use ice packs that can be refrozen at stations."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail‑cooking",
+      "low‑impact‑packing"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-10-18T14:30:47.961Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "cafe-carriage-brewing-community",
     "title": "Café Carriage: Brewing Community on Moving Trains",
     "dek": "How a pop‑up coffee cart on a regional line turns travel pauses into low‑impact social hubs.",

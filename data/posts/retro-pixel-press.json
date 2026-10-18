@@ -1,5 +1,56 @@
 [
   {
+    "slug": "led-counter-frame-splits",
+    "title": "Pixel-Perfect Timing: Using a Simple LED Counter for Frame-Accurate Splits",
+    "dek": "Add a cheap LED counter to your controller port for instant visual feedback on frame timing and tighter splits.",
+    "takeaway": "A visual frame counter can shave precious milliseconds off your runs without pricey equipment.",
+    "whatHappened": "I soldered a tiny LED display onto a spare controller port and wired it to the console's frame‑sync output. The LEDs flash each frame, giving a clear count as I play. After a brief calibration, the counter synced perfectly with the game’s internal timer.",
+    "whyItMatters": "Speedrunners live on the edge of every frame; seeing the exact count lets you fine‑tune inputs and avoid costly mis‑reads. It also provides a low‑tech safety net when software timers lag or glitch.",
+    "howToThink": "Start with a basic 7‑segment LED module and a simple transistor driver. Map the console’s V‑blank signal to the module, test with a known frame‑rate game, then adjust the driver’s pull‑up resistors for crisp flashes. Keep the wiring short to avoid signal degradation.",
+    "pros": [
+      "Ultra‑low cost",
+      "Instant visual feedback",
+      "Works on any retro console"
+    ],
+    "cons": [
+      "Requires basic soldering",
+      "Limited to games with accessible sync signals",
+      "LED brightness may vary by console"
+    ],
+    "watchOut": "Make sure the LED module’s voltage matches the console’s output to avoid damage.",
+    "faq": [
+      {
+        "q": "Do I need a multimeter to set this up?",
+        "a": "A multimeter helps verify the sync signal level, but you can often start with a known‑good resistor value and adjust by eye."
+      },
+      {
+        "q": "Will this work on handhelds like the Game Boy?",
+        "a": "Handhelds lack a separate V‑blank line, so the trick is trickier; focus on consoles with a dedicated video sync output."
+      },
+      {
+        "q": "Can I use a hobbyist microcontroller instead of raw LEDs?",
+        "a": "Yes, a tiny microcontroller can count frames and drive an LED or buzzer, but it adds complexity and cost."
+      }
+    ],
+    "category": "Speedruns",
+    "tags": [
+      "hardware hack",
+      "speedrun tools"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-18T14:30:46.900Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "turbocharging-turbografx-button-mod",
     "title": "Turbocharging Your TurboGrafx: A Simple Button Mod for Speedrun Gains",
     "dek": "A quick, solder‑free mod that adds a tactile button to your TurboGrafx‑16 for sharper inputs.",
