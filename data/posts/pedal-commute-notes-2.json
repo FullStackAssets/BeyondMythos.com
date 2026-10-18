@@ -1,0 +1,308 @@
+[
+  {
+    "slug": "shortcut-bridge-ride",
+    "title": "Shortcut Bridge Ride: Cutting Commute Time",
+    "category": "Routes",
+    "dek": "Discover a low‑traffic bridge that shaves minutes off your daily loop.",
+    "takeaway": "Using quieter bridges can make your ride smoother and quicker.",
+    "whatHappened": "I tried the Riverside Pedestrian Bridge on a Tuesday, noting fewer cars and smoother flow. The detour added only a few extra metres but cut the stop‑and‑go at the main intersection.",
+    "whyItMatters": "Less congestion means lower stress and better predictability for your arrival time. It also reduces exposure to busy traffic hotspots.",
+    "howToThink": "Map your regular route, then look for nearby bridges or underpasses that parallel busy streets. Test them at off‑peak times and note any changes in travel time or comfort.",
+    "pros": [
+      "Quieter streets",
+      "Reduced stop‑go",
+      "Scenic view"
+    ],
+    "cons": [
+      "Potential extra distance",
+      "Unfamiliar path",
+      "Possible signage gaps"
+    ],
+    "watchOut": "Watch for cyclists' right‑of‑way rules on shared bridges.",
+    "faq": [
+      {
+        "q": "Is the bridge legal for cyclists?",
+        "a": "Most city pedestrian bridges allow bikes unless signs say otherwise."
+      },
+      {
+        "q": "Do I need to signal when entering?",
+        "a": "A simple hand signal helps alert pedestrians of your approach."
+      },
+      {
+        "q": "What if the bridge is crowded?",
+        "a": "Yield to pedestrians and keep a steady, predictable speed."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/bikecommuting community threads",
+        "url": "https://www.reddit.com/r/bikecommuting/"
+      },
+      {
+        "label": "Search interest: \"bike commute gear\"",
+        "url": "https://duckduckgo.com/?q=bike%20commute%20gear"
+      }
+    ],
+    "tags": [
+      "route-planning",
+      "efficiency"
+    ],
+    "publishedAt": "2026-10-18T22:15:57.558Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "rainy-day-visibility",
+    "title": "Rainy‑Day Visibility: Stay Seen, Stay Safe",
+    "category": "Safety",
+    "dek": "Boost your presence in wet weather without sacrificing speed.",
+    "takeaway": "Bright, reflective gear plus strategic lighting cuts the risk of being missed.",
+    "whatHappened": "During a sudden downpour, I switched to a high‑visibility rain jacket and added a front flashing LED. Cars slowed as I approached a busy intersection, and I felt more confident navigating puddles.",
+    "whyItMatters": "Wet conditions dim headlights and blur outlines, making cyclists harder to spot. Improving visibility protects both you and drivers.",
+    "howToThink": "Choose gear with reflective strips that catch ambient light, and pair it with a battery‑powered LED that flashes or pulses. Test the combo on a short ride before relying on it in heavy rain.",
+    "pros": [
+      "Better driver awareness",
+      "Low energy consumption",
+      "Easy to attach"
+    ],
+    "cons": [
+      "May add slight wind resistance",
+      "Battery needs occasional charging",
+      "Reflective material can wear over time"
+    ],
+    "watchOut": "Avoid overly bright flashes that could distract drivers and cause safety issues.",
+    "faq": [
+      {
+        "q": "Do reflective jackets work at night?",
+        "a": "They help, but combine them with a front light for full coverage."
+      },
+      {
+        "q": "Can I use a USB power bank for LEDs?",
+        "a": "Yes, a small power bank provides longer runtime than a coin cell."
+      },
+      {
+        "q": "Is a helmet visor needed?",
+        "a": "A clear visor protects rain but does not replace reflective gear."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/bicycling community threads",
+        "url": "https://www.reddit.com/r/bicycling/"
+      },
+      {
+        "label": "Search interest: \"urban cycling safety\"",
+        "url": "https://duckduckgo.com/?q=urban%20cycling%20safety"
+      }
+    ],
+    "tags": [
+      "weather",
+      "visibility"
+    ],
+    "publishedAt": "2026-10-17T09:15:57.558Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "chain-maintenance-quick-fix",
+    "title": "Chain Maintenance Quick‑Fix for the Daily Commute",
+    "category": "Maintenance",
+    "dek": "A fast routine to keep your chain running smooth all week long.",
+    "takeaway": "A brief cleaning and lubrication once a week prevents wear and improves efficiency.",
+    "whatHappened": "After noticing a squeak on the morning ride, I stopped at a coffee shop, wiped the chain with a rag, applied a drop of bike‑specific oil, and rode on. The noise vanished and shifting felt crisper.",
+    "whyItMatters": "A dirty chain increases friction, which can sap energy and accelerate component wear. Regular care extends the life of drivetrain parts.",
+    "howToThink": "Carry a small rag and a travel‑size lubricant. After each ride, give the chain a quick wipe, then add a thin layer of oil while the chain is still moving. Wipe off excess to avoid grime buildup.",
+    "pros": [
+      "Longer drivetrain life",
+      "Smoother pedalling",
+      "Minimal time investment"
+    ],
+    "cons": [
+      "Requires carrying small tools",
+      "Needs regular attention",
+      "Oil can attract dust if over‑applied"
+    ],
+    "watchOut": "Avoid using motor oil or WD‑40 as a substitute; they can attract more grit.",
+    "faq": [
+      {
+        "q": "How often should I clean the chain?",
+        "a": "At least once a week, or after riding in wet or dusty conditions."
+      },
+      {
+        "q": "Can I use a dry lube?",
+        "a": "Dry lube works well in dusty environments; choose based on typical weather."
+      },
+      {
+        "q": "Do I need to remove the chain to clean it?",
+        "a": "No, a quick surface wipe is enough for routine maintenance."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/whichbike community threads",
+        "url": "https://www.reddit.com/r/whichbike/"
+      },
+      {
+        "label": "Search interest: \"commuter bike maintenance\"",
+        "url": "https://duckduckgo.com/?q=commuter%20bike%20maintenance"
+      }
+    ],
+    "tags": [
+      "maintenance",
+      "drivetrain"
+    ],
+    "publishedAt": "2026-10-15T20:15:57.558Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "lightweight-helmet-trends",
+    "title": "Lightweight Helmet Trends: Safety Meets Speed",
+    "category": "Gear",
+    "dek": "What to look for when choosing a feather‑light commuter helmet.",
+    "takeaway": "Modern helmets can be both light and protective, helping you stay agile without compromising safety.",
+    "whatHappened": "I tried a new foam‑core helmet advertised as ultra‑light. The weight difference was noticeable on the shoulders, and the ventilation kept my head cool on a warm afternoon ride.",
+    "whyItMatters": "A lighter helmet reduces neck fatigue on longer rides, encouraging more frequent commuting. At the same time, meeting safety standards remains non‑negotiable.",
+    "howToThink": "Check for certifications like CPSC or EN 1078, then compare weight specs and ventilation holes. Fit is critical—try the helmet with your usual glasses and any headwear you wear daily.",
+    "pros": [
+      "Reduced neck strain",
+      "Better airflow",
+      "Modern styling"
+    ],
+    "cons": [
+      "Higher price point",
+      "May feel less solid to some riders",
+      "Limited color options"
+    ],
+    "watchOut": "Never sacrifice certified impact protection for a marginal weight gain.",
+    "faq": [
+      {
+        "q": "Do lightweight helmets meet safety standards?",
+        "a": "Yes, reputable models pass the same impact tests as heavier ones."
+      },
+      {
+        "q": "How do I ensure a proper fit?",
+        "a": "Adjust the straps and use the size guide; the helmet should sit level and not move when you shake your head."
+      },
+      {
+        "q": "Is extra ventilation worth it?",
+        "a": "Good airflow helps comfort, especially in hot city summers, without reducing safety."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/bikecommuting community threads",
+        "url": "https://www.reddit.com/r/bikecommuting/"
+      },
+      {
+        "label": "Search interest: \"bike commute gear\"",
+        "url": "https://duckduckgo.com/?q=bike%20commute%20gear"
+      }
+    ],
+    "tags": [
+      "gear",
+      "comfort"
+    ],
+    "publishedAt": "2026-10-14T07:15:57.558Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "bike-lane-mapping-app",
+    "title": "Bike‑Lane Mapping App: Plot Smarter Commutes",
+    "category": "Routes",
+    "dek": "Leverage a free app to discover protected lanes and avoid traffic snarls.",
+    "takeaway": "Using a dedicated bike‑lane map can shave minutes off your ride and increase safety.",
+    "whatHappened": "I opened the city’s open‑source bike‑lane viewer on my phone, entered my home address, and the suggested route kept me on protected lanes for 80 % of the distance, avoiding a congested arterial road.",
+    "whyItMatters": "Protected lanes reduce the need to weave through cars, lowering accident risk and mental load. Knowing where they run helps you plan for consistent travel times.",
+    "howToThink": "Download the app, enable offline maps, and set your commute as a favorite. Review the lane network periodically, as cities often add or modify routes.",
+    "pros": [
+      "Clear lane visibility",
+      "Customizable routes",
+      "Offline capability"
+    ],
+    "cons": [
+      "App may be outdated in fast‑growing cities",
+      "Occasional GPS drift",
+      "Learning curve for new users"
+    ],
+    "watchOut": "Always verify on‑ground conditions; construction can temporarily close lanes.",
+    "faq": [
+      {
+        "q": "Is the app free to use?",
+        "a": "Yes, the basic features are free and supported by community data."
+      },
+      {
+        "q": "Can I export routes to my bike computer?",
+        "a": "Most apps allow GPX export for use on external devices."
+      },
+      {
+        "q": "What if a lane is missing on the map?",
+        "a": "Report the gap to the app’s community to improve future accuracy."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/bicycling community threads",
+        "url": "https://www.reddit.com/r/bicycling/"
+      },
+      {
+        "label": "Search interest: \"urban cycling safety\"",
+        "url": "https://duckduckgo.com/?q=urban%20cycling%20safety"
+      }
+    ],
+    "tags": [
+      "technology",
+      "navigation"
+    ],
+    "publishedAt": "2026-10-12T18:15:57.558Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "cargo-bag-packing-hacks",
+    "title": "Cargo Bag Packing Hacks for the Urban Cyclist",
+    "category": "Gear",
+    "dek": "Pack smarter to keep balance and stay nimble on city streets.",
+    "takeaway": "Organising your cargo bag reduces wobble and makes quick stops easier.",
+    "whatHappened": "I reorganised my pannier by placing heavier items low and near the bike’s centre line, then filled gaps with a foldable rain cover. The bike felt steadier on a bumpy tram crossing.",
+    "whyItMatters": "Uneven weight shifts the bike’s handling, especially when navigating potholes or tight corners. Balanced loads preserve control and comfort.",
+    "howToThink": "Start with the heaviest items—laptop, books—close to the axle and low in the bag. Use soft fillers for smaller objects, and keep frequently accessed things at the top. Check the bag’s weight each week to avoid creep.",
+    "pros": [
+      "Improved handling",
+      "Easier access",
+      "Reduced strain on frame"
+    ],
+    "cons": [
+      "Requires initial organisation",
+      "May limit bag capacity",
+      "Needs regular weight checks"
+    ],
+    "watchOut": "Avoid over‑loading beyond the bag’s rated capacity, which can stress the frame and wheels.",
+    "faq": [
+      {
+        "q": "Can I use a backpack instead of panniers?",
+        "a": "Backpacks shift weight higher, which can affect balance; panniers are generally more stable."
+      },
+      {
+        "q": "What material is best for a rain‑proof bag?",
+        "a": "Water‑resistant fabrics like nylon with a TPU coating work well."
+      },
+      {
+        "q": "How often should I rebalance my load?",
+        "a": "Re‑assess after any major addition or removal of items, especially before long rides."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/whichbike community threads",
+        "url": "https://www.reddit.com/r/whichbike/"
+      },
+      {
+        "label": "Search interest: \"commuter bike maintenance\"",
+        "url": "https://duckduckgo.com/?q=commuter%20bike%20maintenance"
+      }
+    ],
+    "tags": [
+      "packing",
+      "efficiency"
+    ],
+    "publishedAt": "2026-10-11T05:15:57.558Z",
+    "readMinutes": 2
+  }
+]
