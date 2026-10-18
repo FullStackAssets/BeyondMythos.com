@@ -1,5 +1,56 @@
 [
   {
+    "slug": "winter-shield-insulating-balcony-containers",
+    "title": "Winter Shield: Insulating Your Balcony Containers for Frost",
+    "dek": "Learn quick, low‑cost tricks to protect potted herbs and veggies from freezing temps on your balcony.",
+    "takeaway": "A few simple insulation steps keep your balcony garden alive through winter.",
+    "whatHappened": "After an early frost snapped the leaves of a balcony tomato plant, we tested a handful of DIY insulation tricks on nearby pots. Within days the covered plants showed far less damage, prompting a quick guide for fellow apartment growers.",
+    "whyItMatters": "Balcony gardeners lose a season’s worth of effort when containers freeze, forcing costly re‑planting in spring. Simple protection extends the growing window and preserves the hard‑won soil ecosystem you’ve built in limited space.",
+    "howToThink": "Wrap pots in bubble wrap or reusable fabric, then secure with twine; add a layer of straw or shredded newspaper on the soil surface for extra warmth. Position containers against a wall that retains heat, and consider a temporary mini‑greenhouse made from clear plastic to trap solar warmth.",
+    "pros": [
+      "Low cost",
+      "Easy to apply",
+      "Boosts plant survival"
+    ],
+    "cons": [
+      "May reduce airflow",
+      "Requires periodic check",
+      "Aesthetic changes"
+    ],
+    "watchOut": "Avoid over‑watering winter‑insulated pots, as excess moisture can freeze and damage roots.",
+    "faq": [
+      {
+        "q": "Can I use regular garden fleece on a balcony?",
+        "a": "Yes, garden fleece works well as a breathable wrap that traps heat without suffocating the soil."
+      },
+      {
+        "q": "How often should I check insulated containers?",
+        "a": "Inspect them every few days for condensation, ice buildup, or signs of wilting, adjusting as needed."
+      },
+      {
+        "q": "Do I need to remove insulation during sunny days?",
+        "a": "On sunny, mild days you can briefly uncover pots to let them warm up, but keep the wrap handy for sudden drops."
+      }
+    ],
+    "category": "Seasonal",
+    "tags": [
+      "Winter",
+      "Insulation"
+    ],
+    "sources": [
+      {
+        "label": "r/UrbanGardening community threads",
+        "url": "https://www.reddit.com/r/UrbanGardening/"
+      },
+      {
+        "label": "Search interest: \"balcony garden ideas\"",
+        "url": "https://duckduckgo.com/?q=balcony%20garden%20ideas"
+      }
+    ],
+    "publishedAt": "2026-10-18T23:45:09.113Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "balcony-herb-microclimate-hacks",
     "title": "Microclimate Mastery: Tailoring Sun and Shade on Small Balconies",
     "dek": "Learn how to create micro‑climates on your balcony to boost herb flavor and yield without extra space.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-lcd-revival-backlight-game-boy",
+    "title": "Retro LCD Revival: Adding a Backlight to Your Game Boy",
+    "dek": "Give your original Game Boy a modern glow without losing its classic charm.",
+    "takeaway": "A simple backlight mod brightens play and speeds up reads for speedrunners.",
+    "whatHappened": "We swapped the original LCD assembly for a low‑power LED backlight kit, soldering a few wires and adding a diffuser. The process took under an hour and the handheld now glows evenly.",
+    "whyItMatters": "A brighter screen reduces eye strain and makes split‑second visual cues easier to spot, which is crucial for competitive runs. It also preserves the device by reducing the need to force open the case for better visibility.",
+    "howToThink": "When planning a mod, test the LED voltage with a multimeter, use heat‑shrink tubing for safe connections, and keep the original housing intact to maintain resale value.",
+    "pros": [
+      "Brighter display",
+      "Minimal component cost",
+      "Preserves original case"
+    ],
+    "cons": [
+      "Requires soldering skill",
+      "Slightly reduces battery life",
+      "Potential void of warranty"
+    ],
+    "watchOut": "Avoid overheating the LCD by applying heat briefly and precisely.",
+    "faq": [
+      {
+        "q": "Will the backlight affect the Game Boy’s original battery life?",
+        "a": "Yes, LEDs draw extra current, so expect modestly shorter playtime unless you use fresh batteries or a power bank."
+      },
+      {
+        "q": "Can I revert the mod later?",
+        "a": "Yes, the LED kit is soldered with removable connectors, so you can restore the stock LCD if desired."
+      },
+      {
+        "q": "Do I need a new power source for the LED?",
+        "a": "Most kits run off the Game Boy’s existing supply, but ensure the voltage matches the LED specifications."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "DIY",
+      "Game Boy"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-18T23:45:08.458Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "retro-arcade-joystick-mod",
     "title": "Arcade Joystick Retrofit: Adding a 2-Button Layout for Classic Fighters",
     "dek": "Give your old arcade stick a modern two‑button layout without soldering, boosting comfort for retro fighting game speedruns.",

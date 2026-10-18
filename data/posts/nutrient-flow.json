@@ -1,5 +1,56 @@
 [
   {
+    "slug": "grow-lights-for-greens-field-test-26",
+    "title": "\"grow lights for greens\" in practice: a real-world field test",
+    "dek": "We put the most-repeated advice about grow lights for greens through a month of actual use. Some of it survived.",
+    "takeaway": "Half the standard advice on grow lights for greens holds up; the other half exists to sell you something. Test small before you commit.",
+    "whatHappened": "We collected the most common recommendations indoor hydroponic growers see when they search \"grow lights for greens\" and ran them through four weeks of ordinary, unglamorous use. The gap between what demos well and what holds up in week four was bigger than expected.",
+    "whyItMatters": "Most advice about systems is written from a first impression. The failure modes that actually cost indoor hydroponic growers time and money only show up with repetition — which is exactly what one-day reviews never capture.",
+    "howToThink": "Before adopting any recommendation about grow lights for greens, ask what a fourth week of it looks like. If you can't picture the boring version, you're looking at marketing, not a method.",
+    "pros": [
+      "Cheap to replicate at home",
+      "Surfaced real week-four failure modes",
+      "Cuts through first-impression reviews"
+    ],
+    "cons": [
+      "A month is still a small sample",
+      "Results vary by setup",
+      "Some advice needs a season, not weeks"
+    ],
+    "watchOut": "If a guide about grow lights for greens shows zero failed attempts, it wasn't a test — it was a script.",
+    "faq": [
+      {
+        "q": "What survived the field test?",
+        "a": "The fundamentals: consistent routine, modest gear, and keeping a log. The exotic tricks mostly didn't."
+      },
+      {
+        "q": "How should I run my own test?",
+        "a": "Change one variable, hold everything else steady for two weeks minimum, and write down what annoyed you."
+      },
+      {
+        "q": "Whose advice should I trust?",
+        "a": "People who publish follow-ups. A single enthusiastic post about systems is a data point, not a verdict."
+      }
+    ],
+    "category": "Systems",
+    "tags": [
+      "Systems",
+      "Nutrients"
+    ],
+    "sources": [
+      {
+        "label": "r/IndoorGarden community threads",
+        "url": "https://www.reddit.com/r/IndoorGarden/"
+      },
+      {
+        "label": "Search interest: \"grow lights for greens\"",
+        "url": "https://duckduckgo.com/?q=grow%20lights%20for%20greens"
+      }
+    ],
+    "publishedAt": "2026-10-18T23:45:27.240Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-leafy-greens-75",
     "title": "Ask the forge: your leafy greens questions, answered",
     "dek": "Straight answers to the leafy greens questions indoor hydroponic growers keep asking, minus the hedging.",

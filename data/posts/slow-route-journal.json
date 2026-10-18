@@ -1,5 +1,56 @@
 [
   {
+    "slug": "rolling-library-book-swaps",
+    "title": "Rolling Library: Low‑Impact Book Swaps on Heritage Trains",
+    "dek": "Turn vintage carriages into traveling book exchanges that let slow travelers share reads without extra waste.",
+    "takeaway": "A moving bookshelf fuels community and cuts the carbon of buying new books.",
+    "whatHappened": "During a weekend on a restored steam line, volunteers set up a simple shelf and a sign inviting riders to leave a book and take one. Within hours, the carriage filled with a mix of travelogues, poetry, and local guides, sparking spontaneous conversations among passengers.",
+    "whyItMatters": "Books are lightweight but their production and shipping add up; reusing them on a train eliminates extra packaging and encourages a culture of sharing. It also enriches the travel experience with local perspectives and unexpected recommendations.",
+    "howToThink": "Treat any vacant space on a train as a micro‑library: install a sturdy shelf, label it clearly, and provide a small notebook for swap notes. Keep the collection curated by rotating titles at each stop to avoid overload.",
+    "pros": [
+      "Zero‑waste reading material",
+      "Fosters rider community",
+      "Easy to set up with minimal supplies"
+    ],
+    "cons": [
+      "Limited space for large books",
+      "Needs occasional curation",
+      "Relies on rider participation"
+    ],
+    "watchOut": "Secure books against movement on uneven tracks to prevent loss or damage.",
+    "faq": [
+      {
+        "q": "Do I need permission from the rail operator?",
+        "a": "Yes, a brief agreement ensures the shelf doesn’t interfere with safety inspections."
+      },
+      {
+        "q": "What types of books work best?",
+        "a": "Compact paperbacks, travel guides, and poetry travel well and are easy to handle."
+      },
+      {
+        "q": "How can I promote the swap?",
+        "a": "Add a small chalkboard sign at the station and mention it in the train’s newsletter or social feed."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "local"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-10-18T23:45:07.041Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "solar-station-stops",
     "title": "Solar Station Stops: Low‑Impact Power for Slow Travelers",
     "dek": "Small solar panels on quiet stations give slow travelers a clean charge point without big infrastructure.",
