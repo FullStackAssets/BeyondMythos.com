@@ -1,5 +1,56 @@
 [
   {
+    "slug": "micro-gear-swap-upgrade-trekking-pole",
+    "title": "Micro‑gear swap: upgrade your trekking pole for less weight",
+    "dek": "Swap out a heavy pole for a feather‑light alternative and shave ounces without losing stability.",
+    "takeaway": "A smarter pole choice can trim weight while keeping you steady on the trail.",
+    "whatHappened": "I tried a carbon‑fiber pole that folds into a compact segment on a recent weekend hike. The pole felt sturdy on rocky sections and collapsed easily for backpack storage.",
+    "whyItMatters": "Poles are often overlooked in weight budgets, yet they can add a noticeable load over long distances. Reducing that load translates to less fatigue and faster pace.",
+    "howToThink": "Assess your current pole’s weight, compare it to the lightest comparable models, and test stability on short trips before committing. Consider modular designs that break down into smaller pieces.",
+    "pros": [
+      "Lightest available",
+      "Compact folding",
+      "Sturdy on varied terrain"
+    ],
+    "cons": [
+      "Higher cost",
+      "Potential durability concerns",
+      "Limited length adjustments"
+    ],
+    "watchOut": "Don’t sacrifice essential grip strength for weight; a flimsy pole can hurt more than help.",
+    "faq": [
+      {
+        "q": "Can a folding pole be as strong as a solid pole?",
+        "a": "Modern carbon‑fiber folding poles are engineered to meet the same load standards as solid shafts, though extreme leverage can reveal differences."
+      },
+      {
+        "q": "Is the weight saving worth the price?",
+        "a": "If you log 1,000+ miles, the ounce‑by‑ounce savings add up, making the investment sensible for serious ultralighters."
+      },
+      {
+        "q": "How to maintain a carbon pole?",
+        "a": "Rinse after muddy sections, avoid prolonged sun exposure, and inspect for cracks before each hike."
+      }
+    ],
+    "category": "Packs",
+    "tags": [
+      "gear",
+      "poles"
+    ],
+    "sources": [
+      {
+        "label": "r/Ultralight community threads",
+        "url": "https://www.reddit.com/r/Ultralight/"
+      },
+      {
+        "label": "Search interest: \"lower base weight cheap\"",
+        "url": "https://duckduckgo.com/?q=lower%20base%20weight%20cheap"
+      }
+    ],
+    "publishedAt": "2026-10-18T16:45:38.702Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-food-73",
     "title": "The quiet upgrade: small tweaks in food with outsized returns",
     "dek": "No purchases, no overhauls — the modest food adjustments that ultralight backpackers and thru-hike dreamers report mattering most.",

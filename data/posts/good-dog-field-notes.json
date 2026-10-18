@@ -1,5 +1,56 @@
 [
   {
+    "slug": "first-night-at-home-calming-your-new-pup",
+    "title": "First night at home: calming your new pup",
+    "dek": "Your pup’s first night can be stressful—here’s a quick guide to a calm start.",
+    "takeaway": "A predictable routine and soothing environment set the tone for a confident dog.",
+    "whatHappened": "A first‑time owner brought home a 10‑week puppy and struggled with endless whining and accidents. By adjusting bedtime habits and using simple cues, the night settled down.",
+    "whyItMatters": "Early nights shape a dog’s sense of security and influence house‑training speed. A calm start reduces anxiety that can echo into adulthood.",
+    "howToThink": "Create a consistent pre‑sleep routine: low‑key play, a brief bathroom break, then a designated sleep spot with a familiar scent. Keep lights dim and avoid stimulating noises. Reward quiet moments with gentle praise.",
+    "pros": [
+      "Easier house‑training",
+      "Reduces puppy anxiety",
+      "Builds owner confidence"
+    ],
+    "cons": [
+      "Requires consistent timing",
+      "May need extra bedding",
+      "Initial effort may feel repetitive"
+    ],
+    "watchOut": "Don’t let the puppy nap on your bed if you plan to keep sleeping areas separate.",
+    "faq": [
+      {
+        "q": "How long should the pre‑sleep routine be?",
+        "a": "Around 10‑15 minutes is enough to signal winding down without over‑stimulating."
+      },
+      {
+        "q": "Is a crate necessary?",
+        "a": "A crate can provide safety, but any confined, comfortable space works if it’s introduced positively."
+      },
+      {
+        "q": "What if the puppy still whines?",
+        "a": "Check for basic needs, then use a brief, calm reassurance without prolonged interaction."
+      }
+    ],
+    "category": "Puppies",
+    "tags": [
+      "puppy care",
+      "night routine"
+    ],
+    "sources": [
+      {
+        "label": "r/puppy101 community threads",
+        "url": "https://www.reddit.com/r/puppy101/"
+      },
+      {
+        "label": "Search interest: \"crate training schedule\"",
+        "url": "https://duckduckgo.com/?q=crate%20training%20schedule"
+      }
+    ],
+    "publishedAt": "2026-10-18T16:45:26.897Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-gear-78",
     "title": "The quiet upgrade: small tweaks in gear with outsized returns",
     "dek": "No purchases, no overhauls — the modest gear adjustments that first-time dog owners report mattering most.",

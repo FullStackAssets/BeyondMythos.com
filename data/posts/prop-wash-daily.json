@@ -1,5 +1,56 @@
 [
   {
+    "slug": "fpv-drone-starter-kit-field-test-25",
+    "title": "\"fpv drone starter kit\" in practice: a real-world field test",
+    "dek": "We put the most-repeated advice about fpv drone starter kit through a month of actual use. Some of it survived.",
+    "takeaway": "Half the standard advice on fpv drone starter kit holds up; the other half exists to sell you something. Test small before you commit.",
+    "whatHappened": "We collected the most common recommendations FPV drone pilots and builders see when they search \"fpv drone starter kit\" and ran them through four weeks of ordinary, unglamorous use. The gap between what demos well and what holds up in week four was bigger than expected.",
+    "whyItMatters": "Most advice about builds is written from a first impression. The failure modes that actually cost FPV drone pilots and builders time and money only show up with repetition — which is exactly what one-day reviews never capture.",
+    "howToThink": "Before adopting any recommendation about fpv drone starter kit, ask what a fourth week of it looks like. If you can't picture the boring version, you're looking at marketing, not a method.",
+    "pros": [
+      "Cheap to replicate at home",
+      "Surfaced real week-four failure modes",
+      "Cuts through first-impression reviews"
+    ],
+    "cons": [
+      "A month is still a small sample",
+      "Results vary by setup",
+      "Some advice needs a season, not weeks"
+    ],
+    "watchOut": "If a guide about fpv drone starter kit shows zero failed attempts, it wasn't a test — it was a script.",
+    "faq": [
+      {
+        "q": "What survived the field test?",
+        "a": "The fundamentals: consistent routine, modest gear, and keeping a log. The exotic tricks mostly didn't."
+      },
+      {
+        "q": "How should I run my own test?",
+        "a": "Change one variable, hold everything else steady for two weeks minimum, and write down what annoyed you."
+      },
+      {
+        "q": "Whose advice should I trust?",
+        "a": "People who publish follow-ups. A single enthusiastic post about builds is a data point, not a verdict."
+      }
+    ],
+    "category": "Builds",
+    "tags": [
+      "Builds",
+      "Freestyle"
+    ],
+    "sources": [
+      {
+        "label": "r/fpv community threads",
+        "url": "https://www.reddit.com/r/fpv/"
+      },
+      {
+        "label": "Search interest: \"fpv drone starter kit\"",
+        "url": "https://duckduckgo.com/?q=fpv%20drone%20starter%20kit"
+      }
+    ],
+    "publishedAt": "2026-10-18T16:45:25.721Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-regulations-74",
     "title": "Ask the forge: your regulations questions, answered",
     "dek": "Straight answers to the regulations questions FPV drone pilots and builders keep asking, minus the hedging.",

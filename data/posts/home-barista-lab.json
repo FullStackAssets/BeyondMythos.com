@@ -1,5 +1,56 @@
 [
   {
+    "slug": "quick-espresso-pressurization-hack",
+    "title": "Quick Pressurization Hack for Consistent Espresso",
+    "dek": "Add a low-cost pressure regulator to your portafilter to tame flow spikes and nail repeatable shots.",
+    "takeaway": "A simple regulator smooths pressure, delivering steadier extraction without pricey upgrades.",
+    "whatHappened": "I installed a garden‑hose pressure regulator between the pump and the group head on my home machine. The shot felt smoother and the crema held longer.",
+    "whyItMatters": "Fluctuating pressure causes uneven extraction, leading to sour or bitter notes. Stabilizing pressure lets the coffee’s sweet spot shine, improving flavor consistency.",
+    "howToThink": "Treat pressure like a dial—small adjustments make big taste differences. Start with the regulator set near the factory pressure, then fine‑tune by ear and visual cues.",
+    "pros": [
+      "Cheap and easy install",
+      "Improves shot stability",
+      "Works with most domestic machines"
+    ],
+    "cons": [
+      "Adds extra component to purge",
+      "May require occasional recalibration",
+      "Not a substitute for proper pump maintenance"
+    ],
+    "watchOut": "Ensure the regulator’s fittings match your machine’s thread to avoid leaks.",
+    "faq": [
+      {
+        "q": "Can I use any pressure regulator?",
+        "a": "A regulator rated for low‑pressure coffee pumps (around 9‑15 bar) is safest."
+      },
+      {
+        "q": "Will this void my warranty?",
+        "a": "Modifying the water path can affect warranty; check the manufacturer’s policy first."
+      },
+      {
+        "q": "Do I need to adjust grind after installing?",
+        "a": "A minor grind tweak is typical to accommodate the smoother flow."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "gear"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-10-18T16:45:19.528Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "diy-pressure-release-valve",
     "title": "DIY Pressure Release Valve: Stabilize Espresso Flow",
     "dek": "Add a simple pressure release valve to your portafilter to smooth out flow spikes and improve shot consistency.",

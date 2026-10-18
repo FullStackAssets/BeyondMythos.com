@@ -1,5 +1,56 @@
 [
   {
+    "slug": "fueling-the-trail-choosing-the-right-meal-kit",
+    "title": "Fueling the Trail: Choosing the Right Meal Kit for Two-Day Hikes",
+    "dek": "A quick field test of a two‑day meal kit shows what works, what doesn’t, and how to pick the best for weekend backpackers.",
+    "takeaway": "Pick meal kits that balance weight, prep simplicity, and nutrition to keep the trail enjoyable.",
+    "whatHappened": "We tried a popular two‑day meal kit on a 30‑mile loop in the Cascades. The kit promised lightweight ingredients and minimal cooking steps. Over the two nights we logged prep time, taste, and waste.",
+    "whyItMatters": "Backpackers spend precious minutes cooking; a clunky kit can sap energy and morale. Knowing which kits truly streamline meals helps keep the focus on the hike, not the kitchen.",
+    "howToThink": "First, check the ingredient list for dehydrated staples that rehydrate quickly. Second, weigh the packaging; excess plastic adds unnecessary load. Finally, test a single serving at home to gauge flavor and prep time before committing to the full pack.",
+    "pros": [
+      "Lightweight packaging",
+      "Simple two‑step cooking",
+      "Balanced calories"
+    ],
+    "cons": [
+      "Limited flavor variety",
+      "Some ingredients clump when rehydrated",
+      "Packaging not fully recyclable"
+    ],
+    "watchOut": "Beware of kits that require specialty fuel or extra cookware you didn’t bring.",
+    "faq": [
+      {
+        "q": "Do I need a separate pot for these meals?",
+        "a": "Most kits are designed for a single 1‑liter pot, which most hikers already carry."
+      },
+      {
+        "q": "Can I substitute ingredients to suit dietary needs?",
+        "a": "Yes, most dehydrated components can be swapped for equivalents without breaking the recipe."
+      },
+      {
+        "q": "How long can the meals sit in my pack before they spoil?",
+        "a": "As long as they stay dry and sealed, they’ll last months, but check the manufacturer’s best‑by date."
+      }
+    ],
+    "category": "Meals",
+    "tags": [
+      "meal kits",
+      "backpacking meals"
+    ],
+    "sources": [
+      {
+        "label": "r/camping community threads",
+        "url": "https://www.reddit.com/r/camping/"
+      },
+      {
+        "label": "Search interest: \"easy camping meals\"",
+        "url": "https://duckduckgo.com/?q=easy%20camping%20meals"
+      }
+    ],
+    "publishedAt": "2026-10-18T16:45:46.555Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-stoves-mistakes-63",
     "title": "Five mistakes everyone makes in their first month of stoves",
     "dek": "The most common early stumbles in stoves, and the cheap corrections that fix them for camp cooks and weekend backpackers.",

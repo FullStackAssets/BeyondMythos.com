@@ -1,5 +1,56 @@
 [
   {
+    "slug": "rainwater-harvest-balcony-garden",
+    "title": "Rainwater Harvest for Balcony Gardens: DIY Barrel Setup",
+    "dek": "Capture rooftop runoff in a compact barrel and feed your balcony plants without a single faucet turn.",
+    "takeaway": "A simple rain barrel can keep your balcony greens thriving while slashing water bills.",
+    "whatHappened": "I installed a 20‑liter food‑grade barrel on my balcony railing, connected it to a small pump, and routed the flow to a drip line feeding my herbs. Within a week the soil stayed moist longer and the plants looked perkier. The whole setup took under two hours and a few inexpensive fittings.",
+    "whyItMatters": "Urban dwellers often face water restrictions and high utility costs. Using collected rainwater reduces dependence on municipal supply and lessens runoff impact. Plus, rainwater is naturally soft, which is gentler on delicate balcony plants.",
+    "howToThink": "Choose a barrel that fits your balcony’s load limit and aesthetic. Position it where rain naturally drips off the roof or awning, then use a low‑flow pump or gravity feed to distribute water. Adjust the drip emitters so each pot gets a steady, shallow soak rather than a flood.",
+    "pros": [
+      "Lowers water bill",
+      "Soft water benefits plant health",
+      "Eco‑friendly runoff reduction"
+    ],
+    "cons": [
+      "Requires occasional cleaning",
+      "Barrel adds weight to balcony",
+      "Initial setup time"
+    ],
+    "watchOut": "Secure the barrel firmly to prevent tipping in wind or when refilling.",
+    "faq": [
+      {
+        "q": "Do I need a pump, or can I rely on gravity?",
+        "a": "If the barrel sits higher than your planters, gravity can work; otherwise a small submersible pump is cheap and effective."
+      },
+      {
+        "q": "How often should I empty the barrel?",
+        "a": "Empty it before the first hard freeze or when it’s full and heavy rain is forecast, to avoid overflow."
+      },
+      {
+        "q": "Is a food‑grade barrel safe for plants?",
+        "a": "Yes, food‑grade plastics don’t leach harmful chemicals and are safe for edible herbs and veggies."
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "DIY",
+      "Water Conservation"
+    ],
+    "sources": [
+      {
+        "label": "r/UrbanGardening community threads",
+        "url": "https://www.reddit.com/r/UrbanGardening/"
+      },
+      {
+        "label": "Search interest: \"balcony garden ideas\"",
+        "url": "https://duckduckgo.com/?q=balcony%20garden%20ideas"
+      }
+    ],
+    "publishedAt": "2026-10-18T16:45:18.304Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "upcycled-bottle-planters",
     "title": "Upcycled Bottle Planters: Turn Trash into Tiny Balcony Treasures",
     "dek": "Give your balcony a green boost using repurposed plastic bottles—cheap, lightweight, and perfect for herbs or succulents.",

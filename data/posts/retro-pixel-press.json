@@ -1,5 +1,56 @@
 [
   {
+    "slug": "schmitt-trigger-button-mod",
+    "title": "Pixel Boost: Adding a Schmitt Trigger for Consistent Button Presses",
+    "dek": "Upgrade your controller with a cheap Schmitt trigger to clean up noisy button signals for smoother runs.",
+    "takeaway": "A Schmitt trigger can make your inputs more reliable without expensive gear.",
+    "whatHappened": "I swapped a simple Schmitt trigger circuit into my classic controller and immediately noticed fewer missed inputs during fast sections. The change was instantly visible in split times and input lag perception.",
+    "whyItMatters": "Reliable inputs are crucial for tight timing in speedruns, and even small signal bounce can cost a split. This mod gives you consistency without altering the original feel, keeping your runs competitive.",
+    "howToThink": "Treat the button as a digital signal and add a comparator with hysteresis to filter bounce. Choose a low-cost IC like the 74HC14 and wire it between the button contacts and the console. Test with a frame counter to confirm clean transitions.",
+    "pros": [
+      "Cheap and easy",
+      "Improves input consistency",
+      "Reversible with solder bridges"
+    ],
+    "cons": [
+      "Adds a tiny component to the board",
+      "Requires basic soldering",
+      "May slightly alter button feel"
+    ],
+    "watchOut": "Ensure the trigger’s threshold matches your console’s voltage levels to avoid dead zones.",
+    "faq": [
+      {
+        "q": "Do I need a specific Schmitt trigger chip?",
+        "a": "The 74HC14 is common and works for most 5 V retro consoles."
+      },
+      {
+        "q": "Can I undo the mod later?",
+        "a": "Yes, use removable solder bridges or a socket to keep the original wiring intact."
+      },
+      {
+        "q": "Will this affect my controller’s compatibility with modern adapters?",
+        "a": "Usually not, but test after installing to confirm the adapter still reads the button signals."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "controller-mod",
+      "input-stability"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-18T16:45:18.956Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "hall-sensor-megadrive-mod",
     "title": "Hall Sensor Upgrade: Cleaner Mega Drive Inputs for Speedrunning",
     "dek": "Swap your Mega Drive's worn contacts for a Hall sensor and get smoother, drift‑free inputs without soldering the whole board.",

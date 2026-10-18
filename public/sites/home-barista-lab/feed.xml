@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/home-barista-lab/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Quick Pressurization Hack for Consistent Espresso</title>
+      <link>https://www.beyondmythos.com/sites/home-barista-lab/posts/quick-espresso-pressurization-hack.html</link>
+      <guid>https://www.beyondmythos.com/sites/home-barista-lab/posts/quick-espresso-pressurization-hack.html</guid>
+      <pubDate>Sun, 18 Oct 2026 16:45:19 GMT</pubDate>
+      <description>Add a low-cost pressure regulator to your portafilter to tame flow spikes and nail repeatable shots.</description>
+    </item>
+    <item>
       <title>DIY Pressure Release Valve: Stabilize Espresso Flow</title>
       <link>https://www.beyondmythos.com/sites/home-barista-lab/posts/diy-pressure-release-valve.html</link>
       <guid>https://www.beyondmythos.com/sites/home-barista-lab/posts/diy-pressure-release-valve.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/home-barista-lab/posts/tamper-upgrade-espresso-consistency.html</guid>
       <pubDate>Tue, 25 Aug 2026 16:18:31 GMT</pubDate>
       <description>A modest tamper swap can tighten shot pressure, sharpen flavor, and make daily espresso feels pro.</description>
-    </item>
-    <item>
-      <title>&quot;home espresso dial in&quot; in practice: a real-world field test</title>
-      <link>https://www.beyondmythos.com/sites/home-barista-lab/posts/home-espresso-dial-in-field-test-19.html</link>
-      <guid>https://www.beyondmythos.com/sites/home-barista-lab/posts/home-espresso-dial-in-field-test-19.html</guid>
-      <pubDate>Tue, 25 Aug 2026 15:27:06 GMT</pubDate>
-      <description>We put the most-repeated advice about home espresso dial in through a month of actual use. Some of it survived.</description>
     </item>
   </channel>
 </rss>

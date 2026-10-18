@@ -1,5 +1,56 @@
 [
   {
+    "slug": "platform-garden-communes",
+    "title": "Platform Garden Communes: Co‑Creating Low‑Impact Green Spaces on Train Stops",
+    "dek": "How turning idle platform corners into shared gardens cuts carbon and builds community for slow travelers.",
+    "takeaway": "A small garden can make a station greener and your journey lighter.",
+    "whatHappened": "During a week in the outskirts of Lyon, we partnered with a local volunteer group to plant herbs and lettuce in the unused space beside a commuter platform. The garden was watered with a rain barrel and tended by commuters and passengers.",
+    "whyItMatters": "Urban rail hubs are high‑traffic nodes; greening them reduces heat and offers fresh produce, aligning with low‑impact travel ethos. It also creates a pause point for slow travelers to rest and connect.",
+    "howToThink": "When scouting a platform, look for a shaded nook with a drainage slope, negotiate a short‑term permit with the station manager, and start with hardy herbs that need little water. Use reclaimed containers and a simple compost bin to keep maintenance low.",
+    "pros": [
+      "Boosts local biodiversity",
+      "Provides fresh snacks",
+      "Creates community hub"
+    ],
+    "cons": [
+      "Requires permission",
+      "Maintenance can be inconsistent",
+      "Limited space"
+    ],
+    "watchOut": "Make sure any planting doesn’t obstruct passenger flow or safety signage.",
+    "faq": [
+      {
+        "q": "Can I start a platform garden without official approval?",
+        "a": "It’s best to get written consent; unauthorized planting can be removed and may cause safety concerns."
+      },
+      {
+        "q": "What plants thrive in a platform environment?",
+        "a": "Hardy herbs like mint, thyme, and chard, plus lettuce and radishes, handle shade and occasional foot traffic."
+      },
+      {
+        "q": "How do I keep the garden low‑impact?",
+        "a": "Use rain‑water collection, compost kitchen scraps, and choose reusable containers to avoid waste."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "community"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-10-18T16:45:20.072Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "midnight-platform-gardens",
     "title": "Midnight Platform Gardens: Growing Low‑Impact Food on Station Roofs",
     "dek": "Transform idle station roofs into micro‑gardens that feed travelers and cut carbon footprints.",

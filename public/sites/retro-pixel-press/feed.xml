@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Adding a Schmitt Trigger for Consistent Button Presses</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/schmitt-trigger-button-mod.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/schmitt-trigger-button-mod.html</guid>
+      <pubDate>Sun, 18 Oct 2026 16:45:18 GMT</pubDate>
+      <description>Upgrade your controller with a cheap Schmitt trigger to clean up noisy button signals for smoother runs.</description>
+    </item>
+    <item>
       <title>Hall Sensor Upgrade: Cleaner Mega Drive Inputs for Speedrunning</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/hall-sensor-megadrive-mod.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/hall-sensor-megadrive-mod.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/myth-vs-reality-hidden-snes-gems-17.html</guid>
       <pubDate>Tue, 25 Aug 2026 16:18:26 GMT</pubDate>
       <description>The persistent myths around hidden snes gems, stress-tested against what retro game collectors and speedrunners actually report.</description>
-    </item>
-    <item>
-      <title>Retro Controller Revamp: Adding Hall Effect Sensors to Your SNES for Millisecond Gains</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-controller-revamp-hall-effect.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-controller-revamp-hall-effect.html</guid>
-      <pubDate>Tue, 25 Aug 2026 15:27:12 GMT</pubDate>
-      <description>Swap your SNES controller&apos;s potentiometers for Hall effect sensors and shave precious milliseconds off your runs.</description>
     </item>
   </channel>
 </rss>
