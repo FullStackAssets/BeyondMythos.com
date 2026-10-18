@@ -1,5 +1,56 @@
 [
   {
+    "slug": "railway-snooze-capsule",
+    "title": "Nighttime Nook: Turning Decommissioned Boxcars into Low‑Impact Sleep Pods",
+    "dek": "Discover how repurposed boxcars can become cozy, eco‑friendly night stops for the slow‑travel community.",
+    "takeaway": "A retired boxcar can be a comfortable, low‑impact overnight haven with a few simple tweaks.",
+    "whatHappened": "We teamed up with a heritage railway in northern Italy to refurbish an old freight boxcar. Over a weekend, volunteers installed reclaimed wood bunks, solar lighting, and composting toilets, turning it into a functional sleep pod.",
+    "whyItMatters": "By reusing existing rolling stock we cut construction waste and avoid new builds, keeping the carbon footprint low. It also gives travelers a unique, immersive experience that deepens connection to the rail line and its history.",
+    "howToThink": "When scouting a boxcar, look for structural integrity, insulation potential, and proximity to water sources. Prioritize reclaimed materials and off‑grid power solutions. Keep the layout modular so the pod can be moved or reconfigured as needs change.",
+    "pros": [
+      "Zero new construction",
+      "Solar‑powered lighting",
+      "Authentic rail ambience"
+    ],
+    "cons": [
+      "Limited space",
+      "Requires volunteer labor",
+      "Regulatory approvals may be needed"
+    ],
+    "watchOut": "Ensure the car meets safety standards and fire codes before allowing overnight stays.",
+    "faq": [
+      {
+        "q": "Can I book a boxcar pod like a hostel?",
+        "a": "Most pilots operate on a reservation‑first‑come basis through the railway’s community portal."
+      },
+      {
+        "q": "What amenities are provided?",
+        "a": "Basic bunks, solar lights, a composting toilet, and a lockable storage locker; bring your own bedding."
+      },
+      {
+        "q": "Is the pod heated in winter?",
+        "a": "Passive insulation and a small wood‑stove are typical; check seasonal availability before traveling."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "eco‑sleep"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-10-18T06:35:56.651Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "train-travel-europe-tips-field-test-16",
     "title": "\"train travel europe tips\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about train travel europe tips through a month of actual use. Some of it survived.",

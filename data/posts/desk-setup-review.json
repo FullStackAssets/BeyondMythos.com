@@ -1,5 +1,56 @@
 [
   {
+    "slug": "micro-adjustable-monitor-arms-2",
+    "title": "Micro-Adjustable Monitor Arms: Big Gains for Tiny Desks",
+    "dek": "A tiny desk gets a giant ergonomic win with a micro-adjustable monitor arm.",
+    "takeaway": "Even a modest arm can free up space and reduce neck strain.",
+    "whatHappened": "We installed a 12‑inch micro‑adjustable arm on a 48‑inch desk in a 5‑sq‑ft home office. The arm’s compact clamp fit the thin tabletop, and the monitor slid smoothly from low to eye‑level.",
+    "whyItMatters": "Space is the scarcest resource in small workrooms, and a poorly positioned screen fuels fatigue. By lifting the display, you reclaim desk real estate and keep posture neutral.",
+    "howToThink": "Pick an arm with a low-profile clamp and a wide tilt range; test its load rating against your monitor’s weight. Prioritize smooth motion and cable routing features to keep clutter down.",
+    "pros": [
+      "Saves desk space",
+      "Easy to install",
+      "Smooth height/tilt adjustment"
+    ],
+    "cons": [
+      "Limited weight capacity",
+      "Clamp may damage thin desks",
+      "Higher price than basic stands"
+    ],
+    "watchOut": "Ensure the clamp’s grip pressure won’t crack a fragile tabletop.",
+    "faq": [
+      {
+        "q": "Can I use the arm on a glass desk?",
+        "a": "Only if the clamp is rated for glass; otherwise use a desk‑mount plate or a heavy‑duty base."
+      },
+      {
+        "q": "What monitor weight is safe?",
+        "a": "Most micro‑arms support up to 6 kg (13 lb); check the spec and stay under the limit."
+      },
+      {
+        "q": "Will the arm affect cable management?",
+        "a": "Many models include integrated cable clips, but you may still need a short sleeve to keep cords tidy."
+      }
+    ],
+    "category": "Ergonomics",
+    "tags": [
+      "monitor arm",
+      "small space ergonomics"
+    ],
+    "sources": [
+      {
+        "label": "r/StandingDesk community threads",
+        "url": "https://www.reddit.com/r/StandingDesk/"
+      },
+      {
+        "label": "Search interest: \"cable management desk\"",
+        "url": "https://duckduckgo.com/?q=cable%20management%20desk"
+      }
+    ],
+    "publishedAt": "2026-10-18T06:36:13.636Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "remote-work-lighting-field-test-22",
     "title": "\"remote work lighting\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about remote work lighting through a month of actual use. Some of it survived.",

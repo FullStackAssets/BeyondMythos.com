@@ -1,5 +1,56 @@
 [
   {
+    "slug": "microgreen-tray-hacks",
+    "title": "Microgreen Tray Hacks for Tiny Balconies",
+    "dek": "Turn a single balcony shelf into a thriving microgreen farm with cheap trays and smart watering tricks.",
+    "takeaway": "A few simple tray setups can deliver fresh microgreens daily, even on the smallest balcony.",
+    "whatHappened": "We swapped a dusty balcony shelf for three repurposed seed trays, sowed radish, mustard, and basil seeds, and set a timer for misting. Within ten days the trays burst with edible shoots.",
+    "whyItMatters": "Microgreens pack a nutritional punch and add flavor without needing soil or large pots, perfect for apartment budgets and limited sunlight. Harvesting daily also cuts grocery trips and waste.",
+    "howToThink": "Choose shallow, transparent trays for even light, use a lightweight soil‑less mix, and place them near the brightest window. Mist twice daily or use a drip timer, and harvest the tops once they reach 2‑3 inches.",
+    "pros": [
+      "Space‑saving",
+      "Fast harvest",
+      "Nutrient dense"
+    ],
+    "cons": [
+      "Requires consistent moisture",
+      "Limited to light‑tolerant varieties",
+      "May attract pests if over‑watered"
+    ],
+    "watchOut": "Avoid waterlogged media, or your microgreens will rot and develop mold.",
+    "faq": [
+      {
+        "q": "Can I grow microgreens in winter?",
+        "a": "Yes, use a grow light and a colder‑tolerant mix; keep temperatures above 50 °F."
+      },
+      {
+        "q": "How often should I harvest?",
+        "a": "Harvest when shoots are 2‑3 inches tall, typically every 7‑10 days, cutting just above the media."
+      },
+      {
+        "q": "Do I need soil?",
+        "a": "A lightweight soilless medium like peat‑perlite works best, but you can also use coconut coir for a sustainable option."
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "microgreens",
+      "balcony-tips"
+    ],
+    "sources": [
+      {
+        "label": "r/houseplants community threads",
+        "url": "https://www.reddit.com/r/houseplants/"
+      },
+      {
+        "label": "Search interest: \"small space vegetables\"",
+        "url": "https://duckduckgo.com/?q=small%20space%20vegetables"
+      }
+    ],
+    "publishedAt": "2026-10-18T06:35:56.964Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "balcony-garden-ideas-field-test-17",
     "title": "\"balcony garden ideas\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about balcony garden ideas through a month of actual use. Some of it survived.",

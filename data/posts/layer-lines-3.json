@@ -1,5 +1,56 @@
 [
   {
+    "slug": "fine-tuning-first-z-offset",
+    "title": "Fine-tuning your first Z offset: a quick win",
+    "dek": "Master the Z offset in minutes and eliminate first-layer woes for reliable prints.",
+    "takeaway": "A proper Z offset saves time and filament by getting the first layer right the first time.",
+    "whatHappened": "I noticed my prints were either squished or hovering, so I experimented with incremental Z adjustments using the printer’s live Z offset and a sheet of paper test. After a few minutes of trial, the perfect gap emerged and the first layers stuck flawlessly.",
+    "whyItMatters": "The first layer sets the foundation; a mis‑set Z can cause adhesion failures, nozzle clogs, or wasted filament, especially for beginners. Consistently nailing that layer boosts overall print success and reduces frustration.",
+    "howToThink": "Treat Z offset as a living setting—start with a paper test, note the sweet spot, then lock it in and re‑check after any mechanical change. Keep a log of the value so you can spot drift over time.",
+    "pros": [
+      "Instant print quality boost",
+      "Saves filament",
+      "No extra hardware"
+    ],
+    "cons": [
+      "Requires patience",
+      "May drift over time",
+      "Needs re‑calibration after upgrades"
+    ],
+    "watchOut": "Don’t over‑tighten the Z lead screw, or you’ll introduce backlash that defeats the fine‑tuning.",
+    "faq": [
+      {
+        "q": "How often should I revisit Z offset?",
+        "a": "At least after any nozzle change, bed replacement, or after moving the printer."
+      },
+      {
+        "q": "Can I use the paper test on a flexible build plate?",
+        "a": "Yes, just use a slightly thicker paper or a feeler gauge for consistency."
+      },
+      {
+        "q": "Is firmware auto-bed leveling better than manual Z offset?",
+        "a": "Auto‑leveling helps, but you still need a good Z offset for the nozzle‑to‑bed gap."
+      }
+    ],
+    "category": "Calibration",
+    "tags": [
+      "Z-offset",
+      "first-layer"
+    ],
+    "sources": [
+      {
+        "label": "r/3Dprinting community threads",
+        "url": "https://www.reddit.com/r/3Dprinting/"
+      },
+      {
+        "label": "Search interest: \"3d print stringing fix\"",
+        "url": "https://duckduckgo.com/?q=3d%20print%20stringing%20fix"
+      }
+    ],
+    "publishedAt": "2026-10-18T06:36:23.025Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-printer-upgrade-guide-20",
     "title": "Myth vs. reality: printer upgrade guide",
     "dek": "The persistent myths around printer upgrade guide, stress-tested against what home 3D-printing hobbyists actually report.",

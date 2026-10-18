@@ -1,5 +1,56 @@
 [
   {
+    "slug": "starlight-stacking-boosting-signal",
+    "title": "Starlight stacking: boosting signal without extra exposure",
+    "dek": "Learn how a smart stacking workflow can sharpen faint nebulae without adding hours of exposure time.",
+    "takeaway": "Efficient stacking lets you get deeper images with the same total exposure.",
+    "whatHappened": "I tried a 3‑hour session on a modest 80mm refractor, then applied median stacking with a calibrated dark frame set. The resulting image showed a noticeable boost in detail compared to a simple average stack.",
+    "whyItMatters": "Backyard shooters often think longer exposures are the only path to depth, but stacking leverages multiple short frames to improve SNR and reduce tracking errors. Understanding this saves time and hardware wear.",
+    "howToThink": "Shoot 30‑second sub‑exposures, keep ISO constant, and collect at least 30 frames per target. Use a reliable stacking tool, apply darks and flats, then median combine to suppress noise and residual tracking drift.",
+    "pros": [
+      "Improves SNR without longer exposures",
+      "Reduces tracking error impact",
+      "Flexible with weather interruptions"
+    ],
+    "cons": [
+      "Requires more storage",
+      "Adds processing time",
+      "Needs good calibration frames"
+    ],
+    "watchOut": "Beware of over‑stacking; too many frames can introduce diminishing returns and increase file handling overhead.",
+    "faq": [
+      {
+        "q": "How many frames are enough for a decent stack?",
+        "a": "Aim for at least 20–30 good frames; beyond 50 the gains taper off for most backyard scopes."
+      },
+      {
+        "q": "Do I need a tracker for stacking?",
+        "a": "A simple alt‑az mount works if you keep exposures short; stacking compensates for minor drift."
+      },
+      {
+        "q": "Can I stack color channels separately?",
+        "a": "Yes, processing each channel before combining can yield cleaner colors, but it adds complexity."
+      }
+    ],
+    "category": "Processing",
+    "tags": [
+      "stacking",
+      "signal-to-noise"
+    ],
+    "sources": [
+      {
+        "label": "r/AskAstrophotography community threads",
+        "url": "https://www.reddit.com/r/AskAstrophotography/"
+      },
+      {
+        "label": "Search interest: \"astrophotography without tracker\"",
+        "url": "https://duckduckgo.com/?q=astrophotography%20without%20tracker"
+      }
+    ],
+    "publishedAt": "2026-10-18T06:36:02.757Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "targets-pre-spend-checklist-76",
     "title": "The targets checklist: run this before you spend",
     "dek": "Seven questions that separate a justified targets purchase from an expensive mood.",

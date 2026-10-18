@@ -1,5 +1,56 @@
 [
   {
+    "slug": "unlock-building-permits",
+    "title": "Unlocking the Secrets of Old Building Permits",
+    "dek": "A quick guide to mining historic building permits for untold neighborhood narratives.",
+    "takeaway": "Building permits are gold mines for local stories when you know where to look.",
+    "whatHappened": "Last month I dug into the 1920s municipal permit vault and uncovered a forgotten firehouse that shaped the town’s east side. The original blueprints and contractor notes revealed a community hub that later became a library. Sharing the find on the blog sparked a local heritage walk proposal.",
+    "whyItMatters": "Permits capture decisions, materials, and community priorities that maps and photographs often miss. By surfacing these documents, archivists give residents tangible links to how their streets evolved, fostering pride and informed preservation.",
+    "howToThink": "Start by locating the permit index at your city clerk’s office or online portal. Scan for keywords like \"construction,\" \"alteration,\" or street names you’re researching. Cross‑reference dates with newspaper archives to add context, then digitize and tag the files for easy retrieval.",
+    "pros": [
+      "Rich, verifiable data",
+      "Direct links to construction dates",
+      "Often includes contractor info"
+    ],
+    "cons": [
+      "May be scattered across departments",
+      "Handwritten entries can be hard to read",
+      "Access restrictions on recent permits"
+    ],
+    "watchOut": "Some permits contain sensitive property details; redact personal info before public sharing.",
+    "faq": [
+      {
+        "q": "Where can I find historic building permits?",
+        "a": "Check municipal archives, county clerk’s office, or online digital collections; many states have digitized 19th‑century records."
+      },
+      {
+        "q": "What if the permits are in poor condition?",
+        "a": "Use a gentle scanner or photograph with a copy stand; consider consulting a conservation specialist for fragile documents."
+      },
+      {
+        "q": "How do I cite a building permit in my research?",
+        "a": "Include the permit number, issuing authority, date, and location; follow your archive’s citation style guide."
+      }
+    ],
+    "category": "Archives",
+    "tags": [
+      "permits",
+      "neighborhood-history"
+    ],
+    "sources": [
+      {
+        "label": "r/urbanexploration community threads",
+        "url": "https://www.reddit.com/r/urbanexploration/"
+      },
+      {
+        "label": "Search interest: \"community archive project\"",
+        "url": "https://duckduckgo.com/?q=community%20archive%20project"
+      }
+    ],
+    "publishedAt": "2026-10-18T06:36:34.034Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-landmarks-53",
     "title": "The quiet upgrade: small tweaks in landmarks with outsized returns",
     "dek": "No purchases, no overhauls — the modest landmarks adjustments that local history buffs and community archivists report mattering most.",

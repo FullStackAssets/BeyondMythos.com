@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/layer-lines-3/</link>
     <description>Fresh takes for home 3D-printing hobbyists.</description>
     <item>
+      <title>Fine-tuning your first Z offset: a quick win</title>
+      <link>https://www.beyondmythos.com/sites/layer-lines-3/posts/fine-tuning-first-z-offset.html</link>
+      <guid>https://www.beyondmythos.com/sites/layer-lines-3/posts/fine-tuning-first-z-offset.html</guid>
+      <pubDate>Sun, 18 Oct 2026 06:36:23 GMT</pubDate>
+      <description>Master the Z offset in minutes and eliminate first-layer woes for reliable prints.</description>
+    </item>
+    <item>
       <title>Myth vs. reality: printer upgrade guide</title>
       <link>https://www.beyondmythos.com/sites/layer-lines-3/posts/myth-vs-reality-printer-upgrade-guide-20.html</link>
       <guid>https://www.beyondmythos.com/sites/layer-lines-3/posts/myth-vs-reality-printer-upgrade-guide-20.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/layer-lines-3/posts/five-filament-mistakes-57.html</guid>
       <pubDate>Tue, 25 Aug 2026 11:04:38 GMT</pubDate>
       <description>The most common early stumbles in filament, and the cheap corrections that fix them for home 3D-printing hobbyists.</description>
-    </item>
-    <item>
-      <title>&quot;3d print stringing fix&quot; in practice: a real-world field test</title>
-      <link>https://www.beyondmythos.com/sites/layer-lines-3/posts/3d-print-stringing-fix-field-test-19.html</link>
-      <guid>https://www.beyondmythos.com/sites/layer-lines-3/posts/3d-print-stringing-fix-field-test-19.html</guid>
-      <pubDate>Tue, 25 Aug 2026 10:06:11 GMT</pubDate>
-      <description>We put the most-repeated advice about 3d print stringing fix through a month of actual use. Some of it survived.</description>
     </item>
   </channel>
 </rss>
