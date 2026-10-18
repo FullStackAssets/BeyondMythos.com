@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Retro Controller Revamp: Adding a Tactile Switch for Snappier Inputs</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-controller-revamp-tactile-switch.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-controller-revamp-tactile-switch.html</guid>
+      <pubDate>Sun, 18 Oct 2026 20:45:22 GMT</pubDate>
+      <description>Upgrade your classic controller with a cheap tactile switch for crisper, more reliable button presses.</description>
+    </item>
+    <item>
       <title>Game Boy Camera Hack: Faster Shots for Speedrun Recordings</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/game-boy-camera-hack.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/game-boy-camera-hack.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/five-speedruns-mistakes-54.html</guid>
       <pubDate>Tue, 25 Aug 2026 20:00:33 GMT</pubDate>
       <description>The most common early stumbles in speedruns, and the cheap corrections that fix them for retro game collectors and speedrunners.</description>
-    </item>
-    <item>
-      <title>&quot;hidden snes gems&quot; in practice: a real-world field test</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/hidden-snes-gems-field-test-20.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/hidden-snes-gems-field-test-20.html</guid>
-      <pubDate>Tue, 25 Aug 2026 19:17:08 GMT</pubDate>
-      <description>We put the most-repeated advice about hidden snes gems through a month of actual use. Some of it survived.</description>
     </item>
   </channel>
 </rss>

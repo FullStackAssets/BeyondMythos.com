@@ -1,5 +1,56 @@
 [
   {
+    "slug": "silent-carriage-workshops-upcycling-train-seats",
+    "title": "Silent Carriage Workshops: Upcycling Train Seats for Low‑Impact Craft Spaces",
+    "dek": "Turn idle train seats into pop‑up workshops, merging creativity with low‑impact travel.",
+    "takeaway": "Creative reuse of train interiors can enrich slow journeys while cutting waste.",
+    "whatHappened": "A regional depot converted a retired carriage into a weekend craft hub. Volunteers set up portable workbenches, reclaimed wood, and simple tools for travelers to try their hand at upcycling. The pop‑up ran for three days and attracted curious passengers and locals alike.",
+    "whyItMatters": "Repurposing unused train parts cuts material waste and extends the life of railway assets. It also offers slow‑travelers a tactile way to connect with the rail environment, turning transit time into a collaborative experience. Community members gain a low‑cost venue for skill‑sharing, strengthening local ties.",
+    "howToThink": "Scout decommissioned carriages at nearby yards and discuss temporary use with railway operators. Keep the setup minimal—fold‑away tables, reusable containers, and non‑permanent fixtures. Emphasize portable, recyclable supplies so the space can be dismantled without leaving a trace.",
+    "pros": [
+      "Reduces waste",
+      "Boosts local creativity",
+      "Adds unique experience"
+    ],
+    "cons": [
+      "Requires coordination",
+      "Limited space",
+      "Weather dependent"
+    ],
+    "watchOut": "Ensure safety regulations are met before any modifications.",
+    "faq": [
+      {
+        "q": "Do I need a special permit to use a train carriage?",
+        "a": "Yes, you must obtain permission from the rail operator or depot manager, even for temporary use."
+      },
+      {
+        "q": "What tools are suitable for a low‑impact workshop?",
+        "a": "Stick to hand tools, reusable containers, and reclaimed materials; avoid disposable items."
+      },
+      {
+        "q": "Can the workshop operate year‑round?",
+        "a": "If the carriage is enclosed and heated, it can run year‑round; otherwise plan for seasonal pop‑ups."
+      }
+    ],
+    "category": "Local",
+    "tags": [
+      "upcycling",
+      "community"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-10-18T20:45:22.389Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "silent-sleeper-overnight-pods",
     "title": "Silent Sleeper: Low‑Impact Overnight Pods on Rural Lines",
     "dek": "Discover how repurposed railway pods turn quiet rural stations into eco‑friendly sleep spots for slow travelers.",

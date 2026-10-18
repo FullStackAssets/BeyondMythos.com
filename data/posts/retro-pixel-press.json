@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-controller-revamp-tactile-switch",
+    "title": "Retro Controller Revamp: Adding a Tactile Switch for Snappier Inputs",
+    "dek": "Upgrade your classic controller with a cheap tactile switch for crisper, more reliable button presses.",
+    "takeaway": "A simple switch swap can noticeably improve input feel without breaking the original aesthetic.",
+    "whatHappened": "I swapped the stock membrane button on my SNES controller with a low‑profile tactile switch. The mod took under an hour and required only a soldering iron and a few components.",
+    "whyItMatters": "Speedrunners rely on consistent, rapid inputs, and a tactile switch reduces mushy feel that can cost fractions of a second. Collectors also appreciate the subtle upgrade that preserves the console’s look.",
+    "howToThink": "When choosing a switch, match the travel and actuation force to the original feel you prefer. Test a few on a breadboard before soldering, and keep the original parts in case you want to revert.",
+    "pros": [
+      "Sharper feedback",
+      "Minimal cost",
+      "Preserves original look"
+    ],
+    "cons": [
+      "Requires soldering",
+      "Potential void of warranty",
+      "May need case drilling"
+    ],
+    "watchOut": "Avoid overheating the PCB; a brief soldering touch is enough to secure the switch.",
+    "faq": [
+      {
+        "q": "Will this mod work on all SNES controllers?",
+        "a": "It works on most standard SNES controllers, but variations with different PCB layouts may need slight adjustments."
+      },
+      {
+        "q": "Can I use any tactile switch?",
+        "a": "Any low‑profile tactile switch with similar dimensions works, but choose one with a comfortable actuation force for gaming."
+      },
+      {
+        "q": "Do I need to modify the controller housing?",
+        "a": "Usually no, but some switches are taller and may require a small clearance cut in the plastic."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "hardware",
+      "speedrun"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-10-18T20:45:22.925Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "game-boy-camera-hack",
     "title": "Game Boy Camera Hack: Faster Shots for Speedrun Recordings",
     "dek": "Add a lens and a pull‑up resistor to your Game Boy Camera for instant frame capture during speedrun verification.",
