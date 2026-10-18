@@ -1,0 +1,308 @@
+[
+  {
+    "slug": "breathing-new-life-apple-ii",
+    "title": "Breathing New Life into the Apple II",
+    "category": "Restoration",
+    "dek": "A quick guide to cleaning, re‑soldering, and testing a classic Apple II chassis.",
+    "takeaway": "A clean, tested Apple II can run original software reliably again.",
+    "whatHappened": "Many owners find dust and oxidized contacts cause intermittent boot issues. A systematic cleaning and solder refresh resolves most problems.",
+    "whyItMatters": "Reliable hardware preserves software heritage and lets enthusiasts experience original performance. It also reduces the need for costly replacements.",
+    "howToThink": "Start with visual inspection, then clean contacts with isopropyl alcohol, and finally reflow suspect solder joints before a power‑on test.",
+    "pros": [
+      "Extended hardware lifespan",
+      "Improved stability",
+      "Preserves original feel"
+    ],
+    "cons": [
+      "Time‑consuming",
+      "Requires soldering skill",
+      "Potential for accidental damage"
+    ],
+    "watchOut": "Avoid applying excess pressure on fragile IC sockets.",
+    "faq": [
+      {
+        "q": "Do I need a heat gun for solder refresh?",
+        "a": "A fine‑tip soldering iron works for most joints; a heat gun is optional for larger areas."
+      },
+      {
+        "q": "Can I use generic contact cleaner?",
+        "a": "Yes, a non‑conductive, fast‑evaporating cleaner is safe for most plastics and metal parts."
+      },
+      {
+        "q": "How often should I reseat the RAM chips?",
+        "a": "Inspect them during each major cleaning cycle, typically every few years depending on use."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/retrobattlestations community threads",
+        "url": "https://www.reddit.com/r/retrobattlestations/"
+      },
+      {
+        "label": "Search interest: \"recap vintage computer\"",
+        "url": "https://duckduckgo.com/?q=recap%20vintage%20computer"
+      }
+    ],
+    "tags": [
+      "Apple II",
+      "Restoration"
+    ],
+    "publishedAt": "2026-10-18T16:15:44.059Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "c64-emulation-tips",
+    "title": "C64 Emulation Tips for Purists",
+    "category": "Emulation",
+    "dek": "Practical steps to get accurate sound and timing when emulating a Commodore 64 on modern hardware.",
+    "takeaway": "Fine‑tuning settings can bring modern emulators close to original C64 behavior.",
+    "whatHappened": "Users often notice audio glitches or frame‑rate drift in default emulator profiles. Adjusting sample rates and cycle‑accurate modes fixes these issues.",
+    "whyItMatters": "Accurate emulation preserves the feel of classic games and demos, which is crucial for preservation and competition scenes.",
+    "howToThink": "Enable cycle‑exact CPU emulation, match the original SID sample rate, and disable any frame‑skip options unless performance demands it.",
+    "pros": [
+      "High fidelity",
+      "Broad game compatibility",
+      "Low hardware requirements"
+    ],
+    "cons": [
+      "Higher CPU load",
+      "More complex configuration",
+      "Potential driver conflicts"
+    ],
+    "watchOut": "Do not mix audio output formats; keep the SID output consistent across sessions.",
+    "faq": [
+      {
+        "q": "Do I need the original ROM files?",
+        "a": "Yes, legal use requires you to supply your own dumped ROM images."
+      },
+      {
+        "q": "Can I use a Bluetooth controller?",
+        "a": "Bluetooth adds latency; wired controllers are recommended for timing‑critical games."
+      },
+      {
+        "q": "Is a GPU needed for C64 emulation?",
+        "a": "Modern GPUs help with scaling but are not required for core emulation."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/vintagecomputing community threads",
+        "url": "https://www.reddit.com/r/vintagecomputing/"
+      },
+      {
+        "label": "Search interest: \"best emulation setup\"",
+        "url": "https://duckduckgo.com/?q=best%20emulation%20setup"
+      }
+    ],
+    "tags": [
+      "C64",
+      "Emulation"
+    ],
+    "publishedAt": "2026-10-17T03:15:44.059Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "upgrading-commodore-amiga-500",
+    "title": "Upgrading the Commodore Amiga 500 for Modern Use",
+    "category": "Upgrades",
+    "dek": "How to add a faster CPU, more RAM, and a compact SSD to an Amiga 500 without losing its classic charm.",
+    "takeaway": "Selective upgrades boost performance while keeping the original aesthetic intact.",
+    "whatHappened": "Many Amiga 500 owners hit limits with the original 7 MHz processor and 512 KB RAM. Installing a 68030 accelerator and extra RAM expands capabilities for modern software and games.",
+    "whyItMatters": "The upgrades let the Amiga run newer demos, video playback, and lightweight Linux distributions, extending its relevance for hobbyists.",
+    "howToThink": "Choose a plug‑in accelerator board that matches the original expansion slot, add compatible SIMM modules, and use an SD‑to‑IDE adapter for storage.",
+    "pros": [
+      "Significant speed boost",
+      "Increased memory headroom",
+      "Retains original case"
+    ],
+    "cons": [
+      "Higher power draw",
+      "Potential heat buildup",
+      "Requires careful board alignment"
+    ],
+    "watchOut": "Verify that the accelerator board’s firmware matches the Amiga’s Kickstart version.",
+    "faq": [
+      {
+        "q": "Will the original floppy drive still work?",
+        "a": "Yes, the drive remains functional; the accelerator does not interfere with the disk controller."
+      },
+      {
+        "q": "Do I need a new power supply?",
+        "a": "Often the stock supply can handle modest upgrades, but monitor voltage if you add multiple cards."
+      },
+      {
+        "q": "Can I run modern OSes like AmigaOS 4?",
+        "a": "AmigaOS 4 requires a PowerPC CPU; the 68030 upgrade is for classic AmigaOS and third‑party software."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/emulation community threads",
+        "url": "https://www.reddit.com/r/emulation/"
+      },
+      {
+        "label": "Search interest: \"crt monitor guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20monitor%20guide"
+      }
+    ],
+    "tags": [
+      "Amiga",
+      "Upgrades"
+    ],
+    "publishedAt": "2026-10-15T14:15:44.059Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "retro-os-optimizations",
+    "title": "Retro OS Optimizations: Getting More from Classic Software",
+    "category": "Software",
+    "dek": "Tips for tweaking classic operating systems to run smoother on restored hardware.",
+    "takeaway": "Minor configuration changes can noticeably improve responsiveness without hardware changes.",
+    "whatHappened": "Enthusiasts often leave default settings untouched, leading to sluggish disk access and long boot times. Adjusting swap usage and disabling unused services helps.",
+    "whyItMatters": "Optimizing the OS respects the original hardware constraints and provides a better user experience for both preservation and daily use.",
+    "howToThink": "Reduce the size of the swap file, turn off background indexing, and clean up startup scripts that load unnecessary drivers.",
+    "pros": [
+      "Faster boot",
+      "Reduced wear on storage media",
+      "Cleaner system logs"
+    ],
+    "cons": [
+      "May lose some legacy functionality",
+      "Requires knowledge of system files",
+      "Changes can be undone by updates"
+    ],
+    "watchOut": "Back up configuration files before making changes; a misstep can prevent the system from booting.",
+    "faq": [
+      {
+        "q": "Is it safe to disable the GUI on a classic OS?",
+        "a": "Yes, many users run in command‑line mode for speed, but ensure needed utilities are accessible."
+      },
+      {
+        "q": "Can I defragment the original floppy disk?",
+        "a": "Defragmentation tools exist, but excessive writes can wear the media; use sparingly."
+      },
+      {
+        "q": "Should I move the swap file to a different drive?",
+        "a": "If you have a faster secondary drive, relocating swap can improve performance."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/retrobattlestations community threads",
+        "url": "https://www.reddit.com/r/retrobattlestations/"
+      },
+      {
+        "label": "Search interest: \"recap vintage computer\"",
+        "url": "https://duckduckgo.com/?q=recap%20vintage%20computer"
+      }
+    ],
+    "tags": [
+      "Software",
+      "Optimization"
+    ],
+    "publishedAt": "2026-10-14T01:15:44.059Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "restoring-ibm-5150",
+    "title": "Restoring the IBM 5150: From Dust to Daylight",
+    "category": "Restoration",
+    "dek": "Step‑by‑step guide to bring an original IBM 5150 back to life, focusing on power, video, and keyboard.",
+    "takeaway": "A careful restoration can make a 30‑year‑old PC boot and display reliably again.",
+    "whatHappened": "Owners frequently encounter dead power supplies and failing CGA cards after decades of storage. Replacing the PSU and cleaning the video board revives functionality.",
+    "whyItMatters": "The IBM 5150 is a cornerstone of PC history; restoring it preserves a tangible piece of computing evolution and offers a platform for vintage software demos.",
+    "howToThink": "Test the power supply with a multimeter, replace capacitors showing bulging, clean the video connector, and verify the keyboard matrix for stuck keys.",
+    "pros": [
+      "Authentic hardware experience",
+      "Educational value",
+      "Supports early PC software"
+    ],
+    "cons": [
+      "Hard‑to‑find replacement parts",
+      "Limited performance by modern standards",
+      "Potential for electrical hazards"
+    ],
+    "watchOut": "Always unplug the machine before opening; capacitors can retain charge even after power is removed.",
+    "faq": [
+      {
+        "q": "Do I need a new power switch?",
+        "a": "If the original switch feels loose or fails a continuity test, replace it with a compatible momentary switch."
+      },
+      {
+        "q": "Can I use a modern monitor with the CGA card?",
+        "a": "Yes, a CGA‑to‑VGA adapter works for most monitors; ensure correct resolution settings."
+      },
+      {
+        "q": "Is the original 5 MHz clock reliable?",
+        "a": "Clocks can drift; a crystal replacement restores accurate timing for software."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/vintagecomputing community threads",
+        "url": "https://www.reddit.com/r/vintagecomputing/"
+      },
+      {
+        "label": "Search interest: \"best emulation setup\"",
+        "url": "https://duckduckgo.com/?q=best%20emulation%20setup"
+      }
+    ],
+    "tags": [
+      "IBM",
+      "Restoration"
+    ],
+    "publishedAt": "2026-10-12T12:15:44.059Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "modern-sd-card-bridge",
+    "title": "Modern SD‑Card Bridge for Vintage Machines",
+    "category": "Upgrades",
+    "dek": "Installing an SD‑card interface to replace aging floppy drives and hard disks in retro computers.",
+    "takeaway": "An SD bridge offers reliable storage while keeping the original machine’s look and feel.",
+    "whatHappened": "Floppy drives and early HDDs fail frequently, forcing users to source scarce replacements. An SD‑to‑IDE or SD‑to‑SCSI bridge provides a plug‑and‑play solution.",
+    "whyItMatters": "Digital storage eliminates media degradation, speeds up loading, and simplifies data backup, extending the usable life of vintage systems.",
+    "howToThink": "Select a bridge that matches the machine’s bus (IDE or SCSI), flash an appropriate disk image onto the SD card, and configure the BIOS or boot loader to recognize it.",
+    "pros": [
+      "Fast data access",
+      "No moving parts",
+      "Easy backups"
+    ],
+    "cons": [
+      "Compatibility quirks with some software",
+      "Initial setup can be technical",
+      "Potential BIOS limitations"
+    ],
+    "watchOut": "Ensure the bridge’s firmware supports the exact disk geometry expected by the original OS.",
+    "faq": [
+      {
+        "q": "Do I need to format the SD card?",
+        "a": "Yes, format it to the file system the bridge expects, usually FAT32, before flashing the disk image."
+      },
+      {
+        "q": "Can I use the bridge for both boot and data storage?",
+        "a": "Typically the bridge can serve as the primary boot device and as additional storage."
+      },
+      {
+        "q": "Will the bridge work on all retro models?",
+        "a": "Compatibility depends on bus type and firmware; verify support for your specific computer model."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/emulation community threads",
+        "url": "https://www.reddit.com/r/emulation/"
+      },
+      {
+        "label": "Search interest: \"crt monitor guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20monitor%20guide"
+      }
+    ],
+    "tags": [
+      "SD‑Card",
+      "Upgrade"
+    ],
+    "publishedAt": "2026-10-10T23:15:44.059Z",
+    "readMinutes": 2
+  }
+]

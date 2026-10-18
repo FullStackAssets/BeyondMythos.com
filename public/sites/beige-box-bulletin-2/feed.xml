@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Beige Box Bulletin</title>
+    <link>https://beyondmythos.com/sites/beige-box-bulletin-2/</link>
+    <description>Fresh takes for retro computer restorers and emulation fans.</description>
+    <item>
+      <title>Breathing New Life into the Apple II</title>
+      <link>https://beyondmythos.com/sites/beige-box-bulletin-2/posts/breathing-new-life-apple-ii.html</link>
+      <guid>https://beyondmythos.com/sites/beige-box-bulletin-2/posts/breathing-new-life-apple-ii.html</guid>
+      <pubDate>Sun, 18 Oct 2026 16:15:44 GMT</pubDate>
+      <description>A quick guide to cleaning, re‑soldering, and testing a classic Apple II chassis.</description>
+    </item>
+    <item>
+      <title>C64 Emulation Tips for Purists</title>
+      <link>https://beyondmythos.com/sites/beige-box-bulletin-2/posts/c64-emulation-tips.html</link>
+      <guid>https://beyondmythos.com/sites/beige-box-bulletin-2/posts/c64-emulation-tips.html</guid>
+      <pubDate>Sat, 17 Oct 2026 03:15:44 GMT</pubDate>
+      <description>Practical steps to get accurate sound and timing when emulating a Commodore 64 on modern hardware.</description>
+    </item>
+    <item>
+      <title>Upgrading the Commodore Amiga 500 for Modern Use</title>
+      <link>https://beyondmythos.com/sites/beige-box-bulletin-2/posts/upgrading-commodore-amiga-500.html</link>
+      <guid>https://beyondmythos.com/sites/beige-box-bulletin-2/posts/upgrading-commodore-amiga-500.html</guid>
+      <pubDate>Thu, 15 Oct 2026 14:15:44 GMT</pubDate>
+      <description>How to add a faster CPU, more RAM, and a compact SSD to an Amiga 500 without losing its classic charm.</description>
+    </item>
+    <item>
+      <title>Retro OS Optimizations: Getting More from Classic Software</title>
+      <link>https://beyondmythos.com/sites/beige-box-bulletin-2/posts/retro-os-optimizations.html</link>
+      <guid>https://beyondmythos.com/sites/beige-box-bulletin-2/posts/retro-os-optimizations.html</guid>
+      <pubDate>Wed, 14 Oct 2026 01:15:44 GMT</pubDate>
+      <description>Tips for tweaking classic operating systems to run smoother on restored hardware.</description>
+    </item>
+    <item>
+      <title>Restoring the IBM 5150: From Dust to Daylight</title>
+      <link>https://beyondmythos.com/sites/beige-box-bulletin-2/posts/restoring-ibm-5150.html</link>
+      <guid>https://beyondmythos.com/sites/beige-box-bulletin-2/posts/restoring-ibm-5150.html</guid>
+      <pubDate>Mon, 12 Oct 2026 12:15:44 GMT</pubDate>
+      <description>Step‑by‑step guide to bring an original IBM 5150 back to life, focusing on power, video, and keyboard.</description>
+    </item>
+    <item>
+      <title>Modern SD‑Card Bridge for Vintage Machines</title>
+      <link>https://beyondmythos.com/sites/beige-box-bulletin-2/posts/modern-sd-card-bridge.html</link>
+      <guid>https://beyondmythos.com/sites/beige-box-bulletin-2/posts/modern-sd-card-bridge.html</guid>
+      <pubDate>Sat, 10 Oct 2026 23:15:44 GMT</pubDate>
+      <description>Installing an SD‑card interface to replace aging floppy drives and hard disks in retro computers.</description>
+    </item>
+  </channel>
+</rss>
