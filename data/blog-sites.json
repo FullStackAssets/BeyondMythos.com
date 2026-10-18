@@ -1209,8 +1209,29 @@
       "streamUrl": "https://beyondmythos.com/",
       "elevenlabsAgentId": null,
       "lastPostAt": "2026-10-18T14:45:37.907Z"
+    },
+    {
+      "id": "home-barista-lab-2-1792336541877",
+      "slug": "home-barista-lab-2",
+      "name": "Home Barista Lab",
+      "tagline": "Fresh takes for home coffee enthusiasts.",
+      "nicheId": "home-coffee",
+      "audience": "home coffee enthusiasts",
+      "categories": [
+        "Espresso",
+        "Pour-over",
+        "Roasting",
+        "Gear"
+      ],
+      "url": "https://beyondmythos.com/sites/home-barista-lab-2/",
+      "localUrl": "https://beyondmythos.com/sites/home-barista-lab-2/",
+      "design": "ember",
+      "postCount": 6,
+      "createdAt": "2026-10-18T15:15:35.803Z",
+      "streamUrl": "https://beyondmythos.com/",
+      "elevenlabsAgentId": null
     }
   ],
-  "lastGeneratedAt": "2026-08-07T05:50:31.147Z",
+  "lastGeneratedAt": "2026-10-18T15:15:35.803Z",
   "lastPostRunAt": "2026-10-18T14:45:38.300Z"
 }
