@@ -1,5 +1,56 @@
 [
   {
+    "slug": "rx-560-budget-1080p",
+    "title": "AMD Radeon RX 560: budget-friendly 1080p performer for under $80",
+    "dek": "The RX 560 still delivers decent 1080p gaming on a shoestring, making it a solid pick for tight budgets.",
+    "takeaway": "You can game at 1080p on a shoestring with a used RX 560, especially when you hunt smartly.",
+    "whatHappened": "As newer cards dominate the shelves, the RX 560 has slipped into the secondary market at surprisingly low prices. Sellers on popular forums and local listings are now offering them well below $100, often with the original box or just the card. This creates a brief window for budget builders to snag decent performance without breaking the bank.",
+    "whyItMatters": "For builders constrained by a tight budget, every dollar counts toward a balanced system. The RX 560’s low power draw means you can pair it with modest power supplies and smaller cases. Getting a functional 1080p GPU at this price point stretches the overall build budget toward a better CPU or SSD.",
+    "howToThink": "Scout reputable secondhand sources and verify the card’s condition before purchase. Check that the BIOS is up‑to‑date to avoid compatibility hiccups with newer drivers. Pair the RX 560 with a mid‑range CPU to avoid bottlenecks, and tune settings to medium for newer titles to keep frame rates smooth.",
+    "pros": [
+      "Low power draw",
+      "Quiet operation",
+      "Affordable on secondhand market"
+    ],
+    "cons": [
+      "Limited VRAM for newer titles",
+      "Struggles at high settings",
+      "Older architecture"
+    ],
+    "watchOut": "Watch for outdated drivers that may need manual updates on the latest OS versions.",
+    "faq": [
+      {
+        "q": "Will the RX 560 run current eSports titles at 1080p?",
+        "a": "Yes, most eSports games run comfortably at medium to high settings on this card."
+      },
+      {
+        "q": "Do I need a special power connector for the RX 560?",
+        "a": "Most RX 560 models draw power directly from the PCIe slot, though some variants may have a 6‑pin connector."
+      },
+      {
+        "q": "Is it worth buying a used RX 560 over a new low‑end card?",
+        "a": "Generally, a used RX 560 offers better performance per dollar than many new entry‑level GPUs, provided it’s in good condition."
+      }
+    ],
+    "category": "GPUs",
+    "tags": [
+      "budget",
+      "rx-560"
+    ],
+    "sources": [
+      {
+        "label": "r/pcmasterrace community threads",
+        "url": "https://www.reddit.com/r/pcmasterrace/"
+      },
+      {
+        "label": "Search interest: \"1440p value build\"",
+        "url": "https://duckduckgo.com/?q=1440p%20value%20build"
+      }
+    ],
+    "publishedAt": "2026-10-18T19:45:12.835Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "rx-570-4gb-budget-1080p",
     "title": "RX 570 4GB: Still a viable 1080p workhorse for under $100",
     "dek": "The Radeon RX 570 proves you can game 1080p on a shoestring without breaking the bank.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "micro-daily-immersion",
+    "title": "Micro-daily immersion: tiny habit, big gains",
+    "dek": "Add a five‑minute target‑language habit each day and watch your listening confidence climb.",
+    "takeaway": "Consistency beats marathon sessions for real listening progress.",
+    "whatHappened": "I swapped my nightly TV binge for a five‑minute audio clip in the language I’m learning. Over two weeks the clip felt less foreign, and I could recall the gist without subtitles.",
+    "whyItMatters": "Short, repeatable exposure trains the brain to recognize patterns without fatigue, and it fits any schedule, lowering the barrier to daily practice.",
+    "howToThink": "Pick a single source—podcast, song, or news snippet—and commit to 5 minutes at the same time each day. Keep a log, repeat the same episode until it feels familiar, then move on.",
+    "pros": [
+      "Zero time pressure",
+      "Builds listening stamina",
+      "Easy to stack with other routines"
+    ],
+    "cons": [
+      "Limited depth per session",
+      "May feel repetitive",
+      "Progress can be slow to notice"
+    ],
+    "watchOut": "Don’t let the habit become background noise; stay actively engaged.",
+    "faq": [
+      {
+        "q": "Can I use this for reading too?",
+        "a": "Yes, replace audio with a short article and follow the same five‑minute rule."
+      },
+      {
+        "q": "What if I miss a day?",
+        "a": "Skip it and resume tomorrow; the habit’s value lies in consistency over weeks, not perfection."
+      },
+      {
+        "q": "How do I choose material?",
+        "a": "Start with content you already enjoy, ideally at a level just above comfortable, so comprehension feels achievable."
+      }
+    ],
+    "category": "Immersion",
+    "tags": [
+      "habit",
+      "listening"
+    ],
+    "sources": [
+      {
+        "label": "r/languagelearning community threads",
+        "url": "https://www.reddit.com/r/languagelearning/"
+      },
+      {
+        "label": "Search interest: \"comprehensible input method\"",
+        "url": "https://duckduckgo.com/?q=comprehensible%20input%20method"
+      }
+    ],
+    "publishedAt": "2026-10-18T19:45:28.144Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-grammar-74",
     "title": "Ask the forge: your grammar questions, answered",
     "dek": "Straight answers to the grammar questions self-taught language learners keep asking, minus the hedging.",

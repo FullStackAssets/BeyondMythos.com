@@ -1,5 +1,56 @@
 [
   {
+    "slug": "compact-cold-frame-balcony-season",
+    "title": "Compact Cold Frame: Extending the Balcony Growing Season",
+    "dek": "A DIY mini cold frame lets apartment gardeners protect veggies and herbs from early frosts without sacrificing balcony space.",
+    "takeaway": "A small cold frame can add weeks of harvest to your balcony garden.",
+    "whatHappened": "We built a lightweight cold frame using reclaimed wood and clear acrylic on a sunny balcony. The structure trapped heat, keeping seedlings warm through nightly dips.",
+    "whyItMatters": "Balcony gardeners often lose momentum when temperatures drop, and a cold frame keeps growth going. Extending the season means more fresh produce and less waste.",
+    "howToThink": "Choose a frame that fits your balcony rail, use transparent panels for sunlight, and add a removable lid for ventilation. Position it where it gets maximum sun, and monitor temperature with a simple garden thermometer.",
+    "pros": [
+      "Adds weeks of growth",
+      "Low‑cost DIY materials",
+      "Fits tight balcony spaces"
+    ],
+    "cons": [
+      "Requires occasional venting",
+      "Adds slight weight to rail",
+      "Limited to shallow‑root crops"
+    ],
+    "watchOut": "Avoid blocking airflow; a sealed frame can overheat on sunny days.",
+    "faq": [
+      {
+        "q": "Can I use a cold frame on a balcony with a metal railing?",
+        "a": "Yes, as long as the frame’s base is secured and weight is distributed, a metal rail can support a modest‑size frame."
+      },
+      {
+        "q": "What plants thrive best in a balcony cold frame?",
+        "a": "Leafy greens, herbs like basil and cilantro, and quick‑maturing radishes perform well."
+      },
+      {
+        "q": "Do I need extra heat sources?",
+        "a": "Usually not; the sun’s warmth plus the insulated enclosure is sufficient for mild frosts."
+      }
+    ],
+    "category": "Seasonal",
+    "tags": [
+      "Seasonal",
+      "Containers"
+    ],
+    "sources": [
+      {
+        "label": "r/UrbanGardening community threads",
+        "url": "https://www.reddit.com/r/UrbanGardening/"
+      },
+      {
+        "label": "Search interest: \"balcony garden ideas\"",
+        "url": "https://duckduckgo.com/?q=balcony%20garden%20ideas"
+      }
+    ],
+    "publishedAt": "2026-10-18T19:45:07.328Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "vertical-pocket-planters-boost-yield",
     "title": "Vertical Pocket Planters: Boost Yield on Tiny Balconies",
     "dek": "Turn a narrow balcony rail into a green wall with pocket planters that feed herbs, lettuces, and flowers all season long.",

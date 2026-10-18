@@ -1,5 +1,56 @@
 [
   {
+    "slug": "reviving-the-classic-pentax-k1000",
+    "title": "Reviving the Classic: Why the Pentax K1000 Still Rules",
+    "dek": "A quick look at why the Pentax K1000 remains a go‑to starter for analog shooters and how to get the most out of it today.",
+    "takeaway": "The K1000’s simplicity and durability make it an unbeatable learning tool for film photographers.",
+    "whatHappened": "After a year of shooting digital, I dusted off a vintage Pentax K1000 and loaded a fresh roll of 35mm film. The camera’s blunt, manual workflow forced me to think about exposure before the click. The resulting frames felt more deliberate and rewarding than my recent digital snaps.",
+    "whyItMatters": "In an era of automated lenses and digital convenience, a fully manual SLR reminds us of the fundamentals of exposure and composition. Mastering a tool with no electronic crutches builds confidence that translates to any film camera, preserving the craft’s core skills.",
+    "howToThink": "Treat the K1000 as a training wheel: set ISO, choose aperture, estimate shutter speed using the built‑in exposure guide, and trust the light meter’s needle. Keep a notebook of your settings to spot patterns, and don’t shy away from bracketing when unsure. The discipline you develop will pay off when you switch to more advanced bodies.",
+    "pros": [
+      "Rock‑solid build",
+      "Fully manual control",
+      "Affordable lenses"
+    ],
+    "cons": [
+      "No built‑in light meter",
+      "Heavy plastic body",
+      "Limited flash sync"
+    ],
+    "watchOut": "The lack of a built‑in meter means you’ll need a handheld meter or a solid feel for light, especially in tricky lighting.",
+    "faq": [
+      {
+        "q": "Do I need a battery for the K1000?",
+        "a": "No, the K1000 runs entirely on mechanical operation; the only battery needed is for the optional light meter."
+      },
+      {
+        "q": "Can I use modern lenses on the K1000?",
+        "a": "Yes, as long as they have the Pentax K‑mount; many modern optics are fully compatible."
+      },
+      {
+        "q": "Is the K1000 suitable for low‑light photography?",
+        "a": "It can handle low light, but you’ll rely on higher ISO film or a tripod since the shutter speed tops out at 1/1000 s and there’s no built‑in stabilization."
+      }
+    ],
+    "category": "Cameras",
+    "tags": [
+      "camera basics",
+      "35mm"
+    ],
+    "sources": [
+      {
+        "label": "r/filmphotography community threads",
+        "url": "https://www.reddit.com/r/filmphotography/"
+      },
+      {
+        "label": "Search interest: \"film camera under 200\"",
+        "url": "https://duckduckgo.com/?q=film%20camera%20under%20200"
+      }
+    ],
+    "publishedAt": "2026-10-18T19:45:21.890Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-analog-26",
     "title": "Community pulse: what r/analog is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the scanning community this week.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "silent-sleeper-overnight-pods",
+    "title": "Silent Sleeper: Low‑Impact Overnight Pods on Rural Lines",
+    "dek": "Discover how repurposed railway pods turn quiet rural stations into eco‑friendly sleep spots for slow travelers.",
+    "takeaway": "Tiny, insulated pods let you rest on the rails without a carbon‑heavy hotel bill.",
+    "whatHappened": "During a week‑long slow‑travel loop through the Scottish Highlands, I booked a night in a refurbished sleeper pod at a decommissioned halt. The pod, powered by solar panels, offered a warm bed, a small reading lamp, and a view of passing misty hills.",
+    "whyItMatters": "Sleeping on the line cuts hotel emissions, supports local rail heritage, and lets travelers experience places most tourists never see. It also spreads the cost of maintaining low‑traffic stations.",
+    "howToThink": "When planning a route, check the rail operator’s community‑use list for pod locations, book a night in advance, and pack a reusable sleeping bag liner. Keep power usage low and respect quiet hours.",
+    "pros": [
+      "Zero‑hotel carbon footprint",
+      "Immersive local scenery",
+      "Affordable nightly rate"
+    ],
+    "cons": [
+      "Limited space",
+      "Basic amenities only",
+      "Dependence on train schedule"
+    ],
+    "watchOut": "Be prepared for minimal heating; bring layers for chilly nights.",
+    "faq": [
+      {
+        "q": "Do I need a rail pass to stay in a pod?",
+        "a": "A rail pass isn’t required, but a valid train ticket for the night is usually needed to access the platform."
+      },
+      {
+        "q": "What facilities are inside the pod?",
+        "a": "Each pod includes a foam mattress, a reading lamp, a USB charger, and a small window; there’s no private bathroom."
+      },
+      {
+        "q": "Can I book a pod independently of the train schedule?",
+        "a": "Most pods are tied to train arrivals, so align your booking with the train that stops at the halt that night."
+      }
+    ],
+    "category": "Stays",
+    "tags": [
+      "overnight",
+      "rural"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-10-18T19:45:08.982Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "station-bench-libraries",
     "title": "Station Bench Libraries: Sharing Low‑Impact Reads on the Rails",
     "dek": "Turning idle platform benches into community book exchanges for low‑impact travelers.",

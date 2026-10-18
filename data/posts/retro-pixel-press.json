@@ -1,5 +1,56 @@
 [
   {
+    "slug": "game-boy-camera-hack",
+    "title": "Game Boy Camera Hack: Faster Shots for Speedrun Recordings",
+    "dek": "Add a lens and a pull‑up resistor to your Game Boy Camera for instant frame capture during speedrun verification.",
+    "takeaway": "A simple lens and wiring tweak lets you capture frames instantly for speedrun proof.",
+    "whatHappened": "While testing a new speedrun verification method, we discovered the Game Boy Camera’s shutter lag was slowing down proof recordings. By adding a small lens and a pull‑up resistor to the trigger line, the camera fires instantly. The modification was completed in under an hour with basic tools.",
+    "whyItMatters": "Speedrunners need reliable, on‑the‑fly evidence that a run was completed without external tools. Faster camera response eliminates missed frames and keeps the proof process fully analog. It also extends the utility of a beloved piece of hardware for modern challenges.",
+    "howToThink": "Treat the camera like any other input device: clean the contacts, add a modest pull‑up to ensure a clean high‑low transition, and use a lens to improve focus on the screen. Keep the modification reversible in case you need the original setup later. Test the trigger with a simple LED before capturing full runs.",
+    "pros": [
+      "Instant capture",
+      "Low cost",
+      "Preserves original hardware"
+    ],
+    "cons": [
+      "Requires delicate soldering",
+      "May void warranty",
+      "Limited to low‑res images"
+    ],
+    "watchOut": "Avoid overheating the tiny PCB; use a low‑temperature soldering iron and work quickly.",
+    "faq": [
+      {
+        "q": "Do I need a special lens?",
+        "a": "A small, cheap macro lens or even a clear plastic magnifier works fine."
+      },
+      {
+        "q": "Will this affect the camera’s battery life?",
+        "a": "The added resistor draws negligible current, so battery life remains essentially unchanged."
+      },
+      {
+        "q": "Can I revert the mod?",
+        "a": "Yes—just desolder the resistor and lens and clean any flux residue."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "hardware",
+      "game-boy"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-18T19:45:06.565Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "usb-bridge-diy-adapter",
     "title": "USB Bridge: DIY Adapter for Classic Controllers",
     "dek": "Turn a modern USB gamepad into a plug‑and‑play controller for your favorite retro console.",

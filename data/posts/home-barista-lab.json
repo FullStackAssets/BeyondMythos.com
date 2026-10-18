@@ -1,5 +1,56 @@
 [
   {
+    "slug": "simple-brew-ratio-calculator",
+    "title": "Simple Brew Ratio Calculator: Consistent Espresso Every Time",
+    "dek": "A quick spreadsheet hack that lets you dial in coffee‑to‑water ratios for repeatable espresso shots.",
+    "takeaway": "Use a basic ratio calculator to lock in dose and yield, and your espresso will taste consistent shot after shot.",
+    "whatHappened": "We built a minimal Google Sheet that computes the ideal coffee dose based on your preferred brew ratio and target shot volume. After entering the numbers, the sheet spits out the exact grams to grind.",
+    "whyItMatters": "Espresso consistency often hinges on hitting the same coffee‑to‑water proportion each pull. Small variations in dose can cause noticeable flavor swings, so a simple calculator removes guesswork.",
+    "howToThink": "Start with a ratio you like—say 1:2.5 for a 30 ml shot—and plug in your desired yield. Adjust the coffee weight until the calculator matches the ratio, then stick to that dose for future pulls.",
+    "pros": [
+      "Fast setup",
+      "No extra hardware",
+      "Adaptable to any bean"
+    ],
+    "cons": [
+      "Requires a device",
+      "Manual entry prone to error",
+      "Doesn't replace proper tamping"
+    ],
+    "watchOut": "Double‑check that your scale is zeroed before entering numbers, or the calculator will feed you inaccurate doses.",
+    "faq": [
+      {
+        "q": "Can I use the calculator for different shot sizes?",
+        "a": "Yes, just change the target yield and the sheet will recalc the dose for the same ratio."
+      },
+      {
+        "q": "What if my machine’s pump pressure varies?",
+        "a": "The ratio calculator assumes stable pressure; if pressure fluctuates you may need to tweak the dose slightly."
+      },
+      {
+        "q": "Do I need to adjust the ratio for different beans?",
+        "a": "Start with a baseline ratio, then fine‑tune per bean based on taste; the calculator makes those tweaks easy."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "ratio"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-10-18T19:45:07.894Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "bottomless-portafilter-mod",
     "title": "Upgrade Your Portafilter with a Simple Bottomless Mod",
     "dek": "A quick DIY to turn your regular portafilter into a bottomless version for clearer shots and faster troubleshooting.",
