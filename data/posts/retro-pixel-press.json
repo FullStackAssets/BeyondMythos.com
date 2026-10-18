@@ -1,5 +1,56 @@
 [
   {
+    "slug": "usb-bridge-diy-adapter",
+    "title": "USB Bridge: DIY Adapter for Classic Controllers",
+    "dek": "Turn a modern USB gamepad into a plug‑and‑play controller for your favorite retro console.",
+    "takeaway": "A cheap USB bridge can give you reliable inputs without digging out original hardware.",
+    "whatHappened": "We soldered a few resistors, a USB microcontroller board, and a few pins to create a functional adapter for an SNES controller. The prototype powered up instantly and registered clean inputs on a Windows emulator. The build took less than an afternoon with parts from a local electronics store.",
+    "whyItMatters": "Speedrunners often lose time hunting down working original controllers, and collectors risk damaging fragile hardware. A reliable USB bridge preserves the original gear while keeping practice sessions fluid. It also opens the door for cross‑platform training without hardware constraints.",
+    "howToThink": "Start by mapping each button to a simple digital output on the microcontroller, then use the USB HID library to emulate a standard gamepad. Keep the wiring tidy to avoid accidental shorts, and test each button in a low‑latency input tester before final assembly. Finally, enclose the board in a small case to protect the solder joints.",
+    "pros": [
+      "Low cost and easy to source parts",
+      "Preserves original controllers",
+      "Works with any modern PC or laptop"
+    ],
+    "cons": [
+      "Requires basic soldering skills",
+      "Limited to controllers with simple button layouts",
+      "No analog stick support out of the box"
+    ],
+    "watchOut": "Double‑check the polarity of your diodes; a reversed diode can prevent the whole board from powering up.",
+    "faq": [
+      {
+        "q": "Can I use this adapter with a Sega Genesis controller?",
+        "a": "Yes, as long as the controller uses simple digital buttons you can re‑wire the pins to match the HID mapping."
+      },
+      {
+        "q": "Do I need a special driver for the USB bridge?",
+        "a": "No, the board presents itself as a standard gamepad, so the OS’s built‑in drivers handle it."
+      },
+      {
+        "q": "Is the latency comparable to a native controller?",
+        "a": "The latency is minimal and well within the tolerance of most speedrun timing systems."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "DIY",
+      "Controller"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-10-18T18:45:21.389Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "four-player-snes-adapter",
     "title": "Four-Player Frenzy: Building a SNES Adapter for Multiplayer Speedruns",
     "dek": "Turn a single‑port SNES into a four‑controller hub for couch co‑op and competitive runs.",

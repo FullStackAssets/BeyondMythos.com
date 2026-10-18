@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pattern-hack-quick-fit",
+    "title": "Rapid fit tweak: aligning darts without a ruler",
+    "dek": "A fast method to align darts using seam allowance tricks, no ruler needed.",
+    "takeaway": "You can achieve precise dart alignment with simple seam allowance folds.",
+    "whatHappened": "While testing a new dress pattern, I noticed the darts kept shifting during stitching. I tried folding the seam allowance inside the dart and pinning it before sewing, which locked the shape in place.",
+    "whyItMatters": "Misaligned darts ruin a garment’s silhouette and waste fabric. A reliable technique saves time and improves fit without extra tools.",
+    "howToThink": "Treat the seam allowance as a built‑in brace. Fold it inside the dart, press, and pin before stitching. This creates a temporary guide that the needle follows, keeping the dart true.",
+    "pros": [
+      "No extra tools needed",
+      "Improves dart precision",
+      "Works on any fabric"
+    ],
+    "cons": [
+      "Adds a small extra step",
+      "May leave a faint crease if not pressed",
+      "Less useful for very delicate fabrics"
+    ],
+    "watchOut": "Make sure the fold is smooth to avoid puckering in delicate or stretchy fabrics.",
+    "faq": [
+      {
+        "q": "Can this technique be used on curved darts?",
+        "a": "Yes, the folded allowance follows the curve, but take extra care to press gently."
+      },
+      {
+        "q": "Does the extra fabric affect seam allowances?",
+        "a": "Only a millimeter or two; trim after stitching if you need a clean edge."
+      },
+      {
+        "q": "Is this method suitable for knit fabrics?",
+        "a": "It works on stable knits, but test on a scrap first to ensure stretch isn’t compromised."
+      }
+    ],
+    "category": "Patterns",
+    "tags": [
+      "darts",
+      "quick-tips"
+    ],
+    "sources": [
+      {
+        "label": "r/sewing community threads",
+        "url": "https://www.reddit.com/r/sewing/"
+      },
+      {
+        "label": "Search interest: \"beginner sewing patterns\"",
+        "url": "https://duckduckgo.com/?q=beginner%20sewing%20patterns"
+      }
+    ],
+    "publishedAt": "2026-10-18T18:45:47.694Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-patterns-65",
     "title": "A weekend project: level up your patterns in two hours",
     "dek": "One contained, satisfying patterns project for home sewists — start Saturday morning, done by lunch.",

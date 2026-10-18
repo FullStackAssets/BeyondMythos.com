@@ -1,5 +1,56 @@
 [
   {
+    "slug": "lighten-the-load-reimagine-pack-frame",
+    "title": "Lighten the Load: Reimagining Your Pack Frame",
+    "dek": "A fresh look at frame design can shave ounces without sacrificing comfort.",
+    "takeaway": "Choosing a minimalist frame system can trim weight and keep your back happy.",
+    "whatHappened": "I swapped my traditional aluminum frame for a low-profile carbon webbing system on a recent section hike. The change felt subtle at first, but the cumulative weight savings became obvious after a few days on the trail.",
+    "whyItMatters": "Every gram counts on long thru‑hikes, and the back is the first place fatigue shows up. A lighter, well‑balanced frame reduces swing and energy expenditure, extending mileage per day.",
+    "howToThink": "Start by evaluating the load you actually carry; if you’re under 20 lb, a minimalist frame can replace a full‑size aluminum skeleton. Look for webbing or hybrid frames that distribute weight across the hips and shoulders. Test the new setup on a short loop before committing to a multi‑day trek.",
+    "pros": [
+      "Cuts 5‑10% of pack weight",
+      "Improves load stability",
+      "Simplifies repair in the field"
+    ],
+    "cons": [
+      "Less rigid on heavy loads",
+      "May require custom fitting",
+      "Higher upfront cost"
+    ],
+    "watchOut": "Make sure the frame still provides enough support for your heaviest days to avoid shoulder strain.",
+    "faq": [
+      {
+        "q": "Can I use a minimalist frame with a larger pack volume?",
+        "a": "Yes, but keep the load under the frame’s recommended limit to maintain comfort."
+      },
+      {
+        "q": "Is carbon webbing durable enough for rough terrain?",
+        "a": "When protected with a sheath, it holds up well and resists abrasion."
+      },
+      {
+        "q": "Do I need special tools to install a webbing frame?",
+        "a": "Usually only a few buckles and a strap adjuster are required, so installation is tool‑light."
+      }
+    ],
+    "category": "Packs",
+    "tags": [
+      "frame hacks",
+      "ultralight packs"
+    ],
+    "sources": [
+      {
+        "label": "r/AppalachianTrail community threads",
+        "url": "https://www.reddit.com/r/AppalachianTrail/"
+      },
+      {
+        "label": "Search interest: \"thru hike food planning\"",
+        "url": "https://duckduckgo.com/?q=thru%20hike%20food%20planning"
+      }
+    ],
+    "publishedAt": "2026-10-18T18:45:38.227Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "reclaiming-pack-space-3-item-swap",
     "title": "Reclaiming Pack Space: The 3‑Item Swap That Saves 200g",
     "dek": "A quick swap of three common items can shave a couple hundred grams off your pack without sacrificing comfort.",

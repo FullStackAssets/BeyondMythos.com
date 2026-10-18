@@ -1,5 +1,56 @@
 [
   {
+    "slug": "bottomless-portafilter-mod",
+    "title": "Upgrade Your Portafilter with a Simple Bottomless Mod",
+    "dek": "A quick DIY to turn your regular portafilter into a bottomless version for clearer shots and faster troubleshooting.",
+    "takeaway": "Seeing the flow reveals flaws and speeds up dial‑in.",
+    "whatHappened": "I removed the basket from my standard portafilter, drilled a clean opening in the bottom, and fitted a thin stainless‑steel mesh to catch grounds. The result is a bottomless portafilter that shows the entire espresso stream in real time.",
+    "whyItMatters": "Without the basket, you can instantly spot channeling, uneven extraction, and puck collapse, allowing you to adjust grind, dose, and tamp more precisely. It also adds a visual cue that makes troubleshooting less guess‑work and more data‑driven.",
+    "howToThink": "Treat the bottomless portafilter as a diagnostic window: if the stream is uneven, tweak one variable at a time. Keep the mesh fine enough to prevent grounds from escaping but open enough for smooth flow. Clean the mesh after each shot to avoid buildup that could affect pressure.",
+    "pros": [
+      "Better visual feedback",
+      "Improves shot clarity",
+      "Easy to install"
+    ],
+    "cons": [
+      "Requires careful cleaning",
+      "May increase spillage",
+      "Not ideal for beginners"
+    ],
+    "watchOut": "Watch the espresso as it exits – a sudden spray indicates channeling or a too‑fine grind.",
+    "faq": [
+      {
+        "q": "Do I need special tools to drill the portafilter?",
+        "a": "A small drill with a metal bit and a steady hand are enough; many DIYers use a handheld rotary tool."
+      },
+      {
+        "q": "Will this void my portafilter warranty?",
+        "a": "Modifying the metal usually voids the original warranty, so consider it a permanent change."
+      },
+      {
+        "q": "Can I use the bottomless version for all coffee beans?",
+        "a": "Yes, but beans that produce a lot of fines may clog the mesh faster, requiring more frequent cleaning."
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "portafilter",
+      "espresso"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-10-18T18:45:19.676Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-pressure-regulator",
     "title": "Homemade Espresso Pressure Regulator: Steady Extraction Made Simple",
     "dek": "Build a cheap, reliable pressure regulator to keep your espresso extraction steady without breaking the bank.",

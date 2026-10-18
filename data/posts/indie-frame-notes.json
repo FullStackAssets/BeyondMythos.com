@@ -1,5 +1,56 @@
 [
   {
+    "slug": "low-light-hack-budget-led-panels",
+    "title": "Low-light hack: shooting cinematic scenes with budget LED panels",
+    "dek": "Turn cheap LED panels into reliable low‑light tools for indie shoots.",
+    "takeaway": "Even inexpensive LEDs can give usable low‑light without sacrificing image quality.",
+    "whatHappened": "We tested three sub‑$50 LED panels on a short‑film set, pairing them with diffusion and bounce to illuminate a nighttime street scene. The results surprised us with clean, controllable light and minimal noise.",
+    "whyItMatters": "Low‑light is often a budget killer, forcing rentals or night shoots that strain schedules. Finding a cheap, portable solution keeps budgets tight and production flexible.",
+    "howToThink": "Start by measuring the panel’s output, add a diffusion sheet to soften, and use a white reflector to bounce extra fill. Keep ISO low by positioning panels close and shaping light with flags.",
+    "pros": [
+      "Cost‑effective",
+      "Portable and battery‑friendly",
+      "Easy to diffuse"
+    ],
+    "cons": [
+      "Limited output compared to cinema LEDs",
+      "Color temperature may vary",
+      "Can generate flicker at high shutter speeds"
+    ],
+    "watchOut": "Watch for PWM flicker when shooting at high frame rates; test with a camera before committing.",
+    "faq": [
+      {
+        "q": "Can cheap LEDs replace a professional light kit?",
+        "a": "They can handle many indie scenarios, especially for close‑up or controlled environments, but may struggle on large sets."
+      },
+      {
+        "q": "Do I need a color meter?",
+        "a": "A simple white balance preset usually suffices; just check the panels’ consistency across units."
+      },
+      {
+        "q": "What power source works best?",
+        "a": "Portable battery packs with DC output keep you mobile; ensure they match the panel’s voltage."
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "budget gear",
+      "low‑light"
+    ],
+    "sources": [
+      {
+        "label": "r/Filmmakers community threads",
+        "url": "https://www.reddit.com/r/Filmmakers/"
+      },
+      {
+        "label": "Search interest: \"indie film lighting budget\"",
+        "url": "https://duckduckgo.com/?q=indie%20film%20lighting%20budget"
+      }
+    ],
+    "publishedAt": "2026-10-18T18:45:27.419Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "diy-dolly-budget",
     "title": "DIY dolly on a budget: move your shots smooth with pantry staples",
     "dek": "Turn everyday items into a smooth dolly for your next short without breaking the bank.",

@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>USB Bridge: DIY Adapter for Classic Controllers</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/usb-bridge-diy-adapter.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/usb-bridge-diy-adapter.html</guid>
+      <pubDate>Sun, 18 Oct 2026 18:45:21 GMT</pubDate>
+      <description>Turn a modern USB gamepad into a plug‑and‑play controller for your favorite retro console.</description>
+    </item>
+    <item>
       <title>Four-Player Frenzy: Building a SNES Adapter for Multiplayer Speedruns</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/four-player-snes-adapter.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/four-player-snes-adapter.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/ask-the-forge-indie-49.html</guid>
       <pubDate>Tue, 25 Aug 2026 18:02:55 GMT</pubDate>
       <description>Straight answers to the indie questions retro game collectors and speedrunners keep asking, minus the hedging.</description>
-    </item>
-    <item>
-      <title>Pixel-Boost: Rewiring Your SNES Power Supply for Consistent Frame Timing</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-snes-power-supply.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-snes-power-supply.html</guid>
-      <pubDate>Tue, 25 Aug 2026 17:15:27 GMT</pubDate>
-      <description>Swap the SNES PSU for a regulated module and shave off frame‑time jitter in minutes.</description>
     </item>
   </channel>
 </rss>

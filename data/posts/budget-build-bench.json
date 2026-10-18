@@ -1,5 +1,56 @@
 [
   {
+    "slug": "rx-570-4gb-budget-1080p",
+    "title": "RX 570 4GB: Still a viable 1080p workhorse for under $100",
+    "dek": "The Radeon RX 570 proves you can game 1080p on a shoestring without breaking the bank.",
+    "takeaway": "A used RX 570 can deliver solid 1080p performance for under $100, keeping your build affordable.",
+    "whatHappened": "Recent market fluctuations have pushed many older AMD cards into the second‑hand arena at surprisingly low prices. The RX 570, once a mid‑range staple, now often sells for under $100 on reputable platforms. This creates an opening for budget builders seeking decent performance without new‑card premiums.",
+    "whyItMatters": "For builders constrained by tight budgets, every dollar counts toward a balanced system. An affordable GPU that still handles modern titles at 1080p means you can allocate more to CPU, storage, or a better PSU. It also extends the life of older components, reducing electronic waste.",
+    "howToThink": "When hunting for a used RX 570, verify the card’s physical condition, ask about its usage history, and request a short stress test video if possible. Pair it with a modest CPU to avoid bottlenecks, and consider a modest overclock if temperatures are low. Keep an eye on driver updates to squeeze out extra performance over time.",
+    "pros": [
+      "Good 1080p performance",
+      "Low power draw",
+      "Affordable"
+    ],
+    "cons": [
+      "Older architecture",
+      "Limited VRAM for newer titles",
+      "Potential wear from mining"
+    ],
+    "watchOut": "Make sure the seller confirms the card wasn’t used for prolonged cryptocurrency mining, which can shorten its lifespan.",
+    "faq": [
+      {
+        "q": "Is 4 GB of VRAM enough for current games?",
+        "a": "It handles most 1080p titles fine, but very texture‑heavy games may require turning down settings."
+      },
+      {
+        "q": "Do I need a special power connector?",
+        "a": "The RX 570 typically uses a single 8‑pin connector; ensure your PSU provides it."
+      },
+      {
+        "q": "What driver version should I install?",
+        "a": "Use the latest stable AMD driver from the official website for the best compatibility."
+      }
+    ],
+    "category": "GPUs",
+    "tags": [
+      "budget",
+      "rx570"
+    ],
+    "sources": [
+      {
+        "label": "r/buildapc community threads",
+        "url": "https://www.reddit.com/r/buildapc/"
+      },
+      {
+        "label": "Search interest: \"used pc parts guide\"",
+        "url": "https://duckduckgo.com/?q=used%20pc%20parts%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-18T18:45:23.105Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "rtx-3050-shoestring",
     "title": "Unlocking hidden power: the RTX 3050 on a shoestring",
     "dek": "Can the RTX 3050 still deliver playable 1080p on a tight budget? We put it to the test.",

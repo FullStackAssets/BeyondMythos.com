@@ -1,5 +1,56 @@
 [
   {
+    "slug": "station-bench-libraries",
+    "title": "Station Bench Libraries: Sharing Low‑Impact Reads on the Rails",
+    "dek": "Turning idle platform benches into community book exchanges for low‑impact travelers.",
+    "takeaway": "A simple book swap on a bench can deepen connections and reduce waste on the move.",
+    "whatHappened": "During a week‑long stop at a mid‑sized town, a handful of slow‑travelers left a few paperbacks on a platform bench with a handwritten note inviting others to take or leave books. Within days the pile grew, sparking conversations among commuters and tourists alike.",
+    "whyItMatters": "Books travel without fuel, and sharing them extends their life while fostering a sense of place. Low‑impact explorers gain cultural insight without adding to their luggage weight or carbon footprint.",
+    "howToThink": "Identify a sturdy bench with foot traffic, attach a small weather‑proof box or simply a sign, and seed it with a few titles you love. Encourage others to add and borrow, and refresh the collection periodically with your own reads.",
+    "pros": [
+      "Zero waste",
+      "Builds community",
+      "Enriches journeys"
+    ],
+    "cons": [
+      "Requires monitoring for vandalism",
+      "Limited to paper books",
+      "Weather can affect durability"
+    ],
+    "watchOut": "Check local station policies to ensure book swaps are permitted.",
+    "faq": [
+      {
+        "q": "Do I need permission from the railway operator?",
+        "a": "Many stations allow informal exchanges, but a quick check with staff avoids trouble."
+      },
+      {
+        "q": "What books work best in this setting?",
+        "a": "Light, travel‑related, or locally‑focused titles travel well and spark conversation."
+      },
+      {
+        "q": "How do I keep the swap tidy?",
+        "a": "Use a simple box or zip‑lock bag, and replace any damaged books with fresh ones."
+      }
+    ],
+    "category": "Local",
+    "tags": [
+      "rail",
+      "community"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-10-18T18:45:20.304Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "railway-restrooms-hygiene-hacks",
     "title": "Railway Restrooms: Low‑Impact Hygiene Hacks for Slow Travelers",
     "dek": "Discover simple, low‑impact tricks to stay fresh and sustainable when using train stations’ restrooms on the road.",
