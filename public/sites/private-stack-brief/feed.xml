@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/private-stack-brief/</link>
     <description>Fresh takes for privacy-conscious consumers and security hobbyists.</description>
     <item>
+      <title>Myth vs. reality: privacy browser comparison</title>
+      <link>https://www.beyondmythos.com/sites/private-stack-brief/posts/myth-vs-reality-privacy-browser-comparison-23.html</link>
+      <guid>https://www.beyondmythos.com/sites/private-stack-brief/posts/myth-vs-reality-privacy-browser-comparison-23.html</guid>
+      <pubDate>Mon, 19 Oct 2026 06:45:33 GMT</pubDate>
+      <description>The persistent myths around privacy browser comparison, stress-tested against what privacy-conscious consumers and security hobbyists actually report.</description>
+    </item>
+    <item>
       <title>A weekend project: level up your browsers in two hours</title>
       <link>https://www.beyondmythos.com/sites/private-stack-brief/posts/weekend-project-browsers-67.html</link>
       <guid>https://www.beyondmythos.com/sites/private-stack-brief/posts/weekend-project-browsers-67.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/private-stack-brief/posts/home-network-security-basics-field-test-21.html</guid>
       <pubDate>Wed, 26 Aug 2026 06:05:16 GMT</pubDate>
       <description>We put the most-repeated advice about home network security basics through a month of actual use. Some of it survived.</description>
-    </item>
-    <item>
-      <title>Ask the forge: your threats questions, answered</title>
-      <link>https://www.beyondmythos.com/sites/private-stack-brief/posts/ask-the-forge-threats-63.html</link>
-      <guid>https://www.beyondmythos.com/sites/private-stack-brief/posts/ask-the-forge-threats-63.html</guid>
-      <pubDate>Wed, 26 Aug 2026 05:16:33 GMT</pubDate>
-      <description>Straight answers to the threats questions privacy-conscious consumers and security hobbyists keep asking, minus the hedging.</description>
     </item>
   </channel>
 </rss>

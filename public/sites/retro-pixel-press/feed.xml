@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>NES HDMI Converter: Hook Your Retro Console to Modern TVs</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/nes-hdmi-converter-modern-display.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/nes-hdmi-converter-modern-display.html</guid>
+      <pubDate>Mon, 19 Oct 2026 06:45:08 GMT</pubDate>
+      <description>Turn your NES into a plug‑and‑play HDMI source without opening the console.</description>
+    </item>
+    <item>
       <title>Audio Overhaul: Installing a DAC for Crystal‑Clear SNES Sound</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/audio-overhaul-dac-snes.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/audio-overhaul-dac-snes.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/preservation-pre-spend-checklist-55.html</guid>
       <pubDate>Wed, 26 Aug 2026 06:05:01 GMT</pubDate>
       <description>Seven questions that separate a justified preservation purchase from an expensive mood.</description>
-    </item>
-    <item>
-      <title>Boost Your SNES Audio: Simple Capacitor Swap for Cleaner Sound</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/boost-snes-audio-capacitor-swap.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/boost-snes-audio-capacitor-swap.html</guid>
-      <pubDate>Wed, 26 Aug 2026 05:16:26 GMT</pubDate>
-      <description>Swap a cheap capacitor to tighten SNES audio output and gain clearer sound for your runs.</description>
     </item>
   </channel>
 </rss>

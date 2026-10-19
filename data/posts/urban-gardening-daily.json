@@ -1,5 +1,56 @@
 [
   {
+    "slug": "rainwater-harvest-balcony-plant-health",
+    "title": "Rainwater Harvest: Boost Your Balcony Plant Health",
+    "dek": "Capture rooftop runoff to water balcony containers, saving time and keeping plants thriving.",
+    "takeaway": "Simple rain catchers can cut watering chores and improve plant vigor.",
+    "whatHappened": "A rainy week left a small balcony garden soggy, but a DIY gutter catcher turned the excess into a steady supply for the herbs and flowers below.",
+    "whyItMatters": "Balcony growers often waste rain that could replace tap water, leading to higher bills and less sustainable practices. Harnessing rain reduces water stress on containers during dry spells.",
+    "howToThink": "Install a lightweight rain barrel or repurpose a food‑grade container with a spout, position it under the nearest downspout, and route a hose to your pots. Use a simple float valve to prevent over‑watering.",
+    "pros": [
+      "Eco‑friendly watering",
+      "Cuts tap‑water use",
+      "Provides gentle, natural moisture"
+    ],
+    "cons": [
+      "Initial setup effort",
+      "Requires occasional cleaning",
+      "Dependent on rainfall patterns"
+    ],
+    "watchOut": "Avoid over‑filling; stagnant water can become a breeding ground for mosquitoes.",
+    "faq": [
+      {
+        "q": "Do I need a filter for collected rainwater?",
+        "a": "A fine mesh screen at the inlet stops leaves and debris, keeping the water clear for plants."
+      },
+      {
+        "q": "Can I use the same system for vegetables?",
+        "a": "Yes, as long as the water stays clean; vegetables benefit from the same soft rain water."
+      },
+      {
+        "q": "What if my balcony is shaded and gets little rain?",
+        "a": "Combine rain capture with a small water‑saving timer for those dry periods."
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "Water Saving",
+      "Balcony Containers"
+    ],
+    "sources": [
+      {
+        "label": "r/houseplants community threads",
+        "url": "https://www.reddit.com/r/houseplants/"
+      },
+      {
+        "label": "Search interest: \"small space vegetables\"",
+        "url": "https://duckduckgo.com/?q=small%20space%20vegetables"
+      }
+    ],
+    "publishedAt": "2026-10-19T06:45:09.678Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "bottle-garden-upcycle-herbs",
     "title": "Bottle Garden: Upcycle Plastic for Lush Balcony Herbs",
     "dek": "Turn empty plastic bottles into thriving herb homes on your balcony without a fuss.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "eco-friendly-train-spotting",
+    "title": "Eco-Friendly Train Spotting: Low-Impact Wildlife Watching on Rural Lines",
+    "dek": "Spotting local wildlife from slow trains lets you enjoy nature without extra carbon, and you can share sightings with fellow travelers.",
+    "takeaway": "Train windows become low-impact wildlife lenses for slow travelers.",
+    "whatHappened": "On a weekend service through the countryside, I kept a notebook and binoculars handy, noting deer, hawks, and blooming meadows passing by. The gentle rhythm of the rail gave ample time to observe without disturbing the habitat.",
+    "whyItMatters": "Seeing wildlife from the train reduces the need for car trips into parks, cutting emissions while fostering a deeper connection to the landscape. It also highlights the role of rail corridors as informal wildlife corridors.",
+    "howToThink": "Plan a route that traverses natural reserves, pack reusable binoculars, and use a field guide app offline. Keep noise low and stay seated near windows; share sightings on low-impact platforms.",
+    "pros": [
+      "Zero-emission viewing",
+      "No extra travel needed",
+      "Encourages patience"
+    ],
+    "cons": [
+      "Limited close-up detail",
+      "Dependent on train schedule",
+      "Weather can obscure views"
+    ],
+    "watchOut": "Avoid feeding animals or littering; respect the rail environment.",
+    "faq": [
+      {
+        "q": "Can I see wildlife on any train route?",
+        "a": "Routes that pass through natural areas or protected landscapes offer the best chances, but urban lines will have fewer sightings."
+      },
+      {
+        "q": "Do I need special equipment?",
+        "a": "A pair of lightweight binoculars and a simple notebook or app are enough; avoid heavy gear that adds weight."
+      },
+      {
+        "q": "Is wildlife watching from trains safe?",
+        "a": "Yes, as long as you stay seated, keep windows closed when moving, and follow rail safety rules."
+      }
+    ],
+    "category": "Local",
+    "tags": [
+      "wildlife",
+      "rail"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-10-19T06:45:09.020Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "midnight-snack-carriage",
     "title": "Midnight Snack Carriage: Low‑Impact Sustainable Bites on Rural Trains",
     "dek": "Discover how to enjoy zero‑waste snacks aboard night trains without compromising flavor or the planet.",

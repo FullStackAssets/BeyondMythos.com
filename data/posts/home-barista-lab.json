@@ -1,5 +1,56 @@
 [
   {
+    "slug": "tame-brew-scale-calibration",
+    "title": "Tame Your Brew: Simple Scale Calibration for Consistent Shots",
+    "dek": "Calibrate your kitchen scale in minutes to lock in espresso dose consistency.",
+    "takeaway": "A properly calibrated scale ensures repeatable shot weight every time.",
+    "whatHappened": "I noticed my espresso shots drifting in weight after a few weeks, even though I was using the same beans and grind. A quick check revealed the scale was off by a gram or two. I ran a simple calibration and the numbers snapped back into line.",
+    "whyItMatters": "Dose variance directly impacts extraction balance, flavor, and crema quality. When the scale drifts, you’re essentially guessing your dose, leading to inconsistent results. Keeping the scale accurate restores control over your brew parameters.",
+    "howToThink": "Place a known weight (like a coffee bean bag or a small kitchen weight) on the scale, note the displayed value, and adjust the tare or zero setting until it matches. Repeat with a second weight to confirm. Re‑calibrate monthly or after moving the scale.",
+    "pros": [
+      "Better dose accuracy",
+      "Improved flavor repeatability",
+      "Low‑cost tweak"
+    ],
+    "cons": [
+      "Takes a few minutes initially",
+      "Requires a known weight",
+      "May need periodic recheck"
+    ],
+    "watchOut": "Don’t trust the scale if it’s sitting on a wobbling surface; stability matters.",
+    "faq": [
+      {
+        "q": "Do I need a professional calibration weight?",
+        "a": "A small, known-weight item like a sealed coffee bean bag or a kitchen weight works fine for home use."
+      },
+      {
+        "q": "How often should I recalibrate?",
+        "a": "Check it once a month or whenever you notice dose drift."
+      },
+      {
+        "q": "Will temperature affect the scale reading?",
+        "a": "Extreme temperature changes can shift readings, so keep the scale in a stable environment."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "scale"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-10-19T06:45:06.766Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "simple-burr-clean",
     "title": "Refresh Your Grind with a Simple Burr Clean",
     "dek": "A quick burr‑cleaning routine can restore flavor clarity and shot consistency without buying new parts.",
