@@ -1,0 +1,308 @@
+[
+  {
+    "slug": "quiet-money-ledger-starting-out",
+    "title": "Kickstart Your Quiet Money Ledger",
+    "category": "Budgeting",
+    "dek": "A no‑fluff guide to setting up a simple ledger that tracks every dollar without the hype.",
+    "takeaway": "A basic ledger gives instant clarity on where your money goes.",
+    "whatHappened": "You opened a spreadsheet, listed income streams, and added recurring expenses. The first week showed a few surprise outflows, prompting quick adjustments.",
+    "whyItMatters": "Seeing every cent on paper stops hidden spending and builds confidence. It also creates a baseline for future financial goals.",
+    "howToThink": "Start with broad categories, then split into finer rows as patterns emerge. Review daily for five minutes and correct any missed entries.",
+    "pros": [
+      "Instant visibility",
+      "Low cost",
+      "Customizable"
+    ],
+    "cons": [
+      "Manual entry",
+      "No automation",
+      "Requires discipline"
+    ],
+    "watchOut": "Skipping daily updates erodes the ledger’s usefulness.",
+    "faq": [
+      {
+        "q": "Do I need special software?",
+        "a": "A basic spreadsheet or notebook works fine."
+      },
+      {
+        "q": "How often should I update?",
+        "a": "At least once a day, preferably after each transaction."
+      },
+      {
+        "q": "Can I track cash?",
+        "a": "Yes—record cash receipts and withdrawals just like digital payments."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/personalfinance community threads",
+        "url": "https://www.reddit.com/r/personalfinance/"
+      },
+      {
+        "label": "Search interest: \"zero based budget guide\"",
+        "url": "https://duckduckgo.com/?q=zero%20based%20budget%20guide"
+      }
+    ],
+    "tags": [
+      "setup",
+      "basics"
+    ],
+    "publishedAt": "2026-10-19T00:15:42.193Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "debt-snowball-quiet-ledger",
+    "title": "Using a Quiet Money Ledger for Debt Snowball",
+    "category": "Debt",
+    "dek": "Turn your ledger into a debt‑payoff engine with the classic snowball method.",
+    "takeaway": "Prioritizing smallest balances accelerates progress and motivation.",
+    "whatHappened": "You listed each debt, its interest rate, and minimum payment. You then allocated extra cash to the smallest balance while maintaining other minimums.",
+    "whyItMatters": "Clearing debts one by one creates visible wins, which fuels continued saving. It also reduces the total interest you’ll pay over time.",
+    "howToThink": "Update the ledger each time a payment clears a balance, then roll the freed amount into the next smallest debt. Keep the ledger tidy to avoid missed payments.",
+    "pros": [
+      "Psychological boost",
+      "Simple to track",
+      "Flexible allocation"
+    ],
+    "cons": [
+      "Ignores interest hierarchy",
+      "May extend payoff time",
+      "Requires regular updates"
+    ],
+    "watchOut": "Don’t neglect higher‑interest debt just because it’s larger.",
+    "faq": [
+      {
+        "q": "What if I can’t pay extra?",
+        "a": "Even a modest extra amount speeds the snowball."
+      },
+      {
+        "q": "Should I include credit cards?",
+        "a": "Yes—treat each card as a separate debt line."
+      },
+      {
+        "q": "Is the snowball better than avalanche?",
+        "a": "Snowball favors motivation; avalanche focuses on interest savings."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/Frugal community threads",
+        "url": "https://www.reddit.com/r/Frugal/"
+      },
+      {
+        "label": "Search interest: \"emergency fund strategy\"",
+        "url": "https://duckduckgo.com/?q=emergency%20fund%20strategy"
+      }
+    ],
+    "tags": [
+      "debt",
+      "snowball"
+    ],
+    "publishedAt": "2026-10-17T11:15:42.193Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "first-investment-quiet-ledger",
+    "title": "First Investment Moves with a Quiet Money Ledger",
+    "category": "Investing",
+    "dek": "Use your ledger to bridge the gap between saving and investing without over‑complicating.",
+    "takeaway": "Tracking contributions and returns in the same place keeps your strategy grounded.",
+    "whatHappened": "You added a new column for investment accounts, recorded each purchase, and noted market value monthly. The ledger highlighted the difference between contributions and growth.",
+    "whyItMatters": "Seeing real‑time portfolio changes helps you stay disciplined and avoid impulsive trades. It also clarifies how much of your budget is already working for you.",
+    "howToThink": "Treat each investment like any other expense line—record the amount, date, and purpose. Review quarterly to adjust contributions based on cash flow.",
+    "pros": [
+      "Unified view",
+      "Low tech barrier",
+      "Encourages regular review"
+    ],
+    "cons": [
+      "No real‑time pricing",
+      "Manual calculations",
+      "Limited analysis tools"
+    ],
+    "watchOut": "Relying solely on manual tracking can miss rapid market moves.",
+    "faq": [
+      {
+        "q": "Do I need a separate sheet for stocks?",
+        "a": "A single sheet with clear sections works well."
+      },
+      {
+        "q": "How often should I update market values?",
+        "a": "Quarterly updates balance effort and insight."
+      },
+      {
+        "q": "Can I track dividends?",
+        "a": "Add a row for each dividend receipt to capture cash flow."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/Bogleheads community threads",
+        "url": "https://www.reddit.com/r/Bogleheads/"
+      },
+      {
+        "label": "Search interest: \"index fund investing basics\"",
+        "url": "https://duckduckgo.com/?q=index%20fund%20investing%20basics"
+      }
+    ],
+    "tags": [
+      "investing",
+      "first‑step"
+    ],
+    "publishedAt": "2026-10-15T22:15:42.193Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "ledger-apps-quiet-compare",
+    "title": "Quiet Money Ledger vs. Popular Apps",
+    "category": "Tools",
+    "dek": "A straight‑talk comparison of a DIY ledger versus the most common budgeting apps.",
+    "takeaway": "A ledger offers control and zero cost; apps deliver automation at a price.",
+    "whatHappened": "You set up a spreadsheet side‑by‑side with a free budgeting app, entering the same data for a month. The app auto‑categorized transactions, while the ledger required manual tagging.",
+    "whyItMatters": "Understanding trade‑offs helps you choose a tool that matches your discipline level and privacy preferences.",
+    "howToThink": "If you enjoy manual entry and want full data ownership, stick with the ledger. If you prefer hands‑off categorization and visual dashboards, an app may suit you better.",
+    "pros": [
+      "Full control",
+      "No subscription",
+      "Customizable"
+    ],
+    "cons": [
+      "Time‑intensive",
+      "No auto‑sync",
+      "Limited visual aids"
+    ],
+    "watchOut": "Choosing an app for convenience can lead to data sharing you might not expect.",
+    "faq": [
+      {
+        "q": "Is a ledger secure?",
+        "a": "It’s as secure as the device you store it on."
+      },
+      {
+        "q": "Can I import app data into a ledger?",
+        "a": "Export CSV from most apps and paste into your sheet."
+      },
+      {
+        "q": "Do apps guarantee privacy?",
+        "a": "Read the privacy policy; many monetize aggregated data."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/personalfinance community threads",
+        "url": "https://www.reddit.com/r/personalfinance/"
+      },
+      {
+        "label": "Search interest: \"zero based budget guide\"",
+        "url": "https://duckduckgo.com/?q=zero%20based%20budget%20guide"
+      }
+    ],
+    "tags": [
+      "tools",
+      "compare"
+    ],
+    "publishedAt": "2026-10-14T09:15:42.193Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "monthly-review-quiet-ledger",
+    "title": "Monthly Review Rituals in Your Quiet Money Ledger",
+    "category": "Budgeting",
+    "dek": "Turn a simple ledger into a habit‑forming monthly financial check‑in.",
+    "takeaway": "Regular reviews lock in good habits and surface leaks before they grow.",
+    "whatHappened": "At month‑end you summed income, expenses, and savings, then highlighted any category that exceeded its target. Adjustments were made for the next month’s budget.",
+    "whyItMatters": "A ritual creates a feedback loop that improves budgeting accuracy over time. It also reinforces the mental model of money as a tracked resource.",
+    "howToThink": "Schedule a 15‑minute slot, use a highlighter to mark overspends, and note one actionable change. Keep a log of these notes for future reference.",
+    "pros": [
+      "Builds discipline",
+      "Identifies trends",
+      "Easy to repeat"
+    ],
+    "cons": [
+      "Can feel repetitive",
+      "May miss irregular expenses",
+      "Requires consistency"
+    ],
+    "watchOut": "Skipping the review erodes the habit and lets drift go unchecked.",
+    "faq": [
+      {
+        "q": "What if I have irregular income?",
+        "a": "Include a buffer line for variable earnings."
+      },
+      {
+        "q": "How detailed should categories be?",
+        "a": "Start broad; add detail as patterns emerge."
+      },
+      {
+        "q": "Can I combine this with goal tracking?",
+        "a": "Add a column for progress toward each goal."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/Frugal community threads",
+        "url": "https://www.reddit.com/r/Frugal/"
+      },
+      {
+        "label": "Search interest: \"emergency fund strategy\"",
+        "url": "https://duckduckgo.com/?q=emergency%20fund%20strategy"
+      }
+    ],
+    "tags": [
+      "review",
+      "habit"
+    ],
+    "publishedAt": "2026-10-12T20:15:42.193Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "emergency-fund-quiet-ledger",
+    "title": "Building an Emergency Fund with a Quiet Money Ledger",
+    "category": "Budgeting",
+    "dek": "Leverage a simple ledger to grow a safety net without overcomplicating.",
+    "takeaway": "Consistent, visible contributions make the fund feel attainable.",
+    "whatHappened": "You created a dedicated row for the emergency fund, set a modest monthly target, and recorded each deposit. Over three months the balance grew predictably.",
+    "whyItMatters": "A visible fund reduces anxiety and prevents reliance on high‑cost credit when surprises arise.",
+    "howToThink": "Treat the fund like a recurring bill—schedule the amount, record the entry, and resist dipping into it unless truly urgent.",
+    "pros": [
+      "Clear goal",
+      "No fees",
+      "Motivating progress bar"
+    ],
+    "cons": [
+      "Manual tracking",
+      "Potential temptation",
+      "Slow growth if contributions are tiny"
+    ],
+    "watchOut": "Avoid using the fund for non‑emergencies; that defeats its purpose.",
+    "faq": [
+      {
+        "q": "How much should I aim for?",
+        "a": "A common guideline is three to six months of essential expenses."
+      },
+      {
+        "q": "Where to keep the money?",
+        "a": "A high‑yield savings account balances safety and access."
+      },
+      {
+        "q": "What counts as an emergency?",
+        "a": "Unexpected expenses like medical bills or essential repairs."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/Bogleheads community threads",
+        "url": "https://www.reddit.com/r/Bogleheads/"
+      },
+      {
+        "label": "Search interest: \"index fund investing basics\"",
+        "url": "https://duckduckgo.com/?q=index%20fund%20investing%20basics"
+      }
+    ],
+    "tags": [
+      "emergency",
+      "savings"
+    ],
+    "publishedAt": "2026-10-11T07:15:42.193Z",
+    "readMinutes": 2
+  }
+]
