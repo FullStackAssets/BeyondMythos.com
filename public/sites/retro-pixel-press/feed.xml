@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>NES Power Boost: Upgrading Your Console’s Supply for Consistent Speedruns</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/nes-power-boost-upgrade.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/nes-power-boost-upgrade.html</guid>
+      <pubDate>Mon, 19 Oct 2026 01:45:09 GMT</pubDate>
+      <description>Swap the stock PSU for a regulated module to keep voltage steady during marathon runs.</description>
+    </item>
+    <item>
       <title>Retro CRT Calibration: Simple Potentiometer Fix for Accurate Color</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/crt-calibration-fix.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/crt-calibration-fix.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/diy-crt-lag-reducer.html</guid>
       <pubDate>Tue, 25 Aug 2026 23:58:40 GMT</pubDate>
       <description>A quick mod that slashes CRT lag without breaking your console.</description>
-    </item>
-    <item>
-      <title>CRT Scanline Mod: Sharpen Your SNES Speedrun Vision</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/crt-scanline-mod-sharpen-snes-speedrun-vision.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/crt-scanline-mod-sharpen-snes-speedrun-vision.html</guid>
-      <pubDate>Tue, 25 Aug 2026 23:02:26 GMT</pubDate>
-      <description>Add a cheap scanline overlay to your CRT for clearer timing cues and less eye strain during marathon runs.</description>
     </item>
   </channel>
 </rss>

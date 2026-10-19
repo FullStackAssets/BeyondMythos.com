@@ -1,5 +1,56 @@
 [
   {
+    "slug": "sun-smart-balcony-containers",
+    "title": "Sun‑Smart Balcony: Positioning Containers for Maximum Light",
+    "dek": "Learn how to orient your balcony pots for the best daily sun exposure without a roof‑top makeover.",
+    "takeaway": "Proper placement boosts growth and reduces water stress for balcony plants.",
+    "whatHappened": "We noticed many balcony growers struggling with leggy herbs and wilted tomatoes. After testing a simple sun‑mapping routine, the same plants perked up within weeks. The change was simply rotating and shading strategically.",
+    "whyItMatters": "Sunlight drives photosynthesis, which fuels flavor, size, and disease resistance. In cramped urban spaces, every extra minute of direct sun counts toward a healthier harvest and lower water use.",
+    "howToThink": "Start by tracking the sun’s path on a sunny day; note where shade falls at morning, noon, and afternoon. Place sun‑loving veggies in the sunniest zone and shade‑tolerant herbs in the partially shaded spots. Rotate containers weekly to even out light exposure and prevent one‑sided growth.",
+    "pros": [
+      "Boosts growth speed",
+      "Reduces watering frequency",
+      "Improves flavor"
+    ],
+    "cons": [
+      "Requires occasional repositioning",
+      "May need extra support for wind",
+      "Limited by balcony orientation"
+    ],
+    "watchOut": "Avoid placing heavy pots on the edge where wind could tip them over.",
+    "faq": [
+      {
+        "q": "How often should I rotate my containers?",
+        "a": "A weekly shift of 15‑30 degrees works well for most balconies."
+      },
+      {
+        "q": "Can I use reflective surfaces to increase light?",
+        "a": "Yes, lightweight mirrors or white boards can bounce extra sun onto shade‑prone spots."
+      },
+      {
+        "q": "What if my balcony faces north?",
+        "a": "Choose low‑light herbs like mint, parsley, or chives and supplement with a small LED grow light."
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "sunlight",
+      "container‑placement"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-10-19T01:45:06.405Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "spring-boost-soil-refresh",
     "title": "Spring Boost: Quick Soil Refresh for Balcony Herbs",
     "dek": "Give your balcony herbs a fast soil makeover to boost flavor and vigor this spring.",

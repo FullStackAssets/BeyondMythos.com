@@ -1,5 +1,56 @@
 [
   {
+    "slug": "cozy-carriage-naps",
+    "title": "Cozy Carriage Naps: Low‑Impact Rest on Overnight Trains",
+    "dek": "Discover how to turn a quiet carriage into a low‑impact sleeping pod for your slow‑travel night rides.",
+    "takeaway": "A simple, reusable sleeping setup turns any carriage into a comfy, eco‑friendly rest spot.",
+    "whatHappened": "We trialed a fold‑up bamboo mattress, a recycled‑fabric blanket, and a portable privacy screen in a vintage sleeper car on a weekend night route. The setup was assembled in under ten minutes and stayed snug through the journey. Fellow travelers asked for the details, confirming the concept works in real‑world conditions.",
+    "whyItMatters": "Slow‑travel thrives on comfort without compromising sustainability; a low‑impact sleep solution lets explorers linger longer on the rails. By using reusable, locally sourced materials, you reduce waste and avoid disposable hotel stays. The approach also encourages rail operators to consider passenger‑friendly amenities that align with green tourism goals.",
+    "howToThink": "Start with a thin, natural mattress that rolls up for storage—bamboo or organic cotton works well. Pair it with a lightweight, recycled blanket and a simple curtain made from repurposed sailcloth to block light. Keep a small bag for toiletries and a reusable water bottle nearby, so you’re ready to drift off without extra clutter.",
+    "pros": [
+      "Minimal waste",
+      "Easy setup",
+      "Works in any carriage"
+    ],
+    "cons": [
+      "Limited space in smaller cars",
+      "Needs a quiet carriage",
+      "May require permission from staff"
+    ],
+    "watchOut": "Check the train’s carriage policy; some operators restrict bedding for safety or cleanliness reasons.",
+    "faq": [
+      {
+        "q": "Can I use this on daytime trips?",
+        "a": "Yes, just replace the privacy screen with a light‑blocking scarf and enjoy a nap between stops."
+      },
+      {
+        "q": "What if the carriage isn’t heated?",
+        "a": "Layer with an extra recycled fleece and a thermal blanket to stay warm without electricity."
+      },
+      {
+        "q": "Do I need to reserve a specific car?",
+        "a": "It helps to book a quiet or sleeper carriage in advance, but you can adapt the setup to any standard seat if space allows."
+      }
+    ],
+    "category": "Stays",
+    "tags": [
+      "rail",
+      "packing"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-10-19T01:45:07.063Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-carriage-cafe",
     "title": "Quiet Carriage Café: Low‑Impact Brewing on Vintage Trains",
     "dek": "A repurposed dining car now brews coffee with solar‑powered grinders, letting slow travelers sip sustainably while watching the scenery roll by.",

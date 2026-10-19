@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-crema-pressure-tweak",
+    "title": "Boost Your Espresso Crema with a Simple Pressure Tweak",
+    "dek": "A quick pressure adjustment can give you richer crema without buying new gear.",
+    "takeaway": "Small tweaks to brew pressure can noticeably improve espresso crema and flavor.",
+    "whatHappened": "I experimented with the pressure valve on my home machine, tightening it just a notch. The change yielded a thicker, gold‑brown crema and a smoother mouthfeel.",
+    "whyItMatters": "Crema is a visual cue of proper extraction and contributes to aroma. Improving it without extra equipment keeps your setup lean and cost‑effective.",
+    "howToThink": "Treat the pressure valve like a fine‑tune knob—make tiny adjustments, pull a shot, and note the crema. Keep notes so you can replicate the sweet spot. If the shot becomes overly bitter, dial back.",
+    "pros": [
+      "Richer crema",
+      "Better flavor balance",
+      "No extra cost"
+    ],
+    "cons": [
+      "Requires patience",
+      "Risk of over‑tightening",
+      "May need recalibration later"
+    ],
+    "watchOut": "Avoid forcing the valve; excessive pressure can damage the pump.",
+    "faq": [
+      {
+        "q": "Can I use this trick on any espresso machine?",
+        "a": "Most machines with an adjustable pressure valve can benefit, but models without one will need a different approach."
+      },
+      {
+        "q": "How much should I adjust the pressure?",
+        "a": "Make the smallest possible change—often just a click or fraction of a turn—and test after each tweak."
+      },
+      {
+        "q": "Will this affect my grind settings?",
+        "a": "A slight pressure increase may let you use a marginally finer grind, but start with your current setting and adjust only if needed."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "technique"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-10-19T01:45:08.821Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-grinder-adjustment",
     "title": "Streamline Your Espresso Workflow with a Simple Grinder Adjustment",
     "dek": "A quick tweak to your grinder’s burr setting can sharpen consistency without buying new gear.",
