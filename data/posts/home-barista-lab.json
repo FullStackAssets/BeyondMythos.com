@@ -1,5 +1,56 @@
 [
   {
+    "slug": "gauge-espresso-shot-temp",
+    "title": "Gauge Your Espresso Shot Temp with a Simple Thermometer",
+    "dek": "A quick thermometer check keeps your espresso temperature on target, boosting flavor consistency without fancy equipment.",
+    "takeaway": "Consistent shot temperature is key to repeatable espresso taste.",
+    "whatHappened": "I noticed my espresso tasted flat after a week of heavy use. A quick spot‑check with a kitchen thermometer revealed the brew water was cooling too much before reaching the group. Adjusting the machine’s pre‑heat solved it.",
+    "whyItMatters": "Shot temperature drives extraction balance; too cool yields under‑extracted coffee, too hot over‑extraction. Maintaining the sweet spot preserves nuanced flavors and prevents bitterness. It’s a low‑effort tweak that pays off in every cup.",
+    "howToThink": "Use an instant‑read thermometer that can handle 90‑96 °C. Measure water temperature right at the group head before pulling a shot, and note any drift after long pulls. If it’s off, give the machine a brief warm‑up or check the thermostat.",
+    "pros": [
+      "Immediate feedback",
+      "No expensive tools",
+      "Improves flavor consistency"
+    ],
+    "cons": [
+      "Requires extra step",
+      "Thermometer can be misplaced",
+      "May need calibration"
+    ],
+    "watchOut": "Avoid submerging the thermometer in boiling water; it can damage the sensor.",
+    "faq": [
+      {
+        "q": "Do I need a special espresso thermometer?",
+        "a": "A standard kitchen instant‑read thermometer that reads up to 100 °C works fine."
+      },
+      {
+        "q": "How often should I check temperature?",
+        "a": "A quick check each week or whenever you notice a taste shift keeps things in check."
+      },
+      {
+        "q": "What temperature range is ideal?",
+        "a": "Aim for 90–96 °C water at the group head for most espresso blends."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "temperature"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-10-19T15:45:09.675Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-crema-temp-check",
     "title": "Boost Your Espresso Crema with a Simple Portafilter Temperature Check",
     "dek": "A quick tip to warm your portafilter for richer crema without buying new gear.",

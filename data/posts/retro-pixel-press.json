@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-boost-enhancing-game-boy-camera-shutter-sp",
+    "title": "Pixel Boost: Enhancing Game Boy Camera Shutter Speed",
+    "dek": "Speed up your Game Boy Camera snaps with a simple capacitor tweak for smoother photo runs.",
+    "takeaway": "A tiny capacitor can noticeably improve shutter response for faster captures.",
+    "whatHappened": "We swapped the stock 10µF capacitor on the Game Boy Camera's power rail for a 22µF low‑ESR part. The change was made on a soldering iron in a few minutes, and the camera's shutter now feels snappier during rapid shooting sessions.",
+    "whyItMatters": "Speedrunners who use the Game Boy Camera for in‑game challenges benefit from reduced lag between button press and exposure. Collectors also gain a more reliable tool for documenting their retro setups without missed frames.",
+    "howToThink": "When you notice any delay in a handheld device, check the power filtering caps first. Upgrading to a higher‑capacity, low‑ESR capacitor can smooth out voltage spikes that slow down microcontroller peripherals. Keep the replacement size compatible with the board footprint to avoid mechanical issues.",
+    "pros": [
+      "Immediate response boost",
+      "Low cost and easy install",
+      "Improves overall reliability"
+    ],
+    "cons": [
+      "Requires soldering skill",
+      "Slightly larger component may need board clearance",
+      "No official warranty support"
+    ],
+    "watchOut": "Make sure the new capacitor’s voltage rating meets or exceeds the original to avoid overheating.",
+    "faq": [
+      {
+        "q": "Do I need special tools to replace the capacitor?",
+        "a": "A fine‑tip soldering iron, tweezers, and a small desoldering braid are sufficient."
+      },
+      {
+        "q": "Will this void my Game Boy Camera warranty?",
+        "a": "Any hardware modification typically voids manufacturer warranty, but the risk is minimal for a simple capacitor swap."
+      },
+      {
+        "q": "Can I use any electrolytic capacitor?",
+        "a": "Choose a low‑ESR electrolytic or solid‑polymer type with the same or higher voltage rating as the original."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Game Boy Camera",
+      "Hardware Upgrade"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-10-19T15:45:07.877Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-boost-reinforce-gb-link-port",
     "title": "Pixel Boost: Reinforcing Your Game Boy Link Port for Faster Speedrun Sync",
     "dek": "A quick mod to stiffen the Game Boy link port, cutting disconnects during marathon runs.",

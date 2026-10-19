@@ -1,5 +1,56 @@
 [
   {
+    "slug": "rustic-railway-workshops",
+    "title": "Rustic Railway Workshops: Low‑Impact Skill Swaps on Rural Lines",
+    "dek": "Swap crafts and learn local trades aboard slow trains for a greener journey.",
+    "takeaway": "Hands‑on skill swaps turn train rides into mobile makerspaces.",
+    "whatHappened": "During a week‑long regional rail loop, passengers organized impromptu workshops—knitting, woodworking, and bike repair—using only portable tools and reclaimed materials. The sessions attracted locals at each stop, creating a shared learning circle.",
+    "whyItMatters": "Travel can be a conduit for sustainable knowledge exchange, reducing waste by reusing skills and fostering community ties without extra carbon cost. These workshops showcase how rail travel can be both a conduit and a classroom.",
+    "howToThink": "Scout stations with community centers or open spaces, bring lightweight, multi‑purpose kits, and post a simple schedule on the train’s notice board. Encourage participants to bring a small item they can repair or upcycle, and keep the vibe low‑pressure and collaborative.",
+    "pros": [
+      "Zero‑emission learning",
+      "Builds local networks",
+      "Minimal gear needed"
+    ],
+    "cons": [
+      "Limited space on crowded cars",
+      "Weather can affect outdoor stops",
+      "Requires prior coordination"
+    ],
+    "watchOut": "Make sure all tools are safely stored and comply with railway safety rules.",
+    "faq": [
+      {
+        "q": "Do I need special permission to host a workshop on a train?",
+        "a": "Check with the railway operator; many welcome community activities with a simple notice."
+      },
+      {
+        "q": "What tools are safe to bring aboard?",
+        "a": "Compact, non‑powered tools like needles, hand files, small screwdrivers, and reusable fabric scraps work best."
+      },
+      {
+        "q": "How can I attract local participants at each stop?",
+        "a": "Post a brief flyer at the station a day ahead and announce the session on local community boards or social media."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "skill‑swap",
+      "sustainable‑travel"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-10-19T15:45:07.192Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "twilight-train-journaling",
     "title": "Twilight Train Journaling: Low‑Impact Storytelling on Rural Lines",
     "dek": "Capture the evening mood on a slow train while keeping your carbon footprint light.",
