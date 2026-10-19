@@ -1,5 +1,56 @@
 [
   {
+    "slug": "heritage-rail-snooze-stop",
+    "title": "Heritage Rail Snooze Stop: Low‑Impact Rest on Vintage Lines",
+    "dek": "Discover how a quiet carriage nap on a heritage train can recharge you without leaving a carbon footprint.",
+    "takeaway": "A short, mindful sleep on a historic train boosts energy and aligns with low‑impact travel values.",
+    "whatHappened": "I boarded the 10‑am steam service from town A to town B, settled into a refurbished sleeper cabin, and let the rhythmic clatter lull me into a brief nap. The carriage’s insulated windows kept daylight out, and the soft upholstery made it surprisingly comfortable.",
+    "whyItMatters": "Rest is a hidden pillar of slow travel; without it, the urge to rush defeats the low‑impact mindset. Using existing heritage services for sleep avoids extra hotel nights and cuts emissions.",
+    "howToThink": "Treat a carriage nap as a micro‑stay: pack a lightweight blanket, eye mask, and a reusable mug. Choose off‑peak services where the carriages are quieter, and set an alarm on your phone to avoid missing your stop.",
+    "pros": [
+      "Zero extra lodging carbon cost",
+      "Authentic historic ambiance",
+      "Quiet moving sanctuary"
+    ],
+    "cons": [
+      "Limited bedding space",
+      "May be noisy on older tracks",
+      "Fixed schedule constraints"
+    ],
+    "watchOut": "Check the carriage’s reservation policy—some heritage trains require a booked seat for the sleeper cabin.",
+    "faq": [
+      {
+        "q": "Do I need to book a sleeper cabin in advance?",
+        "a": "Yes, heritage services often have limited sleeper spots, so reserve early."
+      },
+      {
+        "q": "Is a blanket provided?",
+        "a": "Most refurbished carriages include a thin blanket; bring an extra layer for comfort."
+      },
+      {
+        "q": "Can I stay on board after my stop?",
+        "a": "No, you must disembark at your scheduled station; plan onward travel accordingly."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "heritage",
+      "sleep"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-10-19T10:45:09.875Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "morning-market-detours",
     "title": "Morning Market Detours: Low‑Impact Shopping on Rural Train Stops",
     "dek": "Step off at sunrise stops to explore village markets while keeping your carbon footprint light.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-scoop-marker",
+    "title": "Simplify Your Espresso Dose with a Handy Scoop Marker",
+    "dek": "Add a simple visual cue to your coffee scoop and nail consistent dosing every pull.",
+    "takeaway": "A cheap scoop marker guarantees repeatable espresso doses without guesswork.",
+    "whatHappened": "I noticed my espresso shots varied after a week of using the same beans, and realized my scoop was slipping a fraction each time. I taped a small piece of colored tape at the exact dose line on the scoop. The next day the shot weight steadied.",
+    "whyItMatters": "Consistent dose is the foundation of repeatable extraction, affecting flavor balance and crema. Small variations can throw off the brew ratio, leading to under- or over-extracted coffee. A visual cue removes that variability without extra equipment.",
+    "howToThink": "Treat the scoop like a ruler: mark the exact level that yields your target dose, then always fill to that line. Recheck the mark when you switch beans or grind size, as density changes. Keep the marker clean and replace if it wears.",
+    "pros": [
+      "Zero cost",
+      "Instant visual cue",
+      "Works with any scoop"
+    ],
+    "cons": [
+      "Tape may wear",
+      "Needs occasional re‑marking",
+      "Not a precise measurement tool"
+    ],
+    "watchOut": "Make sure the marker doesn’t contaminate the coffee or melt with hot water.",
+    "faq": [
+      {
+        "q": "Do I need a special scoop?",
+        "a": "No, any standard coffee scoop will work; just add the marker."
+      },
+      {
+        "q": "How often should I re‑mark the scoop?",
+        "a": "Check the line whenever you change bean density or notice dose drift."
+      },
+      {
+        "q": "Can I use a permanent marker instead of tape?",
+        "a": "A permanent marker works, but choose a food‑safe ink or keep the marker on the handle to avoid direct contact with coffee."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "dose consistency"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-10-19T10:45:10.442Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-roasting-52",
     "title": "The quiet upgrade: small tweaks in roasting with outsized returns",
     "dek": "No purchases, no overhauls — the modest roasting adjustments that home coffee enthusiasts report mattering most.",

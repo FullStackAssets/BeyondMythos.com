@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Power Surge: Reinforcing Your SNES Power Connector for Marathon Runs</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/power-surge-snes-connector.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/power-surge-snes-connector.html</guid>
+      <pubDate>Mon, 19 Oct 2026 10:45:08 GMT</pubDate>
+      <description>Strengthen the SNES power plug to avoid intermittent drops during long speedrun sessions.</description>
+    </item>
+    <item>
       <title>Retro Power Tweak: Optimizing Your NES Voltage for Consistent Frame Timing</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-power-tweak-optimizing-nes-voltage.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-power-tweak-optimizing-nes-voltage.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/quiet-upgrade-preservation-52.html</guid>
       <pubDate>Wed, 26 Aug 2026 10:17:38 GMT</pubDate>
       <description>No purchases, no overhauls — the modest preservation adjustments that retro game collectors and speedrunners report mattering most.</description>
-    </item>
-    <item>
-      <title>Unlocking Hidden Frame Buffers: A Quick SNES Hack</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/unlocking-hidden-frame-buffers.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/unlocking-hidden-frame-buffers.html</guid>
-      <pubDate>Wed, 26 Aug 2026 09:24:22 GMT</pubDate>
-      <description>Expose your SNES&apos;s hidden frame buffer with a 5‑minute solder tweak for smoother visuals and tighter timing.</description>
     </item>
   </channel>
 </rss>

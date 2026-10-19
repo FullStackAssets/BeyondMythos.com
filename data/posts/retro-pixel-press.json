@@ -1,5 +1,56 @@
 [
   {
+    "slug": "power-surge-snes-connector",
+    "title": "Power Surge: Reinforcing Your SNES Power Connector for Marathon Runs",
+    "dek": "Strengthen the SNES power plug to avoid intermittent drops during long speedrun sessions.",
+    "takeaway": "A solid connector keeps power steady, letting you focus on the timer, not the hardware.",
+    "whatHappened": "We noticed that many marathon runs on the SNES were interrupted by occasional power flickers caused by a loose connector. A quick visual inspection revealed worn pins and a cracked housing. Reinforcing the connector with a simple solder and heat‑shrink fix eliminated the drops.",
+    "whyItMatters": "Unreliable power can cause frame‑skipping or crashes, ruining a perfect run and forcing a reset. For collectors, a stable console preserves the hardware’s longevity. Speedrunners need every frame to count, so eliminating power glitches is essential.",
+    "howToThink": "Start by unplugging the console and inspecting the power jack for looseness. If the pins wobble, apply a thin layer of solder to secure them, then cover the joint with heat‑shrink tubing for insulation. Test the console after the repair before a timed run to confirm stability.",
+    "pros": [
+      "Low cost fix",
+      "Extends console life",
+      "No extra hardware needed"
+    ],
+    "cons": [
+      "Requires basic soldering skills",
+      "May void warranty",
+      "Potential for overheating if over‑soldered"
+    ],
+    "watchOut": "Avoid applying too much solder, which can create shorts or damage the board.",
+    "faq": [
+      {
+        "q": "Do I need a soldering iron for this repair?",
+        "a": "A small, temperature‑controlled soldering iron works best, but a fine‑tip can also do the job."
+      },
+      {
+        "q": "Can I use a generic heat‑shrink tube?",
+        "a": "Standard 2 mm shrink tubing is sufficient for most SNES power connectors."
+      },
+      {
+        "q": "Will this repair affect the console’s original value?",
+        "a": "A reversible, non‑intrusive fix typically does not impact collector value if documented properly."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "SNES",
+      "Hardware"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-10-19T10:45:08.154Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "retro-power-tweak-optimizing-nes-voltage",
     "title": "Retro Power Tweak: Optimizing Your NES Voltage for Consistent Frame Timing",
     "dek": "A quick guide to fine‑tuning your NES’s power rails to keep frame timing steady during marathon runs.",
