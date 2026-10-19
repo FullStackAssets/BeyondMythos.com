@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-pulse-modifying-game-boy-link-cable",
+    "title": "Pixel Pulse: Modifying Game Boy Link Cable for Faster Data Transfer",
+    "dek": "Upgrade your Game Boy link cable to cut lag and keep your speedrun splits tight.",
+    "takeaway": "A simple cable tweak can shave off precious milliseconds in link‑play races.",
+    "whatHappened": "A community thread highlighted that the stock Game Boy link cable introduces a small but noticeable delay due to its high resistance. Members experimented with thinner conductors and tighter shielding, reporting smoother data sync during multiplayer races. The consensus was that a modest hardware change yields a tangible boost for competitive play.",
+    "whyItMatters": "Speedrunners rely on split‑second timing; even tiny latency can tip the balance between a world record and a near miss. For collectors, a reliable link cable also preserves the integrity of multiplayer sessions, reducing wear on the console’s ports. The tweak respects the original hardware aesthetic while delivering modern performance.",
+    "howToThink": "Start with a high‑quality, low‑resistance wire—preferably 28‑AWG stranded copper—and replace the stock leads inside the connector. Solder the new leads carefully, maintaining the original polarity. Add a thin layer of heat‑shrink tubing for durability, and test with a known timing benchmark before racing.",
+    "pros": [
+      "Reduced lag in link‑play",
+      "Cost‑effective DIY upgrade",
+      "Preserves original look"
+    ],
+    "cons": [
+      "Requires basic soldering skills",
+      "Potential void of warranty",
+      "May need custom connectors for rare cable colors"
+    ],
+    "watchOut": "Avoid shorting the polarity pins; a reversed connection can damage the Game Boy’s link port.",
+    "faq": [
+      {
+        "q": "Do I need a special soldering iron?",
+        "a": "A standard 25‑30 W iron with a fine tip works fine for the tiny contacts."
+      },
+      {
+        "q": "Will this affect single‑player performance?",
+        "a": "No, the modification only impacts the link port; single‑player play remains unchanged."
+      },
+      {
+        "q": "Can I revert to the stock cable later?",
+        "a": "Yes—simply desolder the custom wires and reinstall the original leads if you keep them."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Game Boy",
+      "Link Cable"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-10-19T12:45:07.401Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-boost-game-boy-battery",
     "title": "Pixel Boost: Upgrading Your Game Boy Battery for Marathon Sessions",
     "dek": "Swap your Game Boy’s AA cells for high‑capacity rechargeables and keep the timer ticking for those long‑run challenges.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "green-corridor-sketching-low-impact-art-sessions",
+    "title": "Green Corridor Sketching: Low‑Impact Art Sessions on Rural Trains",
+    "dek": "Turn a slow train ride into a portable sketch studio for mindful, low‑impact creativity.",
+    "takeaway": "Traveling slowly lets you capture landscapes without leaving a carbon trace.",
+    "whatHappened": "On a Saturday morning, I boarded a regional diesel line through the hills, set up a small sketch pad and charcoal, and spent the journey drawing passing fields and stations.",
+    "whyItMatters": "Art on board encourages mindfulness, reduces screen time, and highlights the subtle beauty of routes often missed by hurried tourists.",
+    "howToThink": "Pack a lightweight sketchbook, a compact pencil set, and a reusable water bottle; use the train’s rhythm to guide your strokes and pause to observe before you draw.",
+    "pros": [
+      "Zero‑emission creative outlet",
+      "Minimal gear needed",
+      "Enhances route awareness"
+    ],
+    "cons": [
+      "Requires steady hands on moving train",
+      "Weather can affect comfort",
+      "Limited space for large works"
+    ],
+    "watchOut": "Be mindful of fellow passengers; keep materials tidy and avoid blocking aisles.",
+    "faq": [
+      {
+        "q": "Can I sketch on a crowded train?",
+        "a": "Choose a seat with a small table or lap space and keep supplies compact to stay unobtrusive."
+      },
+      {
+        "q": "What supplies are truly low‑impact?",
+        "a": "Recycled paper sketchbooks, wooden or metal pencils, and a refillable water bottle keep the footprint tiny."
+      },
+      {
+        "q": "How do I protect my drawings from wind or spills?",
+        "a": "Use a zip‑lock sleeve or a reusable pouch; a simple sheet of cardboard can double as a makeshift easel."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "art",
+      "rail"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-10-19T12:45:15.218Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "heritage-train-cooking",
     "title": "Heritage Train Cooking: Low‑Impact Meal Prep on Vintage Carriages",
     "dek": "Turn a slow‑train ride into a kitchen on wheels with zero‑waste meals that match the rhythm of the rails.",

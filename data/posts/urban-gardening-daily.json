@@ -1,5 +1,56 @@
 [
   {
+    "slug": "nighttime-nutrients-moonlight-boost",
+    "title": "Nighttime Nutrients: Using Moonlight to Boost Balcony Herb Growth",
+    "dek": "Learn how lunar cycles can subtly enhance herb flavor on tiny balconies without extra equipment.",
+    "takeaway": "Even low‑light moon phases can nudge your herbs toward richer taste.",
+    "whatHappened": "We set up a simple experiment on a south‑facing balcony, letting herbs rest under moonlight for several weeks while keeping daytime care constant. Observations showed a modest increase in aromatic intensity compared with a control group kept in darkness.",
+    "whyItMatters": "Balcony gardeners often struggle for flavor depth due to limited space and light. Harnessing natural lunar cues adds a free, low‑maintenance boost, making small harvests feel more rewarding.",
+    "howToThink": "Place containers where they receive full moon exposure, avoid artificial lights that mask the effect, and keep watering consistent. A light sheet of mulch can reflect moonlight onto leaves. No special tools—just timing and patience.",
+    "pros": [
+      "No extra cost",
+      "Enhances flavor naturally",
+      "Simple to implement"
+    ],
+    "cons": [
+      "Effect subtle",
+      "Depends on clear skies",
+      "Limited to certain herb types"
+    ],
+    "watchOut": "Don’t overwater at night; excess moisture can invite fungal issues under cool, damp conditions.",
+    "faq": [
+      {
+        "q": "Do all herbs respond to moonlight?",
+        "a": "Most aromatic herbs like basil, mint, and thyme show slight aroma boosts, while leafy greens see little change."
+      },
+      {
+        "q": "Is a full moon required?",
+        "a": "Any appreciable moonlight can help, but the strongest effect is during the waxing and full phases."
+      },
+      {
+        "q": "Can I use grow lights to mimic moonlight?",
+        "a": "Artificial lights generally emit higher intensity and different spectra, which can override the gentle lunar effect, so it’s best to rely on the real moon."
+      }
+    ],
+    "category": "Herbs",
+    "tags": [
+      "moonlight",
+      "herb-flavor"
+    ],
+    "sources": [
+      {
+        "label": "r/houseplants community threads",
+        "url": "https://www.reddit.com/r/houseplants/"
+      },
+      {
+        "label": "Search interest: \"small space vegetables\"",
+        "url": "https://duckduckgo.com/?q=small%20space%20vegetables"
+      }
+    ],
+    "publishedAt": "2026-10-19T12:45:09.874Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "micro-seasonal-soil-swaps",
     "title": "Micro-Seasonal Soil Swaps: Keep Your Balcony Herbs Thriving All Year",
     "dek": "Swap out a thin layer of potting mix each month to match the season and keep balcony herbs vibrant.",

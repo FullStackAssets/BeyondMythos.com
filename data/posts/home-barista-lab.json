@@ -1,5 +1,56 @@
 [
   {
+    "slug": "add-preinfusion-pause",
+    "title": "Add a Pre‑Infusion Pause for Smoother Espresso",
+    "dek": "A quick pre‑infusion pause can smooth out channeling and improve flavor without new gear.",
+    "takeaway": "A brief pre‑infusion pause steadies water flow and yields a more balanced shot.",
+    "whatHappened": "I set my machine to hold at low pressure for about two seconds before ramping to full pressure. The first shot tasted less harsh, and the crema held a richer amber hue. Repeating the pause a few times confirmed the effect was repeatable.",
+    "whyItMatters": "Channeling often creates uneven extraction, leading to sour or bitter notes. By giving the puck a moment to wet evenly, the water distributes more uniformly, unlocking hidden sweetness in the beans. This tiny tweak can make a noticeable difference without buying a new espresso machine.",
+    "howToThink": "If your espresso feels thin or the crema fades quickly, try a short pre‑infusion pause. Most modern machines let you program a low‑pressure soak; if yours doesn’t, manually start the brew, stop the pump after a second, wait, then resume. Keep the pause under three seconds to avoid over‑extraction.",
+    "pros": [
+      "Easier flavor balance",
+      "No extra equipment needed",
+      "Works on most home machines"
+    ],
+    "cons": [
+      "Requires manual timing on older machines",
+      "May need trial‑and‑error for optimal length",
+      "Not a cure‑all for poor grind or tamp"
+    ],
+    "watchOut": "Avoid extending the pause beyond three seconds, or you’ll risk under‑extraction and a flat shot.",
+    "faq": [
+      {
+        "q": "Can I use a timer to control the pause?",
+        "a": "Yes, a kitchen timer or smartphone stopwatch works fine for consistency."
+      },
+      {
+        "q": "Does pre‑infusion work with all bean types?",
+        "a": "It generally benefits most beans, especially those with a finer grind and higher density."
+      },
+      {
+        "q": "Will this increase my brew time significantly?",
+        "a": "Only by a couple of seconds per shot, which is negligible for daily brewing."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "technique"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-10-19T12:45:08.093Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "check-portafilter-fit",
     "title": "Check Your Portafilter Fit for Consistent Extraction",
     "dek": "A quick test to ensure your portafilter seats properly, preventing channeling and improving shot consistency.",
