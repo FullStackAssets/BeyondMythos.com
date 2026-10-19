@@ -1,5 +1,56 @@
 [
   {
+    "slug": "balcony-boost-diy-self-watering-pots",
+    "title": "Balcony Boost: DIY Self‑Watering Pots",
+    "dek": "Create low‑maintenance, self‑watering containers that keep herbs thriving on any balcony or windowsill.",
+    "takeaway": "A simple self‑watering system reduces daily watering chores and improves plant health.",
+    "whatHappened": "We tested a basic bottle‑cap reservoir system in a sunny balcony garden and saw herbs stay hydrated longer between waterings. The setup used recycled plastic bottles and a cotton wick to draw water up as needed.",
+    "whyItMatters": "Busy apartment dwellers often forget to water their containers, leading to wilted herbs and wasted effort. A self‑watering pot ensures consistent moisture, boosting growth and flavor without constant monitoring.",
+    "howToThink": "Cut a plastic bottle in half, invert the top into the bottom, fill the base with water, and insert a cotton wick through the neck into the soil. Position the pot where the herb gets optimal light and let capillary action do the work.",
+    "pros": [
+      "Minimal daily watering",
+      "Uses recycled materials",
+      "Improves herb vigor"
+    ],
+    "cons": [
+      "Initial assembly time",
+      "Limited to small pots",
+      "Wick may need occasional replacement"
+    ],
+    "watchOut": "Avoid overfilling the reservoir, or roots may become water‑logged.",
+    "faq": [
+      {
+        "q": "Can I use any type of plastic bottle?",
+        "a": "Yes, standard 500 ml or 1 L bottles work best; just ensure they’re clean and food‑safe."
+      },
+      {
+        "q": "How often should I refill the reservoir?",
+        "a": "Refill when the water level drops below the wick’s tip—usually every 3‑5 days in warm weather."
+      },
+      {
+        "q": "Is this system suitable for flowering plants?",
+        "a": "It works for most herbs and small vegetables; larger plants may need a bigger water source."
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "DIY",
+      "Watering"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-10-19T04:45:07.178Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "fall-flavor-harvest-herbs",
     "title": "Fall Flavor: Harvesting Herbs on Small Balconies",
     "dek": "Turn your balcony into a fragrant fall herb garden with easy steps.",

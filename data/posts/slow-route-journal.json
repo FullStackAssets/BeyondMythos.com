@@ -1,5 +1,56 @@
 [
   {
+    "slug": "eco-friendly-night-lights",
+    "title": "Eco‑Friendly Night Lights: Low‑Impact Illumination on Rural Carriages",
+    "dek": "Discover how to light up your sleeper car with sustainable glow without draining the grid.",
+    "takeaway": "Simple lighting hacks keep your cabin cozy and carbon‑light.",
+    "whatHappened": "On a midnight sleeper across the countryside I swapped the harsh overhead bulbs for a strip of solar‑charged LED tape and a rechargeable lantern. The glow was warm, the power draw negligible, and fellow travelers asked for the source.",
+    "whyItMatters": "Every watt saved on a moving train reduces strain on limited onboard generators and preserves the night sky for those who love stargazing. Low‑impact lighting also sets a calm mood for restful travel.",
+    "howToThink": "Choose LEDs rated under 5 W, power them from a USB power bank that you charge at stations with solar kiosks, and use a dimmer switch to match your needs. Pack a spare battery and keep cords tidy to avoid tripping hazards.",
+    "pros": [
+      "Low energy use",
+      "Soft ambience",
+      "Easy to install"
+    ],
+    "cons": [
+      "Initial cost",
+      "Battery management",
+      "Limited brightness"
+    ],
+    "watchOut": "Avoid overloading the carriage power socket with too many devices.",
+    "faq": [
+      {
+        "q": "Can I use any LED strip?",
+        "a": "Pick low‑voltage, adhesive strips that run on 5 V USB and are rated for travel."
+      },
+      {
+        "q": "How long does a charge last?",
+        "a": "A fully charged power bank can power a 5‑W strip for several nights, depending on usage."
+      },
+      {
+        "q": "Is it allowed on all trains?",
+        "a": "Most operators permit personal battery‑powered lights, but check the carriage policy before boarding."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "low-impact",
+      "rail-lit"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-10-19T04:45:09.483Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "eco-refill-stations-rail",
     "title": "Eco‑Refill Stations: Low‑Impact Water Stops on Rural Trains",
     "dek": "Discover how tiny water refill points on off‑beat lines keep slow travelers hydrated and waste‑free.",

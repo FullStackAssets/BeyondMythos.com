@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-battery-boost",
+    "title": "Retro Battery Boost: Switching to Rechargeable AAs for Longer Game Boy Runs",
+    "dek": "Swap standard alkaline AAs for NiMH rechargeables to extend playtime and keep your Game Boy humming during marathon runs.",
+    "takeaway": "Rechargeables give steadier voltage and fewer interruptions for speedrunners.",
+    "whatHappened": "A collector swapped a fresh pack of alkaline AA batteries in a classic Game Boy and noticed the screen dimming after fifteen minutes. Replacing them with fully charged NiMH rechargeables kept the backlight bright for the entire session. The change was immediate and required no soldering or mods.",
+    "whyItMatters": "Consistent voltage prevents the occasional lag spikes that can ruin a speedrun attempt. Longer battery life reduces the need for mid‑run swaps, keeping focus on the route rather than power management. It also preserves the device by avoiding deep discharge cycles that stress older cells.",
+    "howToThink": "When planning a run, treat power as part of your setup checklist—just like a controller tweak. Keep a spare set of charged NiMH cells and a mini charger nearby. Test the new batteries on a short run to verify stable performance before the big attempt.",
+    "pros": [
+      "Longer playtime",
+      "Stable voltage",
+      "Eco‑friendly"
+    ],
+    "cons": [
+      "Higher upfront cost",
+      "Needs periodic charging",
+      "Slightly heavier than alkalines"
+    ],
+    "watchOut": "Never mix rechargeable and alkaline cells in the same compartment; it can cause uneven discharge and damage the device.",
+    "faq": [
+      {
+        "q": "Can I use lithium AA batteries instead?",
+        "a": "Lithium cells provide high voltage but can be too aggressive for older hardware and may shorten the console’s lifespan."
+      },
+      {
+        "q": "Do I need a charger with auto‑shutdown?",
+        "a": "A charger with automatic termination helps avoid overcharging, which can reduce the cells’ lifespan."
+      },
+      {
+        "q": "Will rechargeables affect the Game Boy’s sound quality?",
+        "a": "Most users report no audible difference; the smoother voltage actually stabilizes the audio chip."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "battery",
+      "Game Boy"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-10-19T04:45:10.664Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "retro-cartridge-cleaner",
     "title": "Retro Cartridge Cleaner: Simple Alcohol Wipe for Reliable Reads",
     "dek": "A quick alcohol wipe can restore old cartridges and cut down load hiccups for your next speedrun.",

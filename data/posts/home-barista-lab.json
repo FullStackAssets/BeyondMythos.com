@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-shot-tuning-tips",
+    "title": "Elevate Your Espresso Shot with a Simple Tamp Pressure Check",
+    "dek": "A quick tamp pressure tweak can tighten shot consistency without buying new gear.",
+    "takeaway": "Consistent tamp pressure sharpens flavor balance and reduces channeling.",
+    "whatHappened": "I noticed my espresso sometimes tasted thin or over‑extracted despite stable grind settings. A quick check of my tamp pressure revealed a wide swing between pulls. By standardizing the force applied with a simple hand‑scale test, the shots steadied within minutes.",
+    "whyItMatters": "Tamp pressure is the last variable you control before water meets the coffee puck. Inconsistent pressure creates uneven extraction pathways, leading to flavor inconsistency that frustrates home baristas trying to perfect a recipe.",
+    "howToThink": "Treat tamp pressure like a repeatable step: aim for a firm, level pressure that feels like pressing a firm handshake. Use a calibrated tamper or a kitchen scale to gauge force, then practice the same motion each pull. Once you nail the feel, you’ll see steadier shots without adjusting other parameters.",
+    "pros": [
+      "Improves shot consistency",
+      "No extra equipment needed",
+      "Quick to implement"
+    ],
+    "cons": [
+      "Requires habit formation",
+      "May feel awkward at first",
+      "Harder to gauge without a scale"
+    ],
+    "watchOut": "Don’t over‑compact the puck; excessive pressure can choke flow and produce bitter shots.",
+    "faq": [
+      {
+        "q": "How can I measure tamp pressure without a scale?",
+        "a": "Press the tamper against a sturdy surface; you should feel a solid resistance similar to a firm handshake—practice until it feels repeatable."
+      },
+      {
+        "q": "Is a heavier tamper better for consistency?",
+        "a": "A heavier tamper can make it easier to apply consistent force, but the key is using the same pressure each time, regardless of weight."
+      },
+      {
+        "q": "Can I use this technique with a bottomless portafilter?",
+        "a": "Yes, a bottomless portafilter will even highlight any channeling, helping you fine‑tune your tamp pressure faster."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "tamping"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-10-19T04:45:06.515Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "unlock-espresso-flow-valve-check",
     "title": "Unlock Consistent Espresso Flow with a Simple Valve Check",
     "dek": "A quick valve inspection can smooth out erratic shots without extra gear.",
