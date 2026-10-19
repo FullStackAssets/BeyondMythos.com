@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Clarity: Swapping Game Boy Pocket LCD for Sharper Speedrun Vision</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-clarity-gb-lcd-upgrade.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-clarity-gb-lcd-upgrade.html</guid>
+      <pubDate>Mon, 19 Oct 2026 16:45:10 GMT</pubDate>
+      <description>A quick guide to fitting a high‑contrast LCD into your Game Boy Pocket for clearer reads during marathon runs.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Enhancing Game Boy Camera Shutter Speed</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-enhancing-game-boy-camera-shutter-sp.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-enhancing-game-boy-camera-shutter-sp.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/weekend-project-hardware-52.html</guid>
       <pubDate>Wed, 26 Aug 2026 18:24:28 GMT</pubDate>
       <description>One contained, satisfying hardware project for retro game collectors — start Saturday morning, done by lunch.</description>
-    </item>
-    <item>
-      <title>Reviving the Cartridge: How to Reflow Your NES Board Without a Furnace</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/reviving-cartridge-reflow-nes.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/reviving-cartridge-reflow-nes.html</guid>
-      <pubDate>Wed, 26 Aug 2026 16:05:17 GMT</pubDate>
-      <description>Give your aging NES a fresh lease on life by reflowing its solder joints using everyday tools.</description>
     </item>
   </channel>
 </rss>

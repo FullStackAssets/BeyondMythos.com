@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/layer-lines/</link>
     <description>Fresh takes for home 3D-printing hobbyists.</description>
     <item>
+      <title>Five mistakes everyone makes in their first month of filament</title>
+      <link>https://www.beyondmythos.com/sites/layer-lines/posts/five-filament-mistakes-76.html</link>
+      <guid>https://www.beyondmythos.com/sites/layer-lines/posts/five-filament-mistakes-76.html</guid>
+      <pubDate>Mon, 19 Oct 2026 16:45:27 GMT</pubDate>
+      <description>The most common early stumbles in filament, and the cheap corrections that fix them for home 3D-printing hobbyists.</description>
+    </item>
+    <item>
       <title>&quot;best filament for beginners&quot; in practice: a real-world field test</title>
       <link>https://www.beyondmythos.com/sites/layer-lines/posts/best-filament-for-beginners-field-test-26.html</link>
       <guid>https://www.beyondmythos.com/sites/layer-lines/posts/best-filament-for-beginners-field-test-26.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/layer-lines/posts/weekend-project-calibration-72.html</guid>
       <pubDate>Wed, 26 Aug 2026 18:24:43 GMT</pubDate>
       <description>One contained, satisfying calibration project for home 3D-printing hobbyists — start Saturday morning, done by lunch.</description>
-    </item>
-    <item>
-      <title>Ghosting be gone: mastering acceleration and jerk for crisp prints</title>
-      <link>https://www.beyondmythos.com/sites/layer-lines/posts/ghosting-acceleration-jerk.html</link>
-      <guid>https://www.beyondmythos.com/sites/layer-lines/posts/ghosting-acceleration-jerk.html</guid>
-      <pubDate>Wed, 26 Aug 2026 16:05:34 GMT</pubDate>
-      <description>Tame ghosting by fine‑tuning acceleration and jerk, turning shaky outlines into razor‑sharp edges.</description>
     </item>
   </channel>
 </rss>

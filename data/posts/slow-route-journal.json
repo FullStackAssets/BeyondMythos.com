@@ -1,5 +1,56 @@
 [
   {
+    "slug": "sunset-platform-yoga-2",
+    "title": "Sunset Platform Yoga: Low-Impact Stretch Sessions on Rural Trains",
+    "dek": "Wind down with guided yoga on a quiet rural platform as the train rolls by, merging movement and mindful travel.",
+    "takeaway": "Stretching on moving platforms adds calm and flexibility to slow-travel journeys.",
+    "whatHappened": "I arrived at a small countryside stop just as the evening train hissed to a halt. The conductor invited a few passengers to join a brief yoga flow on the platform while the carriage doors stayed open. We moved through gentle poses as the locomotive idled, the sky turning pink behind the rails.",
+    "whyItMatters": "Offering a low‑impact activity like yoga transforms a simple stop into a restorative experience, reinforcing the slow‑travel ethos of presence and sustainability. It also showcases how public transport spaces can be repurposed for community well‑being without extra infrastructure.",
+    "howToThink": "Look for quiet, low‑traffic stations with a flat, safe surface. Bring a lightweight mat or a folded towel, and choose a short sequence that can be done in 5‑10 minutes. Communicate clearly with the train crew to ensure safety and respect for other travelers.",
+    "pros": [
+      "Boosts flexibility",
+      "Encourages mindfulness",
+      "No extra gear needed"
+    ],
+    "cons": [
+      "Limited space",
+      "Requires calm weather",
+      "May disturb other passengers"
+    ],
+    "watchOut": "Make sure the train is fully stopped and crew has approved the activity to avoid safety risks.",
+    "faq": [
+      {
+        "q": "Do I need a yoga mat?",
+        "a": "A thin travel mat or a folded towel works fine on most platforms."
+      },
+      {
+        "q": "Is it okay to do this on any train stop?",
+        "a": "Choose stations that are not busy and always get permission from the conductor."
+      },
+      {
+        "q": "What if it starts raining?",
+        "a": "Switch to seated stretches or postpone; safety comes first."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "wellness"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-10-19T16:45:10.801Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "rustic-railway-workshops",
     "title": "Rustic Railway Workshops: Low‑Impact Skill Swaps on Rural Lines",
     "dek": "Swap crafts and learn local trades aboard slow trains for a greener journey.",

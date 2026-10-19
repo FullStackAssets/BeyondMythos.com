@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-clarity-gb-lcd-upgrade",
+    "title": "Pixel Clarity: Swapping Game Boy Pocket LCD for Sharper Speedrun Vision",
+    "dek": "A quick guide to fitting a high‑contrast LCD into your Game Boy Pocket for clearer reads during marathon runs.",
+    "takeaway": "A better LCD gives you faster visual cue recognition without altering the console’s core performance.",
+    "whatHappened": "We opened a Game Boy Pocket, removed the original 2‑tone LCD and installed a modern high‑contrast replacement. The new screen showed crisper text and sprites, making split‑second decisions easier.",
+    "whyItMatters": "Speedrunners rely on visual clarity to time inputs precisely; a washed‑out screen can cause missed frames. Collectors also benefit from a refreshed look that preserves the device’s value.",
+    "howToThink": "When choosing an LCD, prioritize contrast and power draw similar to the stock panel to avoid battery issues. Use a thin, flexible adhesive and test the fit before sealing. Keep the original panel as a backup in case you need to revert.",
+    "pros": [
+      "Sharper visuals",
+      "Minimal power impact",
+      "Preserves original case"
+    ],
+    "cons": [
+      "Requires delicate soldering",
+      "Potential warranty void",
+      "Slightly higher cost"
+    ],
+    "watchOut": "Be careful not to damage the ribbon cable; a torn connector will render the screen dead.",
+    "faq": [
+      {
+        "q": "Will the new LCD affect game timing?",
+        "a": "No, the display refresh rate remains the same, so gameplay speed is unchanged."
+      },
+      {
+        "q": "Do I need new batteries?",
+        "a": "The upgraded panel uses comparable power, so your existing AA batteries will last as before."
+      },
+      {
+        "q": "Can I revert to the stock screen?",
+        "a": "Yes, keep the original LCD and follow the same steps to reinstall it."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Game Boy",
+      "Hardware Upgrade"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-10-19T16:45:10.210Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-boost-enhancing-game-boy-camera-shutter-sp",
     "title": "Pixel Boost: Enhancing Game Boy Camera Shutter Speed",
     "dek": "Speed up your Game Boy Camera snaps with a simple capacitor tweak for smoother photo runs.",

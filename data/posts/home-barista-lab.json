@@ -1,5 +1,56 @@
 [
   {
+    "slug": "upgrade-espresso-consistency-portafilter-pressur",
+    "title": "Upgrade Your Espresso Consistency with a Simple Portafilter Pressure Check",
+    "dek": "A quick pressure test can reveal hidden portafilter issues that sabotage shot uniformity.",
+    "takeaway": "Regularly checking portafilter pressure keeps your espresso tasting consistent.",
+    "whatHappened": "I noticed a sudden drop in crema volume and a thin body in my usual brew. A quick hand‑press test on the portafilter revealed uneven pressure distribution. After tightening the lock and cleaning the gasket, the shots returned to their former richness.",
+    "whyItMatters": "Even small pressure variations can cause uneven extraction, leading to bitterness or sourness. For home baristas, consistency is the bridge between good and great espresso. A simple check saves time and coffee beans before you chase more complex tweaks.",
+    "howToThink": "Treat the portafilter like a pressure valve—if it feels loose or gives way under gentle thumb pressure, it needs attention. Use a rubber grip or a small screwdriver to apply consistent force and listen for a firm, uniform resistance. Incorporate this test into your weekly maintenance routine, especially after moving the machine or cleaning the group head.",
+    "pros": [
+      "Quick to perform",
+      "No extra tools needed",
+      "Immediately reveals lock issues"
+    ],
+    "cons": [
+      "Subjective feel can vary",
+      "May miss micro‑leaks",
+      "Requires regular habit"
+    ],
+    "watchOut": "Don’t overtighten the portafilter; excessive force can damage the gasket or the machine’s lock mechanism.",
+    "faq": [
+      {
+        "q": "How often should I perform the pressure check?",
+        "a": "Once a week or after any deep cleaning is sufficient for most home setups."
+      },
+      {
+        "q": "Can I use a torque wrench instead of my thumb?",
+        "a": "A torque wrench is unnecessary; the goal is a feel‑based check, not a precise measurement."
+      },
+      {
+        "q": "What if the portafilter still feels loose after cleaning?",
+        "a": "Inspect the gasket for wear and replace it if it’s hardened or cracked."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-10-19T16:45:06.606Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "gauge-espresso-shot-temp",
     "title": "Gauge Your Espresso Shot Temp with a Simple Thermometer",
     "dek": "A quick thermometer check keeps your espresso temperature on target, boosting flavor consistency without fancy equipment.",
