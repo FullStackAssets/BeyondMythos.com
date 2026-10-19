@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Enhancing Game Boy Audio Output for Clearer Speedrun Audio</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-enhancing-game-boy-audio-output.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-enhancing-game-boy-audio-output.html</guid>
+      <pubDate>Mon, 19 Oct 2026 19:45:07 GMT</pubDate>
+      <description>Upgrade the Game Boy’s speaker circuit for louder, crisper sound without sacrificing battery life.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Optimizing GBA Light Sensor for Night Runs</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-optimizing-gba-light-sensor.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-optimizing-gba-light-sensor.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/led-counter-frame-splits.html</guid>
       <pubDate>Sun, 18 Oct 2026 14:30:46 GMT</pubDate>
       <description>Add a cheap LED counter to your controller port for instant visual feedback on frame timing and tighter splits.</description>
-    </item>
-    <item>
-      <title>Turbocharging Your TurboGrafx: A Simple Button Mod for Speedrun Gains</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/turbocharging-turbografx-button-mod.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/turbocharging-turbografx-button-mod.html</guid>
-      <pubDate>Sun, 18 Oct 2026 11:42:51 GMT</pubDate>
-      <description>A quick, solder‑free mod that adds a tactile button to your TurboGrafx‑16 for sharper inputs.</description>
     </item>
   </channel>
 </rss>

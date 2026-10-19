@@ -1,5 +1,56 @@
 [
   {
+    "slug": "quiet-dawn-platform-coffee",
+    "title": "Quiet Dawn Platform Coffee: Low‑Impact Brewing on Rural Stops",
+    "dek": "Start your day with a simple pour‑over on a sleepy platform, keeping carbon footprints tiny and mornings serene.",
+    "takeaway": "A minimal‑gear coffee ritual lets slow travelers savor the journey without adding waste.",
+    "whatHappened": "At the first light stop of the Heritage Line, I set up a compact pour‑over kit on the wooden bench, using locally sourced beans and a reusable filter. The train’s gentle hum provided background music as the brew dripped into my mug.",
+    "whyItMatters": "Because beverage choices often dominate travel waste, swapping disposable cups for a reusable set cuts down single‑use items and deepens the sense of place.",
+    "howToThink": "Choose a lightweight, stainless steel dripper, bring a small bag of beans you bought at a station market, and use the platform’s tap water. Keep the kit in a zip pouch and clean it with a quick rinse before boarding.",
+    "pros": [
+      "Zero waste",
+      "Boosts local flavor",
+      "Easy to pack"
+    ],
+    "cons": [
+      "Needs water source",
+      "Takes a few minutes",
+      "Limited on crowded platforms"
+    ],
+    "watchOut": "Be mindful of local rules about open flames or hot liquids on historic platforms.",
+    "faq": [
+      {
+        "q": "Can I brew coffee on any rural stop?",
+        "a": "As long as there’s clean water and you respect station guidelines, most quiet platforms work."
+      },
+      {
+        "q": "What equipment is truly low‑impact?",
+        "a": "A stainless steel pour‑over dripper, reusable filter, and a small insulated mug keep weight low and waste out."
+      },
+      {
+        "q": "How do I source beans responsibly?",
+        "a": "Buy beans from the station’s market or a nearby farm stand, opting for beans roasted locally and packaged minimally."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "low-impact"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-10-19T19:45:10.312Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "midnight-railwatch",
     "title": "Midnight Railwatch: Low-Impact Nighttime Spotting on Rural Lines",
     "dek": "Turn the night shift into a low-impact wildlife watch from the comfort of a moving carriage.",

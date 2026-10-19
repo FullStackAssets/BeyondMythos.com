@@ -5,6 +5,13 @@
     <link>https://beyondmythos.com/sites/beige-box-bulletin-2/</link>
     <description>Fresh takes for retro computer restorers and emulation fans.</description>
     <item>
+      <title>Myth vs. reality: best emulation setup</title>
+      <link>https://beyondmythos.com/sites/beige-box-bulletin-2/posts/myth-vs-reality-best-emulation-setup-2.html</link>
+      <guid>https://beyondmythos.com/sites/beige-box-bulletin-2/posts/myth-vs-reality-best-emulation-setup-2.html</guid>
+      <pubDate>Mon, 19 Oct 2026 19:45:38 GMT</pubDate>
+      <description>The persistent myths around best emulation setup, stress-tested against what retro computer restorers and emulation fans actually report.</description>
+    </item>
+    <item>
       <title>A weekend project: level up your restoration in two hours</title>
       <link>https://beyondmythos.com/sites/beige-box-bulletin-2/posts/weekend-project-restoration-4.html</link>
       <guid>https://beyondmythos.com/sites/beige-box-bulletin-2/posts/weekend-project-restoration-4.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://beyondmythos.com/sites/beige-box-bulletin-2/posts/upgrading-commodore-amiga-500.html</guid>
       <pubDate>Thu, 15 Oct 2026 14:15:44 GMT</pubDate>
       <description>How to add a faster CPU, more RAM, and a compact SSD to an Amiga 500 without losing its classic charm.</description>
-    </item>
-    <item>
-      <title>Retro OS Optimizations: Getting More from Classic Software</title>
-      <link>https://beyondmythos.com/sites/beige-box-bulletin-2/posts/retro-os-optimizations.html</link>
-      <guid>https://beyondmythos.com/sites/beige-box-bulletin-2/posts/retro-os-optimizations.html</guid>
-      <pubDate>Wed, 14 Oct 2026 01:15:44 GMT</pubDate>
-      <description>Tips for tweaking classic operating systems to run smoother on restored hardware.</description>
     </item>
   </channel>
 </rss>

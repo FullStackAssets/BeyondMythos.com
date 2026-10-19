@@ -1,5 +1,56 @@
 [
   {
+    "slug": "balcony-brews-tea-herbs",
+    "title": "Balcony Brews: Growing Your Own Tea Herbs in Small Spaces",
+    "dek": "Turn your balcony into a tea garden with easy herbs that thrive in tight containers.",
+    "takeaway": "A few hardy tea herbs can be grown on any balcony, giving fresh brew at your fingertips.",
+    "whatHappened": "We tested mint, lemon balm, and chamomile in 8‑inch pots on a sunny balcony for a month, noting growth and flavor.",
+    "whyItMatters": "Fresh tea herbs cut grocery trips, reduce waste, and let you craft personalized blends, perfect for apartment life.",
+    "howToThink": "Choose herbs that love sun and modest water, use light‑weight potting mix, and harvest regularly to encourage bushy growth.",
+    "pros": [
+      "Instant fresh tea",
+      "Low maintenance",
+      "Space‑efficient"
+    ],
+    "cons": [
+      "Seasonal growth limits",
+      "Potential pest attraction",
+      "Needs regular watering"
+    ],
+    "watchOut": "Avoid overwatering; soggy roots will stunt herb vigor.",
+    "faq": [
+      {
+        "q": "Which tea herbs are best for balconies?",
+        "a": "Mint, lemon balm, chamomile, and rosemary perform well in small containers with good sun."
+      },
+      {
+        "q": "How often should I water balcony tea herbs?",
+        "a": "Water when the top inch of soil feels dry; consistency beats occasional drenching."
+      },
+      {
+        "q": "Can I grow tea herbs year‑round?",
+        "a": "In mild climates they persist; otherwise bring pots indoors before frost."
+      }
+    ],
+    "category": "Herbs",
+    "tags": [
+      "Herbs",
+      "Containers"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-10-19T19:45:08.511Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-seasonal-60",
     "title": "Ask the forge: your seasonal questions, answered",
     "dek": "Straight answers to the seasonal questions apartment dwellers and balcony gardeners keep asking, minus the hedging.",

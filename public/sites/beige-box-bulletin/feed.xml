@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/beige-box-bulletin/</link>
     <description>Fresh takes for retro computer restorers and emulation fans.</description>
     <item>
+      <title>A weekend project: level up your restoration in two hours</title>
+      <link>https://www.beyondmythos.com/sites/beige-box-bulletin/posts/weekend-project-restoration-78.html</link>
+      <guid>https://www.beyondmythos.com/sites/beige-box-bulletin/posts/weekend-project-restoration-78.html</guid>
+      <pubDate>Mon, 19 Oct 2026 19:45:28 GMT</pubDate>
+      <description>One contained, satisfying restoration project for retro computer restorers — start Saturday morning, done by lunch.</description>
+    </item>
+    <item>
       <title>Community pulse: what r/retrobattlestations is debating this week</title>
       <link>https://www.beyondmythos.com/sites/beige-box-bulletin/posts/community-pulse-retrobattlestations-26.html</link>
       <guid>https://www.beyondmythos.com/sites/beige-box-bulletin/posts/community-pulse-retrobattlestations-26.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/beige-box-bulletin/posts/ask-the-forge-software-74.html</guid>
       <pubDate>Sun, 18 Oct 2026 14:31:02 GMT</pubDate>
       <description>Straight answers to the software questions retro computer restorers and emulation fans keep asking, minus the hedging.</description>
-    </item>
-    <item>
-      <title>Dust to Digital: Reviving a 1984 Commodore 64 with Modern Firmware</title>
-      <link>https://www.beyondmythos.com/sites/beige-box-bulletin/posts/dust-to-digital-reviving-commodore-64.html</link>
-      <guid>https://www.beyondmythos.com/sites/beige-box-bulletin/posts/dust-to-digital-reviving-commodore-64.html</guid>
-      <pubDate>Sun, 18 Oct 2026 11:43:10 GMT</pubDate>
-      <description>We swapped a busted 1984 C64 motherboard for a refurbished board and flashed it with the latest open‑source firmware, proving vintage can run like new.</description>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "tame-espresso-drip-basket-check",
+    "title": "Tame Your Espresso Drip with a Simple Basket Check",
+    "dek": "A quick basket inspection can stop channeling and deliver a steadier flow without new parts.",
+    "takeaway": "A clean, properly sized basket is key to consistent espresso extraction.",
+    "whatHappened": "I noticed uneven extraction patterns and occasional spurts during a routine pull. A quick visual and tactile check of the basket revealed a warped edge that was causing channeling. Replacing the basket restored a smooth, even flow.",
+    "whyItMatters": "Channeling leads to under‑extracted pockets, bitterness, and wasted coffee. Consistent flow ensures balanced flavors and better crema. Simple basket health checks keep your machine performing without costly upgrades.",
+    "howToThink": "Inspect the basket for dents, warping, or residue before each session. Use a fingertip to feel for uneven edges and run water through to spot leaks. If any flaw appears, clean or swap the basket before pulling a shot.",
+    "pros": [
+      "Improves shot consistency",
+      "Low cost, just inspection",
+      "Extends basket lifespan"
+    ],
+    "cons": [
+      "Requires habit formation",
+      "May need spare basket",
+      "Doesn't fix grinder issues"
+    ],
+    "watchOut": "Avoid using abrasive tools that could damage the basket’s fine mesh.",
+    "faq": [
+      {
+        "q": "How often should I check the basket?",
+        "a": "A quick glance before each brew session is enough, and a deeper inspection weekly."
+      },
+      {
+        "q": "Can I clean a warped basket?",
+        "a": "Mild warping usually isn’t fixable; cleaning helps with residue, but replace if shape is off."
+      },
+      {
+        "q": "Will a different basket size affect my dose?",
+        "a": "Yes, switching to a larger or smaller basket changes the brew ratio, so adjust your grind and dose accordingly."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-10-19T19:45:09.126Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "portafilter-seal-check",
     "title": "Unlock Consistent Espresso Flow with a Simple Portafilter Seal Check",
     "dek": "A quick check of your portafilter’s seal can stop channeling and tighten shot consistency.",
