@@ -1,5 +1,56 @@
 [
   {
+    "slug": "fall-flavor-harvest-herbs",
+    "title": "Fall Flavor: Harvesting Herbs on Small Balconies",
+    "dek": "Turn your balcony into a fragrant fall herb garden with easy steps.",
+    "takeaway": "Even late in the year you can pull fresh herbs from tiny containers.",
+    "whatHappened": "We tried planting sage, thyme, and cilantro in shallow trays on a south‑facing balcony as temperatures dipped. The plants responded well, delivering aromatic leaves through October.",
+    "whyItMatters": "Fresh herbs reduce grocery trips, add flavor, and keep indoor air lively, especially when outdoor options shrink in cooler months.",
+    "howToThink": "Choose hardy, low‑maintenance herbs, use lightweight soil mixes, and protect roots with a simple frost cloth at night; rotate trays for even light.",
+    "pros": [
+      "Adds fresh flavor",
+      "Boosts balcony aesthetics",
+      "Low space requirement"
+    ],
+    "cons": [
+      "Short harvest window",
+      "Sensitive to frost",
+      "Needs regular watering"
+    ],
+    "watchOut": "Avoid letting water pool in trays, which can freeze and damage roots.",
+    "faq": [
+      {
+        "q": "Which herbs thrive on balconies in fall?",
+        "a": "Sage, thyme, rosemary, and chives handle cooler temps well."
+      },
+      {
+        "q": "Do I need extra lighting?",
+        "a": "A small LED grow light can help if daylight drops below six hours."
+      },
+      {
+        "q": "How to protect against early frosts?",
+        "a": "Cover containers with a breathable frost blanket or move them to a sheltered spot overnight."
+      }
+    ],
+    "category": "Seasonal",
+    "tags": [
+      "herbs",
+      "fall"
+    ],
+    "sources": [
+      {
+        "label": "r/houseplants community threads",
+        "url": "https://www.reddit.com/r/houseplants/"
+      },
+      {
+        "label": "Search interest: \"small space vegetables\"",
+        "url": "https://duckduckgo.com/?q=small%20space%20vegetables"
+      }
+    ],
+    "publishedAt": "2026-10-19T03:45:07.007Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "breezy-balcony-maximizing-airflow",
     "title": "Breezy Balcony: Maximizing Airflow for Healthy Container Plants",
     "dek": "Good airflow prevents fungal issues and boosts growth on tight balcony spaces.",

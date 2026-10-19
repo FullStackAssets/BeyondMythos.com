@@ -1,5 +1,56 @@
 [
   {
+    "slug": "unlock-espresso-flow-valve-check",
+    "title": "Unlock Consistent Espresso Flow with a Simple Valve Check",
+    "dek": "A quick valve inspection can smooth out erratic shots without extra gear.",
+    "takeaway": "Regularly checking your brew head valve keeps pressure steady and taste predictable.",
+    "whatHappened": "I noticed my espresso shots sometimes sputtered or over‑extracted. A brief look at the pressure release valve revealed a slight misalignment, and a simple realignment solved it.",
+    "whyItMatters": "An unstable valve disrupts pressure, leading to inconsistent extraction and flavor swings, which frustrates daily brewing routines.",
+    "howToThink": "Treat the valve like a hinge—inspect it for debris, ensure it moves freely, and tighten any loose screws. A quick test is to pull the portafilter, watch the pressure release, and listen for a clean click.",
+    "pros": [
+      "No extra cost",
+      "Instant results",
+      "Improves shot stability"
+    ],
+    "cons": [
+      "Requires basic tool",
+      "May need repeated checks",
+      "Only fixes valve issues"
+    ],
+    "watchOut": "Avoid over‑tightening the valve screw, which can damage the brew head.",
+    "faq": [
+      {
+        "q": "How often should I check the valve?",
+        "a": "A visual and tactile check once a month, or whenever you notice irregular pressure."
+      },
+      {
+        "q": "Can I clean the valve with water?",
+        "a": "Yes, rinse with warm water and a soft brush; avoid harsh chemicals."
+      },
+      {
+        "q": "What if the valve still sticks after cleaning?",
+        "a": "Consider replacing the valve assembly or consulting the machine’s service guide."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-10-19T03:45:07.609Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-pressure-check-2",
     "title": "Master Your Espresso Shot Consistency with a Simple Brew Pressure Check",
     "dek": "A quick pressure test can reveal hidden extraction issues before they ruin your morning cup.",

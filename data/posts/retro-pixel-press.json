@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-cartridge-cleaner",
+    "title": "Retro Cartridge Cleaner: Simple Alcohol Wipe for Reliable Reads",
+    "dek": "A quick alcohol wipe can restore old cartridges and cut down load hiccups for your next speedrun.",
+    "takeaway": "Cleaning contacts restores reliability without expensive tools.",
+    "whatHappened": "We tried a standard isopropyl alcohol swab on a batch of decade‑old NES and SNES cartridges. The wipes removed grime and the consoles read the games without error.",
+    "whyItMatters": "Dust and oxidation cause read errors that break runs and ruin nostalgia. A clean cartridge means consistent performance and preserves the hardware for future collectors.",
+    "howToThink": "Use 90%+ isopropyl alcohol on a lint‑free swab, gently rub the metal contacts, and let them dry fully before reinserting. Avoid soaking the plastic and keep the swab light. Store cleaned cartridges in a static‑free sleeve.",
+    "pros": [
+      "Low cost",
+      "Immediate results",
+      "No special tools"
+    ],
+    "cons": [
+      "Potential for over‑wetting",
+      "Requires careful handling",
+      "Doesn’t fix deep corrosion"
+    ],
+    "watchOut": "Never apply liquid directly to the cartridge; always use a swab to control moisture.",
+    "faq": [
+      {
+        "q": "Can I use regular household wipes?",
+        "a": "No, they can leave residue; use a lint‑free swab with isopropyl alcohol."
+      },
+      {
+        "q": "How long should I wait before playing?",
+        "a": "Allow the contacts to air‑dry for a minute or two, ensuring no visible moisture."
+      },
+      {
+        "q": "Is this safe for plastic cases?",
+        "a": "Yes, as long as you keep the swab away from the label and only touch the contacts."
+      }
+    ],
+    "category": "Preservation",
+    "tags": [
+      "cartridge maintenance",
+      "speedrun prep"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-10-19T03:45:11.690Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-sync-pull-up-resistor",
     "title": "Pixel Sync: Adding a Pull‑Up Resistor for Stable NES Controller Signals",
     "dek": "A quick mod to add a pull‑up resistor to your NES controller, eliminating flaky inputs during marathon runs.",

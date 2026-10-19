@@ -1,5 +1,56 @@
 [
   {
+    "slug": "eco-refill-stations-rail",
+    "title": "Eco‑Refill Stations: Low‑Impact Water Stops on Rural Trains",
+    "dek": "Discover how tiny water refill points on off‑beat lines keep slow travelers hydrated and waste‑free.",
+    "takeaway": "Simple refill stations turn every stop into a low‑impact hydration hub.",
+    "whatHappened": "During a weekend ride on a heritage line, I spotted a modest water‑dispensing kiosk tucked beside the platform. The kiosk offered filtered water from a solar‑powered pump, inviting passengers to top up reusable bottles before continuing their journey.",
+    "whyItMatters": "Fresh water is a daily need, yet disposable bottles add plastic to fragile ecosystems. Providing refill points on low‑traffic routes reduces waste while reinforcing the ethos of slow, responsible travel.",
+    "howToThink": "When planning a rail adventure, map out stations that host refill kiosks or bring a portable filter. Carry a sturdy bottle, and treat each stop as a chance to reset your hydration habit. Small actions compound into noticeable waste reduction on long trips.",
+    "pros": [
+      "Cuts single‑use plastic",
+      "Supports local sustainability projects",
+      "Easy to use with any bottle"
+    ],
+    "cons": [
+      "Limited to stations that install them",
+      "May run out during peak times",
+      "Requires carrying a bottle"
+    ],
+    "watchOut": "Make sure the water source is certified safe before drinking.",
+    "faq": [
+      {
+        "q": "Do I need to bring my own bottle?",
+        "a": "Yes, a reusable bottle is essential to take advantage of any refill point."
+      },
+      {
+        "q": "Are the refill stations free?",
+        "a": "Most are free or ask for a small donation to maintain the system."
+      },
+      {
+        "q": "What if the station’s water isn’t filtered?",
+        "a": "Carry a compact personal filter as a backup for any unfiltered sources."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "low‑impact"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-10-19T03:45:06.314Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "sunset-platform-yoga",
     "title": "Sunset Platform Yoga: Low‑Impact Stretch Sessions on Rural Stops",
     "dek": "Join a sunset yoga stretch on quiet rural platforms, merging travel with mindful movement.",

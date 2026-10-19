@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Retro Cartridge Cleaner: Simple Alcohol Wipe for Reliable Reads</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-cartridge-cleaner.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-cartridge-cleaner.html</guid>
+      <pubDate>Mon, 19 Oct 2026 03:45:11 GMT</pubDate>
+      <description>A quick alcohol wipe can restore old cartridges and cut down load hiccups for your next speedrun.</description>
+    </item>
+    <item>
       <title>Pixel Sync: Adding a Pull‑Up Resistor for Stable NES Controller Signals</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-sync-pull-up-resistor.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-sync-pull-up-resistor.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/audio-sync-tuning-snes.html</guid>
       <pubDate>Wed, 26 Aug 2026 03:39:03 GMT</pubDate>
       <description>Get your SNES audio perfectly in sync with video to shave milliseconds off your runs.</description>
-    </item>
-    <item>
-      <title>The quiet upgrade: small tweaks in preservation with outsized returns</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/quiet-upgrade-preservation-51.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/quiet-upgrade-preservation-51.html</guid>
-      <pubDate>Wed, 26 Aug 2026 02:13:43 GMT</pubDate>
-      <description>No purchases, no overhauls — the modest preservation adjustments that retro game collectors and speedrunners report mattering most.</description>
     </item>
   </channel>
 </rss>
