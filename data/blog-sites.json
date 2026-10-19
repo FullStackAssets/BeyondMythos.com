@@ -1495,8 +1495,29 @@
       "streamUrl": "https://beyondmythos.com/",
       "elevenlabsAgentId": null,
       "lastPostAt": "2026-10-19T03:45:36.098Z"
+    },
+    {
+      "id": "campfire-pantry-2-1792383310321",
+      "slug": "campfire-pantry-2",
+      "name": "Campfire Pantry",
+      "tagline": "Fresh takes for camp cooks and weekend backpackers.",
+      "nicheId": "camp-cooking",
+      "audience": "camp cooks and weekend backpackers",
+      "categories": [
+        "Meals",
+        "Stoves",
+        "Prep",
+        "Cleanup"
+      ],
+      "url": "https://beyondmythos.com/sites/campfire-pantry-2/",
+      "localUrl": "https://beyondmythos.com/sites/campfire-pantry-2/",
+      "design": "aurora",
+      "postCount": 6,
+      "createdAt": "2026-10-19T04:15:10.176Z",
+      "streamUrl": "https://beyondmythos.com/",
+      "elevenlabsAgentId": null
     }
   ],
-  "lastGeneratedAt": "2026-10-19T03:15:10.395Z",
+  "lastGeneratedAt": "2026-10-19T04:15:10.176Z",
   "lastPostRunAt": "2026-10-19T03:45:36.106Z"
 }

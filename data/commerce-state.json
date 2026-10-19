@@ -1,5 +1,128 @@
 {
-  "customers": [],
-  "purchases": [],
-  "events": []
+  "customers": [
+    {
+      "id": "cus_1792383306125_6c70d0",
+      "email": "book-buyer@example.com",
+      "createdAt": "2026-10-19T04:15:06.125Z",
+      "lastSeenAt": "2026-10-19T04:15:06.125Z",
+      "tags": []
+    },
+    {
+      "id": "cus_1792383306155_748237",
+      "email": "access-check@example.com",
+      "createdAt": "2026-10-19T04:15:06.155Z",
+      "lastSeenAt": "2026-10-19T04:15:06.155Z",
+      "tags": []
+    }
+  ],
+  "purchases": [
+    {
+      "id": "ord_1792383306125_e67537",
+      "customerId": "cus_1792383306125_6c70d0",
+      "email": "book-buyer@example.com",
+      "site": "beyondmythos.com",
+      "provider": "test",
+      "providerSessionId": "test_1792383306124",
+      "status": "paid",
+      "currency": "usd",
+      "amountCents": 2900,
+      "items": [
+        {
+          "productId": 301,
+          "name": "The Autonomous Publisher's Handbook",
+          "type": "digital",
+          "category": "books",
+          "quantity": 1,
+          "unitAmountCents": 2900,
+          "totalAmountCents": 2900,
+          "offerTier": null
+        }
+      ],
+      "sequences": {
+        "receipt": {
+          "status": "ready",
+          "updatedAt": "2026-10-19T04:15:06.125Z"
+        },
+        "onboarding": {
+          "status": "ready",
+          "updatedAt": "2026-10-19T04:15:06.125Z"
+        },
+        "upsell": {
+          "status": "queued",
+          "updatedAt": "2026-10-19T04:15:06.125Z"
+        },
+        "reactivation": {
+          "status": "queued",
+          "updatedAt": "2026-10-19T04:15:06.125Z"
+        }
+      },
+      "createdAt": "2026-10-19T04:15:06.125Z",
+      "updatedAt": "2026-10-19T04:15:06.125Z"
+    },
+    {
+      "id": "ord_1792383306156_f4f1eb",
+      "customerId": "cus_1792383306155_748237",
+      "email": "access-check@example.com",
+      "site": "beyondmythos.com",
+      "provider": "test",
+      "providerSessionId": "test_access_1792383306155",
+      "status": "paid",
+      "currency": "usd",
+      "amountCents": 2900,
+      "items": [
+        {
+          "productId": 301,
+          "name": "The Autonomous Publisher's Handbook",
+          "type": "digital",
+          "category": "books",
+          "quantity": 1,
+          "unitAmountCents": 2900,
+          "totalAmountCents": 2900,
+          "offerTier": null
+        }
+      ],
+      "sequences": {
+        "receipt": {
+          "status": "ready",
+          "updatedAt": "2026-10-19T04:15:06.156Z"
+        },
+        "onboarding": {
+          "status": "ready",
+          "updatedAt": "2026-10-19T04:15:06.156Z"
+        },
+        "upsell": {
+          "status": "queued",
+          "updatedAt": "2026-10-19T04:15:06.156Z"
+        },
+        "reactivation": {
+          "status": "queued",
+          "updatedAt": "2026-10-19T04:15:06.156Z"
+        }
+      },
+      "createdAt": "2026-10-19T04:15:06.156Z",
+      "updatedAt": "2026-10-19T04:15:06.156Z"
+    }
+  ],
+  "events": [
+    {
+      "id": "evt_1792383306125_b9de",
+      "createdAt": "2026-10-19T04:15:06.125Z",
+      "type": "purchase_completed",
+      "site": "beyondmythos.com",
+      "purchaseId": "ord_1792383306125_e67537",
+      "amountCents": 2900,
+      "digitalItemCount": 1,
+      "emailHash": "a0f88beff834b5f2bd7c7b69f80e8f1cc2358a5d916053f2450bf0d1bbf35423"
+    },
+    {
+      "id": "evt_1792383306156_2311",
+      "createdAt": "2026-10-19T04:15:06.156Z",
+      "type": "purchase_completed",
+      "site": "beyondmythos.com",
+      "purchaseId": "ord_1792383306156_f4f1eb",
+      "amountCents": 2900,
+      "digitalItemCount": 1,
+      "emailHash": "12c5cd5edf90eaac1dc659f84018777b23fc4fab5934b79cbd0415c1c3f7c229"
+    }
+  ]
 }
