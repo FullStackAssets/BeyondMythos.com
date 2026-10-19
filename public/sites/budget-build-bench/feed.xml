@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/budget-build-bench/</link>
     <description>Fresh takes for PC builders on a budget.</description>
     <item>
+      <title>Stretching $200: Maximizing GPU performance on a shoestring</title>
+      <link>https://www.beyondmythos.com/sites/budget-build-bench/posts/stretch-200-gpu-upgrade.html</link>
+      <guid>https://www.beyondmythos.com/sites/budget-build-bench/posts/stretch-200-gpu-upgrade.html</guid>
+      <pubDate>Mon, 19 Oct 2026 23:45:12 GMT</pubDate>
+      <description>When the GPU budget is $200, clever tweaks can push performance close to the next tier without breaking the bank.</description>
+    </item>
+    <item>
       <title>&quot;used pc parts guide&quot; in practice: a real-world field test</title>
       <link>https://www.beyondmythos.com/sites/budget-build-bench/posts/used-pc-parts-guide-field-test-28.html</link>
       <guid>https://www.beyondmythos.com/sites/budget-build-bench/posts/used-pc-parts-guide-field-test-28.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/budget-build-bench/posts/rtx-3050-shoestring.html</guid>
       <pubDate>Sun, 18 Oct 2026 17:45:14 GMT</pubDate>
       <description>Can the RTX 3050 still deliver playable 1080p on a tight budget? We put it to the test.</description>
-    </item>
-    <item>
-      <title>RX 5500 XT: still a solid 1080p workhorse for under $150</title>
-      <link>https://www.beyondmythos.com/sites/budget-build-bench/posts/rx-5500-xt-solid-1080p-workhorse.html</link>
-      <guid>https://www.beyondmythos.com/sites/budget-build-bench/posts/rx-5500-xt-solid-1080p-workhorse.html</guid>
-      <pubDate>Sun, 18 Oct 2026 16:45:21 GMT</pubDate>
-      <description>The RX 5500 XT punches above its price, delivering smooth 1080p gaming without breaking the bank.</description>
     </item>
   </channel>
 </rss>

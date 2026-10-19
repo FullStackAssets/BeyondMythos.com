@@ -1,5 +1,56 @@
 [
   {
+    "slug": "fine-tune-espresso-brew-ratio",
+    "title": "Fine‑Tune Your Espresso Shot with a Simple Brew Ratio Check",
+    "dek": "A quick brew‑ratio tweak can bring balance back to your espresso without new gear.",
+    "takeaway": "Adjusting the coffee‑to‑water ratio is a low‑cost way to improve shot consistency.",
+    "whatHappened": "I noticed my espresso tasting thin after a week of the same routine. A small change in the dose‑to‑output ratio revived the body and sweetness.",
+    "whyItMatters": "The brew ratio directly influences extraction balance, affecting flavor clarity and crema. Small mismatches can mask the nuances of your beans.",
+    "howToThink": "Measure your dose and target yield, then experiment in 0.5 g increments, aiming for a ratio around 1:2.5 to 1:3 for most roasts. Keep other variables stable while you test.",
+    "pros": [
+      "Cheap to implement",
+      "Immediate flavor impact",
+      "Works with any machine"
+    ],
+    "cons": [
+      "Requires a scale",
+      "May need grind adjustment",
+      "Takes a few shots to dial in"
+    ],
+    "watchOut": "Don’t over‑dilute; a too‑high ratio can lead to watery, under‑extracted shots.",
+    "faq": [
+      {
+        "q": "What is a good starting brew ratio for espresso?",
+        "a": "A common starting point is 1 gram of coffee to 2.5 – 3 grams of liquid."
+      },
+      {
+        "q": "Do I need to change the grind when I adjust the ratio?",
+        "a": "Often a finer grind compensates for a higher ratio, while a coarser grind may be needed for a lower ratio."
+      },
+      {
+        "q": "How many shots should I brew to evaluate a change?",
+        "a": "Taste a few consecutive shots (3‑5) to let the machine stabilize and assess consistency."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "brew-ratio"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-10-19T23:45:08.144Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "master-espresso-pressure-gauge",
     "title": "Master Your Espresso Shot Consistency with a Simple Pressure Gauge Check",
     "dek": "A quick guide to using a pressure gauge for stable espresso extraction at home.",

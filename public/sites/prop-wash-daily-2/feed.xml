@@ -5,6 +5,13 @@
     <link>https://beyondmythos.com/sites/prop-wash-daily-2/</link>
     <description>Fresh takes for FPV drone pilots and builders.</description>
     <item>
+      <title>A weekend project: level up your builds in two hours</title>
+      <link>https://beyondmythos.com/sites/prop-wash-daily-2/posts/weekend-project-builds-4.html</link>
+      <guid>https://beyondmythos.com/sites/prop-wash-daily-2/posts/weekend-project-builds-4.html</guid>
+      <pubDate>Mon, 19 Oct 2026 23:45:35 GMT</pubDate>
+      <description>One contained, satisfying builds project for FPV drone pilots — start Saturday morning, done by lunch.</description>
+    </item>
+    <item>
       <title>Community pulse: what r/drones is debating this week</title>
       <link>https://beyondmythos.com/sites/prop-wash-daily-2/posts/community-pulse-drones-2.html</link>
       <guid>https://beyondmythos.com/sites/prop-wash-daily-2/posts/community-pulse-drones-2.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://beyondmythos.com/sites/prop-wash-daily-2/posts/simulator-setup-for-prop-wash-awareness.html</guid>
       <pubDate>Thu, 15 Oct 2026 18:15:34 GMT</pubDate>
       <description>Use virtual airflow effects in your simulator to recognize and avoid prop wash during tight indoor runs.</description>
-    </item>
-    <item>
-      <title>What the 2024 US FPV Regulation Means for Builders</title>
-      <link>https://beyondmythos.com/sites/prop-wash-daily-2/posts/regulation-update-us-fpv-2024.html</link>
-      <guid>https://beyondmythos.com/sites/prop-wash-daily-2/posts/regulation-update-us-fpv-2024.html</guid>
-      <pubDate>Wed, 14 Oct 2026 05:15:34 GMT</pubDate>
-      <description>New FAA guidelines tighten altitude limits and require remote ID for all FPV aircraft.</description>
     </item>
   </channel>
 </rss>

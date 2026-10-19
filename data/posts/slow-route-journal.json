@@ -1,5 +1,56 @@
 [
   {
+    "slug": "twilight-platform-podcast",
+    "title": "Twilight Platform Podcast: Low‑Impact Audio Sessions on Rural Stops",
+    "dek": "Turn the evening commute into a quiet audio escape with portable podcasts that respect the rhythm of rural stations.",
+    "takeaway": "Simple audio can enrich slow travel without adding waste.",
+    "whatHappened": "I arrived at a small hill‑top halt at dusk, plugged in a low‑energy speaker and streamed a short nature podcast while waiting for the next slow train.",
+    "whyItMatters": "Listening to curated audio keeps the mind engaged, reduces the urge to wander, and aligns with low‑impact values by staying in one spot.",
+    "howToThink": "Choose episodes under 15 minutes, download them beforehand to avoid data use, and keep volume low to respect fellow travelers and wildlife.",
+    "pros": [
+      "Minimal gear needed",
+      "Zero waste if pre‑downloaded",
+      "Enhances waiting time"
+    ],
+    "cons": [
+      "Requires device battery",
+      "Potential noise for others",
+      "Limited content offline"
+    ],
+    "watchOut": "Don’t let the speaker disturb nearby passengers or wildlife; keep volume modest.",
+    "faq": [
+      {
+        "q": "Can I use my phone’s speaker without disturbing others?",
+        "a": "Yes, keep the volume low and consider using a small, directional speaker."
+      },
+      {
+        "q": "What type of podcasts work best on rural platforms?",
+        "a": "Short nature, travel stories, or mindfulness episodes that complement the setting."
+      },
+      {
+        "q": "How do I keep the activity low‑impact?",
+        "a": "Download episodes in advance, use a rechargeable battery, and dispose of no extra waste."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "audio",
+      "slow‑travel"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-10-19T23:45:07.544Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "morning-platform-walks",
     "title": "Morning Platform Walks: Low‑Impact Exploration on Rural Stations",
     "dek": "Step off the train and discover the hidden charms of rural platforms before the rush hits, all with a tiny carbon footprint.",

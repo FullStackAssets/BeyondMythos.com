@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>&quot;crt setup guide&quot; in practice: a real-world field test</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/crt-setup-guide-field-test-18.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/crt-setup-guide-field-test-18.html</guid>
+      <pubDate>Mon, 19 Oct 2026 23:45:05 GMT</pubDate>
+      <description>We put the most-repeated advice about crt setup guide through a month of actual use. Some of it survived.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Lubricating NES Controller Joysticks for Smoother Runs</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-lubricate-nes-joystick.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-lubricate-nes-joystick.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/four-player-snes-adapter.html</guid>
       <pubDate>Sun, 18 Oct 2026 17:45:11 GMT</pubDate>
       <description>Turn a single‑port SNES into a four‑controller hub for couch co‑op and competitive runs.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Adding a Schmitt Trigger for Consistent Button Presses</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/schmitt-trigger-button-mod.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/schmitt-trigger-button-mod.html</guid>
-      <pubDate>Sun, 18 Oct 2026 16:45:18 GMT</pubDate>
-      <description>Upgrade your controller with a cheap Schmitt trigger to clean up noisy button signals for smoother runs.</description>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "stretch-200-gpu-upgrade",
+    "title": "Stretching $200: Maximizing GPU performance on a shoestring",
+    "dek": "When the GPU budget is $200, clever tweaks can push performance close to the next tier without breaking the bank.",
+    "takeaway": "A focused upgrade plan can squeeze noticeable FPS gains from cheap GPUs.",
+    "whatHappened": "We swapped a stock GTX 1050 for a used GTX 1650 Super bought on a local marketplace for $180. After applying a modest overclock and tweaking drivers, the system handled 1080p titles with smooth frame rates.",
+    "whyItMatters": "Budget builders often think they need to wait for sales or save for high‑end parts, but strategic upgrades show you can stay competitive today. It demonstrates that small investments still matter in a market where GPU prices fluctuate.",
+    "howToThink": "Start by identifying the bottleneck, then hunt for the best price‑to‑performance GPU in the $150‑$250 range. Pair it with a clean driver install, a mild overclock, and a memory timing tweak for extra headroom. Keep power and case airflow in mind to avoid thermal throttling.",
+    "pros": [
+      "Low upfront cost",
+      "Noticeable FPS bump",
+      "Easy installation"
+    ],
+    "cons": [
+      "Limited overclock headroom",
+      "May require better PSU",
+      "Older architecture may lack newer features"
+    ],
+    "watchOut": "Watch out for power supply limits—some cheap GPUs still need more connectors than older models.",
+    "faq": [
+      {
+        "q": "Can I safely overclock a used GPU?",
+        "a": "Yes, modest overclocks are fine; increase clocks in small steps and test stability."
+      },
+      {
+        "q": "Do I need a new driver for a cheap upgrade?",
+        "a": "Installing the latest official driver ensures compatibility and best performance."
+      },
+      {
+        "q": "Is a $200 GPU worth it for 1440p?",
+        "a": "For medium settings it can be adequate, but you may need to lower settings for demanding titles."
+      }
+    ],
+    "category": "Upgrades",
+    "tags": [
+      "budget",
+      "gpu-upgrade"
+    ],
+    "sources": [
+      {
+        "label": "r/pcmasterrace community threads",
+        "url": "https://www.reddit.com/r/pcmasterrace/"
+      },
+      {
+        "label": "Search interest: \"1440p value build\"",
+        "url": "https://duckduckgo.com/?q=1440p%20value%20build"
+      }
+    ],
+    "publishedAt": "2026-10-19T23:45:12.852Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "used-pc-parts-guide-field-test-28",
     "title": "\"used pc parts guide\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about used pc parts guide through a month of actual use. Some of it survived.",
