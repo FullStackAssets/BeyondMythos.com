@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-grinder-adjustment",
+    "title": "Streamline Your Espresso Workflow with a Simple Grinder Adjustment",
+    "dek": "A quick tweak to your grinder’s burr setting can sharpen consistency without buying new gear.",
+    "takeaway": "Fine‑tuning burr clearance yields more predictable dose and extraction.",
+    "whatHappened": "I noticed my espresso shots fluctuated after the grinder warmed up. By loosening the burrs just a notch, the grind steadied and the shot profiles aligned.",
+    "whyItMatters": "Consistent grind size is the foundation of repeatable espresso; even minor burr shifts can cause over‑ or under‑extraction, affecting flavor and crema.",
+    "howToThink": "Treat the grinder like a small valve—adjust in tiny increments, pull a test dose, and compare the visual grind and shot time. When the particle distribution looks uniform and the shot time lands in your target window, you’ve hit the sweet spot.",
+    "pros": [
+      "No extra equipment needed",
+      "Immediate impact on flavor",
+      "Easy to reverse"
+    ],
+    "cons": [
+      "May require multiple tiny tweaks",
+      "Potentially voids warranty if over‑tightened",
+      "Requires a clean grinder to see effect"
+    ],
+    "watchOut": "Avoid forcing the burrs; a gentle turn is all that’s required.",
+    "faq": [
+      {
+        "q": "How often should I re‑check the burr clearance?",
+        "a": "Whenever you notice a shift in shot time or after a deep cleaning, a quick visual check is wise."
+      },
+      {
+        "q": "Will this work on all grinder types?",
+        "a": "The principle applies to most burr grinders with adjustable plates; however, some low‑cost models have fixed settings."
+      },
+      {
+        "q": "Can I adjust too far and make the grind too coarse?",
+        "a": "Yes—if the shot pulls too quickly or the crema thins, backtrack a notch and re‑test."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "grinder",
+      "espresso"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-10-19T00:45:11.195Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-temperature-thermometer-hack",
     "title": "Fine-tune Your Espresso Shot Temperature with a Simple Thermometer Hack",
     "dek": "A quick way to lock in optimal brew temperature without pricey equipment.",

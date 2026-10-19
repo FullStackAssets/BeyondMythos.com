@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Retro CRT Calibration: Simple Potentiometer Fix for Accurate Color</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/crt-calibration-fix.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/crt-calibration-fix.html</guid>
+      <pubDate>Mon, 19 Oct 2026 00:45:06 GMT</pubDate>
+      <description>A quick potentiometer tweak brings faded CRT colors back to life for smoother retro runs.</description>
+    </item>
+    <item>
       <title>Retro LCD Revival: Adding a Backlight to Your Game Boy</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-lcd-revival-backlight-game-boy.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-lcd-revival-backlight-game-boy.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/crt-scanline-mod-sharpen-snes-speedrun-vision.html</guid>
       <pubDate>Tue, 25 Aug 2026 23:02:26 GMT</pubDate>
       <description>Add a cheap scanline overlay to your CRT for clearer timing cues and less eye strain during marathon runs.</description>
-    </item>
-    <item>
-      <title>Community pulse: what r/snes is debating this week</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/community-pulse-snes-16.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/community-pulse-snes-16.html</guid>
-      <pubDate>Tue, 25 Aug 2026 21:59:07 GMT</pubDate>
-      <description>The arguments, consensus shifts, and quietly useful threads from the indie community this week.</description>
     </item>
   </channel>
 </rss>

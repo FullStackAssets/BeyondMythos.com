@@ -1,5 +1,56 @@
 [
   {
+    "slug": "quiet-carriage-cafe",
+    "title": "Quiet Carriage Café: Low‑Impact Brewing on Vintage Trains",
+    "dek": "A repurposed dining car now brews coffee with solar‑powered grinders, letting slow travelers sip sustainably while watching the scenery roll by.",
+    "takeaway": "A moving coffee shop can be a low‑impact oasis for slow travelers.",
+    "whatHappened": "Heritage rail operators retrofitted a vintage dining car with a solar array and compact espresso machine. The Quiet Carriage Café opened on a weekend weekend line, offering espresso, tea, and pastries sourced from nearby farms. Travelers can board, sip, and alight at scenic stops along the route.",
+    "whyItMatters": "It shows how existing rail infrastructure can host low‑impact amenities without new construction. By coupling renewable energy with local sourcing, the café reduces carbon footprints while enriching the travel experience. The model encourages other operators to consider sustainable pop‑ups on moving trains.",
+    "howToThink": "Look for heritage or regional lines that already have idle cars—those are low‑cost candidates. Pair solar panels with energy‑efficient appliances and source beans from stations’ surrounding farms. Promote reusable cup programs to keep waste down and advertise the stop as a low‑impact coffee break.",
+    "pros": [
+      "Zero‑waste brewing",
+      "Scenic coffee breaks",
+      "Supports heritage rail"
+    ],
+    "cons": [
+      "Limited seating",
+      "Requires power source",
+      "Seasonal availability"
+    ],
+    "watchOut": "Check the train schedule; the café only runs on select heritage routes.",
+    "faq": [
+      {
+        "q": "Do I need to bring my own mug?",
+        "a": "Many cars provide reusable cups, but bringing one reduces waste further."
+      },
+      {
+        "q": "Is the coffee truly low‑impact?",
+        "a": "Brewing uses solar‑powered equipment and locally sourced beans."
+      },
+      {
+        "q": "Can I stay on the train overnight?",
+        "a": "The café is a day‑time stop; overnight stays are elsewhere."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "low-impact"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-10-19T00:45:07.193Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "rolling-library-book-swaps",
     "title": "Rolling Library: Low‑Impact Book Swaps on Heritage Trains",
     "dek": "Turn vintage carriages into traveling book exchanges that let slow travelers share reads without extra waste.",

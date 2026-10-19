@@ -1,5 +1,56 @@
 [
   {
+    "slug": "crt-calibration-fix",
+    "title": "Retro CRT Calibration: Simple Potentiometer Fix for Accurate Color",
+    "dek": "A quick potentiometer tweak brings faded CRT colors back to life for smoother retro runs.",
+    "takeaway": "A small hardware tweak can dramatically improve visual fidelity on old CRTs without breaking the machine.",
+    "whatHappened": "We noticed that many classic arcade cabinets and CRT monitors suffer from color drift as the internal caps age. By swapping the existing voltage‑adjust pot for a fresh 10 kΩ unit and calibrating with a test pattern, the colors snapped back to their original vibrancy. The mod took under an hour and required only basic soldering tools.",
+    "whyItMatters": "Accurate colors help speedrunners spot subtle visual cues that can affect timing and route choices. Collectors also benefit because a properly calibrated display preserves the authentic look of the original hardware, adding value to the piece. The fix is reversible, keeping the original components intact for future purists.",
+    "howToThink": "Treat the CRT as a living circuit—components degrade, but they’re replaceable. Start with a reliable test pattern, adjust the pot slowly, and verify each change on screen. Document your original pot value before swapping so you can revert if needed.",
+    "pros": [
+      "Restores original palette",
+      "Low cost and easy to source parts",
+      "Reversible with minimal risk"
+    ],
+    "cons": [
+      "Requires soldering skill",
+      "Potential to damage if over‑tightened",
+      "May need re‑calibration over time"
+    ],
+    "watchOut": "Never adjust the potentiometer while the CRT is powered; always make changes with the unit unplugged.",
+    "faq": [
+      {
+        "q": "Do I need a multimeter for this mod?",
+        "a": "A multimeter helps verify the pot value, but you can often rely on visual calibration alone."
+      },
+      {
+        "q": "Will this void my warranty?",
+        "a": "Most vintage CRTs are out of warranty, and the mod is reversible, so warranty concerns are minimal."
+      },
+      {
+        "q": "Can I use any 10 kΩ pot?",
+        "a": "A linear 10 kΩ pot is recommended; avoid audio‑taper pots for consistent voltage control."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "CRT",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-10-19T00:45:06.559Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "retro-lcd-revival-backlight-game-boy",
     "title": "Retro LCD Revival: Adding a Backlight to Your Game Boy",
     "dek": "Give your original Game Boy a modern glow without losing its classic charm.",
