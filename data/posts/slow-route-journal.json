@@ -1,5 +1,56 @@
 [
   {
+    "slug": "quiet-train-birdwatching",
+    "title": "Quiet Train Birdwatching: Low‑Impact Avian Spotting on Rural Lines",
+    "dek": "Turn a slow‑train ride into a low‑impact birding safari without leaving the carriage.",
+    "takeaway": "Train windows become moving blinds for wildlife watching, merging mobility with minimal footprint.",
+    "whatHappened": "On a Saturday morning, I boarded a regional diesel service that winds through wetlands and meadow patches. From the rear-facing seat, a flock of reed warblers flitted past the window, and the conductor paused at a tiny halt to let us photograph a nesting osprey. The whole ride felt like a guided nature walk on rails.",
+    "whyItMatters": "Rural lines often thread through habitats that are off‑limits to cars, giving birdwatchers rare access without additional travel emissions. By using existing train routes, we support public transport while spotlighting the ecological value of underused corridors.",
+    "howToThink": "Choose daylight services that cross wetlands or forest edges, bring a compact binocular set, and keep a field guide app handy. Respect the quiet carriage etiquette—silence your phone and avoid sudden movements that could startle the birds. Share sightings on low‑impact platforms to raise awareness without flooding social media.",
+    "pros": [
+      "Zero‑emission viewing platform",
+      "Access to remote habitats",
+      "Combines travel and hobby"
+    ],
+    "cons": [
+      "Limited window views on some carriages",
+      "Bird activity depends on season",
+      "Potential crowds on popular routes"
+    ],
+    "watchOut": "Beware of sudden carriage doors opening; keep a safe distance from wildlife and avoid feeding birds.",
+    "faq": [
+      {
+        "q": "Do I need a special ticket for birdwatching on trains?",
+        "a": "No, any standard fare works; just pick routes that pass through natural areas."
+      },
+      {
+        "q": "What gear is truly low‑impact?",
+        "a": "A lightweight pair of binoculars, a reusable notebook, and a battery‑free field guide app."
+      },
+      {
+        "q": "Can I photograph birds without disturbing them?",
+        "a": "Use a silent shutter mode or smartphone camera, and stay behind the window to minimize movement."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "birding",
+      "sustainable-rail"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-10-19T07:45:06.299Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "eco-friendly-train-spotting",
     "title": "Eco-Friendly Train Spotting: Low-Impact Wildlife Watching on Rural Lines",
     "dek": "Spotting local wildlife from slow trains lets you enjoy nature without extra carbon, and you can share sightings with fellow travelers.",

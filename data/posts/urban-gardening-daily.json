@@ -1,5 +1,56 @@
 [
   {
+    "slug": "clever-companion-planting",
+    "title": "Clever Companion Planting: Boost Your Balcony Harvest",
+    "dek": "Pair the right veggies and herbs in the same pot to maximize space, flavor, and pest control on tiny balconies.",
+    "takeaway": "Smart combos let you grow more in less space while naturally keeping pests at bay.",
+    "whatHappened": "A city dweller swapped a solo tomato pot for a mixed tomato‑basil container and noticed fuller vines and fewer aphids. The same trick worked when swapping a lettuce pot for lettuce with chives, delivering richer leaves and a pleasant aroma.",
+    "whyItMatters": "Balcony space is premium, so every square inch counts. Companion planting squeezes extra yield out of limited containers and reduces reliance on chemical pest control, keeping the balcony garden healthy and sustainable.",
+    "howToThink": "Choose plants that share similar water needs and that benefit each other—like tomatoes with basil for flavor and pest deterrence. Keep root depth compatible and give each partner enough room to spread. Start with a light soil mix and monitor growth, adjusting watering as the canopy expands.",
+    "pros": [
+      "More yields per pot",
+      "Natural pest deterrence",
+      "Improved soil health"
+    ],
+    "cons": [
+      "Requires planning",
+      "Potential nutrient competition",
+      "May need extra watering"
+    ],
+    "watchOut": "Avoid crowding the pot; overly dense plantings can choke airflow and stunt growth.",
+    "faq": [
+      {
+        "q": "Can I mix tomatoes with basil in the same balcony pot?",
+        "a": "Yes, basil complements tomatoes by repelling pests and enhancing flavor, as long as the pot is deep enough for both root systems."
+      },
+      {
+        "q": "What herbs pair well with leafy greens like lettuce?",
+        "a": "Chives, mint, and cilantro work well; they deter pests and add a fresh scent without shading the greens."
+      },
+      {
+        "q": "How often should I fertilize a mixed‑plant container?",
+        "a": "Feed with a balanced, water‑soluble fertilizer every four weeks during active growth, watching for any signs of nutrient deficiency."
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "companion planting",
+      "balcony containers"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-10-19T07:45:07.869Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "rainwater-harvest-balcony-plant-health",
     "title": "Rainwater Harvest: Boost Your Balcony Plant Health",
     "dek": "Capture rooftop runoff to water balcony containers, saving time and keeping plants thriving.",

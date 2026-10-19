@@ -1,5 +1,56 @@
 [
   {
+    "slug": "nail-espresso-timing-kitchen-timer",
+    "title": "Nail Your Espresso Timing with a Simple Kitchen Timer",
+    "dek": "Use a basic kitchen timer to perfect shot duration and improve flavor consistency.",
+    "takeaway": "A kitchen timer helps you hit the ideal extraction window every pull.",
+    "whatHappened": "You noticed shot times drifting after a week of heavy pulling, leading to sour or bitter cups. By adding a cheap kitchen timer to your routine, you quickly saw more uniform pull times. The result was steadier flavor and less guesswork.",
+    "whyItMatters": "Extraction time is a key driver of espresso balance; too short and the coffee is under‑extracted, too long and it becomes over‑extracted. Consistent timing lets you focus on other variables like dose and grind without chasing flavor swings. It also builds confidence when troubleshooting other issues.",
+    "howToThink": "Set your timer for the target window—typically 25‑30 seconds for a standard shot. Start it the moment you begin the pour and stop when the espresso stream visibly thins. Adjust grind size in small steps until the timer consistently lands inside the window, then fine‑tune dose if needed.",
+    "pros": [
+      "Cheap and easy to use",
+      "Visual cue for consistency",
+      "Works with any espresso machine"
+    ],
+    "cons": [
+      "Adds an extra step",
+      "Timer lag can be a few seconds",
+      "Doesn’t replace taste testing"
+    ],
+    "watchOut": "Don’t rely solely on the timer; flavor still matters, and machine pressure fluctuations can affect timing.",
+    "faq": [
+      {
+        "q": "What if my timer is a few seconds off?",
+        "a": "A small offset is fine; aim for the same relative window each day rather than an exact second count."
+      },
+      {
+        "q": "Can I use a smartphone timer instead?",
+        "a": "Yes, any reliable timer works—just make sure it starts promptly when you begin the pour."
+      },
+      {
+        "q": "Should I adjust the timer for different bean profiles?",
+        "a": "Keep the same target window and let grind changes accommodate the bean’s unique characteristics."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "timing"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-10-19T07:45:07.063Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "tame-brew-scale-calibration",
     "title": "Tame Your Brew: Simple Scale Calibration for Consistent Shots",
     "dek": "Calibrate your kitchen scale in minutes to lock in espresso dose consistency.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-perfect-snes-controller-lag",
+    "title": "Pixel Perfect: Fine‑Tuning Your SNES Controller Lag",
+    "dek": "Trim a few milliseconds off SNES input lag with a simple resistor tweak and a stable power supply.",
+    "takeaway": "A modest hardware tweak can noticeably tighten controller response for competitive runs.",
+    "whatHappened": "After noticing a slight lag during a recent Super Mario World speedrun, we swapped the original controller cable for a shielded version and added a small pull‑down resistor to the latch line. The change was immediate, with inputs feeling crisper.",
+    "whyItMatters": "Even sub‑frame delays can cost a run, especially in precision platformers where split‑second timing decides victory. Reducing lag gives runners a more reliable feel and can shave crucial seconds off a personal best.",
+    "howToThink": "Treat the controller circuit as a simple signal path: clean power, short wiring, and proper termination reduce noise. When modifying, keep the original layout as reference and test each change before final soldering.",
+    "pros": [
+      "Cheaper than a new controller",
+      "Minimal solder work",
+      "Noticeable response boost"
+    ],
+    "cons": [
+      "Requires basic soldering",
+      "Potential warranty void",
+      "Mistakes can cause no‑response"
+    ],
+    "watchOut": "Double‑check polarity before soldering; a reversed resistor can fry the controller.",
+    "faq": [
+      {
+        "q": "Do I need a specific resistor value?",
+        "a": "A 10 kΩ pull‑down works well for most SNES controllers."
+      },
+      {
+        "q": "Will this affect button feel?",
+        "a": "No, the tweak only changes the signal line, not the mechanical switches."
+      },
+      {
+        "q": "Can I revert the mod?",
+        "a": "Yes, desolder the resistor and reconnect the original wiring."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "controller",
+      "latency"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-10-19T07:45:08.502Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "nes-hdmi-converter-modern-display",
     "title": "NES HDMI Converter: Hook Your Retro Console to Modern TVs",
     "dek": "Turn your NES into a plug‑and‑play HDMI source without opening the console.",
