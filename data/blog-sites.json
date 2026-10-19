@@ -1561,8 +1561,29 @@
       "streamUrl": "https://beyondmythos.com/",
       "elevenlabsAgentId": null,
       "lastPostAt": "2026-10-19T07:45:38.225Z"
+    },
+    {
+      "id": "beige-box-bulletin-3-1792397728484",
+      "slug": "beige-box-bulletin-3",
+      "name": "Beige Box Bulletin",
+      "tagline": "Fresh takes for retro computer restorers and emulation fans.",
+      "nicheId": "retro-computing",
+      "audience": "retro computer restorers and emulation fans",
+      "categories": [
+        "Restoration",
+        "Emulation",
+        "Upgrades",
+        "Software"
+      ],
+      "url": "https://beyondmythos.com/sites/beige-box-bulletin-3/",
+      "localUrl": "https://beyondmythos.com/sites/beige-box-bulletin-3/",
+      "design": "prism",
+      "postCount": 6,
+      "createdAt": "2026-10-19T08:15:20.019Z",
+      "streamUrl": "https://beyondmythos.com/",
+      "elevenlabsAgentId": null
     }
   ],
-  "lastGeneratedAt": "2026-10-19T07:15:10.089Z",
+  "lastGeneratedAt": "2026-10-19T08:15:20.019Z",
   "lastPostRunAt": "2026-10-19T07:45:38.234Z"
 }

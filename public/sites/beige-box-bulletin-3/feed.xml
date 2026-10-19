@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Beige Box Bulletin</title>
+    <link>https://beyondmythos.com/sites/beige-box-bulletin-3/</link>
+    <description>Fresh takes for retro computer restorers and emulation fans.</description>
+    <item>
+      <title>Reviving the Commodore 64 Power Supply</title>
+      <link>https://beyondmythos.com/sites/beige-box-bulletin-3/posts/reviving-commodore-64-power-supply.html</link>
+      <guid>https://beyondmythos.com/sites/beige-box-bulletin-3/posts/reviving-commodore-64-power-supply.html</guid>
+      <pubDate>Mon, 19 Oct 2026 08:15:28 GMT</pubDate>
+      <description>Swap out aging capacitors to bring a C64 back to life.</description>
+    </item>
+    <item>
+      <title>FPGA Emulation of the Apple II</title>
+      <link>https://beyondmythos.com/sites/beige-box-bulletin-3/posts/fpga-emu-apple-ii.html</link>
+      <guid>https://beyondmythos.com/sites/beige-box-bulletin-3/posts/fpga-emu-apple-ii.html</guid>
+      <pubDate>Sat, 17 Oct 2026 19:15:28 GMT</pubDate>
+      <description>FPGA boards now emulate Apple II hardware with cycle‑accurate fidelity.</description>
+    </item>
+    <item>
+      <title>SSD Upgrade for the Amiga 500</title>
+      <link>https://beyondmythos.com/sites/beige-box-bulletin-3/posts/ssd-upgrade-amiga-500.html</link>
+      <guid>https://beyondmythos.com/sites/beige-box-bulletin-3/posts/ssd-upgrade-amiga-500.html</guid>
+      <pubDate>Fri, 16 Oct 2026 06:15:28 GMT</pubDate>
+      <description>Fit an SSD via IDE adapter to speed up Amiga 500 loading times.</description>
+    </item>
+    <item>
+      <title>Retro Linux Distro on Raspberry Pi</title>
+      <link>https://beyondmythos.com/sites/beige-box-bulletin-3/posts/retro-linux-distro-raspberry-pi.html</link>
+      <guid>https://beyondmythos.com/sites/beige-box-bulletin-3/posts/retro-linux-distro-raspberry-pi.html</guid>
+      <pubDate>Wed, 14 Oct 2026 17:15:28 GMT</pubDate>
+      <description>Deploy a retro‑focused Linux distro on a Pi to emulate classic UNIX workstations.</description>
+    </item>
+    <item>
+      <title>Color Calibration for Apple II Graphics</title>
+      <link>https://beyondmythos.com/sites/beige-box-bulletin-3/posts/color-calibration-apple-ii-graphics.html</link>
+      <guid>https://beyondmythos.com/sites/beige-box-bulletin-3/posts/color-calibration-apple-ii-graphics.html</guid>
+      <pubDate>Tue, 13 Oct 2026 04:15:28 GMT</pubDate>
+      <description>Adjust the Apple II&apos;s video output for accurate colors on modern monitors.</description>
+    </item>
+    <item>
+      <title>Open‑Source NES Emulator Optimizations</title>
+      <link>https://beyondmythos.com/sites/beige-box-bulletin-3/posts/open-source-nes-emulator-optimizations.html</link>
+      <guid>https://beyondmythos.com/sites/beige-box-bulletin-3/posts/open-source-nes-emulator-optimizations.html</guid>
+      <pubDate>Sun, 11 Oct 2026 15:15:28 GMT</pubDate>
+      <description>Recent patches improve NES emulation accuracy and performance on modest CPUs.</description>
+    </item>
+  </channel>
+</rss>

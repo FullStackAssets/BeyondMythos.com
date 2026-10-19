@@ -1,0 +1,308 @@
+[
+  {
+    "slug": "reviving-commodore-64-power-supply",
+    "title": "Reviving the Commodore 64 Power Supply",
+    "category": "Restoration",
+    "dek": "Swap out aging capacitors to bring a C64 back to life.",
+    "takeaway": "A fresh power supply can resurrect a dead C64.",
+    "whatHappened": "A common failure in Commodore 64 units is electrolytic capacitor leakage, causing power instability. Replacing the original caps with modern equivalents restores voltage regulation.",
+    "whyItMatters": "Stable power is essential for reliable CPU operation and prevents further component stress. Restoring the original hardware preserves authenticity.",
+    "howToThink": "Identify bulging caps, discharge the board, and use low-ESR replacements matching the original voltage rating. Test with a bench power supply before reassembly.",
+    "pros": [
+      "Authentic look",
+      "Improved stability",
+      "Low cost"
+    ],
+    "cons": [
+      "Soldering required",
+      "Potential for incorrect values",
+      "Time‑consuming"
+    ],
+    "watchOut": "Never work on a powered board; always unplug and discharge capacitors.",
+    "faq": [
+      {
+        "q": "Can I use electrolytic caps from other devices?",
+        "a": "Yes, as long as voltage and capacitance match the original specs."
+      },
+      {
+        "q": "Do I need a multimeter?",
+        "a": "A multimeter helps verify voltage and identify faulty caps."
+      },
+      {
+        "q": "Is it safe to use modern low‑ESR caps?",
+        "a": "They are generally safe and improve performance."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/retrobattlestations community threads",
+        "url": "https://www.reddit.com/r/retrobattlestations/"
+      },
+      {
+        "label": "Search interest: \"recap vintage computer\"",
+        "url": "https://duckduckgo.com/?q=recap%20vintage%20computer"
+      }
+    ],
+    "tags": [
+      "C64",
+      "Power"
+    ],
+    "publishedAt": "2026-10-19T08:15:28.484Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "fpga-emu-apple-ii",
+    "title": "FPGA Emulation of the Apple II",
+    "category": "Emulation",
+    "dek": "FPGA boards now emulate Apple II hardware with cycle‑accurate fidelity.",
+    "takeaway": "FPGA offers a hardware‑level Apple II experience without the original chassis.",
+    "whatHappened": "Developers have programmed open‑source cores to replicate the Apple II's 6502 CPU, video, and I/O on FPGA platforms. The result runs original software with minimal latency.",
+    "whyItMatters": "Hardware emulation preserves timing‑sensitive behavior that software emulators sometimes miss, crucial for games and demos.",
+    "howToThink": "Choose an FPGA board with sufficient I/O, load the core, and connect a vintage monitor via composite or VGA adapters. Keep original ROM images for authenticity.",
+    "pros": [
+      "Accurate timing",
+      "Compact setup",
+      "Preserves original software"
+    ],
+    "cons": [
+      "Initial learning curve",
+      "Requires hardware purchase",
+      "Limited peripheral support"
+    ],
+    "watchOut": "Ensure the ROM images are legally obtained before flashing.",
+    "faq": [
+      {
+        "q": "Do I need a real Apple II keyboard?",
+        "a": "You can use a USB‑compatible replica or map keys to a modern keyboard."
+      },
+      {
+        "q": "Can I expand memory?",
+        "a": "Some cores support configurable RAM up to 64 KB."
+      },
+      {
+        "q": "Is the FPGA board hot‑plug safe?",
+        "a": "Power down before connecting or disconnecting peripherals."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/vintagecomputing community threads",
+        "url": "https://www.reddit.com/r/vintagecomputing/"
+      },
+      {
+        "label": "Search interest: \"best emulation setup\"",
+        "url": "https://duckduckgo.com/?q=best%20emulation%20setup"
+      }
+    ],
+    "tags": [
+      "AppleII",
+      "FPGA"
+    ],
+    "publishedAt": "2026-10-17T19:15:28.484Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "ssd-upgrade-amiga-500",
+    "title": "SSD Upgrade for the Amiga 500",
+    "category": "Upgrades",
+    "dek": "Fit an SSD via IDE adapter to speed up Amiga 500 loading times.",
+    "takeaway": "An SSD dramatically reduces load times while keeping the classic Amiga feel.",
+    "whatHappened": "The Amiga 500's original floppy drive is slow and prone to wear. By installing a compact IDE‑to‑SCSI adapter and a small SSD, the system can boot from solid‑state storage.",
+    "whyItMatters": "Faster storage improves usability for developers and gamers, and reduces mechanical failures.",
+    "howToThink": "Use an IDE‑to‑SCSI bridge, mount the SSD in the drive bay, and configure the boot sequence in the Kickstart ROM or via a bootloader.",
+    "pros": [
+      "Fast load times",
+      "Quiet operation",
+      "Low power"
+    ],
+    "cons": [
+      "Requires adapter",
+      "Potential BIOS tweaks",
+      "Limited capacity compared to modern SSDs"
+    ],
+    "watchOut": "Static discharge can damage the Amiga's delicate ports; ground yourself.",
+    "faq": [
+      {
+        "q": "Can I use any SSD size?",
+        "a": "Smaller capacities are easier to fit; ensure the adapter supports the drive."
+      },
+      {
+        "q": "Do I need to modify the case?",
+        "a": "Minor cutouts may be needed for cables."
+      },
+      {
+        "q": "Will the SSD work with old software?",
+        "a": "Most software runs unchanged; some demos expect floppy timing but usually function."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/emulation community threads",
+        "url": "https://www.reddit.com/r/emulation/"
+      },
+      {
+        "label": "Search interest: \"crt monitor guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20monitor%20guide"
+      }
+    ],
+    "tags": [
+      "Amiga",
+      "SSD"
+    ],
+    "publishedAt": "2026-10-16T06:15:28.484Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "retro-linux-distro-raspberry-pi",
+    "title": "Retro Linux Distro on Raspberry Pi",
+    "category": "Software",
+    "dek": "Deploy a retro‑focused Linux distro on a Pi to emulate classic UNIX workstations.",
+    "takeaway": "A lightweight Linux image can serve as a development sandbox for vintage software.",
+    "whatHappened": "Enthusiasts have built a Debian‑based distro stripped to essential tools, emulating environments like early Sun or DEC stations. It runs on Raspberry Pi hardware.",
+    "whyItMatters": "Provides a portable, low‑cost platform for testing legacy code without maintaining aging hardware.",
+    "howToThink": "Flash the image onto an SD card, connect a USB keyboard and VGA adapter, and use package managers to install period‑appropriate compilers.",
+    "pros": [
+      "Portable",
+      "Low power",
+      "Easy updates"
+    ],
+    "cons": [
+      "Emulated hardware limits",
+      "Learning curve for package selection",
+      "Not a perfect replica"
+    ],
+    "watchOut": "Avoid using proprietary binaries that may not run on the ARM architecture.",
+    "faq": [
+      {
+        "q": "Is X11 supported?",
+        "a": "Yes, lightweight X servers are included."
+      },
+      {
+        "q": "Can I run old BSD tools?",
+        "a": "Many are available via ports or compiled from source."
+      },
+      {
+        "q": "Does it support serial console?",
+        "a": "Serial over GPIO is possible with configuration."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/retrobattlestations community threads",
+        "url": "https://www.reddit.com/r/retrobattlestations/"
+      },
+      {
+        "label": "Search interest: \"recap vintage computer\"",
+        "url": "https://duckduckgo.com/?q=recap%20vintage%20computer"
+      }
+    ],
+    "tags": [
+      "Linux",
+      "Pi"
+    ],
+    "publishedAt": "2026-10-14T17:15:28.484Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "color-calibration-apple-ii-graphics",
+    "title": "Color Calibration for Apple II Graphics",
+    "category": "Restoration",
+    "dek": "Adjust the Apple II's video output for accurate colors on modern monitors.",
+    "takeaway": "Simple resistor tweaks can restore the original palette on contemporary displays.",
+    "whatHappened": "The Apple II's composite video signals were designed for CRTs, leading to color shifts on LCDs. By adding a small resistor network to the video output, the signal matches modern monitor expectations.",
+    "whyItMatters": "Accurate colors enhance the visual experience of classic games and demos, preserving the intended aesthetic.",
+    "howToThink": "Identify the video output pins, solder a resistor ladder as per community schematics, and test with a monitor that supports composite input.",
+    "pros": [
+      "Better colors",
+      "Low cost",
+      "Reversible"
+    ],
+    "cons": [
+      "Soldering required",
+      "May affect NTSC compatibility",
+      "Needs monitor with composite"
+    ],
+    "watchOut": "Incorrect resistor values can overload the video chip.",
+    "faq": [
+      {
+        "q": "Do I need a new cable?",
+        "a": "A standard composite cable works, but quality matters."
+      },
+      {
+        "q": "Can I revert changes?",
+        "a": "Desoldering restores original wiring."
+      },
+      {
+        "q": "Is this safe for the video chip?",
+        "a": "When using recommended values, it stays within safe limits."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/vintagecomputing community threads",
+        "url": "https://www.reddit.com/r/vintagecomputing/"
+      },
+      {
+        "label": "Search interest: \"best emulation setup\"",
+        "url": "https://duckduckgo.com/?q=best%20emulation%20setup"
+      }
+    ],
+    "tags": [
+      "AppleII",
+      "Video"
+    ],
+    "publishedAt": "2026-10-13T04:15:28.484Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "open-source-nes-emulator-optimizations",
+    "title": "Open‑Source NES Emulator Optimizations",
+    "category": "Software",
+    "dek": "Recent patches improve NES emulation accuracy and performance on modest CPUs.",
+    "takeaway": "Optimized code paths let classic NES games run smoothly even on older laptops.",
+    "whatHappened": "Contributors have refined the audio timing and sprite handling in a popular open‑source NES emulator, reducing CPU load while fixing audio glitches.",
+    "whyItMatters": "More accurate emulation preserves the original gameplay feel, and lower CPU usage expands hardware compatibility.",
+    "howToThink": "Compile the emulator with the latest source, enable the 'high‑accuracy' flag, and adjust the frame‑skip settings for balance.",
+    "pros": [
+      "Accurate sound",
+      "Lower CPU usage",
+      "Cross‑platform"
+    ],
+    "cons": [
+      "Longer compile time",
+      "May need newer libraries",
+      "Potential incompatibility with old configs"
+    ],
+    "watchOut": "Always back up your save files before switching emulation cores.",
+    "faq": [
+      {
+        "q": "Does it support multiplayer?",
+        "a": "Yes, via standard controller mapping."
+      },
+      {
+        "q": "Can I run it on Linux?",
+        "a": "The build system includes Linux targets."
+      },
+      {
+        "q": "Is it safe to download pre‑compiled binaries?",
+        "a": "Obtain them from trusted project releases."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/emulation community threads",
+        "url": "https://www.reddit.com/r/emulation/"
+      },
+      {
+        "label": "Search interest: \"crt monitor guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20monitor%20guide"
+      }
+    ],
+    "tags": [
+      "NES",
+      "Emulator"
+    ],
+    "publishedAt": "2026-10-11T15:15:28.484Z",
+    "readMinutes": 2
+  }
+]
