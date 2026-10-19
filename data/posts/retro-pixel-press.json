@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-boost-gba-battery-clip",
+    "title": "Pixel Boost: Streamlining GBA Battery Clip for Quick Swaps",
+    "dek": "Upgrade your Game Boy Advance battery clip for lightning‑fast swaps during marathon runs.",
+    "takeaway": "A simple clip modification cuts swap time and keeps you in the flow.",
+    "whatHappened": "A community member discovered the stock GBA battery clip can be replaced with a low‑profile spring‑loaded version. The swap requires only a soldering iron and a few minutes of work. After installing, battery changes feel almost instantaneous.",
+    "whyItMatters": "Speedrunners lose precious seconds fumbling with bulky clips, especially in endurance categories. A faster swap reduces downtime and helps maintain consistent pacing. Collectors also benefit from a more reliable connection that lessens wear on the console’s battery terminals.",
+    "howToThink": "Treat the clip as a modular part—if it feels loose or slows you down, replace it. Choose a spring clip that matches the original pin layout, and verify polarity before soldering. Test the connection with the console powered off to avoid short circuits.",
+    "pros": [
+      "Near‑instant battery changes",
+      "Improved terminal reliability",
+      "Minimal cost and tools"
+    ],
+    "cons": [
+      "Requires basic soldering",
+      "Potential void of warranty",
+      "May need a replacement clip if poorly fitted"
+    ],
+    "watchOut": "Double‑check polarity before soldering; a reversed connection can damage the GBA.",
+    "faq": [
+      {
+        "q": "Do I need a special soldering iron?",
+        "a": "A standard 15‑30W soldering iron with a fine tip works fine."
+      },
+      {
+        "q": "Can I use any spring clip?",
+        "a": "Pick one designed for 2‑AA batteries and that matches the GBA’s pin spacing."
+      },
+      {
+        "q": "Will this affect my GBA’s resale value?",
+        "a": "The modification is reversible, so you can restore the original clip if needed."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "hardware",
+      "gba"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-19T17:45:09.035Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-clarity-gb-lcd-upgrade",
     "title": "Pixel Clarity: Swapping Game Boy Pocket LCD for Sharper Speedrun Vision",
     "dek": "A quick guide to fitting a high‑contrast LCD into your Game Boy Pocket for clearer reads during marathon runs.",

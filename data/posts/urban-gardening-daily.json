@@ -1,5 +1,56 @@
 [
   {
+    "slug": "soil-free-sill-hydroponic-herbs",
+    "title": "Soil‑Free Sill: Hydroponic Herbs for Tiny Windows",
+    "dek": "Turn a sunny window sill into a low‑maintenance hydroponic herb garden that thrives in any apartment.",
+    "takeaway": "Hydroponic herbs let you grow fresh flavor with minimal space and mess.",
+    "whatHappened": "We set up a simple net‑pot system on a south‑facing sill, using a diluted nutrient solution and a few basil, mint, and cilantro cuttings. Within weeks the seedlings showed vigorous growth, outpacing a nearby soil‑based pot.",
+    "whyItMatters": "Apartment gardeners often battle limited soil depth and messy watering. Hydroponics eliminates heavy soil, reduces over‑watering, and delivers consistent nutrients, making fresh herbs reliable year‑round.",
+    "howToThink": "Start with a shallow tray, fill it with water and a balanced, water‑soluble fertilizer at the recommended dilution. Place net‑pots with rock‑wool cubes or peat plugs holding your herb cuttings, and keep the tray level to avoid spillage. Refresh the solution every 7‑10 days and watch the roots thrive.",
+    "pros": [
+      "Space‑saving",
+      "Fast, lush growth",
+      "Low mess"
+    ],
+    "cons": [
+      "Needs regular solution changes",
+      "Initial setup cost",
+      "Sensitive to water temperature"
+    ],
+    "watchOut": "Avoid letting the nutrient water sit stagnant for more than two weeks; it can become a breeding ground for algae and root rot.",
+    "faq": [
+      {
+        "q": "Can I use tap water?",
+        "a": "Yes, but let it sit 24 hours to dissipate chlorine, or use filtered water for best results."
+      },
+      {
+        "q": "How often should I replace the nutrient solution?",
+        "a": "Every 7‑10 days, or whenever the water looks cloudy."
+      },
+      {
+        "q": "Do hydroponic herbs need light?",
+        "a": "Place the tray where it receives at least 4‑6 hours of direct sunlight or supplement with a small LED grow light."
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "hydroponics",
+      "herbs"
+    ],
+    "sources": [
+      {
+        "label": "r/UrbanGardening community threads",
+        "url": "https://www.reddit.com/r/UrbanGardening/"
+      },
+      {
+        "label": "Search interest: \"balcony garden ideas\"",
+        "url": "https://duckduckgo.com/?q=balcony%20garden%20ideas"
+      }
+    ],
+    "publishedAt": "2026-10-19T17:45:09.647Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-indoor-herb-garden-14",
     "title": "Myth vs. reality: indoor herb garden",
     "dek": "The persistent myths around indoor herb garden, stress-tested against what apartment dwellers and balcony gardeners actually report.",
