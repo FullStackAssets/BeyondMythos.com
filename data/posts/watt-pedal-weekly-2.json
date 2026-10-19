@@ -1,0 +1,308 @@
+[
+  {
+    "slug": "rainy-commute",
+    "title": "Braving the Drizzle: E‑Bike Commuting When It Rains",
+    "category": "Commuting",
+    "dek": "Stay fast and safe on wet roads with practical gear and riding tweaks.",
+    "takeaway": "A few simple adjustments keep your e‑bike reliable in rain.",
+    "whatHappened": "A recent city‑wide rainstorm forced many e‑bike commuters to rethink their daily routes. Riders reported slipping tires and water‑logged electronics, prompting a quick search for solutions.",
+    "whyItMatters": "Wet conditions are a regular part of urban life, and e‑bike reliability in rain directly impacts commute time and safety. Ignoring the problem can lead to costly repairs or missed work.",
+    "howToThink": "Fit wide, treaded tires, seal all cable entries with silicone, and keep a compact dry‑bag for your phone and wallet. Adjust your braking distance and ride smoother to avoid skidding.",
+    "pros": [
+      "Better traction",
+      "Reduced wear on motor",
+      "Improved safety"
+    ],
+    "cons": [
+      "Slightly higher rolling resistance",
+      "Extra weight from seals",
+      "More frequent tire checks"
+    ],
+    "watchOut": "Avoid riding through standing water deeper than the tire tread to prevent motor ingress.",
+    "faq": [
+      {
+        "q": "Do I need a different motor setting for rain?",
+        "a": "Stick to the normal mode; just ride smoother and avoid hard acceleration."
+      },
+      {
+        "q": "Can I use regular bike lights?",
+        "a": "Yes, but choose waterproof units and mount them securely."
+      },
+      {
+        "q": "Is a chain guard necessary?",
+        "a": "A simple chain guard helps keep grime out, extending drivetrain life in wet conditions."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/ebikes community threads",
+        "url": "https://www.reddit.com/r/ebikes/"
+      },
+      {
+        "label": "Search interest: \"ebike commuter guide\"",
+        "url": "https://duckduckgo.com/?q=ebike%20commuter%20guide"
+      }
+    ],
+    "tags": [
+      "commuting",
+      "weather"
+    ],
+    "publishedAt": "2026-10-19T13:15:14.550Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "cable-wear",
+    "title": "Cable Wear: The Silent Saboteur of E‑Bike Performance",
+    "category": "Maintenance",
+    "dek": "Inspect, protect, and replace cables before they cost you a broken ride.",
+    "takeaway": "Regular cable checks prevent unexpected drivetrain failures.",
+    "whatHappened": "A surge in commuter complaints about sudden loss of pedal assistance led mechanics to trace the issue to frayed brake and shift cables. The problem often goes unnoticed until a snap occurs.",
+    "whyItMatters": "Cables transmit both mechanical and electronic signals; a break can leave you stranded or force you to pedal without assistance, defeating the e‑bike’s purpose.",
+    "howToThink": "Schedule a visual inspection every few months, replace any cable showing fraying, and apply a light coat of cable lube to reduce wear. Consider using sealed cable housings for added protection.",
+    "pros": [
+      "Longer drivetrain life",
+      "Consistent assistance",
+      "Reduced roadside breakdowns"
+    ],
+    "cons": [
+      "Cost of replacement cables",
+      "Time for inspection",
+      "Potential need for new housing"
+    ],
+    "watchOut": "Never force a cable past resistance; it can damage the housing and the motor controller.",
+    "faq": [
+      {
+        "q": "How often should I replace cables?",
+        "a": "Every 12‑18 months for heavy commuters, or sooner if you see visible wear."
+      },
+      {
+        "q": "Can I DIY cable replacement?",
+        "a": "Yes, with basic tools; just follow the bike’s service manual."
+      },
+      {
+        "q": "Do sealed housings eliminate wear?",
+        "a": "They greatly reduce exposure to dirt and moisture, extending cable life."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/ebikecommuting community threads",
+        "url": "https://www.reddit.com/r/ebikecommuting/"
+      },
+      {
+        "label": "Search interest: \"ebike battery care\"",
+        "url": "https://duckduckgo.com/?q=ebike%20battery%20care"
+      }
+    ],
+    "tags": [
+      "maintenance",
+      "drivetrain"
+    ],
+    "publishedAt": "2026-10-18T00:15:14.550Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "cold-battery",
+    "title": "Cold Weather Battery Performance: What Every Commuter Needs to Know",
+    "category": "Batteries",
+    "dek": "Maximise range and lifespan when temperatures dip below freezing.",
+    "takeaway": "Keeping the battery warm preserves power output in the cold.",
+    "whatHappened": "Winter commuters noticed a noticeable drop in range during early morning rides. The decline was traced to lithium‑ion chemistry reacting slower in low temperatures.",
+    "whyItMatters": "Reduced range can force riders to plan extra charging stops or abandon the commute, undermining the e‑bike’s convenience.",
+    "howToThink": "Store the battery indoors overnight, use a thermal sleeve, and avoid full depletion in sub‑zero conditions. Pre‑heat the bike by riding a short distance before heading out.",
+    "pros": [
+      "Sustained power",
+      "Longer usable range",
+      "Battery health preservation"
+    ],
+    "cons": [
+      "Extra prep time",
+      "Need for storage space",
+      "Potential added weight from sleeves"
+    ],
+    "watchOut": "Never expose a cold battery to rapid charging; it can stress the cells.",
+    "faq": [
+      {
+        "q": "Does a lower charge level help in cold weather?",
+        "a": "Keeping the battery between 40‑80 % reduces stress when temperatures are low."
+      },
+      {
+        "q": "Are insulated battery bags effective?",
+        "a": "Yes, they retain heat from the rider’s body and the motor."
+      },
+      {
+        "q": "Should I avoid using the e‑assist in extreme cold?",
+        "a": "You can use it, but expect modestly reduced assistance levels."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/bikecommuting community threads",
+        "url": "https://www.reddit.com/r/bikecommuting/"
+      },
+      {
+        "label": "Search interest: \"bike to ebike conversion\"",
+        "url": "https://duckduckgo.com/?q=bike%20to%20ebike%20conversion"
+      }
+    ],
+    "tags": [
+      "batteries",
+      "winter"
+    ],
+    "publishedAt": "2026-10-16T11:15:14.550Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "cargo-rack-conversion",
+    "title": "Cargo Rack Conversions: Turn Your Commuter Into a Workhorse",
+    "category": "Conversion",
+    "dek": "Add a sturdy rack and pack smart to haul groceries, parcels, or gear.",
+    "takeaway": "A well‑chosen rack expands your e‑bike’s utility without sacrificing performance.",
+    "whatHappened": "A growing number of city riders are swapping out their slim commuter frames for cargo‑friendly setups to replace car trips. The conversion typically involves attaching a rear rack and adjusting the weight distribution.",
+    "whyItMatters": "More cargo capacity means fewer car trips, lower emissions, and cost savings, aligning with the e‑bike’s green promise.",
+    "howToThink": "Choose a rack rated for at least 30 kg, mount it on the rear axle and frame eyelets, and balance loads low and centered. Test ride with a partial load before loading fully.",
+    "pros": [
+      "Increased utility",
+      "Reduced need for a car",
+      "Stable handling with proper load"
+    ],
+    "cons": [
+      "Added weight",
+      "Potential slight reduction in range",
+      "May require stronger brakes"
+    ],
+    "watchOut": "Overloading beyond the rack’s rating can stress the frame and motor.",
+    "faq": [
+      {
+        "q": "Do I need a stronger motor for cargo?",
+        "a": "Most mid‑drive systems handle typical cargo loads, but a higher torque model helps with hills."
+      },
+      {
+        "q": "Can I use panniers with a rear rack?",
+        "a": "Yes, as long as they fit within the rack’s width and weight limits."
+      },
+      {
+        "q": "Is extra brake power required?",
+        "a": "Upgrading to hydraulic discs improves stopping confidence with heavy loads."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/ebikes community threads",
+        "url": "https://www.reddit.com/r/ebikes/"
+      },
+      {
+        "label": "Search interest: \"ebike commuter guide\"",
+        "url": "https://duckduckgo.com/?q=ebike%20commuter%20guide"
+      }
+    ],
+    "tags": [
+      "conversion",
+      "cargo"
+    ],
+    "publishedAt": "2026-10-14T22:15:14.550Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "bike-lane-route",
+    "title": "Optimising Your Route: Why Bike Lanes Beat the Shortcut",
+    "category": "Commuting",
+    "dek": "Plan routes that favour protected lanes for speed, safety, and peace of mind.",
+    "takeaway": "A slightly longer lane‑rich route often saves time and stress.",
+    "whatHappened": "Data from city planners shows that e‑bike commuters who prioritise bike lanes report fewer stops and smoother rides, even when the distance is marginally longer.",
+    "whyItMatters": "Fewer traffic lights and car interactions reduce energy consumption and lower the risk of accidents, enhancing the overall commute experience.",
+    "howToThink": "Use a mapping app that highlights dedicated bike paths, test the route during off‑peak hours, and note any gaps that need a cautious transition. Adjust for hills and wind direction where possible.",
+    "pros": [
+      "Safer riding environment",
+      "Consistent speeds",
+      "Lower stress level"
+    ],
+    "cons": [
+      "Potentially longer distance",
+      "May need occasional road crossings",
+      "Limited coverage in some suburbs"
+    ],
+    "watchOut": "Beware of poorly maintained lanes that can cause punctures or loss of traction.",
+    "faq": [
+      {
+        "q": "Can I combine bike lanes with shortcuts?",
+        "a": "Yes, blend short road segments with lane sections for the best balance."
+      },
+      {
+        "q": "Do bike lanes affect battery usage?",
+        "a": "Smooth lane riding often uses less power than stop‑and‑go traffic."
+      },
+      {
+        "q": "What if my city lacks lanes?",
+        "a": "Advocate for new infrastructure and use quiet residential streets as interim alternatives."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/ebikecommuting community threads",
+        "url": "https://www.reddit.com/r/ebikecommuting/"
+      },
+      {
+        "label": "Search interest: \"ebike battery care\"",
+        "url": "https://duckduckgo.com/?q=ebike%20battery%20care"
+      }
+    ],
+    "tags": [
+      "commuting",
+      "routes"
+    ],
+    "publishedAt": "2026-10-13T09:15:14.550Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "mid-drive-maintenance",
+    "title": "Mid‑Drive Motor Upkeep: Keep the Heart of Your E‑Bike Healthy",
+    "category": "Maintenance",
+    "dek": "Regular checks and simple cleaning extend motor life and performance.",
+    "takeaway": "A clean, well‑lubricated drivetrain lets the motor work efficiently.",
+    "whatHappened": "Mechanics notice that mid‑drive owners who skip periodic motor housing cleaning report louder operation and reduced torque over time. Dirt buildup can interfere with sensor accuracy.",
+    "whyItMatters": "The motor is the most expensive component; preserving its efficiency saves money and maintains the promised assist levels.",
+    "howToThink": "Remove the chainring, wipe the motor housing with a dry cloth, and lightly spray a non‑conductive cleaner on the internal gears. Re‑apply a thin layer of high‑temperature grease to moving parts.",
+    "pros": [
+      "Sustained torque",
+      "Reduced noise",
+      "Longer motor lifespan"
+    ],
+    "cons": [
+      "Time investment",
+      "Need for proper tools",
+      "Potential voiding of warranty if done incorrectly"
+    ],
+    "watchOut": "Avoid using water or high‑pressure jets near the motor; moisture can damage electronics.",
+    "faq": [
+      {
+        "q": "How often should I clean the motor housing?",
+        "a": "Every 3‑4 months for regular commuters, or after riding in muddy conditions."
+      },
+      {
+        "q": "Can I use standard bike grease?",
+        "a": "Choose a grease rated for high temperatures and low friction."
+      },
+      {
+        "q": "Is professional service required?",
+        "a": "Not for basic cleaning, but a yearly professional check can catch hidden wear."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/bikecommuting community threads",
+        "url": "https://www.reddit.com/r/bikecommuting/"
+      },
+      {
+        "label": "Search interest: \"bike to ebike conversion\"",
+        "url": "https://duckduckgo.com/?q=bike%20to%20ebike%20conversion"
+      }
+    ],
+    "tags": [
+      "maintenance",
+      "motor"
+    ],
+    "publishedAt": "2026-10-11T20:15:14.550Z",
+    "readMinutes": 2
+  }
+]
