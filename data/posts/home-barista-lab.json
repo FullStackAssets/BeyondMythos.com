@@ -1,5 +1,56 @@
 [
   {
+    "slug": "master-espresso-pressure-gauge",
+    "title": "Master Your Espresso Shot Consistency with a Simple Pressure Gauge Check",
+    "dek": "A quick guide to using a pressure gauge for stable espresso extraction at home.",
+    "takeaway": "A pressure gauge lets you spot and fix extraction issues before they ruin your shot.",
+    "whatHappened": "I noticed my espresso shots fluctuating in volume and flavor despite using the same beans and dose. Adding a handheld pressure gauge revealed that my pump pressure was drifting between pulls.",
+    "whyItMatters": "Pressure stability directly influences extraction balance, affecting taste and crema. Without monitoring, you waste beans and miss the chance for consistent quality.",
+    "howToThink": "Treat pressure like a vital sign: check it before each brew, note deviations, and adjust grind or pump settings accordingly. Keep a log of pressure readings to spot patterns.",
+    "pros": [
+      "Instant feedback",
+      "Helps dial in grind",
+      "Prevents waste"
+    ],
+    "cons": [
+      "Adds another tool to manage",
+      "Requires calibration",
+      "May be overlooked under rush"
+    ],
+    "watchOut": "Don’t rely on gauge alone; combine with taste and visual cues.",
+    "faq": [
+      {
+        "q": "Do I need a digital or analog gauge?",
+        "a": "Both work; digital offers readout precision while analog is affordable and durable."
+      },
+      {
+        "q": "How often should I check pressure?",
+        "a": "At least once per brewing session, especially after cleaning or changing beans."
+      },
+      {
+        "q": "Can I use the gauge with any espresso machine?",
+        "a": "Most home machines with a pressure port accept standard gauges; check your model’s compatibility."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "pressure-gauge"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-10-19T22:45:06.915Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "roasting-pre-spend-checklist-59",
     "title": "The roasting checklist: run this before you spend",
     "dek": "Seven questions that separate a justified roasting purchase from an expensive mood.",

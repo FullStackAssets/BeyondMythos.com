@@ -5,6 +5,13 @@
     <link>https://beyondmythos.com/sites/prop-wash-daily-2/</link>
     <description>Fresh takes for FPV drone pilots and builders.</description>
     <item>
+      <title>Community pulse: what r/drones is debating this week</title>
+      <link>https://beyondmythos.com/sites/prop-wash-daily-2/posts/community-pulse-drones-2.html</link>
+      <guid>https://beyondmythos.com/sites/prop-wash-daily-2/posts/community-pulse-drones-2.html</guid>
+      <pubDate>Mon, 19 Oct 2026 22:45:37 GMT</pubDate>
+      <description>The arguments, consensus shifts, and quietly useful threads from the regulations community this week.</description>
+    </item>
+    <item>
       <title>The simulators checklist: run this before you spend</title>
       <link>https://beyondmythos.com/sites/prop-wash-daily-2/posts/simulators-pre-spend-checklist-4.html</link>
       <guid>https://beyondmythos.com/sites/prop-wash-daily-2/posts/simulators-pre-spend-checklist-4.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://beyondmythos.com/sites/prop-wash-daily-2/posts/regulation-update-us-fpv-2024.html</guid>
       <pubDate>Wed, 14 Oct 2026 05:15:34 GMT</pubDate>
       <description>New FAA guidelines tighten altitude limits and require remote ID for all FPV aircraft.</description>
-    </item>
-    <item>
-      <title>Cool Your Batteries to Tame Prop Wash Heat</title>
-      <link>https://beyondmythos.com/sites/prop-wash-daily-2/posts/battery-cooling-for-prop-wash.html</link>
-      <guid>https://beyondmythos.com/sites/prop-wash-daily-2/posts/battery-cooling-for-prop-wash.html</guid>
-      <pubDate>Mon, 12 Oct 2026 16:15:34 GMT</pubDate>
-      <description>Integrating passive cooling fins on the battery can reduce heat that amplifies prop wash turbulence.</description>
     </item>
   </channel>
 </rss>

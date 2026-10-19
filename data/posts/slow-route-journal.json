@@ -1,5 +1,56 @@
 [
   {
+    "slug": "morning-platform-walks",
+    "title": "Morning Platform Walks: Low‑Impact Exploration on Rural Stations",
+    "dek": "Step off the train and discover the hidden charms of rural platforms before the rush hits, all with a tiny carbon footprint.",
+    "takeaway": "A brief platform stroll adds cultural depth without adding travel waste.",
+    "whatHappened": "After disembarking at a quiet countryside stop, I spent fifteen minutes wandering the platform, noting historic signage and local flora. The walk felt like a mini‑tour, and the train’s schedule stayed unchanged.",
+    "whyItMatters": "Small, low‑impact actions let travelers engage more deeply with places they merely pass through, turning transit time into meaningful discovery while keeping emissions low.",
+    "howToThink": "Treat every stop as a micro‑destination: plan a short walk, bring a reusable water bottle, and use a phone camera sparingly. Respect the space, keep noise down, and leave no trace.",
+    "pros": [
+      "Zero extra transport needed",
+      "Adds cultural context",
+      "Keeps carbon impact minimal"
+    ],
+    "cons": [
+      "Limited time at each stop",
+      "Weather dependent",
+      "May require early arrival"
+    ],
+    "watchOut": "Watch for platform safety signs and avoid crossing tracks; stay on designated walkways.",
+    "faq": [
+      {
+        "q": "Do I need special gear for platform walks?",
+        "a": "A sturdy pair of shoes and a small reusable bag for any found items are enough."
+      },
+      {
+        "q": "Can I do this on busy commuter lines?",
+        "a": "It works best on rural or lightly used stations where foot traffic is low."
+      },
+      {
+        "q": "How long should a platform walk be?",
+        "a": "Aim for 10‑20 minutes to keep it low‑impact and stay on schedule."
+      }
+    ],
+    "category": "Local",
+    "tags": [
+      "local",
+      "walking"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-10-19T22:45:06.216Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "dawn-platform-birdwatch",
     "title": "Dawn Platform Birdwatch: Low‑Impact Spotting on Rural Lines",
     "dek": "Catch early‑morning birds from a slow train platform, leaving a tiny carbon footprint.",

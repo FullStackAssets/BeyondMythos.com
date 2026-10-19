@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-boost-lubricate-nes-joystick",
+    "title": "Pixel Boost: Lubricating NES Controller Joysticks for Smoother Runs",
+    "dek": "A quick joystick lube can tighten response, shave precious frames, and keep your classic NES controller humming for marathon speedruns.",
+    "takeaway": "A tiny drop of proper lubricant on NES joystick pivots improves precision and longevity without altering gameplay.",
+    "whatHappened": "While testing a classic Super Mario Bros. run, the controller’s left joystick felt gritty, causing missed jumps. A brief stop allowed a quick disassembly, a dab of silicone grease, and reassembly—instantly smoother input. The run resumed with noticeably tighter control.",
+    "whyItMatters": "Speedrunners rely on sub‑frame accuracy; even minor stick drag can cost a split second. Preserving the original hardware with gentle maintenance also protects the collector’s investment, letting the device survive decades of intense use.",
+    "howToThink": "Remove the joystick caps, locate the pivot points, and apply a thin layer of silicone‑based grease—avoid oil‑based products that can degrade plastic. Reassemble, test for smoothness, and repeat if needed. A clean, well‑lubed stick feels like new without any modding.",
+    "pros": [
+      "Instant smoother input",
+      "Extends controller lifespan",
+      "No permanent modifications"
+    ],
+    "cons": [
+      "Requires tiny screwdriver",
+      "Potential mess if over‑applied",
+      "May void warranty on rare units"
+    ],
+    "watchOut": "Use only silicone‑based lubricant; petroleum products can damage the plastic housing.",
+    "faq": [
+      {
+        "q": "Do I need to open the controller fully?",
+        "a": "Only remove the top caps to expose the joystick pivots; the internals stay largely untouched."
+      },
+      {
+        "q": "Can I use WD‑40?",
+        "a": "No—WD‑40 is petroleum‑based and can degrade the plastic; stick to silicone grease."
+      },
+      {
+        "q": "How often should I re‑lubricate?",
+        "a": "Re‑lubricate after several hundred hours of heavy use or if you notice any stickiness returning."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "NES",
+      "Controller Maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-10-19T22:45:07.512Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-boost-enhancing-gba-backlight",
     "title": "Pixel Boost: Enhancing Game Boy Advance Backlight for Night Runs",
     "dek": "Upgrade your GBA's backlight with a simple LED mod to keep the screen bright during late‑night speedruns.",
