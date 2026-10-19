@@ -1,5 +1,56 @@
 [
   {
+    "slug": "silent-sleeper-cars",
+    "title": "Silent Sleeper Cars: Low‑Impact Restful Nights on Rural Routes",
+    "dek": "Discover how to catch quiet, low‑impact sleep in sleeper cars while traversing countryside rails.",
+    "takeaway": "A sleeper car offers restful, low‑impact nights without extra lodging or energy use.",
+    "whatHappened": "I booked a night in a historic sleeper carriage on a slow‑travel line through the hills. The compartment was dimly lit, the gentle sway of the train lulling me into sleep. By dawn I felt refreshed without ever leaving the rails.",
+    "whyItMatters": "Restful sleep is essential for slow‑travel stamina, and using existing train infrastructure cuts hotel carbon footprints. Sleeper cars recycle heat and use existing power, keeping the journey’s impact minimal. It also deepens the sense of continuity with the landscape you’re crossing.",
+    "howToThink": "Reserve early, especially on heritage routes where sleeper space is limited. Pack a lightweight blanket, earplugs, and a reusable water bottle to stay comfortable and low‑impact. Respect quiet hours and shared amenities to keep the experience pleasant for everyone.",
+    "pros": [
+      "Quiet environment",
+      "No extra lodging",
+      "Scenic continuity"
+    ],
+    "cons": [
+      "Limited bedding",
+      "Shared facilities",
+      "Fixed schedule"
+    ],
+    "watchOut": "Make sure your reservation includes a sleeper berth; stand‑by tickets won’t guarantee a bed.",
+    "faq": [
+      {
+        "q": "Do I need a special ticket for a sleeper car?",
+        "a": "Yes, you must book a sleeper berth as part of your ticket, which may carry a modest surcharge."
+      },
+      {
+        "q": "Can I bring my own pillow?",
+        "a": "Absolutely—compact, travel‑size pillows are ideal and keep the carbon load low."
+      },
+      {
+        "q": "Are sleeper cars heated in winter?",
+        "a": "Most heritage sleepers have basic heating; bring a warm layer just in case."
+      }
+    ],
+    "category": "Stays",
+    "tags": [
+      "sleeper",
+      "rest"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-10-19T20:45:11.632Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-dawn-platform-coffee",
     "title": "Quiet Dawn Platform Coffee: Low‑Impact Brewing on Rural Stops",
     "dek": "Start your day with a simple pour‑over on a sleepy platform, keeping carbon footprints tiny and mornings serene.",

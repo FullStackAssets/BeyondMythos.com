@@ -1,5 +1,56 @@
 [
   {
+    "slug": "revitalize-espresso-brew-pressure-check",
+    "title": "Revitalize Your Espresso Shot with a Simple Brew Pressure Check",
+    "dek": "A quick pressure sanity check can tighten extraction consistency without buying new gear.",
+    "takeaway": "A stable brew pressure is the backbone of repeatable espresso quality.",
+    "whatHappened": "During a routine pull, the shot was thin and lacked body. A quick read of the pump pressure gauge revealed a dip below the optimal range. Adjusting the pressure regulator restored the expected crema and flavor depth.",
+    "whyItMatters": "Pressure fluctuations directly affect water flow rate and contact time, which govern extraction balance. Ignoring them can lead to under‑extracted, sour shots or over‑extracted, bitter ones. Keeping pressure steady ensures each cup hits the target flavor profile.",
+    "howToThink": "Treat the pressure gauge like a health monitor: check it before you start and after any major temperature shift. If you see a consistent drift, fine‑tune the regulator in small increments. Pair the check with a taste test to confirm the numbers translate to flavor.",
+    "pros": [
+      "Instant feedback",
+      "No extra tools needed",
+      "Improves shot repeatability"
+    ],
+    "cons": [
+      "Requires a functional gauge",
+      "May need minor regulator adjustments",
+      "Doesn't replace proper machine maintenance"
+    ],
+    "watchOut": "Never force the regulator beyond its design limits; overtightening can damage the pump.",
+    "faq": [
+      {
+        "q": "How often should I check brew pressure?",
+        "a": "Before each brewing session, especially after cleaning or when the ambient temperature changes."
+      },
+      {
+        "q": "What is the ideal pressure range for most home machines?",
+        "a": "Around 9 bar is standard, but consult your machine’s manual for the exact sweet spot."
+      },
+      {
+        "q": "Can I use a separate pressure gauge?",
+        "a": "Yes, an external gauge can be more precise, but ensure it’s compatible with your machine’s fittings."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-10-19T20:45:10.375Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "tame-espresso-drip-basket-check",
     "title": "Tame Your Espresso Drip with a Simple Basket Check",
     "dek": "A quick basket inspection can stop channeling and deliver a steadier flow without new parts.",

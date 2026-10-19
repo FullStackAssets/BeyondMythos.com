@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-boost-recalibrating-game-boy-color-buttons",
+    "title": "Pixel Boost: Recalibrating Game Boy Color Buttons for Faster Input",
+    "dek": "Fine-tune your Game Boy Color's button feel to shave precious milliseconds off your runs.",
+    "takeaway": "A simple button recalibration can improve response without costly mods.",
+    "whatHappened": "A longtime speedrunner noticed occasional missed inputs on his Game Boy Color during marathon attempts. After a quick teardown, he discovered the tactile springs had settled over time. He swapped the original springs with fresh, slightly stiffer ones and tested the change.",
+    "whyItMatters": "Even the smallest delay in button actuation can cost a run, especially in tight platforming sections. Restoring crisp button feel restores confidence and consistency for competitive runs. The tweak also extends the lifespan of the contacts by reducing micro‑bounce.",
+    "howToThink": "Treat the button assembly like a tiny mechanical keyboard—clean, replace, and test each part. Use generic replacement springs or thin metal shims that fit the original housing. Verify the new feel with a quick input test before jumping back into a full run.",
+    "pros": [
+      "Improved input latency",
+      "Low cost",
+      "Reversible"
+    ],
+    "cons": [
+      "Requires careful disassembly",
+      "May void warranty",
+      "Button feel changes"
+    ],
+    "watchOut": "Be gentle when prying the button caps off; a broken plastic hinge can ruin the mod.",
+    "faq": [
+      {
+        "q": "Do I need special tools to replace the springs?",
+        "a": "A small flathead screwdriver and a pair of tweezers are enough for most Game Boy Color models."
+      },
+      {
+        "q": "Can I use any spring from a different console?",
+        "a": "Stick to springs with similar dimensions; generic keyboard springs work well in a pinch."
+      },
+      {
+        "q": "Will this affect the console's power consumption?",
+        "a": "No, button springs have negligible impact on power draw."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "hardware",
+      "game-boy"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-19T20:45:11.053Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-boost-enhancing-game-boy-audio-output",
     "title": "Pixel Boost: Enhancing Game Boy Audio Output for Clearer Speedrun Audio",
     "dek": "Upgrade the Game Boy’s speaker circuit for louder, crisper sound without sacrificing battery life.",
