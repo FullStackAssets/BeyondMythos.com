@@ -1429,8 +1429,29 @@
       "streamUrl": "https://beyondmythos.com/",
       "elevenlabsAgentId": null,
       "lastPostAt": "2026-10-19T00:45:35.166Z"
+    },
+    {
+      "id": "retro-pixel-press-2-1792372514966",
+      "slug": "retro-pixel-press-2",
+      "name": "Retro Pixel Press",
+      "tagline": "Fresh takes for retro game collectors and speedrunners.",
+      "nicheId": "retro-gaming",
+      "audience": "retro game collectors and speedrunners",
+      "categories": [
+        "Hardware",
+        "Speedruns",
+        "Preservation",
+        "Indie"
+      ],
+      "url": "https://beyondmythos.com/sites/retro-pixel-press-2/",
+      "localUrl": "https://beyondmythos.com/sites/retro-pixel-press-2/",
+      "design": "cinema",
+      "postCount": 6,
+      "createdAt": "2026-10-19T01:15:06.848Z",
+      "streamUrl": "https://beyondmythos.com/",
+      "elevenlabsAgentId": null
     }
   ],
-  "lastGeneratedAt": "2026-10-19T00:15:36.743Z",
+  "lastGeneratedAt": "2026-10-19T01:15:06.848Z",
   "lastPostRunAt": "2026-10-19T00:45:35.174Z"
 }

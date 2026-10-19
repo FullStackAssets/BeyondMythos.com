@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Retro Pixel Press</title>
+    <link>https://beyondmythos.com/sites/retro-pixel-press-2/</link>
+    <description>Fresh takes for retro game collectors and speedrunners.</description>
+    <item>
+      <title>Reviving NES Hardware for Modern Play</title>
+      <link>https://beyondmythos.com/sites/retro-pixel-press-2/posts/reviving-nes-hardware.html</link>
+      <guid>https://beyondmythos.com/sites/retro-pixel-press-2/posts/reviving-nes-hardware.html</guid>
+      <pubDate>Mon, 19 Oct 2026 01:15:14 GMT</pubDate>
+      <description>How to breathe new life into original NES consoles without breaking the bank.</description>
+    </item>
+    <item>
+      <title>Mega Man 2 Speedrun Tactics for Sub‑4‑Minute Runs</title>
+      <link>https://beyondmythos.com/sites/retro-pixel-press-2/posts/mega-man-2-speedrun-tactics.html</link>
+      <guid>https://beyondmythos.com/sites/retro-pixel-press-2/posts/mega-man-2-speedrun-tactics.html</guid>
+      <pubDate>Sat, 17 Oct 2026 12:15:14 GMT</pubDate>
+      <description>Practical tricks to shave seconds off your Mega Man 2 personal best.</description>
+    </item>
+    <item>
+      <title>Preserving ROM Hacks Before They Vanish</title>
+      <link>https://beyondmythos.com/sites/retro-pixel-press-2/posts/preserving-rom-hacks.html</link>
+      <guid>https://beyondmythos.com/sites/retro-pixel-press-2/posts/preserving-rom-hacks.html</guid>
+      <pubDate>Thu, 15 Oct 2026 23:15:14 GMT</pubDate>
+      <description>A workflow to archive fan‑made ROM hacks safely for future generations.</description>
+    </item>
+    <item>
+      <title>Indie Retro Pixel Factory Launches on Switch</title>
+      <link>https://beyondmythos.com/sites/retro-pixel-press-2/posts/indie-retro-pixel-factory-launch.html</link>
+      <guid>https://beyondmythos.com/sites/retro-pixel-press-2/posts/indie-retro-pixel-factory-launch.html</guid>
+      <pubDate>Wed, 14 Oct 2026 10:15:14 GMT</pubDate>
+      <description>A new indie title that captures 8‑bit charm while adding modern quality‑of‑life tweaks.</description>
+    </item>
+    <item>
+      <title>FPGA Consoles Bridge the Gap Between Original and Modern</title>
+      <link>https://beyondmythos.com/sites/retro-pixel-press-2/posts/fpga-console-compatibility.html</link>
+      <guid>https://beyondmythos.com/sites/retro-pixel-press-2/posts/fpga-console-compatibility.html</guid>
+      <pubDate>Mon, 12 Oct 2026 21:15:14 GMT</pubDate>
+      <description>Why FPGA‑based retro consoles are becoming the go‑to hardware for purists.</description>
+    </item>
+    <item>
+      <title>Display Ideas for Showcasing Retro Collections</title>
+      <link>https://beyondmythos.com/sites/retro-pixel-press-2/posts/retro-collection-display-ideas.html</link>
+      <guid>https://beyondmythos.com/sites/retro-pixel-press-2/posts/retro-collection-display-ideas.html</guid>
+      <pubDate>Sun, 11 Oct 2026 08:15:14 GMT</pubDate>
+      <description>Creative ways to exhibit your cartridges and consoles without compromising preservation.</description>
+    </item>
+  </channel>
+</rss>

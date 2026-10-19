@@ -1,0 +1,308 @@
+[
+  {
+    "slug": "reviving-nes-hardware",
+    "title": "Reviving NES Hardware for Modern Play",
+    "category": "Hardware",
+    "dek": "How to breathe new life into original NES consoles without breaking the bank.",
+    "takeaway": "A functional NES can be restored with simple cleaning and reliable modern replacements.",
+    "whatHappened": "Collectors have been swapping out old capacitors and adding HDMI adapters to keep classic carts playable on today’s TVs.",
+    "whyItMatters": "Preserving the original hardware maintains the tactile experience that emulators can’t replicate, keeping the era’s authenticity alive.",
+    "howToThink": "Start by testing power rails, replace aged components, and consider a reversible mod that adds HDMI while keeping original outputs intact.",
+    "pros": [
+      "Authentic feel",
+      "Improved reliability",
+      "Future‑proof video output"
+    ],
+    "cons": [
+      "Time‑consuming",
+      "Potential for damage",
+      "Limited part availability"
+    ],
+    "watchOut": "Never power the console before confirming all solder joints are solid.",
+    "faq": [
+      {
+        "q": "Do I need a soldering iron?",
+        "a": "A basic iron and some practice are enough for most capacitor swaps."
+      },
+      {
+        "q": "Can I keep the original RF output?",
+        "a": "Yes, many adapters let you toggle between HDMI and the original RF connector."
+      },
+      {
+        "q": "Is it safe to use third‑party HDMI mods?",
+        "a": "Choose reputable kits and follow the instructions to avoid short circuits."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "tags": [
+      "restoration",
+      "NES"
+    ],
+    "publishedAt": "2026-10-19T01:15:14.966Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "mega-man-2-speedrun-tactics",
+    "title": "Mega Man 2 Speedrun Tactics for Sub‑4‑Minute Runs",
+    "category": "Speedruns",
+    "dek": "Practical tricks to shave seconds off your Mega Man 2 personal best.",
+    "takeaway": "Optimizing weapon selection and precise frame‑perfect jumps can push you under the 4‑minute barrier.",
+    "whatHappened": "The community has identified a shortcut through the Wily Castle that skips a redundant boss intro, saving valuable frames.",
+    "whyItMatters": "Every saved frame translates directly into leaderboard positions, especially in tight time brackets.",
+    "howToThink": "Practice the timing of the slide move to cancel animation lag, and use the Metal Blade on the first boss to avoid a costly hit.",
+    "pros": [
+      "Clear frame gains",
+      "Reusable across levels",
+      "No external tools needed"
+    ],
+    "cons": [
+      "High skill ceiling",
+      "Requires consistent practice",
+      "Risk of mis‑execution"
+    ],
+    "watchOut": "A single mistimed jump can add several seconds, undoing all prior gains.",
+    "faq": [
+      {
+        "q": "Do I need a controller mod?",
+        "a": "Standard controllers work; focus on muscle memory."
+      },
+      {
+        "q": "Is the shortcut legal in all categories?",
+        "a": "It is accepted in any non‑tool‑assisted category."
+      },
+      {
+        "q": "How many practice runs are typical?",
+        "a": "Most runners spend dozens of attempts to internalize the timing."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "tags": [
+      "MegaMan2",
+      "speedrun"
+    ],
+    "publishedAt": "2026-10-17T12:15:14.966Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "preserving-rom-hacks",
+    "title": "Preserving ROM Hacks Before They Vanish",
+    "category": "Preservation",
+    "dek": "A workflow to archive fan‑made ROM hacks safely for future generations.",
+    "takeaway": "Storing original source files and documentation ensures hacks survive beyond the original host sites.",
+    "whatHappened": "Several popular hacks have disappeared after their hosting forums shut down, prompting a push for decentralized backups.",
+    "whyItMatters": "Without proper archiving, cultural artifacts of the retro scene risk being lost, erasing community creativity.",
+    "howToThink": "Create a checksum‑verified zip of the patched ROM, include a README with patch notes, and push to a public Git repository or archival service.",
+    "pros": [
+      "Redundant safety",
+      "Easy community access",
+      "Version tracking"
+    ],
+    "cons": [
+      "Potential copyright concerns",
+      "Requires basic Git knowledge",
+      "Storage costs over time"
+    ],
+    "watchOut": "Respect original creators’ wishes; some may prefer their work stay offline.",
+    "faq": [
+      {
+        "q": "Can I archive commercial ROMs?",
+        "a": "Only if you own the original cartridge and the law permits personal backups."
+      },
+      {
+        "q": "What format is best?",
+        "a": "A clean ROM plus a .bps patch keeps the base file unchanged."
+      },
+      {
+        "q": "Is a public repo necessary?",
+        "a": "It’s optional, but it adds redundancy beyond personal drives."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "tags": [
+      "ROMhacks",
+      "archival"
+    ],
+    "publishedAt": "2026-10-15T23:15:14.966Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "indie-retro-pixel-factory-launch",
+    "title": "Indie Retro Pixel Factory Launches on Switch",
+    "category": "Indie",
+    "dek": "A new indie title that captures 8‑bit charm while adding modern quality‑of‑life tweaks.",
+    "takeaway": "Pixel Factory offers nostalgic gameplay with a built‑in save state system that respects the retro feel.",
+    "whatHappened": "The developer released a demo that quickly spread through retro forums, highlighting its pixel art and chiptune soundtrack.",
+    "whyItMatters": "It shows that indie creators can blend authentic retro aesthetics with conveniences that modern players expect.",
+    "howToThink": "Treat the game like a classic cartridge: use the save states sparingly to retain challenge, and explore hidden levels that reward pixel‑perfect skill.",
+    "pros": [
+      "Authentic visuals",
+      "Chiptune soundtrack",
+      "Optional modern aids"
+    ],
+    "cons": [
+      "Limited replay depth",
+      "Short main campaign",
+      "No multiplayer"
+    ],
+    "watchOut": "Relying too heavily on save states can diminish the intended difficulty.",
+    "faq": [
+      {
+        "q": "Is the game available on other platforms?",
+        "a": "Currently only on Switch, with a PC port announced later."
+      },
+      {
+        "q": "Does it support external controllers?",
+        "a": "Yes, any standard Switch controller works."
+      },
+      {
+        "q": "Are there cheat codes?",
+        "a": "No built‑in cheats, but the save system can be used for practice."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "tags": [
+      "PixelFactory",
+      "indie"
+    ],
+    "publishedAt": "2026-10-14T10:15:14.966Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "fpga-console-compatibility",
+    "title": "FPGA Consoles Bridge the Gap Between Original and Modern",
+    "category": "Hardware",
+    "dek": "Why FPGA‑based retro consoles are becoming the go‑to hardware for purists.",
+    "takeaway": "Field‑Programmable Gate Arrays replicate original chip behavior without the wear of aging silicon.",
+    "whatHappened": "Several manufacturers released open‑source FPGA cores that run classic titles with cycle‑accurate timing.",
+    "whyItMatters": "Accurate timing preserves glitches and speedrun tricks that depend on hardware quirks, keeping the experience faithful.",
+    "howToThink": "Choose a board with documented cores, flash the desired system, and pair with original controllers via adapters for the full feel.",
+    "pros": [
+      "Cycle‑accurate",
+      "Low maintenance",
+      "Expandable cores"
+    ],
+    "cons": [
+      "Higher upfront cost",
+      "Learning curve for flashing",
+      "Potential compatibility gaps"
+    ],
+    "watchOut": "Verify that your controller adapters support the specific input timing required for speedruns.",
+    "faq": [
+      {
+        "q": "Can I play cartridges directly?",
+        "a": "Not without a separate cartridge interface, which many boards lack."
+      },
+      {
+        "q": "Is firmware updating risky?",
+        "a": "Follow the official guide; accidental flashes can brick the board."
+      },
+      {
+        "q": "Do FPGA consoles support save states?",
+        "a": "Some offer built‑in saves, but they can be disabled for pure hardware runs."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "tags": [
+      "FPGA",
+      "hardware"
+    ],
+    "publishedAt": "2026-10-12T21:15:14.966Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "retro-collection-display-ideas",
+    "title": "Display Ideas for Showcasing Retro Collections",
+    "category": "Preservation",
+    "dek": "Creative ways to exhibit your cartridges and consoles without compromising preservation.",
+    "takeaway": "Display solutions that balance visibility and proper environmental control keep your collection safe and attractive.",
+    "whatHappened": "Collectors have moved from dusty shelves to UV‑filtered glass cases with modular shelving that allows easy swapping.",
+    "whyItMatters": "Improper lighting and humidity accelerate degradation, so thoughtful display extends the life of valuable items.",
+    "howToThink": "Use acrylic cases with UV coating, keep temperature stable, and organize by platform to simplify inventory.",
+    "pros": [
+      "Improved aesthetics",
+      "Protection from UV",
+      "Easy access"
+    ],
+    "cons": [
+      "Initial cost",
+      "Space requirements",
+      "Potential for accidental handling"
+    ],
+    "watchOut": "Avoid direct sunlight even through glass; it can still cause fading over time.",
+    "faq": [
+      {
+        "q": "Are metal shelves safe?",
+        "a": "Yes, as long as they are coated to prevent rust."
+      },
+      {
+        "q": "Do I need humidity control?",
+        "a": "A simple hygrometer and occasional dehumidifier help maintain safe levels."
+      },
+      {
+        "q": "Can I display opened cartridges?",
+        "a": "Open cases expose the label; keep them sealed if you want to preserve original packaging."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "tags": [
+      "display",
+      "preservation"
+    ],
+    "publishedAt": "2026-10-11T08:15:14.966Z",
+    "readMinutes": 2
+  }
+]
