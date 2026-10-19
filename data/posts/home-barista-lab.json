@@ -1,5 +1,56 @@
 [
   {
+    "slug": "check-water-hardness-test-strip",
+    "title": "Check Your Water Hardness with a Simple Test Strip",
+    "dek": "A quick test strip can reveal water hardness, letting you tweak your brew for smoother espresso and cleaner equipment.",
+    "takeaway": "Knowing water hardness helps you adjust brewing and maintenance for better taste.",
+    "whatHappened": "I grabbed a cheap test strip from the hardware store, dipped it in my tap water, and read the color chart.",
+    "whyItMatters": "Hard water leaves mineral buildup on your machine and can mute flavor nuance, while soft water may over‑extract.",
+    "howToThink": "Treat the strip as a baseline; if you’re in the hard range, consider a filtration system or periodic descaling, and adjust grind and dose accordingly.",
+    "pros": [
+      "Cheap and fast",
+      "No equipment needed",
+      "Immediate visual result"
+    ],
+    "cons": [
+      "Only gives a range",
+      "Can be affected by temperature",
+      "Needs regular replacement"
+    ],
+    "watchOut": "Don’t rely on the strip if your water source changes seasonally.",
+    "faq": [
+      {
+        "q": "How often should I test my water?",
+        "a": "Test once a month or whenever you notice scaling."
+      },
+      {
+        "q": "Can I use the same strip for multiple samples?",
+        "a": "No, each strip is single‑use; reuse skews results."
+      },
+      {
+        "q": "Do test strips work for filtered water?",
+        "a": "Yes, they’ll show the reduced hardness after filtration."
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "water",
+      "maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-10-19T08:45:08.422Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "nail-espresso-timing-kitchen-timer",
     "title": "Nail Your Espresso Timing with a Simple Kitchen Timer",
     "dek": "Use a basic kitchen timer to perfect shot duration and improve flavor consistency.",

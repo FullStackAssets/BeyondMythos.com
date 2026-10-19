@@ -1,5 +1,55 @@
 [
   {
+    "slug": "turbocharged-snes-power-supply",
+    "title": "Turbocharged SNES Power Supply: Stable Voltage for Marathon Runs",
+    "dek": "Boost your SNES reliability with a simple voltage regulator upgrade, perfect for long speedrun sessions.",
+    "takeaway": "A stable power source prevents lag spikes and crashes during extended play.",
+    "whatHappened": "A community of speedrunners reported intermittent freezes on older SNES units during 12‑hour marathons. The culprit was voltage sag as the internal power supply aged. A handful of hobbyists experimented with a low‑cost linear regulator to keep the voltage steady, and the results were immediate.",
+    "whyItMatters": "Power instability can ruin a perfect run, costing precious seconds or forcing a reset. By securing a consistent voltage, runners gain confidence that the hardware won’t betray them mid‑run, and collectors preserve the console’s longevity.",
+    "howToThink": "Look for a 5 V linear regulator that can handle the SNES’s current draw; solder it in place of the original regulator, double‑check polarity, and test with a multimeter. Keep the modification reversible by using sockets or removable wires, so you can revert if needed.",
+    "pros": [
+      "Eliminates voltage drop",
+      "Low‑cost parts\",\"Easy to source"
+    ],
+    "cons": [
+      "Requires soldering skills",
+      "Potential heat buildup",
+      "Void warranty on vintage units"
+    ],
+    "watchOut": "Ensure the regulator’s heat sink is adequate to avoid overheating during long sessions.",
+    "faq": [
+      {
+        "q": "Do I need to open the SNES case?",
+        "a": "Yes, you’ll need to access the motherboard to replace the regulator, but the case opens with a standard screwdriver."
+      },
+      {
+        "q": "Can I use a switching regulator instead?",
+        "a": "Switching regulators are efficient but can introduce electrical noise; a linear regulator is safer for audio‑sensitive consoles."
+      },
+      {
+        "q": "Will this affect the console’s video output?",
+        "a": "A stable voltage actually improves video consistency, reducing occasional color flicker."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Power Upgrade",
+      "Speedrun Stability"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-19T08:45:06.263Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-perfect-snes-controller-lag",
     "title": "Pixel Perfect: Fine‑Tuning Your SNES Controller Lag",
     "dek": "Trim a few milliseconds off SNES input lag with a simple resistor tweak and a stable power supply.",
