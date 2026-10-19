@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Enhancing Game Boy Advance Backlight for Night Runs</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-enhancing-gba-backlight.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-enhancing-gba-backlight.html</guid>
+      <pubDate>Mon, 19 Oct 2026 21:45:09 GMT</pubDate>
+      <description>Upgrade your GBA&apos;s backlight with a simple LED mod to keep the screen bright during late‑night speedruns.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Recalibrating Game Boy Color Buttons for Faster Input</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-recalibrating-game-boy-color-buttons.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-recalibrating-game-boy-color-buttons.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/hall-sensor-megadrive-mod.html</guid>
       <pubDate>Sun, 18 Oct 2026 15:45:05 GMT</pubDate>
       <description>Swap your Mega Drive&apos;s worn contacts for a Hall sensor and get smoother, drift‑free inputs without soldering the whole board.</description>
-    </item>
-    <item>
-      <title>Pixel Pulse: Adding a Capacitor to Your Gamepad for Cleaner Inputs</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-pulse-capacitor-gamepad.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-pulse-capacitor-gamepad.html</guid>
-      <pubDate>Sun, 18 Oct 2026 14:45:11 GMT</pubDate>
-      <description>A quick guide to installing a small capacitor on retro controllers to reduce input noise and boost reliability.</description>
     </item>
   </channel>
 </rss>

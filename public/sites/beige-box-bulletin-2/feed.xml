@@ -5,6 +5,13 @@
     <link>https://beyondmythos.com/sites/beige-box-bulletin-2/</link>
     <description>Fresh takes for retro computer restorers and emulation fans.</description>
     <item>
+      <title>Ask the forge: your software questions, answered</title>
+      <link>https://beyondmythos.com/sites/beige-box-bulletin-2/posts/ask-the-forge-software-4.html</link>
+      <guid>https://beyondmythos.com/sites/beige-box-bulletin-2/posts/ask-the-forge-software-4.html</guid>
+      <pubDate>Mon, 19 Oct 2026 21:45:35 GMT</pubDate>
+      <description>Straight answers to the software questions retro computer restorers and emulation fans keep asking, minus the hedging.</description>
+    </item>
+    <item>
       <title>The quiet upgrade: small tweaks in upgrades with outsized returns</title>
       <link>https://beyondmythos.com/sites/beige-box-bulletin-2/posts/quiet-upgrade-upgrades-4.html</link>
       <guid>https://beyondmythos.com/sites/beige-box-bulletin-2/posts/quiet-upgrade-upgrades-4.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://beyondmythos.com/sites/beige-box-bulletin-2/posts/breathing-new-life-apple-ii.html</guid>
       <pubDate>Sun, 18 Oct 2026 16:15:44 GMT</pubDate>
       <description>A quick guide to cleaning, re‑soldering, and testing a classic Apple II chassis.</description>
-    </item>
-    <item>
-      <title>C64 Emulation Tips for Purists</title>
-      <link>https://beyondmythos.com/sites/beige-box-bulletin-2/posts/c64-emulation-tips.html</link>
-      <guid>https://beyondmythos.com/sites/beige-box-bulletin-2/posts/c64-emulation-tips.html</guid>
-      <pubDate>Sat, 17 Oct 2026 03:15:44 GMT</pubDate>
-      <description>Practical steps to get accurate sound and timing when emulating a Commodore 64 on modern hardware.</description>
     </item>
   </channel>
 </rss>

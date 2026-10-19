@@ -1,5 +1,56 @@
 [
   {
+    "slug": "dawn-platform-birdwatch",
+    "title": "Dawn Platform Birdwatch: Low‑Impact Spotting on Rural Lines",
+    "dek": "Catch early‑morning birds from a slow train platform, leaving a tiny carbon footprint.",
+    "takeaway": "Morning platform birdwatching adds wildlife joy without adding impact.",
+    "whatHappened": "We boarded the 6:15 regional service heading north, stepped onto the quiet platform at sunrise, and watched flocks of swallows skim the tracks.",
+    "whyItMatters": "Wildlife observation encourages respect for local ecosystems and shows that slow travel can be a conduit for conservation, all while staying low‑impact.",
+    "howToThink": "Look for platforms with minimal lighting, bring a reusable water bottle, and use a simple field guide or app on a low‑energy device. Keep noise down, stay seated when trains pass, and note species without disturbing nests.",
+    "pros": [
+      "Zero emissions extra travel",
+      "Free wildlife viewing",
+      "Simple gear needed"
+    ],
+    "cons": [
+      "Limited bird activity in winter",
+      "Platforms may lack shelter",
+      "Requires early wake‑up"
+    ],
+    "watchOut": "Beware of passing trains; stay behind safety lines.",
+    "faq": [
+      {
+        "q": "Do I need special equipment?",
+        "a": "A pair of binoculars or even just good eyes and a field guide suffice."
+      },
+      {
+        "q": "Is it safe to stay on the platform?",
+        "a": "Yes, as long you stay behind the safety edge and watch for train movements."
+      },
+      {
+        "q": "Can I combine this with other activities?",
+        "a": "Absolutely – the stop often leads to nearby trails or cafés for a low‑impact brunch."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "birdwatch",
+      "rail"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-10-19T21:45:10.919Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "silent-sleeper-cars",
     "title": "Silent Sleeper Cars: Low‑Impact Restful Nights on Rural Routes",
     "dek": "Discover how to catch quiet, low‑impact sleep in sleeper cars while traversing countryside rails.",

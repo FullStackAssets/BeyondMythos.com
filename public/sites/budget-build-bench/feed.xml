@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/budget-build-bench/</link>
     <description>Fresh takes for PC builders on a budget.</description>
     <item>
+      <title>Ask the forge: your benchmarks questions, answered</title>
+      <link>https://www.beyondmythos.com/sites/budget-build-bench/posts/ask-the-forge-benchmarks-81.html</link>
+      <guid>https://www.beyondmythos.com/sites/budget-build-bench/posts/ask-the-forge-benchmarks-81.html</guid>
+      <pubDate>Mon, 19 Oct 2026 21:45:05 GMT</pubDate>
+      <description>Straight answers to the benchmarks questions PC builders on a budget keep asking, minus the hedging.</description>
+    </item>
+    <item>
       <title>The quiet upgrade: small tweaks in upgrades with outsized returns</title>
       <link>https://www.beyondmythos.com/sites/budget-build-bench/posts/quiet-upgrade-upgrades-80.html</link>
       <guid>https://www.beyondmythos.com/sites/budget-build-bench/posts/quiet-upgrade-upgrades-80.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/budget-build-bench/posts/reviving-gtx-1050-ti-secondhand-boost.html</guid>
       <pubDate>Sun, 18 Oct 2026 15:45:07 GMT</pubDate>
       <description>A used GTX 1050 Ti paired with a modest overclock can still deliver playable 1080p frames on a tight budget.</description>
-    </item>
-    <item>
-      <title>Stretching a GTX 1660 Super: 1080p performance on a shoestring</title>
-      <link>https://www.beyondmythos.com/sites/budget-build-bench/posts/gtx-1660-super-budget-1080p.html</link>
-      <guid>https://www.beyondmythos.com/sites/budget-build-bench/posts/gtx-1660-super-budget-1080p.html</guid>
-      <pubDate>Sun, 18 Oct 2026 14:45:11 GMT</pubDate>
-      <description>A pragmatic look at getting solid 1080p framerates from a GTX 1660 Super without breaking the bank.</description>
     </item>
   </channel>
 </rss>

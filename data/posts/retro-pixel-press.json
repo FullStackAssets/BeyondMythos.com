@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-boost-enhancing-gba-backlight",
+    "title": "Pixel Boost: Enhancing Game Boy Advance Backlight for Night Runs",
+    "dek": "Upgrade your GBA's backlight with a simple LED mod to keep the screen bright during late‑night speedruns.",
+    "takeaway": "A brighter screen reduces visual errors and keeps you in the zone.",
+    "whatHappened": "We swapped the original backlight diffuser for a high‑efficiency white LED strip and added a resistor to match voltage. The mod is reversible and fits inside the original housing without soldering the main board.",
+    "whyItMatters": "Dim screens force runners to squint, increasing the chance of missed inputs or wrong routes. Consistent illumination also preserves the LCD by reducing strain from low‑light conditions.",
+    "howToThink": "When planning a mod, consider power draw and heat; use a low‑current LED and a proper resistor. Test the LED on a breadboard before committing, and ensure the new component fits within the case’s clearance.",
+    "pros": [
+      "Brighter view in dark",
+      "Minimal power impact",
+      "Reversible install"
+    ],
+    "cons": [
+      "Slightly higher battery drain",
+      "Requires basic soldering",
+      "May void warranty"
+    ],
+    "watchOut": "Avoid over‑driving the LED – excess heat can damage the GBA’s internal components.",
+    "faq": [
+      {
+        "q": "Will this mod affect my battery life?",
+        "a": "It adds a small, steady draw, so expect a modest reduction in runtime, but many runners carry spare batteries for long sessions."
+      },
+      {
+        "q": "Do I need a special screwdriver?",
+        "a": "A standard tri‑wing screwdriver opens the GBA case; no specialty tools are required beyond a soldering iron."
+      },
+      {
+        "q": "Can I switch back to stock?",
+        "a": "Yes, keep the original diffuser and resistor; you can re‑install them to restore the factory setup."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Hardware",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-10-19T21:45:09.725Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-boost-recalibrating-game-boy-color-buttons",
     "title": "Pixel Boost: Recalibrating Game Boy Color Buttons for Faster Input",
     "dek": "Fine-tune your Game Boy Color's button feel to shave precious milliseconds off your runs.",

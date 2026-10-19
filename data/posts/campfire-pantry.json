@@ -1,5 +1,56 @@
 [
   {
+    "slug": "quiet-upgrade-prep-68",
+    "title": "The quiet upgrade: small tweaks in prep with outsized returns",
+    "dek": "No purchases, no overhauls — the modest prep adjustments that camp cooks and weekend backpackers report mattering most.",
+    "takeaway": "The best upgrades in prep are adjustments, not acquisitions. Most cost nothing but attention.",
+    "whatHappened": "Ask experienced camp cooks and weekend backpackers what changed their results and the answers are strikingly modest: a tweak to routine, a default swapped, a habit moved earlier in the day. We collected the small changes that keep appearing in those answers.",
+    "whyItMatters": "The upgrade path everyone markets requires spending. The one that works requires noticing. Small adjustments compound daily, which is a rate no purchase matches.",
+    "howToThink": "Once a month, change one default in your prep routine and watch for a week. Keep what helps, revert what doesn't, and write down which was which.",
+    "pros": [
+      "Free or nearly free",
+      "Compounds with repetition",
+      "Reversible in minutes"
+    ],
+    "cons": [
+      "Invisible on social media",
+      "Requires actually paying attention",
+      "No unboxing dopamine"
+    ],
+    "watchOut": "Don't stack five changes at once — you'll never know which one worked, and you'll revert the good one with the bad.",
+    "faq": [
+      {
+        "q": "What's the highest-leverage small change?",
+        "a": "Moving your session to the time of day you're least likely to skip. Adherence beats optimization."
+      },
+      {
+        "q": "How do I find my own quiet upgrades?",
+        "a": "Your log. The pattern you're annoyed by weekly is the upgrade waiting to happen."
+      },
+      {
+        "q": "When is buying actually the answer?",
+        "a": "When the same friction survives three free fixes. Then spend without guilt."
+      }
+    ],
+    "category": "Prep",
+    "tags": [
+      "Prep",
+      "Cleanup"
+    ],
+    "sources": [
+      {
+        "label": "r/trailmeals community threads",
+        "url": "https://www.reddit.com/r/trailmeals/"
+      },
+      {
+        "label": "Search interest: \"backpacking food ideas\"",
+        "url": "https://duckduckgo.com/?q=backpacking%20food%20ideas"
+      }
+    ],
+    "publishedAt": "2026-10-19T21:45:32.312Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-easy-camping-meals-22",
     "title": "Myth vs. reality: easy camping meals",
     "dek": "The persistent myths around easy camping meals, stress-tested against what camp cooks and weekend backpackers actually report.",
