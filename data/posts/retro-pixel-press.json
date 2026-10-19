@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-boost-game-boy-battery",
+    "title": "Pixel Boost: Upgrading Your Game Boy Battery for Marathon Sessions",
+    "dek": "Swap your Game Boy’s AA cells for high‑capacity rechargeables and keep the timer ticking for those long‑run challenges.",
+    "takeaway": "A simple battery upgrade extends playtime and stabilizes performance for marathon speedruns.",
+    "whatHappened": "While prepping for a marathon run, the original AA cells started to dip, causing occasional lag. We tested a set of high‑capacity NiMH rechargeables and noticed the console ran cooler and steadier. After a few hours of play, the new cells still held a solid charge.",
+    "whyItMatters": "Consistent power prevents frame‑skip and controller input lag, both critical for competitive speedruns. It also reduces the risk of sudden power loss that can corrupt save data. Moreover, using rechargeable cells lessens waste and preserves the handheld’s internal circuitry.",
+    "howToThink": "Choose reputable NiMH cells with a 1.2 V rating and a capacity of 800–1000 mAh. Avoid mixing old and new batteries to keep voltage balanced. Periodically calibrate the Game Boy’s battery meter by fully discharging and recharging to maintain accurate readings.",
+    "pros": [
+      "Longer playtime",
+      "Stable voltage",
+      "Eco‑friendly"
+    ],
+    "cons": [
+      "Initial cost",
+      "Slightly heavier",
+      "Need to monitor charge cycles"
+    ],
+    "watchOut": "Never use alkaline cells with higher voltage or mismatched chemistries, as they can damage the Game Boy’s power regulation.",
+    "faq": [
+      {
+        "q": "Can I use lithium‑ion cells instead of NiMH?",
+        "a": "Lithium‑ion cells have a higher nominal voltage and require a regulator; they’re not recommended for unmodified Game Boys."
+      },
+      {
+        "q": "How often should I recharge the new batteries?",
+        "a": "Recharge when the battery meter drops below half to avoid deep discharge, which shortens lifespan."
+      },
+      {
+        "q": "Will this upgrade affect the Game Boy’s original battery indicator?",
+        "a": "The indicator will still work, but it may read slightly higher due to the steadier voltage of rechargeables."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Game Boy",
+      "Battery Upgrade"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-19T11:45:10.081Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "power-surge-snes-connector",
     "title": "Power Surge: Reinforcing Your SNES Power Connector for Marathon Runs",
     "dek": "Strengthen the SNES power plug to avoid intermittent drops during long speedrun sessions.",

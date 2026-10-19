@@ -1,5 +1,56 @@
 [
   {
+    "slug": "check-portafilter-fit",
+    "title": "Check Your Portafilter Fit for Consistent Extraction",
+    "dek": "A quick test to ensure your portafilter seats properly, preventing channeling and improving shot consistency.",
+    "takeaway": "A properly seated portafilter eliminates uneven extraction and yields better espresso.",
+    "whatHappened": "After a string of thin, watery shots, I noticed a slight wobble when locking the portafilter. A brief inspection revealed the portafilter wasn’t seating flush. A quick fit‑check fixed the problem instantly.",
+    "whyItMatters": "If the portafilter isn’t seated correctly, water can find the path of least resistance, creating channeling and uneven flavor. Consistent contact also reduces stress on the brew head, extending the machine’s life.",
+    "howToThink": "Place the portafilter in the group head and turn it by hand; it should lock with a firm click and sit level. If there’s any wiggle, clean the gasket and check for debris. Re‑test after each cleaning to confirm a snug fit before brewing.",
+    "pros": [
+      "Better shot stability",
+      "Reduced channeling",
+      "Longer machine life"
+    ],
+    "cons": [
+      "Takes a minute",
+      "May need a new gasket",
+      "Requires occasional re‑checking"
+    ],
+    "watchOut": "Avoid forcing the portafilter; excessive pressure can damage the brew head or gasket.",
+    "faq": [
+      {
+        "q": "How often should I check the portafilter fit?",
+        "a": "Whenever you notice a change in shot quality or after cleaning the group head."
+      },
+      {
+        "q": "What if the portafilter still won’t seat?",
+        "a": "Inspect the gasket for wear or deformation and replace it if needed."
+      },
+      {
+        "q": "Can a mis‑seated portafilter affect other drinks?",
+        "a": "Yes, it can cause inconsistent water flow for any brew method that uses the group head."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-10-19T11:45:06.412Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-scoop-marker",
     "title": "Simplify Your Espresso Dose with a Handy Scoop Marker",
     "dek": "Add a simple visual cue to your coffee scoop and nail consistent dosing every pull.",

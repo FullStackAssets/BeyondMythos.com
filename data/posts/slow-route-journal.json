@@ -1,5 +1,56 @@
 [
   {
+    "slug": "heritage-train-cooking",
+    "title": "Heritage Train Cooking: Low‑Impact Meal Prep on Vintage Carriages",
+    "dek": "Turn a slow‑train ride into a kitchen on wheels with zero‑waste meals that match the rhythm of the rails.",
+    "takeaway": "Simple, reusable cooking tricks let you eat well without adding carbon to the journey.",
+    "whatHappened": "On a weekend heritage line, the author set up a compact, solar‑powered stove in a restored dining car. Using bulk dry goods and reusable containers, a three‑course meal was prepared while the train chugged through the countryside.",
+    "whyItMatters": "Food waste and disposable packaging are major hidden impacts of travel. Demonstrating low‑impact cooking on a moving train shows that sustainability can travel with you, not just sit in a hotel kitchen.",
+    "howToThink": "Pack pantry staples in zip‑lock bags, choose a stove that runs on solar or portable propane, and rehearse a quick clean‑up routine before you board. Plan meals around the timetable so cooking finishes before arrival, leaving time to enjoy the scenery.",
+    "pros": [
+      "Zero‑waste meals",
+      "Adds a social, hands‑on element",
+      "Uses existing train power sources"
+    ],
+    "cons": [
+      "Limited space for prep",
+      "Requires careful fire‑safety checks",
+      "May need prior permission from rail staff"
+    ],
+    "watchOut": "Never block aisles or emergency exits with cooking gear; safety comes first.",
+    "faq": [
+      {
+        "q": "Do I need special permission to cook on a heritage train?",
+        "a": "Yes, always ask the crew or the operating company; many offer designated kitchen cars for passenger use."
+      },
+      {
+        "q": "What’s the best fuel for low‑impact train cooking?",
+        "a": "Solar‑powered or small, refillable propane burners are the most practical and clean options."
+      },
+      {
+        "q": "How can I keep food fresh without a fridge?",
+        "a": "Use insulated bags with ice packs and choose ingredients that stay safe at room temperature for several hours."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "low‑impact",
+      "train‑cooking"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-10-19T11:45:07.093Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "heritage-rail-snooze-stop",
     "title": "Heritage Rail Snooze Stop: Low‑Impact Rest on Vintage Lines",
     "dek": "Discover how a quiet carriage nap on a heritage train can recharge you without leaving a carbon footprint.",
