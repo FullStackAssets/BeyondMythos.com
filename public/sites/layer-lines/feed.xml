@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/layer-lines/</link>
     <description>Fresh takes for home 3D-printing hobbyists.</description>
     <item>
+      <title>Ask the forge: your upgrades questions, answered</title>
+      <link>https://www.beyondmythos.com/sites/layer-lines/posts/ask-the-forge-upgrades-76.html</link>
+      <guid>https://www.beyondmythos.com/sites/layer-lines/posts/ask-the-forge-upgrades-76.html</guid>
+      <pubDate>Mon, 19 Oct 2026 14:45:28 GMT</pubDate>
+      <description>Straight answers to the upgrades questions home 3D-printing hobbyists keep asking, minus the hedging.</description>
+    </item>
+    <item>
       <title>The quiet upgrade: small tweaks in design with outsized returns</title>
       <link>https://www.beyondmythos.com/sites/layer-lines/posts/quiet-upgrade-design-75.html</link>
       <guid>https://www.beyondmythos.com/sites/layer-lines/posts/quiet-upgrade-design-75.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/layer-lines/posts/design-pre-spend-checklist-70.html</guid>
       <pubDate>Wed, 26 Aug 2026 14:26:01 GMT</pubDate>
       <description>Seven questions that separate a justified design purchase from an expensive mood.</description>
-    </item>
-    <item>
-      <title>Fine-tuning Z-axis backlash for smoother prints</title>
-      <link>https://www.beyondmythos.com/sites/layer-lines/posts/fine-tune-z-axis-backlash.html</link>
-      <guid>https://www.beyondmythos.com/sites/layer-lines/posts/fine-tune-z-axis-backlash.html</guid>
-      <pubDate>Wed, 26 Aug 2026 13:40:21 GMT</pubDate>
-      <description>A quick guide to diagnosing and eliminating Z‑axis backlash on budget printers.</description>
     </item>
   </channel>
 </rss>

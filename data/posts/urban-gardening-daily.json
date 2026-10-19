@@ -1,5 +1,56 @@
 [
   {
+    "slug": "mini-green-walls-balcony-rails",
+    "title": "Mini Green Walls: Turning Balcony Rails into Living Art",
+    "dek": "Transform your balcony rail into a thriving vertical garden with simple pocket planters.",
+    "takeaway": "Even narrow rail spaces can host productive, attractive plant displays.",
+    "whatHappened": "Gardeners are swapping plain railings for modular pocket planters, creating a splash of green on otherwise barren balconies. The trend caught on after a handful of DIY videos showed how easy it is to install.",
+    "whyItMatters": "A vertical rail garden maximizes limited square footage while improving air quality and mood. It also adds visual interest that can boost the overall appeal of a compact living space.",
+    "howToThink": "Choose lightweight, breathable fabric pockets or recycled plastic trays that attach securely with brackets. Fill with a well‑draining mix and plant shallow‑rooted herbs, succulents, or trailing vines. Water from the top and monitor for wind‑driven drying.",
+    "pros": [
+      "Space‑saving",
+      "Easy watering",
+      "Eye‑catching"
+    ],
+    "cons": [
+      "Limited soil depth",
+      "Potential wind exposure",
+      "Needs regular feeding"
+    ],
+    "watchOut": "Heavy rain can dislodge soil from the rail, so secure the pockets and use a drip tray.",
+    "faq": [
+      {
+        "q": "Can I grow vegetables in rail planters?",
+        "a": "Yes, fast‑growing varieties like lettuce, radish, and herbs thrive in shallow containers."
+      },
+      {
+        "q": "What mounting hardware is safest?",
+        "a": "Stainless‑steel brackets or zip‑tied clamps designed for balcony rail dimensions work best."
+      },
+      {
+        "q": "How often should I fertilize?",
+        "a": "A light, balanced liquid feed once a month keeps plants healthy without overloading the limited soil."
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "vertical",
+      "DIY"
+    ],
+    "sources": [
+      {
+        "label": "r/UrbanGardening community threads",
+        "url": "https://www.reddit.com/r/UrbanGardening/"
+      },
+      {
+        "label": "Search interest: \"balcony garden ideas\"",
+        "url": "https://duckduckgo.com/?q=balcony%20garden%20ideas"
+      }
+    ],
+    "publishedAt": "2026-10-19T14:45:09.139Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "reflect-boost-balcony-light",
     "title": "Reflective Boost: Harnessing Light on Tiny Balconies",
     "dek": "Add cheap reflective panels to your balcony to double the light your herbs get without moving a pot.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-crema-temp-check",
+    "title": "Boost Your Espresso Crema with a Simple Portafilter Temperature Check",
+    "dek": "A quick tip to warm your portafilter for richer crema without buying new gear.",
+    "takeaway": "A warm portafilter can noticeably improve crema and flavor consistency.",
+    "whatHappened": "I noticed my espresso shots often lacked a thick crema on colder mornings. A simple test with a warmed portafilter revived the crema in minutes.",
+    "whyItMatters": "Crema is the visual and flavor bridge of a good espresso; inconsistent crema signals temperature instability that can mask extraction issues.",
+    "howToThink": "Heat your portafilter by running hot water over it for a few seconds or placing it on a low‑heat surface for a minute before brewing. Dry it quickly, then lock it in as usual. This adds a few degrees of stability to the brew water contact.",
+    "pros": [
+      "Instant crema boost",
+      "No extra equipment needed",
+      "Easy to repeat daily"
+    ],
+    "cons": [
+      "Adds a tiny extra step",
+      "Needs hot water source",
+      "May slightly increase brew temperature"
+    ],
+    "watchOut": "Avoid overheating the portafilter; extreme heat can warp the metal and affect fit.",
+    "faq": [
+      {
+        "q": "How long should I heat the portafilter?",
+        "a": "Around 30‑60 seconds of hot water exposure is enough to raise its temperature without risk."
+      },
+      {
+        "q": "Will this affect my brew time?",
+        "a": "The slight temperature increase may shave a second or two off the shot, often improving consistency."
+      },
+      {
+        "q": "Can I use this with a stainless steel portafilter?",
+        "a": "Yes, stainless steel responds well to brief heating and returns to ambient quickly."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "crema",
+      "temperature"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-10-19T14:45:07.271Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "adjust-group-temp",
     "title": "Fine‑Tune Your Espresso Group Temperature for Consistent Shots",
     "dek": "A few simple steps let you dial in the group temperature and keep your espresso tasting steady day to day.",

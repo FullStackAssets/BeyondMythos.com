@@ -1,5 +1,56 @@
 [
   {
+    "slug": "twilight-train-journaling",
+    "title": "Twilight Train Journaling: Low‑Impact Storytelling on Rural Lines",
+    "dek": "Capture the evening mood on a slow train while keeping your carbon footprint light.",
+    "takeaway": "Even a short ride can become a creative low‑impact ritual.",
+    "whatHappened": "We boarded a late‑afternoon regional train through rolling farmland, set up a small notebook, and let the rhythm of the rails guide our words.",
+    "whyItMatters": "Storytelling anchors memories, turning fleeting scenery into lasting narratives without adding waste or extra travel.",
+    "howToThink": "Treat each carriage stop as a prompt, jot quick observations, and use recycled paper or a digital app powered by renewable energy.",
+    "pros": [
+      "Minimal waste",
+      "Boosts mindfulness",
+      "Easy to start"
+    ],
+    "cons": [
+      "Limited space",
+      "Can be noisy",
+      "Requires discipline"
+    ],
+    "watchOut": "Beware of bright cabin lights that can strain your eyes during night sections.",
+    "faq": [
+      {
+        "q": "Do I need a special notebook?",
+        "a": "A small recycled notebook or a tablet with solar charging works fine."
+      },
+      {
+        "q": "Can I share my entries publicly?",
+        "a": "Yes, just ensure you respect fellow passengers’ privacy."
+      },
+      {
+        "q": "What if the train is crowded?",
+        "a": "Find a quiet corner or pause writing until you have a calm moment."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "journaling"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-10-19T14:45:08.552Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "railway-library-carriage",
     "title": "Railway Library Carriage: Low‑Impact Reading Nooks on Rural Lines",
     "dek": "Turn idle train rides into quiet reading retreats with portable, low-impact library carriages.",

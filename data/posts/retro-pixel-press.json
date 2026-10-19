@@ -1,5 +1,55 @@
 [
   {
+    "slug": "pixel-boost-reinforce-gb-link-port",
+    "title": "Pixel Boost: Reinforcing Your Game Boy Link Port for Faster Speedrun Sync",
+    "dek": "A quick mod to stiffen the Game Boy link port, cutting disconnects during marathon runs.",
+    "takeaway": "A sturdier link port means fewer dropouts and smoother multiplayer marathons.",
+    "whatHappened": "While testing a long‑distance co‑op run, the Game Boy link cable kept loosening, causing intermittent freezes. I added a simple reinforcement using a small piece of heat‑shrink tubing and a dab of conductive epoxy. The connection stayed rock‑solid for the entire session.",
+    "whyItMatters": "Link‑port instability can ruin a speedrun attempt and waste hours of practice. By securing the connector, runners keep their focus on the game instead of troubleshooting hardware hiccups. The same fix helps collectors preserve the integrity of their hardware during frequent play.",
+    "howToThink": "Start with a clean link port, apply a thin layer of conductive epoxy around the pins, then slide heat‑shrink tubing over the joint and heat it evenly. Test the connection with a known‑good cable before the next run. Keep a spare set of reinforcement parts in your toolkit for quick swaps.",
+    "pros": [
+      "Eliminates random disconnects",
+      "Low‑cost materials\",\"Easy to apply"
+    ],
+    "cons": [
+      "Requires careful handling of epoxy",
+      "Adds a tiny amount of bulk",
+      "May void warranty if console is still covered"
+    ],
+    "watchOut": "Avoid excess epoxy that could spill onto the circuit board and cause shorts.",
+    "faq": [
+      {
+        "q": "Will this mod affect the Game Boy's original warranty?",
+        "a": "If the device is still under warranty, any alteration could void it, so weigh the risk before proceeding."
+      },
+      {
+        "q": "Can I use regular hot glue instead of conductive epoxy?",
+        "a": "Regular glue insulates the pins, so it won’t improve conductivity; conductive epoxy is recommended for a reliable connection."
+      },
+      {
+        "q": "Is heat‑shrink tubing necessary?",
+        "a": "It secures the epoxy and adds strain relief, but you can use a small piece of electrical tape as a temporary fix."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Game Boy",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-19T14:45:07.955Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "heatwave-nes-heat-sink",
     "title": "Heatwave: Installing a Simple NES Heat Sink for Longer Runs",
     "dek": "A quick guide to adding a low‑cost heat sink to your NES, keeping it cool for marathon speedruns.",
