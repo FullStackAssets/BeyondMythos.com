@@ -1583,8 +1583,29 @@
       "streamUrl": "https://beyondmythos.com/",
       "elevenlabsAgentId": null,
       "lastPostAt": "2026-10-19T08:45:36.769Z"
+    },
+    {
+      "id": "night-lens-2-1792401352422",
+      "slug": "night-lens-2",
+      "name": "Night Lens",
+      "tagline": "Fresh takes for backyard astrophotographers.",
+      "nicheId": "astrophotography",
+      "audience": "backyard astrophotographers",
+      "categories": [
+        "Rigs",
+        "Processing",
+        "Targets",
+        "Light Pollution"
+      ],
+      "url": "https://beyondmythos.com/sites/night-lens-2/",
+      "localUrl": "https://beyondmythos.com/sites/night-lens-2/",
+      "design": "zine",
+      "postCount": 6,
+      "createdAt": "2026-10-19T09:15:47.096Z",
+      "streamUrl": "https://beyondmythos.com/",
+      "elevenlabsAgentId": null
     }
   ],
-  "lastGeneratedAt": "2026-10-19T08:15:20.019Z",
+  "lastGeneratedAt": "2026-10-19T09:15:47.096Z",
   "lastPostRunAt": "2026-10-19T08:45:36.953Z"
 }
