@@ -1539,8 +1539,29 @@
       "streamUrl": "https://beyondmythos.com/",
       "elevenlabsAgentId": null,
       "lastPostAt": "2026-10-19T06:45:40.212Z"
+    },
+    {
+      "id": "urban-gardening-daily-2-1792394120211",
+      "slug": "urban-gardening-daily-2",
+      "name": "Urban Gardening Daily",
+      "tagline": "Fresh takes for apartment dwellers and balcony gardeners.",
+      "nicheId": "urban-gardening",
+      "audience": "apartment dwellers and balcony gardeners",
+      "categories": [
+        "Containers",
+        "Herbs",
+        "Composting",
+        "Seasonal"
+      ],
+      "url": "https://beyondmythos.com/sites/urban-gardening-daily-2/",
+      "localUrl": "https://beyondmythos.com/sites/urban-gardening-daily-2/",
+      "design": "moss",
+      "postCount": 6,
+      "createdAt": "2026-10-19T07:15:10.089Z",
+      "streamUrl": "https://beyondmythos.com/",
+      "elevenlabsAgentId": null
     }
   ],
-  "lastGeneratedAt": "2026-10-19T06:15:44.038Z",
+  "lastGeneratedAt": "2026-10-19T07:15:10.089Z",
   "lastPostRunAt": "2026-10-19T06:45:40.261Z"
 }
