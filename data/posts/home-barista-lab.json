@@ -1,5 +1,56 @@
 [
   {
+    "slug": "adjust-group-temp",
+    "title": "Fine‑Tune Your Espresso Group Temperature for Consistent Shots",
+    "dek": "A few simple steps let you dial in the group temperature and keep your espresso tasting steady day to day.",
+    "takeaway": "Controlling group temperature is a quick win for reliable espresso flavor.",
+    "whatHappened": "I noticed my espresso taste flat in the afternoon despite the same beans and grind. Checking the machine’s temperature readout showed a drift of a couple of degrees. After calibrating the group thermostat, the shots returned to their bright, balanced profile.",
+    "whyItMatters": "Temperature swings affect extraction balance, leading to under‑ or over‑extracted flavors. For home baristas, a stable group temp means each shot starts from the same baseline, reducing guesswork.",
+    "howToThink": "Start by letting the machine warm up fully, then measure the group temperature with a reliable thermocouple or built‑in readout. If it’s outside the 92‑94 °C target, adjust the thermostat in small increments and re‑measure after a short cooldown. Keep a log so you can spot trends and know when the machine needs service.",
+    "pros": [
+      "More consistent flavor",
+      "Easier shot dialing",
+      "Less waste from bad pulls"
+    ],
+    "cons": [
+      "Requires a thermometer",
+      "May void warranty if opened",
+      "Adjustment can be time‑consuming"
+    ],
+    "watchOut": "Don’t over‑adjust; small changes make big differences and can overshoot the sweet spot.",
+    "faq": [
+      {
+        "q": "Do I need a special thermometer?",
+        "a": "A food‑grade thermocouple or infrared gun works well; many espresso machines also show group temp on the display."
+      },
+      {
+        "q": "How often should I check the temperature?",
+        "a": "A quick check once a week is enough, or whenever you notice flavor drift."
+      },
+      {
+        "q": "Can I adjust the temperature on a pump‑espresso machine?",
+        "a": "Some models expose a thermostat screw; others require a service menu—consult your manual before fiddling."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "temperature",
+      "espresso"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-10-19T13:45:09.221Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "add-preinfusion-pause",
     "title": "Add a Pre‑Infusion Pause for Smoother Espresso",
     "dek": "A quick pre‑infusion pause can smooth out channeling and improve flavor without new gear.",

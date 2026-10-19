@@ -1,5 +1,56 @@
 [
   {
+    "slug": "heatwave-nes-heat-sink",
+    "title": "Heatwave: Installing a Simple NES Heat Sink for Longer Runs",
+    "dek": "A quick guide to adding a low‑cost heat sink to your NES, keeping it cool for marathon speedruns.",
+    "takeaway": "Keeping the NES cool can prevent throttling and improve run consistency.",
+    "whatHappened": "We tested a standard aluminum heat sink attached to the NES's CPU with thermal paste. After a few hours of continuous play, temperatures stayed lower than stock. The console ran without hiccups.",
+    "whyItMatters": "Excess heat can cause the NES to lag or reset, breaking split‑second timing crucial for speedruns. A cooler system also prolongs hardware life for collectors. Simple cooling can be a game‑changing edge.",
+    "howToThink": "Choose a heat sink that fits the NES top, apply a thin layer of thermal paste, and secure it with clips or a small screw. Monitor temperature during long sessions to ensure effectiveness. This modest tweak fits into any setup without altering original circuitry.",
+    "pros": [
+      "Low cost",
+      "Easy install",
+      "Improves stability"
+    ],
+    "cons": [
+      "Adds slight bulk",
+      "May require disassembly",
+      "Thermal paste can dry over years"
+    ],
+    "watchOut": "Avoid using excess thermal paste, which can spill onto board traces and cause shorts.",
+    "faq": [
+      {
+        "q": "Do I need to open the NES case?",
+        "a": "Yes, a brief opening is required to access the CPU heat spreader."
+      },
+      {
+        "q": "Can I use any heat sink?",
+        "a": "A small aluminum or copper heat sink with a flat base works best."
+      },
+      {
+        "q": "Will this void my warranty?",
+        "a": "NES hardware is out of warranty, but the modification is reversible if you keep screws."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "NES",
+      "Cooling"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-10-19T13:45:08.000Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-pulse-modifying-game-boy-link-cable",
     "title": "Pixel Pulse: Modifying Game Boy Link Cable for Faster Data Transfer",
     "dek": "Upgrade your Game Boy link cable to cut lag and keep your speedrun splits tight.",

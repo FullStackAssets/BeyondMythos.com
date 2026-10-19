@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Heatwave: Installing a Simple NES Heat Sink for Longer Runs</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/heatwave-nes-heat-sink.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/heatwave-nes-heat-sink.html</guid>
+      <pubDate>Mon, 19 Oct 2026 13:45:08 GMT</pubDate>
+      <description>A quick guide to adding a low‑cost heat sink to your NES, keeping it cool for marathon speedruns.</description>
+    </item>
+    <item>
       <title>Pixel Pulse: Modifying Game Boy Link Cable for Faster Data Transfer</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-pulse-modifying-game-boy-link-cable.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-pulse-modifying-game-boy-link-cable.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/five-speedruns-mistakes-55.html</guid>
       <pubDate>Wed, 26 Aug 2026 13:40:02 GMT</pubDate>
       <description>The most common early stumbles in speedruns, and the cheap corrections that fix them for retro game collectors and speedrunners.</description>
-    </item>
-    <item>
-      <title>&quot;retro game restoration&quot; in practice: a real-world field test</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-game-restoration-field-test-20.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-game-restoration-field-test-20.html</guid>
-      <pubDate>Wed, 26 Aug 2026 12:02:38 GMT</pubDate>
-      <description>We put the most-repeated advice about retro game restoration through a month of actual use. Some of it survived.</description>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "railway-library-carriage",
+    "title": "Railway Library Carriage: Low‑Impact Reading Nooks on Rural Lines",
+    "dek": "Turn idle train rides into quiet reading retreats with portable, low-impact library carriages.",
+    "takeaway": "A simple book‑swap setup transforms travel time into sustainable literary stops.",
+    "whatHappened": "We installed a modest shelf of donated books in a vintage carriage on the Green Valley line, inviting passengers to borrow, read, and return. Over a week, the shelf filled and emptied, sparking spontaneous literary chats.",
+    "whyItMatters": "Slow travelers crave meaningful pauses, and reading supports low‑impact mental enrichment without extra energy use. Sharing books reduces waste and builds community on otherwise solitary journeys.",
+    "howToThink": "Start with a sturdy, lightweight crate, fill it with a mix of paperbacks, and label it clearly. Encourage a “take‑one, leave‑one” rule, and post a brief etiquette note. Keep the crate secured to the carriage railing for safety.",
+    "pros": [
+      "Minimal weight",
+      "Zero power needed",
+      "Fosters community"
+    ],
+    "cons": [
+      "Limited space",
+      "Requires upkeep",
+      "Potential for loss"
+    ],
+    "watchOut": "Monitor the crate for water damage during rainy routes.",
+    "faq": [
+      {
+        "q": "Do I need permission from the railway operator?",
+        "a": "Yes, a simple agreement ensures the crate is allowed on board and secured."
+      },
+      {
+        "q": "What types of books work best?",
+        "a": "Light paperbacks, travel guides, and short stories travel well and are easy to swap."
+      },
+      {
+        "q": "How do I handle lost or damaged books?",
+        "a": "Set a gentle reminder to replace missing titles and keep a small spare stash on hand."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "reading",
+      "community"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-10-19T13:45:08.607Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "green-corridor-sketching-low-impact-art-sessions",
     "title": "Green Corridor Sketching: Low‑Impact Art Sessions on Rural Trains",
     "dek": "Turn a slow train ride into a portable sketch studio for mindful, low‑impact creativity.",

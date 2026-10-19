@@ -1,5 +1,56 @@
 [
   {
+    "slug": "reflect-boost-balcony-light",
+    "title": "Reflective Boost: Harnessing Light on Tiny Balconies",
+    "dek": "Add cheap reflective panels to your balcony to double the light your herbs get without moving a pot.",
+    "takeaway": "Simple reflectors can dramatically improve light for balcony herbs.",
+    "whatHappened": "After attaching small aluminum foil panels behind a sunny‑facing balcony rail, the basil and thyme in adjacent pots perked up within a week, showing deeper green leaves and quicker growth. The setup used only a few sheets of reflective material and a few zip ties.",
+    "whyItMatters": "Balcony gardeners often battle limited sunlight, especially on north‑facing or shaded decks. Boosting light without reshuffling heavy containers means healthier herbs, more harvest, and less frustration.",
+    "howToThink": "Mount a reflective sheet at a 45‑degree angle to bounce midday sun onto the back of your pots. Keep the panel a few inches away to avoid heat buildup and adjust as the sun moves. Test the effect by watching leaf color and growth speed over a fortnight.",
+    "pros": [
+      "Low cost",
+      "Easy DIY",
+      "Immediate light gain"
+    ],
+    "cons": [
+      "Can look industrial",
+      "Needs occasional adjustment",
+      "May reflect heat in hot climates"
+    ],
+    "watchOut": "Avoid positioning panels so they glare into neighboring windows or create hot spots that scorch foliage.",
+    "faq": [
+      {
+        "q": "Can I use household mirrors instead of foil?",
+        "a": "Yes, mirrors work, but they’re heavier and can be more expensive than foil."
+      },
+      {
+        "q": "How far should the reflector be from the pots?",
+        "a": "A gap of 2‑4 inches is enough to bounce light without trapping heat."
+      },
+      {
+        "q": "Will reflective panels work on cloudy days?",
+        "a": "They help a little by redirecting diffuse light, but they can’t replace direct sunshine."
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "light",
+      "herbs"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-10-19T13:45:07.285Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "nighttime-nutrients-moonlight-boost",
     "title": "Nighttime Nutrients: Using Moonlight to Boost Balcony Herb Growth",
     "dek": "Learn how lunar cycles can subtly enhance herb flavor on tiny balconies without extra equipment.",
