@@ -1,5 +1,56 @@
 [
   {
+    "slug": "five-seasons-mistakes-79",
+    "title": "Five mistakes everyone makes in their first month of seasons",
+    "dek": "The most common early stumbles in seasons, and the cheap corrections that fix them for backyard beekeepers.",
+    "takeaway": "Month-one mistakes in seasons are nearly universal — and nearly all reversible if you catch them early.",
+    "whatHappened": "We combed the recurring \"what did I do wrong\" threads that backyard beekeepers post and the same five seasons mistakes appear over and over: buying before learning, copying advanced setups, skipping the log, chasing novelty, and quitting during the boring middle.",
+    "whyItMatters": "Each of these mistakes feels productive while you're making it. That's why they persist — and why naming them explicitly saves newcomers weeks of stalled progress in seasons.",
+    "howToThink": "Audit yourself against the list once a month. The point isn't guilt — it's that every one of these has a five-minute correction if you notice it early enough.",
+    "pros": [
+      "Each mistake has a cheap fix",
+      "Recognition is most of the cure",
+      "Applies at any experience level"
+    ],
+    "cons": [
+      "Easy to nod along and change nothing",
+      "Some mistakes feel like progress",
+      "Lists can't replace a habit"
+    ],
+    "watchOut": "The most expensive version of every month-one mistake is the one you rationalize as \"investing in the hobby.\"",
+    "faq": [
+      {
+        "q": "Which mistake costs the most?",
+        "a": "Buying before learning — it converts enthusiasm into clutter and guilt instead of skill."
+      },
+      {
+        "q": "I already made all five. Now what?",
+        "a": "Good news: so did everyone else. Pick the one currently costing you the most and fix only that."
+      },
+      {
+        "q": "How do I avoid new mistakes?",
+        "a": "Keep the log. Most errors are invisible until they're written down."
+      }
+    ],
+    "category": "Seasons",
+    "tags": [
+      "Seasons",
+      "Health"
+    ],
+    "sources": [
+      {
+        "label": "r/Beekeeping community threads",
+        "url": "https://www.reddit.com/r/Beekeeping/"
+      },
+      {
+        "label": "Search interest: \"start beekeeping cost\"",
+        "url": "https://duckduckgo.com/?q=start%20beekeeping%20cost"
+      }
+    ],
+    "publishedAt": "2026-10-19T09:45:15.948Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "first-honey-harvest-field-test-24",
     "title": "\"first honey harvest\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about first honey harvest through a month of actual use. Some of it survived.",

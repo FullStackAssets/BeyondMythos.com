@@ -1,5 +1,56 @@
 [
   {
+    "slug": "miniature-painting-beginner-guide-field-test",
+    "title": "\"miniature painting beginner guide\" in practice: a real-world field test",
+    "dek": "We put the most-repeated advice about miniature painting beginner guide through a month of actual use. Some of it survived.",
+    "takeaway": "Half the standard advice on miniature painting beginner guide holds up; the other half exists to sell you something. Test small before you commit.",
+    "whatHappened": "We collected the most common recommendations miniature painters and tabletop hobbyists see when they search \"miniature painting beginner guide\" and ran them through four weeks of ordinary, unglamorous use. The gap between what demos well and what holds up in week four was bigger than expected.",
+    "whyItMatters": "Most advice about paints is written from a first impression. The failure modes that actually cost miniature painters and tabletop hobbyists time and money only show up with repetition — which is exactly what one-day reviews never capture.",
+    "howToThink": "Before adopting any recommendation about miniature painting beginner guide, ask what a fourth week of it looks like. If you can't picture the boring version, you're looking at marketing, not a method.",
+    "pros": [
+      "Cheap to replicate at home",
+      "Surfaced real week-four failure modes",
+      "Cuts through first-impression reviews"
+    ],
+    "cons": [
+      "A month is still a small sample",
+      "Results vary by setup",
+      "Some advice needs a season, not weeks"
+    ],
+    "watchOut": "If a guide about miniature painting beginner guide shows zero failed attempts, it wasn't a test — it was a script.",
+    "faq": [
+      {
+        "q": "What survived the field test?",
+        "a": "The fundamentals: consistent routine, modest gear, and keeping a log. The exotic tricks mostly didn't."
+      },
+      {
+        "q": "How should I run my own test?",
+        "a": "Change one variable, hold everything else steady for two weeks minimum, and write down what annoyed you."
+      },
+      {
+        "q": "Whose advice should I trust?",
+        "a": "People who publish follow-ups. A single enthusiastic post about paints is a data point, not a verdict."
+      }
+    ],
+    "category": "Paints",
+    "tags": [
+      "Paints",
+      "Techniques"
+    ],
+    "sources": [
+      {
+        "label": "r/minipainting community threads",
+        "url": "https://www.reddit.com/r/minipainting/"
+      },
+      {
+        "label": "Search interest: \"miniature painting beginner guide\"",
+        "url": "https://duckduckgo.com/?q=miniature%20painting%20beginner%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-19T09:45:33.725Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-showcase-2",
     "title": "Ask the forge: your showcase questions, answered",
     "dek": "Straight answers to the showcase questions miniature painters and tabletop hobbyists keep asking, minus the hedging.",

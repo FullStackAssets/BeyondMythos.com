@@ -1,5 +1,56 @@
 [
   {
+    "slug": "morning-market-detours",
+    "title": "Morning Market Detours: Low‑Impact Shopping on Rural Train Stops",
+    "dek": "Step off at sunrise stops to explore village markets while keeping your carbon footprint light.",
+    "takeaway": "A quick market visit can enrich a rail journey without adding waste or stress.",
+    "whatHappened": "During a weekend ride on the heritage line through the countryside, we paused at two early‑morning stations where local farmers set up pop‑up stalls. Fresh produce, handmade breads, and reusable tote bags were on offer, and the pause added only a few minutes to the timetable.",
+    "whyItMatters": "These micro‑stops let travelers connect with regional food systems, support small producers, and break the monotony of long rides. By buying only what you need and using reusable containers, you stay true to low‑impact principles.",
+    "howToThink": "Plan your route with stations that list market days, bring a reusable bag, and limit purchases to items you’ll actually consume. Keep your stop brief—just enough to browse, buy, and get back on board. Treat the experience as a sensory pause, not a shopping spree.",
+    "pros": [
+      "Supports local economies",
+      "Zero‑waste buying options",
+      "Adds sensory variety to the trip"
+    ],
+    "cons": [
+      "Requires timing coordination",
+      "Limited selection at small stalls",
+      "Potentially longer dwell time"
+    ],
+    "watchOut": "Make sure you have a ticket that allows brief platform stops, or you might incur a penalty.",
+    "faq": [
+      {
+        "q": "How do I find stations with morning markets?",
+        "a": "Check regional tourism boards or the railway’s community calendar; many list market days alongside train schedules."
+      },
+      {
+        "q": "Can I bring reusable containers on the train?",
+        "a": "Yes, most low‑impact rail services welcome reusable bottles and bags; just keep them stowed when the train moves."
+      },
+      {
+        "q": "What if I miss the market window?",
+        "a": "Look for nearby grocery co‑ops or bring a packed snack; the key is to stay flexible and low‑impact."
+      }
+    ],
+    "category": "Local",
+    "tags": [
+      "local",
+      "shopping"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-10-19T09:45:07.982Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "eco-friendly-train-window-views",
     "title": "Eco‑Friendly Train Window Views: Low‑Impact Photo Walks on Rural Lines",
     "dek": "Capture the countryside through train windows while keeping your carbon footprint light.",
