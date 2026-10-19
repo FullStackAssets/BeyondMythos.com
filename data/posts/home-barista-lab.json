@@ -1,5 +1,56 @@
 [
   {
+    "slug": "portafilter-seal-check",
+    "title": "Unlock Consistent Espresso Flow with a Simple Portafilter Seal Check",
+    "dek": "A quick check of your portafilter’s seal can stop channeling and tighten shot consistency.",
+    "takeaway": "Ensure a tight seal to eliminate uneven extraction.",
+    "whatHappened": "I noticed my espresso shots were thin and watery despite stable grind and dose. A closer look revealed the portafilter’s rubber seal was slightly warped, letting water slip around the edges. Replacing the seal restored body and crema.",
+    "whyItMatters": "A compromised seal creates channeling, which skews pressure and reduces flavor extraction. Consistent pressure is key for balanced espresso, and a good seal is the first line of defense. Fixing it is a low‑cost way to boost shot quality.",
+    "howToThink": "Before tweaking grind or temperature, inspect the seal for wear, cracks, or debris. If the seal feels soft or shows flattening, swap it for a fresh one that fits snugly. Regularly clean the seal with warm water to keep it pliable.",
+    "pros": [
+      "Boosts crema",
+      "Low cost fix",
+      "Easy to test"
+    ],
+    "cons": [
+      "Requires spare seal",
+      "May need new portafilter if incompatible",
+      "Frequent checks add routine step"
+    ],
+    "watchOut": "Never force a seal onto a mismatched portafilter; it can damage the basket.",
+    "faq": [
+      {
+        "q": "How often should I replace the portafilter seal?",
+        "a": "Replace it when you see wear or at least once a year for heavy use."
+      },
+      {
+        "q": "Can I use any rubber seal?",
+        "a": "Use a seal designed for your specific machine model to ensure proper fit."
+      },
+      {
+        "q": "Will cleaning the seal improve performance?",
+        "a": "Yes, removing coffee oils and residue helps maintain flexibility and a good seal."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-10-19T18:45:08.776Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-roasting-53",
     "title": "The quiet upgrade: small tweaks in roasting with outsized returns",
     "dek": "No purchases, no overhauls — the modest roasting adjustments that home coffee enthusiasts report mattering most.",

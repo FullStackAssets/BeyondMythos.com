@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midnight-railwatch",
+    "title": "Midnight Railwatch: Low-Impact Nighttime Spotting on Rural Lines",
+    "dek": "Turn the night shift into a low-impact wildlife watch from the comfort of a moving carriage.",
+    "takeaway": "Even after dark, rural rails offer quiet windows onto nocturnal ecosystems without extra carbon.",
+    "whatHappened": "We boarded the 10 PM local service on the Green Valley line and kept lights dim, using a small headlamp to spot owls and fireflies along the tracks. The gentle sway and low noise made the experience feel like a moving nature reserve.",
+    "whyItMatters": "Night travel reduces daytime crowding and lets travelers experience habitats that are otherwise hidden. Observing nocturnal life from a train adds minimal disturbance while expanding the sensory palette of slow travel.",
+    "howToThink": "Carry a low‑lux headlamp and a reusable notebook; note species without flash photography. Choose routes that pass through known wildlife corridors and keep conversations soft to preserve the ambience.",
+    "pros": [
+      "Zero extra fuel use",
+      "Unique night-time scenery",
+      "Low crowd density"
+    ],
+    "cons": [
+      "Limited visibility without flash",
+      "Potentially colder carriage",
+      "Shorter observation windows"
+    ],
+    "watchOut": "Beware of sudden train stops in remote areas—keep a warm layer and a charged phone.",
+    "faq": [
+      {
+        "q": "Do I need a special ticket for night trains?",
+        "a": "Standard tickets apply; just check the timetable for late departures."
+      },
+      {
+        "q": "Is a headlamp allowed in the carriage?",
+        "a": "A low-lumens, red-filter headlamp is courteous and won’t disturb other passengers."
+      },
+      {
+        "q": "Can I photograph wildlife from the train?",
+        "a": "Use a fast lens with a silent shutter and avoid bright flash to keep impact low."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "night",
+      "railwatch"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-10-19T18:45:09.939Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-packing-52",
     "title": "The quiet upgrade: small tweaks in packing with outsized returns",
     "dek": "No purchases, no overhauls — the modest packing adjustments that slow-travel and low-impact explorers report mattering most.",

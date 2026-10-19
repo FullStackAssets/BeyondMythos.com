@@ -338,3 +338,49 @@
     }
   ]
 }
+ntCents": 2900,
+      "digitalItemCount": 1,
+      "emailHash": "a0f88beff834b5f2bd7c7b69f80e8f1cc2358a5d916053f2450bf0d1bbf35423"
+    },
+    {
+      "id": "evt_1792404905210_981f",
+      "createdAt": "2026-10-19T10:15:05.210Z",
+      "type": "purchase_completed",
+      "site": "beyondmythos.com",
+      "purchaseId": "ord_1792404905210_57ed2a",
+      "amountCents": 2900,
+      "digitalItemCount": 1,
+      "emailHash": "12c5cd5edf90eaac1dc659f84018777b23fc4fab5934b79cbd0415c1c3f7c229"
+    },
+    {
+      "id": "evt_1792430103036_7c3f",
+      "createdAt": "2026-10-19T17:15:03.036Z",
+      "type": "purchase_completed",
+      "site": "beyondmythos.com",
+      "purchaseId": "ord_1792430103036_708947",
+      "amountCents": 2900,
+      "digitalItemCount": 1,
+      "emailHash": "a0f88beff834b5f2bd7c7b69f80e8f1cc2358a5d916053f2450bf0d1bbf35423"
+    },
+    {
+      "id": "evt_1792430103067_74b3",
+      "createdAt": "2026-10-19T17:15:03.067Z",
+      "type": "purchase_completed",
+      "site": "beyondmythos.com",
+      "purchaseId": "ord_1792430103067_ce5348",
+      "amountCents": 2900,
+      "digitalItemCount": 1,
+      "emailHash": "12c5cd5edf90eaac1dc659f84018777b23fc4fab5934b79cbd0415c1c3f7c229"
+    },
+    {
+      "id": "evt_1792433706724_0f2c",
+      "createdAt": "2026-10-19T18:15:06.724Z",
+      "type": "purchase_completed",
+      "site": "beyondmythos.com",
+      "purchaseId": "ord_1792433706723_f41bc8",
+      "amountCents": 2900,
+      "digitalItemCount": 1,
+      "emailHash": "a0f88beff834b5f2bd7c7b69f80e8f1cc2358a5d916053f2450bf0d1bbf35423"
+    }
+  ]
+}

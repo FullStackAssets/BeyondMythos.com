@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-boost-optimizing-gba-light-sensor",
+    "title": "Pixel Boost: Optimizing GBA Light Sensor for Night Runs",
+    "dek": "Upgrade your Game Boy Advance's light sensor to keep the screen bright during low‑light speedruns.",
+    "takeaway": "A simple sensor tweak keeps the GBA readable without draining the battery.",
+    "whatHappened": "A retro‑hardware hobbyist discovered that the GBA’s built‑in light sensor can be re‑wired to a small, low‑power LED. The modification provides consistent illumination on dark screens, letting speedrunners see every frame in dim rooms.",
+    "whyItMatters": "Visibility is crucial for precision inputs, especially in games that hide items or enemies in shadows. Maintaining clear visuals without sacrificing battery life helps marathon runs stay consistent.",
+    "howToThink": "Start by locating the sensor pins on the motherboard, then solder a diffused LED with a resistor that matches the sensor’s voltage. Test the brightness before sealing the case, and adjust the resistor if the LED is too bright or dim.",
+    "pros": [
+      "Improved visibility",
+      "Negligible power impact",
+      "Reversible modification"
+    ],
+    "cons": [
+      "Requires soldering skill",
+      "Tiny components can be fiddly",
+      "May void warranty"
+    ],
+    "watchOut": "Avoid shorting nearby pins while soldering, as that can damage the console’s main board.",
+    "faq": [
+      {
+        "q": "Do I need a special LED?",
+        "a": "A standard 5mm diffused white LED works fine; just add an appropriate resistor."
+      },
+      {
+        "q": "Will this affect the original light‑sensor function?",
+        "a": "The sensor will still work, but the added LED overrides low‑light detection."
+      },
+      {
+        "q": "Can I undo the mod later?",
+        "a": "Yes—desolder the LED and resistor and the board returns to stock condition."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "GBA",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-10-19T18:45:05.207Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-boost-gba-battery-clip",
     "title": "Pixel Boost: Streamlining GBA Battery Clip for Quick Swaps",
     "dek": "Upgrade your Game Boy Advance battery clip for lightning‑fast swaps during marathon runs.",

@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/smart-habitat/</link>
     <description>Fresh takes for smart-home tinkerers and privacy-minded automators.</description>
     <item>
+      <title>Myth vs. reality: smart lighting setup</title>
+      <link>https://www.beyondmythos.com/sites/smart-habitat/posts/myth-vs-reality-smart-lighting-setup-25.html</link>
+      <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/myth-vs-reality-smart-lighting-setup-25.html</guid>
+      <pubDate>Mon, 19 Oct 2026 18:45:21 GMT</pubDate>
+      <description>The persistent myths around smart lighting setup, stress-tested against what smart-home tinkerers and privacy-minded automators actually report.</description>
+    </item>
+    <item>
       <title>A weekend project: level up your sensors in two hours</title>
       <link>https://www.beyondmythos.com/sites/smart-habitat/posts/weekend-project-sensors-76.html</link>
       <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/weekend-project-sensors-76.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/home-assistant-beginner-guide-field-test-25.html</guid>
       <pubDate>Sun, 18 Oct 2026 11:43:04 GMT</pubDate>
       <description>We put the most-repeated advice about home assistant beginner guide through a month of actual use. Some of it survived.</description>
-    </item>
-    <item>
-      <title>Ask the forge: your lighting questions, answered</title>
-      <link>https://www.beyondmythos.com/sites/smart-habitat/posts/ask-the-forge-lighting-73.html</link>
-      <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/ask-the-forge-lighting-73.html</guid>
-      <pubDate>Sun, 18 Oct 2026 06:36:07 GMT</pubDate>
-      <description>Straight answers to the lighting questions smart-home tinkerers and privacy-minded automators keep asking, minus the hedging.</description>
     </item>
   </channel>
 </rss>

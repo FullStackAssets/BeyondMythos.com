@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Optimizing GBA Light Sensor for Night Runs</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-optimizing-gba-light-sensor.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-optimizing-gba-light-sensor.html</guid>
+      <pubDate>Mon, 19 Oct 2026 18:45:05 GMT</pubDate>
+      <description>Upgrade your Game Boy Advance&apos;s light sensor to keep the screen bright during low‑light speedruns.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Streamlining GBA Battery Clip for Quick Swaps</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-gba-battery-clip.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-gba-battery-clip.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/turbocharging-turbografx-button-mod.html</guid>
       <pubDate>Sun, 18 Oct 2026 11:42:51 GMT</pubDate>
       <description>A quick, solder‑free mod that adds a tactile button to your TurboGrafx‑16 for sharper inputs.</description>
-    </item>
-    <item>
-      <title>Snappy SNES Controls: DIY Pull‑up Upgrade for Faster Input</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/snappy-snes-controls-diy-pullup-upgrade.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/snappy-snes-controls-diy-pullup-upgrade.html</guid>
-      <pubDate>Sun, 18 Oct 2026 06:35:54 GMT</pubDate>
-      <description>Give your SNES controller a lightning‑fast response with a simple resistor swap.</description>
     </item>
   </channel>
 </rss>
