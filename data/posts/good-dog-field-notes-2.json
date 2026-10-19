@@ -1,0 +1,308 @@
+[
+  {
+    "slug": "puppy-proofing-your-home",
+    "title": "Puppy‑Proof Your Home in One Weekend",
+    "category": "Puppies",
+    "dek": "Quick fixes to keep curious puppies safe and your floors intact.",
+    "takeaway": "A few simple steps can prevent most common puppy mishaps.",
+    "whatHappened": "First‑time owners often discover chewed cords and tipped plants within days. Simple barriers and safe zones stop the chaos before it starts.",
+    "whyItMatters": "Preventing accidents protects your puppy’s health and saves you repair costs. Early safety habits also teach boundaries.",
+    "howToThink": "Identify hazards, use baby gates, cover outlets, and store toxins out of reach. Keep a puppy‑safe kit handy for quick fixes.",
+    "pros": [
+      "Reduces injuries",
+      "Saves money",
+      "Builds routine"
+    ],
+    "cons": [
+      "Initial time investment",
+      "May need temporary furniture rearrangement",
+      "Can be overkill for very short‑term puppies"
+    ],
+    "watchOut": "Don’t block all airflow when sealing off rooms; puppies still need ventilation.",
+    "faq": [
+      {
+        "q": "Do I need to puppy‑proof every room?",
+        "a": "Focus on high‑traffic areas and places where you keep food or chemicals."
+      },
+      {
+        "q": "Can I use furniture covers as barriers?",
+        "a": "Yes, slipcovers and chew‑proof blankets work well for temporary protection."
+      },
+      {
+        "q": "How long should I keep the gates up?",
+        "a": "Until the puppy reliably responds to commands and avoids restricted zones."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/Dogtraining community threads",
+        "url": "https://www.reddit.com/r/Dogtraining/"
+      },
+      {
+        "label": "Search interest: \"leash reactivity tips\"",
+        "url": "https://duckduckgo.com/?q=leash%20reactivity%20tips"
+      }
+    ],
+    "tags": [
+      "safety",
+      "home"
+    ],
+    "publishedAt": "2026-10-19T11:15:17.730Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "reading-dog-body-language",
+    "title": "Decoding Dog Body Language for New Owners",
+    "category": "Behavior",
+    "dek": "Learn the basic signals that tell you how your dog feels.",
+    "takeaway": "Reading posture and cues prevents misunderstandings before they escalate.",
+    "whatHappened": "New owners often misinterpret a wagging tail as pure happiness, missing signs of anxiety. Observing ears, posture, and eye contact clarifies mood.",
+    "whyItMatters": "Accurate reading reduces stress for both dog and owner and helps you intervene early when discomfort arises.",
+    "howToThink": "Notice the whole package: tail, ears, mouth, and overall stance. Match your response to the signal—calm reassurance for fear, firm guidance for over‑excitement.",
+    "pros": [
+      "Improves trust",
+      "Prevents bites",
+      "Boosts confidence"
+    ],
+    "cons": [
+      "Requires practice",
+      "Can be subtle",
+      "Misreading can happen"
+    ],
+    "watchOut": "Never assume a single cue tells the whole story; context matters.",
+    "faq": [
+      {
+        "q": "What does a stiff tail indicate?",
+        "a": "Tension or alertness, often before a reaction."
+      },
+      {
+        "q": "Are yawning dogs always tired?",
+        "a": "Yawning can also signal stress or a calming attempt."
+      },
+      {
+        "q": "How long should I watch for signs before acting?",
+        "a": "A few seconds of consistent cues is enough to gauge mood."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/puppy101 community threads",
+        "url": "https://www.reddit.com/r/puppy101/"
+      },
+      {
+        "label": "Search interest: \"crate training schedule\"",
+        "url": "https://duckduckgo.com/?q=crate%20training%20schedule"
+      }
+    ],
+    "tags": [
+      "communication",
+      "behavior"
+    ],
+    "publishedAt": "2026-10-17T22:15:17.730Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "choosing-a-leash-for-first-walks",
+    "title": "Leash Selection Made Simple for First Walks",
+    "category": "Gear",
+    "dek": "Pick a leash that balances control and comfort for both you and your puppy.",
+    "takeaway": "A well‑chosen leash makes early outings enjoyable and safe.",
+    "whatHappened": "Many novices grab the cheapest rope and struggle with tugging or slack. A lightweight, sturdy leash with a comfortable handle changes the dynamic.",
+    "whyItMatters": "Proper control reduces pulling, protects hands, and helps the puppy learn loose‑leash walking.",
+    "howToThink": "Look for a 4‑6 ft length, a padded grip, and a clip that slides smoothly. Avoid retractable leashes until the puppy masters basic manners.",
+    "pros": [
+      "Easy grip",
+      "Durable",
+      "Good length"
+    ],
+    "cons": [
+      "May be pricier than basic rope",
+      "Limited adjustability",
+      "Can tangle if too long"
+    ],
+    "watchOut": "Check the clip regularly for wear; a broken clip can turn a walk into a rescue.",
+    "faq": [
+      {
+        "q": "Should I use a harness or collar?",
+        "a": "A well‑fitted harness is gentler on a puppy’s neck during training."
+      },
+      {
+        "q": "Is a 5‑foot leash ideal?",
+        "a": "It offers enough room for exploration while keeping control."
+      },
+      {
+        "q": "Can I switch leashes as the dog grows?",
+        "a": "Yes, upgrade to a stronger leash as the dog gains strength."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/dogs community threads",
+        "url": "https://www.reddit.com/r/dogs/"
+      },
+      {
+        "label": "Search interest: \"positive reinforcement basics\"",
+        "url": "https://duckduckgo.com/?q=positive%20reinforcement%20basics"
+      }
+    ],
+    "tags": [
+      "walking",
+      "equipment"
+    ],
+    "publishedAt": "2026-10-16T09:15:17.730Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "vaccination-basics-for-new-pups",
+    "title": "Vaccination Basics Every New Pup Owner Should Know",
+    "category": "Health",
+    "dek": "Essential vaccine schedule and why each shot matters.",
+    "takeaway": "Following the core vaccine timeline protects puppies from common, serious diseases.",
+    "whatHappened": "First‑time owners sometimes delay shots, thinking they’re optional. Veterinarians recommend a series starting at six weeks to build immunity.",
+    "whyItMatters": "Vaccines prevent illnesses that can be costly, painful, and contagious to other pets.",
+    "howToThink": "Keep a vaccination calendar, ask your vet about core versus optional shots, and schedule appointments ahead of travel plans.",
+    "pros": [
+      "Disease protection",
+      "Community health",
+      "Long‑term savings"
+    ],
+    "cons": [
+      "Multiple visits",
+      "Mild side effects possible",
+      "Requires record‑keeping"
+    ],
+    "watchOut": "Watch for signs of allergic reaction after a shot and contact your vet if anything looks abnormal.",
+    "faq": [
+      {
+        "q": "When is the first vaccine given?",
+        "a": "Typically at six weeks of age, then every three to four weeks until sixteen weeks."
+      },
+      {
+        "q": "Are boosters needed for adult dogs?",
+        "a": "Yes, annual or triennial boosters maintain immunity."
+      },
+      {
+        "q": "Can vaccines be given together?",
+        "a": "Core vaccines are usually combined to reduce the number of visits."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/Dogtraining community threads",
+        "url": "https://www.reddit.com/r/Dogtraining/"
+      },
+      {
+        "label": "Search interest: \"leash reactivity tips\"",
+        "url": "https://duckduckgo.com/?q=leash%20reactivity%20tips"
+      }
+    ],
+    "tags": [
+      "immunity",
+      "vet"
+    ],
+    "publishedAt": "2026-10-14T20:15:17.730Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "crate-training-quick-start",
+    "title": "Crate Training a Puppy: Quick‑Start Guide",
+    "category": "Behavior",
+    "dek": "Turn the crate into a safe haven, not a prison.",
+    "takeaway": "Consistent, positive crate use builds comfort and eases house training.",
+    "whatHappened": "Owners often misuse crates, leaving doors open or using them as punishment, leading to anxiety. A gradual, reward‑based approach changes perception.",
+    "whyItMatters": "A comfortable crate gives puppies a predictable space, aiding sleep, digestion, and travel safety.",
+    "howToThink": "Introduce the crate with treats, keep sessions short, and never force entry. Gradually extend time while maintaining a calm tone.",
+    "pros": [
+      "Secure space",
+      "Aids house training",
+      "Portable"
+    ],
+    "cons": [
+      "Initial resistance",
+      "Needs proper sizing",
+      "Can be misused as punishment"
+    ],
+    "watchOut": "Never use the crate for long periods without breaks; puppies need regular bathroom and social time.",
+    "faq": [
+      {
+        "q": "How big should the crate be?",
+        "a": "Large enough for the puppy to stand, turn, and lie down comfortably."
+      },
+      {
+        "q": "When can I leave the puppy alone in the crate?",
+        "a": "Start with a few minutes and increase as the puppy shows calm behavior."
+      },
+      {
+        "q": "What if the puppy whines?",
+        "a": "Check for needs first; if none, wait a moment before responding to avoid reinforcing the sound."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/puppy101 community threads",
+        "url": "https://www.reddit.com/r/puppy101/"
+      },
+      {
+        "label": "Search interest: \"crate training schedule\"",
+        "url": "https://duckduckgo.com/?q=crate%20training%20schedule"
+      }
+    ],
+    "tags": [
+      "training",
+      "comfort"
+    ],
+    "publishedAt": "2026-10-13T07:15:17.730Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "budget-friendly-dog-toys",
+    "title": "Budget‑Friendly Dog Toys That Actually Hold Up",
+    "category": "Gear",
+    "dek": "Fun, durable toys that won’t break the bank for first‑time owners.",
+    "takeaway": "Smart choices give puppies engagement without constant replacement.",
+    "whatHappened": "Many cheap toys fall apart after a few bites, leading to frustration. Simple materials like rope, rubber, and sturdy plush survive longer.",
+    "whyItMatters": "Durable toys reduce choking hazards, save money, and keep puppies mentally stimulated.",
+    "howToThink": "Look for non‑toxic rubber toys, tightly stitched plush, and natural fiber ropes. Rotate toys to keep interest high.",
+    "pros": [
+      "Cost effective",
+      "Longer lifespan",
+      "Safe materials"
+    ],
+    "cons": [
+      "May lack high tech features",
+      "Limited variety in stores",
+      "Needs regular inspection"
+    ],
+    "watchOut": "Inspect toys daily for frayed pieces; discard anything that could be swallowed.",
+    "faq": [
+      {
+        "q": "Are rope toys safe?",
+        "a": "Yes, when supervised and replaced once fibers start to fray."
+      },
+      {
+        "q": "Can I make DIY toys?",
+        "a": "Simple knotted t‑shirts or tennis balls work well for short‑term play."
+      },
+      {
+        "q": "How often should I rotate toys?",
+        "a": "Every few days keeps novelty and engagement high."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/dogs community threads",
+        "url": "https://www.reddit.com/r/dogs/"
+      },
+      {
+        "label": "Search interest: \"positive reinforcement basics\"",
+        "url": "https://duckduckgo.com/?q=positive%20reinforcement%20basics"
+      }
+    ],
+    "tags": [
+      "play",
+      "budget"
+    ],
+    "publishedAt": "2026-10-11T18:15:17.730Z",
+    "readMinutes": 2
+  }
+]

@@ -1605,8 +1605,29 @@
       "streamUrl": "https://beyondmythos.com/",
       "elevenlabsAgentId": null,
       "lastPostAt": "2026-10-19T10:45:37.071Z"
+    },
+    {
+      "id": "good-dog-field-notes-2-1792408517730",
+      "slug": "good-dog-field-notes-2",
+      "name": "Good Dog Field Notes",
+      "tagline": "Fresh takes for first-time dog owners.",
+      "nicheId": "dog-training",
+      "audience": "first-time dog owners",
+      "categories": [
+        "Puppies",
+        "Behavior",
+        "Gear",
+        "Health"
+      ],
+      "url": "https://beyondmythos.com/sites/good-dog-field-notes-2/",
+      "localUrl": "https://beyondmythos.com/sites/good-dog-field-notes-2/",
+      "design": "prism",
+      "postCount": 6,
+      "createdAt": "2026-10-19T11:15:09.196Z",
+      "streamUrl": "https://beyondmythos.com/",
+      "elevenlabsAgentId": null
     }
   ],
-  "lastGeneratedAt": "2026-10-19T09:15:47.096Z",
+  "lastGeneratedAt": "2026-10-19T11:15:09.196Z",
   "lastPostRunAt": "2026-10-19T10:45:37.080Z"
 }
