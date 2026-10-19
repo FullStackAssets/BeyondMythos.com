@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/private-stack-brief/</link>
     <description>Fresh takes for privacy-conscious consumers and security hobbyists.</description>
     <item>
+      <title>Five mistakes everyone makes in their first month of passwords</title>
+      <link>https://www.beyondmythos.com/sites/private-stack-brief/posts/five-passwords-mistakes-66.html</link>
+      <guid>https://www.beyondmythos.com/sites/private-stack-brief/posts/five-passwords-mistakes-66.html</guid>
+      <pubDate>Mon, 19 Oct 2026 02:45:30 GMT</pubDate>
+      <description>The most common early stumbles in passwords, and the cheap corrections that fix them for privacy-conscious consumers and security hobbyists.</description>
+    </item>
+    <item>
       <title>&quot;home network security basics&quot; in practice: a real-world field test</title>
       <link>https://www.beyondmythos.com/sites/private-stack-brief/posts/home-network-security-basics-field-test-22.html</link>
       <guid>https://www.beyondmythos.com/sites/private-stack-brief/posts/home-network-security-basics-field-test-22.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/private-stack-brief/posts/weekend-project-browsers-63.html</guid>
       <pubDate>Wed, 26 Aug 2026 02:13:58 GMT</pubDate>
       <description>One contained, satisfying browsers project for privacy-conscious consumers — start Saturday morning, done by lunch.</description>
-    </item>
-    <item>
-      <title>Community pulse: what r/privacy is debating this week</title>
-      <link>https://www.beyondmythos.com/sites/private-stack-brief/posts/community-pulse-privacy-21.html</link>
-      <guid>https://www.beyondmythos.com/sites/private-stack-brief/posts/community-pulse-privacy-21.html</guid>
-      <pubDate>Tue, 25 Aug 2026 23:58:54 GMT</pubDate>
-      <description>The arguments, consensus shifts, and quietly useful threads from the threats community this week.</description>
     </item>
   </channel>
 </rss>

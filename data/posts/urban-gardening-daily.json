@@ -1,5 +1,56 @@
 [
   {
+    "slug": "breezy-balcony-maximizing-airflow",
+    "title": "Breezy Balcony: Maximizing Airflow for Healthy Container Plants",
+    "dek": "Good airflow prevents fungal issues and boosts growth on tight balcony spaces.",
+    "takeaway": "A simple wind‑channeling setup can keep balcony containers thriving all season.",
+    "whatHappened": "We noticed a surge of mildew on herbs tucked behind a solid rail. By adding a lightweight lattice and rotating pots weekly, the problem vanished within days. The garden looked fresher and the leaves perked up instantly.",
+    "whyItMatters": "Stagnant air creates micro‑climates that invite disease, especially in compact balcony micro‑environments. Improving ventilation promotes stronger stems, better pollination, and faster drying after rain, extending the productive window for apartment growers.",
+    "howToThink": "Treat your balcony like a miniature greenhouse with adjustable vents. Use slatted screens, mesh curtains, or portable windbreaks to channel breezes without blowing plants over. Rotate containers regularly to expose all sides to fresh air.",
+    "pros": [
+      "Reduces mold risk",
+      "Boosts photosynthesis",
+      "Easy, low‑cost"
+    ],
+    "cons": [
+      "May need occasional adjustments",
+      "Wind can dry soil faster",
+      "Requires secure anchoring"
+    ],
+    "watchOut": "Secure any lattice or screen to prevent it from becoming a hazard in strong gusts.",
+    "faq": [
+      {
+        "q": "Can I use any type of mesh for airflow?",
+        "a": "A lightweight, rust‑free mesh works best; avoid heavy fabrics that block wind."
+      },
+      {
+        "q": "Will increased airflow dry out my soil?",
+        "a": "Yes, so monitor moisture and water slightly more often, especially on sunny days."
+      },
+      {
+        "q": "Do I need to move my balcony garden each season?",
+        "a": "A seasonal rotation—rotating pots 90° every few weeks—keeps airflow even as the sun angle shifts."
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "airflow",
+      "container-garden"
+    ],
+    "sources": [
+      {
+        "label": "r/UrbanGardening community threads",
+        "url": "https://www.reddit.com/r/UrbanGardening/"
+      },
+      {
+        "label": "Search interest: \"balcony garden ideas\"",
+        "url": "https://duckduckgo.com/?q=balcony%20garden%20ideas"
+      }
+    ],
+    "publishedAt": "2026-10-19T02:45:06.754Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "sun-smart-balcony-containers",
     "title": "Sun‑Smart Balcony: Positioning Containers for Maximum Light",
     "dek": "Learn how to orient your balcony pots for the best daily sun exposure without a roof‑top makeover.",

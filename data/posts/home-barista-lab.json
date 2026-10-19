@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-pressure-check-2",
+    "title": "Master Your Espresso Shot Consistency with a Simple Brew Pressure Check",
+    "dek": "A quick pressure test can reveal hidden extraction issues before they ruin your morning cup.",
+    "takeaway": "Regularly checking brew pressure helps you spot problems early and keep shots consistent.",
+    "whatHappened": "During a routine tasting, the barista noticed a sudden drop in crema height and flavor clarity. A quick pressure gauge reading showed the pump was underperforming. Adjusting the pump pressure restored the expected espresso profile.",
+    "whyItMatters": "Pressure fluctuations directly affect extraction balance, influencing both taste and crema. Ignoring them can lead to bitter or watery shots, wasting beans and time. Early detection keeps your workflow smooth and your coffee delicious.",
+    "howToThink": "Treat pressure like a health vital for your machine—measure it weekly and after any maintenance. Keep a small digital pressure gauge handy and compare readings to your machine’s spec sheet. If readings drift, clean the pump and check for blockages before pulling a shot.",
+    "pros": [
+      "Early problem detection",
+      "Improves shot consistency",
+      "Low‑cost tool"
+    ],
+    "cons": [
+      "Adds a tiny step to prep",
+      "Requires a gauge",
+      "May need occasional calibration"
+    ],
+    "watchOut": "Never force the gauge onto a hot portafilter; let the machine cool slightly to avoid injury.",
+    "faq": [
+      {
+        "q": "Do I need a professional‑grade pressure gauge?",
+        "a": "A basic digital gauge that reads up to 15 bar is sufficient for home use."
+      },
+      {
+        "q": "How often should I perform the pressure check?",
+        "a": "Once a week or after any major cleaning or part replacement."
+      },
+      {
+        "q": "What does a low pressure reading indicate?",
+        "a": "It often points to a clogged pump, a worn pump seal, or insufficient water flow."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-10-19T02:45:06.113Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-crema-pressure-tweak",
     "title": "Boost Your Espresso Crema with a Simple Pressure Tweak",
     "dek": "A quick pressure adjustment can give you richer crema without buying new gear.",
