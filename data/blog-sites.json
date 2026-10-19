@@ -1671,8 +1671,29 @@
       "streamUrl": "https://beyondmythos.com/",
       "elevenlabsAgentId": null,
       "lastPostAt": "2026-10-19T13:45:38.020Z"
+    },
+    {
+      "id": "glass-tank-gazette-2-1792419306638",
+      "slug": "glass-tank-gazette-2",
+      "name": "Glass Tank Gazette",
+      "tagline": "Fresh takes for freshwater aquarium keepers and aquascapers.",
+      "nicheId": "aquarium-keeping",
+      "audience": "freshwater aquarium keepers and aquascapers",
+      "categories": [
+        "Water",
+        "Plants",
+        "Fish",
+        "Gear"
+      ],
+      "url": "https://beyondmythos.com/sites/glass-tank-gazette-2/",
+      "localUrl": "https://beyondmythos.com/sites/glass-tank-gazette-2/",
+      "design": "moss",
+      "postCount": 6,
+      "createdAt": "2026-10-19T14:15:06.465Z",
+      "streamUrl": "https://beyondmythos.com/",
+      "elevenlabsAgentId": null
     }
   ],
-  "lastGeneratedAt": "2026-10-19T13:15:08.596Z",
+  "lastGeneratedAt": "2026-10-19T14:15:06.465Z",
   "lastPostRunAt": "2026-10-19T13:45:38.048Z"
 }
