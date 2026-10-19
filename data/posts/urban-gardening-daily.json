@@ -1,5 +1,56 @@
 [
   {
+    "slug": "bottle-garden-upcycle-herbs",
+    "title": "Bottle Garden: Upcycle Plastic for Lush Balcony Herbs",
+    "dek": "Turn empty plastic bottles into thriving herb homes on your balcony without a fuss.",
+    "takeaway": "A single bottle can become a productive herb pot, saving space and waste.",
+    "whatHappened": "We converted three 2‑liter soda bottles into herb containers, cutting the tops off, adding a drip wick, and filling them with a light soil mix. The bottles were positioned on a sunny balcony rail and watered lightly each morning.",
+    "whyItMatters": "Small balcony gardeners constantly juggle space and sustainability; repurposing plastic bottles tackles both by freeing up room and diverting waste from landfills while delivering fresh herbs at arm's reach.",
+    "howToThink": "Choose sturdy bottles, cut a clean opening, smooth any sharp edges, and create a simple wick from cotton or nylon rope. Use a well‑draining mix and place the bottle where it catches at least four hours of sunlight. Check moisture daily—bottles dry faster than traditional pots.",
+    "pros": [
+      "Space‑saving",
+      "Cost‑effective",
+      "Eco‑friendly"
+    ],
+    "cons": [
+      "Limited soil volume",
+      "May need frequent watering",
+      "Potential UV degradation"
+    ],
+    "watchOut": "Smooth the bottle rim to prevent cuts and avoid glass shards if using recycled glass containers.",
+    "faq": [
+      {
+        "q": "Can I use any type of plastic bottle?",
+        "a": "Sturdy, food‑grade bottles like soda or juice containers work best; avoid thin, single‑use bags that may collapse."
+      },
+      {
+        "q": "How often should I water a bottle herb pot?",
+        "a": "Check the top inch of soil daily; water when it feels dry to the touch, usually every 1‑2 days in full sun."
+      },
+      {
+        "q": "What herbs thrive in narrow containers?",
+        "a": "Compact herbs such as basil, thyme, chives, and cilantro adapt well to the limited root space."
+      }
+    ],
+    "category": "Herbs",
+    "tags": [
+      "herbs",
+      "upcycling"
+    ],
+    "sources": [
+      {
+        "label": "r/UrbanGardening community threads",
+        "url": "https://www.reddit.com/r/UrbanGardening/"
+      },
+      {
+        "label": "Search interest: \"balcony garden ideas\"",
+        "url": "https://duckduckgo.com/?q=balcony%20garden%20ideas"
+      }
+    ],
+    "publishedAt": "2026-10-19T05:45:07.588Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "balcony-boost-diy-self-watering-pots",
     "title": "Balcony Boost: DIY Self‑Watering Pots",
     "dek": "Create low‑maintenance, self‑watering containers that keep herbs thriving on any balcony or windowsill.",

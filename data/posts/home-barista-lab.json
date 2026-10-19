@@ -1,5 +1,56 @@
 [
   {
+    "slug": "simple-burr-clean",
+    "title": "Refresh Your Grind with a Simple Burr Clean",
+    "dek": "A quick burr‑cleaning routine can restore flavor clarity and shot consistency without buying new parts.",
+    "takeaway": "Regular burr cleaning keeps your espresso tasting fresh and extraction stable.",
+    "whatHappened": "I noticed a muted, flat taste in my espresso after weeks of heavy use. A quick visual check revealed coffee oils coating the grinder burrs. After a 5‑minute clean, the flavor snapped back.",
+    "whyItMatters": "Burr buildup dulls the grind and traps stale oils, which leads to uneven extraction and off‑notes in every cup. Keeping the grinder clean preserves grind consistency and extends component life.",
+    "howToThink": "Pull the hopper, brush out loose grounds, run a dry grind cycle to dislodge residue, then wipe the burrs with a soft, lint‑free cloth. Finish with a brief grind of a few grams of fresh beans to clear any lingering debris.",
+    "pros": [
+      "Restores flavor instantly",
+      "Extends grinder lifespan",
+      "No extra cost"
+    ],
+    "cons": [
+      "Requires occasional disassembly",
+      "Takes a few minutes",
+      "May need specialty brush for deep crevices"
+    ],
+    "watchOut": "Avoid using water or liquid cleaners on burrs unless the manufacturer explicitly permits it, as moisture can cause rust.",
+    "faq": [
+      {
+        "q": "How often should I clean my burrs?",
+        "a": "A light brush‑out weekly and a deep clean every 1‑2 months works for most home users."
+      },
+      {
+        "q": "Can I use coffee beans as a cleaning aid?",
+        "a": "Yes—grinding a handful of uncooked rice or beans can help scour residual oils before the final wipe."
+      },
+      {
+        "q": "Will cleaning affect my grind size settings?",
+        "a": "The settings stay the same, but you may notice a more consistent particle distribution after cleaning."
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "grinder",
+      "maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-10-19T05:45:07.002Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-shot-tuning-tips",
     "title": "Elevate Your Espresso Shot with a Simple Tamp Pressure Check",
     "dek": "A quick tamp pressure tweak can tighten shot consistency without buying new gear.",

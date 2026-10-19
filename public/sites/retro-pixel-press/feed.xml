@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Audio Overhaul: Installing a DAC for Crystal‑Clear SNES Sound</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/audio-overhaul-dac-snes.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/audio-overhaul-dac-snes.html</guid>
+      <pubDate>Mon, 19 Oct 2026 05:45:06 GMT</pubDate>
+      <description>Give your SNES the sound quality it deserves with a simple DAC swap.</description>
+    </item>
+    <item>
       <title>Retro Battery Boost: Switching to Rechargeable AAs for Longer Game Boy Runs</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-battery-boost.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-battery-boost.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/boost-snes-audio-capacitor-swap.html</guid>
       <pubDate>Wed, 26 Aug 2026 05:16:26 GMT</pubDate>
       <description>Swap a cheap capacitor to tighten SNES audio output and gain clearer sound for your runs.</description>
-    </item>
-    <item>
-      <title>DIY Power Stabilizer: Nail Consistent Frame Timing on Your SNES</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/diy-power-stabilizer-snes.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/diy-power-stabilizer-snes.html</guid>
-      <pubDate>Wed, 26 Aug 2026 04:23:26 GMT</pubDate>
-      <description>A cheap, easy mod that smooths power spikes for rock‑solid frame timing on classic SNES rigs.</description>
     </item>
   </channel>
 </rss>

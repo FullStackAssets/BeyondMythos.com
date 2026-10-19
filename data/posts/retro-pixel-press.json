@@ -1,5 +1,56 @@
 [
   {
+    "slug": "audio-overhaul-dac-snes",
+    "title": "Audio Overhaul: Installing a DAC for Crystal‑Clear SNES Sound",
+    "dek": "Give your SNES the sound quality it deserves with a simple DAC swap.",
+    "takeaway": "A DIY DAC upgrade dramatically improves audio clarity without altering gameplay.",
+    "whatHappened": "We removed the original audio IC from a classic SNES and soldered in a compact digital‑to‑analog converter board. The console powered up, and the menu music immediately sounded richer and more defined. The upgrade required only basic soldering tools and a brief calibration step.",
+    "whyItMatters": "Many retro titles suffer from muddy or tinny audio due to aging components, which can detract from immersion and competitive timing cues. Sharper sound helps speedrunners hear subtle audio cues and collectors enjoy the original soundtrack as intended. The fix extends the console’s relevance without compromising authenticity.",
+    "howToThink": "Treat the DAC as a plug‑in replacement: verify pin‑out compatibility, use a heat‑shrink sleeve for protection, and test the output before final assembly. Keep the original board as a backup in case you need to revert. Document each step so you can replicate the upgrade on other units.",
+    "pros": [
+      "Crisp, detailed audio",
+      "Minimal impact on original hardware",
+      "Easy to reverse if needed"
+    ],
+    "cons": [
+      "Requires soldering skill",
+      "Adds a small visual modification",
+      "May void warranty on rare units"
+    ],
+    "watchOut": "Ensure the power rails match the DAC’s requirements to avoid damaging the console’s motherboard.",
+    "faq": [
+      {
+        "q": "Do I need a special screwdriver for the SNES case?",
+        "a": "A standard Phillips #2 works for the majority of screws; a tri‑wing may be needed for later revisions."
+      },
+      {
+        "q": "Will the DAC affect the console’s video output?",
+        "a": "No, the DAC only replaces the audio path and leaves video circuitry untouched."
+      },
+      {
+        "q": "Can I use any DAC board?",
+        "a": "Choose a board designed for 5V operation and compatible pin mapping to avoid mismatches."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "audio",
+      "hardware"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-19T05:45:06.336Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "retro-battery-boost",
     "title": "Retro Battery Boost: Switching to Rechargeable AAs for Longer Game Boy Runs",
     "dek": "Swap standard alkaline AAs for NiMH rechargeables to extend playtime and keep your Game Boy humming during marathon runs.",

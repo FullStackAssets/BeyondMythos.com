@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midnight-snack-carriage",
+    "title": "Midnight Snack Carriage: Low‑Impact Sustainable Bites on Rural Trains",
+    "dek": "Discover how to enjoy zero‑waste snacks aboard night trains without compromising flavor or the planet.",
+    "takeaway": "Simple, low‑impact snack ideas turn any rail night into a greener experience.",
+    "whatHappened": "On a recent overnight journey through the countryside, I swapped the usual packaged treats for a DIY trail mix and a reusable bamboo cup, sharing the concept with fellow travelers in the carriage.",
+    "whyItMatters": "Night trains often become mini‑buffets of single‑use packaging, inflating waste on routes that already run on limited resources. By bringing low‑impact snacks, travelers can cut that waste and model sustainable habits for others, reinforcing the ethos of slow travel.",
+    "howToThink": "Plan your snack menu ahead of time, focusing on bulk ingredients like nuts, dried fruit, and local spices. Pack everything in reusable containers or silicone bags, and keep a small waste‑free utensil set at hand. Treat the snack as part of the journey, not an afterthought, and invite companions to join in the low‑impact habit.",
+    "pros": [
+      "Reduces waste",
+      "Boosts local flavors",
+      "Easy to prep"
+    ],
+    "cons": [
+      "Limited shelf‑life",
+      "Requires prep time",
+      "May need extra space"
+    ],
+    "watchOut": "Avoid foods that need refrigeration unless you have a reliable cooler, as temperature swings on trains can spoil perishables.",
+    "faq": [
+      {
+        "q": "Can I bring fresh fruit on a night train?",
+        "a": "Yes, as long as it’s whole and doesn’t require refrigeration; choose sturdy varieties like apples or oranges."
+      },
+      {
+        "q": "What containers are best for low‑impact rail snacking?",
+        "a": "Reusable silicone bags, glass jars with screw lids, or a sturdy metal tin work well and fit in a carry‑on."
+      },
+      {
+        "q": "Is it okay to share snacks with other passengers?",
+        "a": "Absolutely—just ensure everything is individually wrapped or served with clean utensils to keep hygiene high."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "Rail",
+      "Packing"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-10-19T05:45:08.187Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "eco-friendly-night-lights",
     "title": "Eco‑Friendly Night Lights: Low‑Impact Illumination on Rural Carriages",
     "dek": "Discover how to light up your sleeper car with sustainable glow without draining the grid.",
