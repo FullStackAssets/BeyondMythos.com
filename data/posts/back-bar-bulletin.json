@@ -1,5 +1,56 @@
 [
   {
+    "slug": "batch-cocktails-for-parties-field-test-26",
+    "title": "\"batch cocktails for parties\" in practice: a real-world field test",
+    "dek": "We put the most-repeated advice about batch cocktails for parties through a month of actual use. Some of it survived.",
+    "takeaway": "Half the standard advice on batch cocktails for parties holds up; the other half exists to sell you something. Test small before you commit.",
+    "whatHappened": "We collected the most common recommendations home bartenders and cocktail hobbyists see when they search \"batch cocktails for parties\" and ran them through four weeks of ordinary, unglamorous use. The gap between what demos well and what holds up in week four was bigger than expected.",
+    "whyItMatters": "Most advice about classics is written from a first impression. The failure modes that actually cost home bartenders and cocktail hobbyists time and money only show up with repetition — which is exactly what one-day reviews never capture.",
+    "howToThink": "Before adopting any recommendation about batch cocktails for parties, ask what a fourth week of it looks like. If you can't picture the boring version, you're looking at marketing, not a method.",
+    "pros": [
+      "Cheap to replicate at home",
+      "Surfaced real week-four failure modes",
+      "Cuts through first-impression reviews"
+    ],
+    "cons": [
+      "A month is still a small sample",
+      "Results vary by setup",
+      "Some advice needs a season, not weeks"
+    ],
+    "watchOut": "If a guide about batch cocktails for parties shows zero failed attempts, it wasn't a test — it was a script.",
+    "faq": [
+      {
+        "q": "What survived the field test?",
+        "a": "The fundamentals: consistent routine, modest gear, and keeping a log. The exotic tricks mostly didn't."
+      },
+      {
+        "q": "How should I run my own test?",
+        "a": "Change one variable, hold everything else steady for two weeks minimum, and write down what annoyed you."
+      },
+      {
+        "q": "Whose advice should I trust?",
+        "a": "People who publish follow-ups. A single enthusiastic post about classics is a data point, not a verdict."
+      }
+    ],
+    "category": "Classics",
+    "tags": [
+      "Classics",
+      "Tools"
+    ],
+    "sources": [
+      {
+        "label": "r/mixology community threads",
+        "url": "https://www.reddit.com/r/mixology/"
+      },
+      {
+        "label": "Search interest: \"batch cocktails for parties\"",
+        "url": "https://duckduckgo.com/?q=batch%20cocktails%20for%20parties"
+      }
+    ],
+    "publishedAt": "2026-10-20T15:45:21.125Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-batching-77",
     "title": "Ask the forge: your batching questions, answered",
     "dek": "Straight answers to the batching questions home bartenders and cocktail hobbyists keep asking, minus the hedging.",

@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Cleaning NES Cartridge Pins for Consistent Gameplay</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/cleaning-nes-cartridge-pins.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/cleaning-nes-cartridge-pins.html</guid>
+      <pubDate>Tue, 20 Oct 2026 15:45:07 GMT</pubDate>
+      <description>A quick guide to reviving dusty NES cartridges and keeping your runs glitch‑free.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Cleaning Super Nintendo Cartridge Contacts for Reliable Saves</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/cleaning-snes-cartridge-contacts.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/cleaning-snes-cartridge-contacts.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/power-surge-snes-connector.html</guid>
       <pubDate>Mon, 19 Oct 2026 10:45:08 GMT</pubDate>
       <description>Strengthen the SNES power plug to avoid intermittent drops during long speedrun sessions.</description>
-    </item>
-    <item>
-      <title>Retro Power Tweak: Optimizing Your NES Voltage for Consistent Frame Timing</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-power-tweak-optimizing-nes-voltage.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-power-tweak-optimizing-nes-voltage.html</guid>
-      <pubDate>Mon, 19 Oct 2026 09:45:09 GMT</pubDate>
-      <description>A quick guide to fine‑tuning your NES’s power rails to keep frame timing steady during marathon runs.</description>
     </item>
   </channel>
 </rss>

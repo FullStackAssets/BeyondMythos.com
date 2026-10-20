@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-pressure-gauge-check",
+    "title": "Get Consistent Espresso Shots with a Simple Pressure Gauge Check",
+    "dek": "A quick guide to using a pressure gauge for more consistent espresso shots at home.",
+    "takeaway": "Monitoring brew pressure lets you dial in extraction without guesswork.",
+    "whatHappened": "A home barista noticed day‑to‑day flavor swings in their espresso and added a pressure gauge to the group head. The gauge revealed pressure spikes that matched the off‑notes.",
+    "whyItMatters": "Brew pressure directly controls water flow and extraction balance, so stable pressure translates to repeatable flavor. Spotting pressure drift early can prevent wasted beans and frustration.",
+    "howToThink": "Install a reliable gauge on the portafilter, pull a shot, and note the pressure curve. If pressure is low, tighten the grind or increase dose; if high, coarsen the grind. Use the reading as a baseline, then fine‑tune by taste.",
+    "pros": [
+      "Immediate visual feedback",
+      "Helps fine‑tune grind and dose",
+      "Detects machine pressure issues"
+    ],
+    "cons": [
+      "Adds a small cost",
+      "Requires an extra step each pull",
+      "Gauge may need periodic recalibration"
+    ],
+    "watchOut": "Don’t let the gauge replace tasting – flavor still decides the final tweak.",
+    "faq": [
+      {
+        "q": "What pressure range should I aim for?",
+        "a": "Most home espresso machines target around 9 bars during the stable part of the extraction."
+      },
+      {
+        "q": "Where should I attach the gauge?",
+        "a": "Clamp it between the portafilter and the group head so it reads pressure as water enters the coffee puck."
+      },
+      {
+        "q": "How often should I check the gauge?",
+        "a": "A quick glance on each pull is useful, but a deeper check after any machine maintenance is recommended."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "tools"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-10-20T15:45:05.364Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-espresso-14",
     "title": "Community pulse: what r/espresso is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the gear community this week.",

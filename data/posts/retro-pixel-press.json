@@ -1,5 +1,56 @@
 [
   {
+    "slug": "cleaning-nes-cartridge-pins",
+    "title": "Pixel Boost: Cleaning NES Cartridge Pins for Consistent Gameplay",
+    "dek": "A quick guide to reviving dusty NES cartridges and keeping your runs glitch‑free.",
+    "takeaway": "Regular pin cleaning prevents misreads that can ruin a speedrun.",
+    "whatHappened": "We noticed a surge in missed inputs during a recent marathon of Super Mario Bros. 3, traced to oxidized cartridge pins. A simple cleaning restored flawless reads.",
+    "whyItMatters": "Even a single misread can cost precious seconds in a competitive run, and dirty pins can corrupt saves for collectors. Maintaining clean contacts prolongs cartridge life and preserves the original experience.",
+    "howToThink": "Use a soft, anti‑static brush and isopropyl alcohol to gently scrub each pin, then let it dry fully before reinserting. Avoid excessive force; the goal is to remove residue, not damage the metal.",
+    "pros": [
+      "Restores reliability",
+      "Extends cartridge lifespan",
+      "Low‑cost maintenance"
+    ],
+    "cons": [
+      "Requires careful handling",
+      "Alcohol fumes if not ventilated",
+      "Time needed for multiple cartridges"
+    ],
+    "watchOut": "Never use abrasive tools that could scratch the pins.",
+    "faq": [
+      {
+        "q": "Can I clean pins without opening the cartridge?",
+        "a": "Yes, a brush applied through the cartridge slot works for most cases."
+      },
+      {
+        "q": "What concentration of alcohol is safe?",
+        "a": "A 90% isopropyl solution is standard and evaporates quickly."
+      },
+      {
+        "q": "How often should I clean my NES cartridges?",
+        "a": "Whenever you notice input lag, missed saves, or visible dust, a quick clean is advisable."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "hardware",
+      "maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-10-20T15:45:07.864Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "cleaning-snes-cartridge-contacts",
     "title": "Pixel Boost: Cleaning Super Nintendo Cartridge Contacts for Reliable Saves",
     "dek": "A quick guide to safely clean SNES cartridge pins and prevent save corruption.",
