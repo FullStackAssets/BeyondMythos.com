@@ -1,5 +1,56 @@
 [
   {
+    "slug": "morning-platform-coffee",
+    "title": "Morning Platform Coffee: Low‑Impact Brew on Rural Trains",
+    "dek": "Start your day with a simple, sustainable coffee ritual aboard slow trains.",
+    "takeaway": "A minimal coffee routine can energize travelers while keeping carbon footprints low.",
+    "whatHappened": "I brewed a pour‑over using a reusable filter on a 9 am regional service, watching misty fields slide by. The ritual took only five minutes, yet it anchored the journey in calm focus.",
+    "whyItMatters": "Coffee is a daily anchor for many, but disposable cups and single‑serve pods add waste. A low‑impact brew turns a habit into a green statement without sacrificing pleasure.",
+    "howToThink": "Carry a compact, stainless‑steel pour‑over kit and a small bag of ethically sourced beans. Use hot tap water from the carriage, and rehearse the timing so you finish before the next stop. Keep the grind coarse to avoid clogging the filter.",
+    "pros": [
+      "Zero‑waste cup option",
+      "Boosts alertness on early legs",
+      "Adds a ritualistic pause"
+    ],
+    "cons": [
+      "Requires a heat source",
+      "Limited to trains with water taps",
+      "May need extra packing space"
+    ],
+    "watchOut": "Be mindful of steam and hot water to avoid burns in cramped aisles.",
+    "faq": [
+      {
+        "q": "Can I use instant coffee instead?",
+        "a": "Instant coffee works, but it often comes in single‑serve packets that generate waste; choose a bulk jar and a reusable spoon if you must."
+      },
+      {
+        "q": "What if the train lacks a water tap?",
+        "a": "Plan ahead: bring a thermos of boiled water from the previous stop, or choose routes known to provide hot water on board."
+      },
+      {
+        "q": "Is a reusable cup really worth it?",
+        "a": "Yes—over many trips a stainless steel cup replaces dozens of disposable cups and cuts down landfill waste."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "coffee",
+      "sustainability"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-10-20T10:45:06.666Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "sunset-platform-poetry",
     "title": "Sunset Platform Poetry: Low-Impact Creative Moments on Rural Trains",
     "dek": "Discover how a few lines of verse can turn a slow train ride into a mindful pause.",

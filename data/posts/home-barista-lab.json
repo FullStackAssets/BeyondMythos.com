@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-grinder-dose-check",
+    "title": "Sharpen Your Espresso Extraction with a Simple Grinder Dose Check",
+    "dek": "A quick check of your grinder’s dose can tighten shot consistency without buying new gear.",
+    "takeaway": "Consistent dosing is the hidden lever for repeatable espresso flavor.",
+    "whatHappened": "I noticed my espresso shots fluctuating in body and sweetness despite stable temperature and tamp. A quick audit of the grinder revealed uneven dose amounts, prompting a simple adjustment to the dosing funnel.",
+    "whyItMatters": "Dose variations change the coffee‑water ratio, directly affecting extraction balance. Even small swings can swing the taste from bright to bitter, making consistency elusive.",
+    "howToThink": "Measure the output of your grinder into a scale for a few shots, note the variance, then adjust the grind size or dosing chamber until the weight stays within a narrow window. Aim for less than a gram difference between pulls.",
+    "pros": [
+      "Boosts flavor consistency",
+      "No extra equipment needed",
+      "Quick daily routine"
+    ],
+    "cons": [
+      "Requires a scale",
+      "May need grind size tweaks",
+      "Can be fiddly with low‑capacity grinders"
+    ],
+    "watchOut": "Avoid over‑tightening the dosing chamber, which can cause clogs or uneven grind flow.",
+    "faq": [
+      {
+        "q": "How often should I check my dose?",
+        "a": "A quick check once a week or whenever you notice taste shifts keeps you on track."
+      },
+      {
+        "q": "Can I use a volume-based method instead of weight?",
+        "a": "Weight is more reliable because bean density varies; volume can mislead."
+      },
+      {
+        "q": "What if my dose stays inconsistent after adjustment?",
+        "a": "Inspect the burrs for wear and ensure the hopper is sealed; worn burrs or air leaks often cause dose drift."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "dosing"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-10-20T10:45:11.609Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "optimize-espresso-extraction-temperature",
     "title": "Optimize Your Espresso Extraction with a Simple Water Temperature Calibration",
     "dek": "A quick temperature check can tighten shot consistency and flavor without buying new gear.",

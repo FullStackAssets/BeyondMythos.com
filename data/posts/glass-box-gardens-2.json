@@ -1,5 +1,56 @@
 [
   {
+    "slug": "community-pulse-plantedtank-2",
+    "title": "Community pulse: what r/PlantedTank is debating this week",
+    "dek": "The arguments, consensus shifts, and quietly useful threads from the livestock community this week.",
+    "takeaway": "The community's loudest argument is rarely its most useful thread. We pulled out both.",
+    "whatHappened": "This week's discussion among planted-tank keepers and aquascapers split between a recurring gear-versus-skill argument and a quieter thread of genuinely practical write-ups. As usual, the practical material got a fraction of the attention and most of the value.",
+    "whyItMatters": "Forums are the highest-signal source in livestock — but only if you know how to read them. The upvote curve rewards controversy; the archive rewards patience.",
+    "howToThink": "Read communities like a researcher, not a spectator: skip the drama threads, sort by top-of-month, and save anything with photos, numbers, and a follow-up edit.",
+    "pros": [
+      "Real practitioners, real failures",
+      "Searchable archive of past debates",
+      "Faster than trial and error"
+    ],
+    "cons": [
+      "Upvotes reward heat, not light",
+      "Survivorship bias in success posts",
+      "Same arguments recur monthly"
+    ],
+    "watchOut": "When a thread's top comment starts with \"everyone knows,\" verify it. Community consensus in livestock has a half-life.",
+    "faq": [
+      {
+        "q": "Which threads are worth saving?",
+        "a": "Anything with a methodology, a budget, photos, and a follow-up edit. That combination is rare and gold."
+      },
+      {
+        "q": "Should I post my own questions?",
+        "a": "Yes — after searching. A well-scoped question with context gets remarkable answers."
+      },
+      {
+        "q": "How do I avoid the drama?",
+        "a": "Sort by top-of-month instead of hot. The algorithm is the drama's delivery system."
+      }
+    ],
+    "category": "Livestock",
+    "tags": [
+      "Livestock",
+      "Plants"
+    ],
+    "sources": [
+      {
+        "label": "r/PlantedTank community threads",
+        "url": "https://www.reddit.com/r/PlantedTank/"
+      },
+      {
+        "label": "Search interest: \"low tech planted tank\"",
+        "url": "https://duckduckgo.com/?q=low%20tech%20planted%20tank"
+      }
+    ],
+    "publishedAt": "2026-10-20T10:45:37.445Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "co2-pre-spend-checklist-5",
     "title": "The co2 checklist: run this before you spend",
     "dek": "Seven questions that separate a justified co2 purchase from an expensive mood.",

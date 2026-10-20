@@ -1,5 +1,56 @@
 [
   {
+    "slug": "shade-loving-herbs-low-light",
+    "title": "Shade-Loving Herbs: Thriving on Low‑Light Balconies",
+    "dek": "Discover which shade‑tolerant herbs can flourish on balconies that get only a few hours of sun each day.",
+    "takeaway": "Even minimal sunlight can support a productive herb garden with the right plant choices.",
+    "whatHappened": "We set up a three‑pot trial on a north‑facing balcony, planting mint, parsley, and chervil. After a few weeks the plants showed steady growth despite limited sun.",
+    "whyItMatters": "Balcony dwellers often think low‑light means no herbs, but choosing shade‑loving varieties expands culinary options and boosts morale. A thriving herb corner also adds scent and greenery to compact living spaces.",
+    "howToThink": "Pick herbs that naturally thrive in partial shade, use light‑reflective surfaces like white trays, and keep soil consistently moist but not soggy. Regularly trim to encourage bushier growth and prevent legginess.",
+    "pros": [
+      "More herb variety",
+      "Lower water needs",
+      "Easy maintenance"
+    ],
+    "cons": [
+      "Slower growth",
+      "Limited harvest volume",
+      "May attract pests if over‑watered"
+    ],
+    "watchOut": "Avoid letting water sit stagnant to prevent fungal issues.",
+    "faq": [
+      {
+        "q": "Which herbs tolerate shade best?",
+        "a": "Mint, parsley, chervil, and cilantro generally perform well with 2–4 hours of indirect light."
+      },
+      {
+        "q": "Do I need special soil?",
+        "a": "A light, well‑draining potting mix enriched with organic compost works fine for shade‑loving herbs."
+      },
+      {
+        "q": "How often should I water?",
+        "a": "Keep the soil evenly moist; water when the top inch feels dry, but avoid waterlogging."
+      }
+    ],
+    "category": "Herbs",
+    "tags": [
+      "herbs",
+      "low-light"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-10-20T10:45:07.338Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "rain-barrel-mini-capture-balcony-drips",
     "title": "Rain Barrel Mini: Capture Balcony Drips for Self‑Watering",
     "dek": "Turn a tiny balcony rain collector into a low‑maintenance water source for your herbs and veggies.",

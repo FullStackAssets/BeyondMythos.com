@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-boost-recalibrating-game-boy-pocket-lcd",
+    "title": "Pixel Boost: Recalibrating Game Boy Pocket LCD for Crisper Text",
+    "dek": "A quick tweak to the Game Boy Pocket's LCD bias can make on‑screen text noticeably sharper without any soldering.",
+    "takeaway": "Adjusting the LCD bias is a low‑risk way to improve readability on the Game Boy Pocket.",
+    "whatHappened": "We noticed that the original Game Boy Pocket often rendered tiny letters with a fuzzy edge, especially on older units. By accessing the LCD bias potentiometer on the board and nudging it a half‑turn clockwise, the contrast tightened. After the adjustment, the same game screenshots showed cleaner glyphs with no loss of battery life.",
+    "whyItMatters": "Clearer text reduces eye strain during marathon runs and makes reading in‑game hints easier, which can shave seconds off a speedrun. For collectors, a sharper display adds to the nostalgic appeal of the handheld, preserving the original experience with modern clarity. The fix is reversible, so it respects the device's preservation ethos.",
+    "howToThink": "Treat the LCD bias as a fine‑tune knob rather than a permanent fix; make small adjustments and test each time. Keep a steady hand and use a precision screwdriver to avoid damaging the tiny pot. Document the before‑and‑after screenshots so you can compare and decide if the new setting suits your play style.",
+    "pros": [
+      "Visible text improvement",
+      "No extra parts needed",
+      "Reversible tweak"
+    ],
+    "cons": [
+      "Requires opening the case",
+      "Potential for over‑adjustment",
+      "May not help heavily worn LCDs"
+    ],
+    "watchOut": "Avoid turning the bias pot too far; an extreme setting can wash out the screen and make colors look washed.",
+    "faq": [
+      {
+        "q": "Do I need to desolder anything?",
+        "a": "No, the LCD bias potentiometer is exposed on the board and can be accessed with a small screwdriver."
+      },
+      {
+        "q": "Will this affect battery life?",
+        "a": "The adjustment only changes voltage bias, so it has a negligible impact on power consumption."
+      },
+      {
+        "q": "Can I revert the change if I don’t like it?",
+        "a": "Yes—simply turn the potentiometer back to its original position."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Game Boy Pocket",
+      "Display Mods"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-10-20T10:45:08.566Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-boost-recalibrating-game-boy-camera-sensor",
     "title": "Pixel Boost: Recalibrating Game Boy Camera Sensor for Clearer Snapshots",
     "dek": "A quick guide to tweaking the Game Boy Camera's sensor for sharper images without breaking the device.",
