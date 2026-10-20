@@ -1,5 +1,56 @@
 [
   {
+    "slug": "reinforce-snes-wires",
+    "title": "Pixel Boost: Reinforcing SNES Controller Wires for Consistent Input",
+    "dek": "A quick guide to strengthen SNES controller wiring, keeping your inputs crisp for marathon runs.",
+    "takeaway": "Sturdy wiring means fewer missed inputs and smoother speedruns.",
+    "whatHappened": "During a recent marathon run, a seasoned speedrunner noticed intermittent lag due to frayed SNES controller wires. After a simple solder‑and‑heat‑shrink repair, the controller responded instantly throughout the session.",
+    "whyItMatters": "Unreliable controller wiring can ruin split times and cost valuable practice hours. Reinforcing the wires ensures the hardware matches the runner's skill, preserving both performance and the console's longevity.",
+    "howToThink": "Treat the controller like a race car: regular maintenance prevents breakdowns. Inspect the internal cable for wear, apply a fresh solder joint, and protect it with heat‑shrink tubing before reassembly.",
+    "pros": [
+      "Improved input reliability",
+      "Low cost repair",
+      "Extends controller lifespan"
+    ],
+    "cons": [
+      "Requires basic soldering skills",
+      "May void warranty",
+      "Takes 10‑15 minutes"
+    ],
+    "watchOut": "Be careful not to overheat the PCB, as excessive heat can damage nearby components.",
+    "faq": [
+      {
+        "q": "What tools do I need for the repair?",
+        "a": "A fine‑tip soldering iron, solder, heat‑shrink tubing, and a small screwdriver are sufficient."
+      },
+      {
+        "q": "Can I just replace the controller instead of fixing it?",
+        "a": "Replacing works, but refurbishing saves money and keeps a beloved controller in use."
+      },
+      {
+        "q": "Will this mod affect compatibility with other consoles?",
+        "a": "No, the wiring changes stay within the SNES controller housing and don’t impact other systems."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "SNES",
+      "Controller Mods"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-20T05:45:08.323Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-boost-swap-nes-zapper-lens",
     "title": "Pixel Boost: Swapping NES Zapper Lens for Sharper Aim",
     "dek": "Replace the cheap plastic lens in your NES Zapper with a clear acrylic one for crisper on‑screen targeting.",

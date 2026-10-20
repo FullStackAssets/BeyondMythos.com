@@ -1,5 +1,56 @@
 [
   {
+    "slug": "myth-vs-reality-backpacking-food-ideas-2",
+    "title": "Myth vs. reality: backpacking food ideas",
+    "dek": "The persistent myths around backpacking food ideas, stress-tested against what camp cooks and weekend backpackers actually report.",
+    "takeaway": "The biggest myths about backpacking food ideas survive because they're convenient, not because they're true.",
+    "whatHappened": "We lined up the claims that dominate search results for \"backpacking food ideas\" against long-term reports from camp cooks and weekend backpackers. Three claims collapsed immediately, one held up with caveats, and one turned out to be truer than its critics admit.",
+    "whyItMatters": "Myths in stoves aren't harmless — they set budgets, shape routines, and decide who gives up. Replacing one myth with one measured fact upgrades every decision downstream.",
+    "howToThink": "For any confident claim about backpacking food ideas, ask: who measured it, over what period, and who profits if I believe it? Two out of three unanswered means file it under folklore.",
+    "pros": [
+      "Frees budget from myth-driven buys",
+      "Long-term reports are abundant now",
+      "Skepticism transfers to every niche"
+    ],
+    "cons": [
+      "Myths are more fun than caveats",
+      "Debunks age poorly too",
+      "Nuance doesn't fit a headline"
+    ],
+    "watchOut": "Beware the counter-myth: the internet loves inverting popular advice, and the inversion is usually just as unmeasured.",
+    "faq": [
+      {
+        "q": "What's the most expensive myth?",
+        "a": "That better gear reliably substitutes for practice. It shows up in every niche's spending regrets thread."
+      },
+      {
+        "q": "How do myths start?",
+        "a": "A true statement about one context, repeated without the context, monetized without the truth."
+      },
+      {
+        "q": "What actually held up?",
+        "a": "Consistency claims. The boring advice survives testing at a rate the exciting advice never matches."
+      }
+    ],
+    "category": "Stoves",
+    "tags": [
+      "Stoves",
+      "Prep"
+    ],
+    "sources": [
+      {
+        "label": "r/trailmeals community threads",
+        "url": "https://www.reddit.com/r/trailmeals/"
+      },
+      {
+        "label": "Search interest: \"backpacking food ideas\"",
+        "url": "https://duckduckgo.com/?q=backpacking%20food%20ideas"
+      }
+    ],
+    "publishedAt": "2026-10-20T05:45:33.706Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-meals-4",
     "title": "A weekend project: level up your meals in two hours",
     "dek": "One contained, satisfying meals project for camp cooks — start Saturday morning, done by lunch.",

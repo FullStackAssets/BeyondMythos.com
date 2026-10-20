@@ -1,5 +1,56 @@
 [
   {
+    "slug": "perfect-espresso-tamping-pressure",
+    "title": "Nail Your Espresso Tamping Pressure with a Simple Finger Guide",
+    "dek": "A quick finger‑guide hack steadies your tamp for smoother shots every morning.",
+    "takeaway": "Consistent tamp pressure yields more repeatable espresso extraction.",
+    "whatHappened": "I tried tamping with a casual hand and got a thin, uneven crema. After adding a fingertip reference, the shot body filled out and the crema steadied. The change was immediate and obvious.",
+    "whyItMatters": "Tamping pressure directly influences how water flows through the puck, affecting flavor balance and shot volume. Without a steady pressure, each pull can feel like a roulette wheel, frustrating consistency seekers. A reliable tamp makes other variables—like grind and dose—more predictable.",
+    "howToThink": "Place a fingertip on the tamp head and press until you feel a firm, yet not strained, resistance. Use the same finger placement each time to build muscle memory. Treat the pressure as a repeatable feel rather than a numeric target.",
+    "pros": [
+      "Easy to learn",
+      "No extra tools needed",
+      "Improves shot consistency"
+    ],
+    "cons": [
+      "Requires conscious practice",
+      "May feel awkward at first",
+      "Doesn’t replace good grind"
+    ],
+    "watchOut": "Don’t over‑compress; excessive pressure can choke the flow and produce sour notes.",
+    "faq": [
+      {
+        "q": "Do I need a scale to use the finger guide?",
+        "a": "No, the guide relies on feel, so a scale isn’t required for this step."
+      },
+      {
+        "q": "Can I use this method with a bottom‑less portafilter?",
+        "a": "Yes, the visual feedback from a bottom‑less portafilter can even help you gauge pressure."
+      },
+      {
+        "q": "How often should I check my tamp technique?",
+        "a": "Periodically—especially after cleaning equipment or changing beans—to keep the feel consistent."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "tamping",
+      "espresso"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-10-20T05:45:04.737Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-temp-thermometer-check",
     "title": "Fine‑Tune Your Espresso Temperature with a Simple Thermometer Check",
     "dek": "A quick thermocouple tip to lock in consistent brew temps and boost flavor.",

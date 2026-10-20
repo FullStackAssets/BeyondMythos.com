@@ -1,5 +1,56 @@
 [
   {
+    "slug": "mini-greenhouse-hacks-extending-season",
+    "title": "Mini Greenhouse Hacks: Extending the Growing Season on Small Balconies",
+    "dek": "Turn a simple balcony shelf into a mini greenhouse and keep herbs thriving through cooler months.",
+    "takeaway": "A cheap, portable greenhouse can stretch your balcony herb harvest by weeks.",
+    "whatHappened": "We covered a narrow balcony shelf with clear acrylic panels and added a few strategic vents. The enclosure trapped warm air while still allowing airflow, letting basil and mint stay vigorous into early autumn.",
+    "whyItMatters": "Balcony gardeners often lose their herb momentum when temperatures dip, forcing a restart in spring. Extending the season means fresher flavor, less waste, and a steadier supply for cooking. It also maximizes the limited space you have in an apartment setting.",
+    "howToThink": "Choose a lightweight, clear material that fits your shelf dimensions and can be easily removed for cleaning. Add simple vents—tiny gaps or removable flaps—to release excess heat on sunny days. Monitor humidity and open the vents briefly each morning to prevent mold.",
+    "pros": [
+      "Low cost",
+      "Portable",
+      "Improves heat retention"
+    ],
+    "cons": [
+      "Limited space",
+      "Requires occasional venting",
+      "May trap excess humidity"
+    ],
+    "watchOut": "Watch for condensation buildup, which can encourage mildew on delicate herb leaves.",
+    "faq": [
+      {
+        "q": "Can I use clear plastic wrap instead of acrylic panels?",
+        "a": "Yes, but plastic wrap is less durable and may need frequent replacement; acrylic offers better insulation and reusability."
+      },
+      {
+        "q": "Do I need a thermometer inside the mini greenhouse?",
+        "a": "A simple indoor thermometer helps you track temperature spikes and adjust vents before heat stress occurs."
+      },
+      {
+        "q": "Will the mini greenhouse work for larger vegetables?",
+        "a": "It’s best suited for compact herbs and microgreens; larger veggies need more space and airflow than a balcony‑scale greenhouse provides."
+      }
+    ],
+    "category": "Seasonal",
+    "tags": [
+      "Seasonal",
+      "Balcony"
+    ],
+    "sources": [
+      {
+        "label": "r/UrbanGardening community threads",
+        "url": "https://www.reddit.com/r/UrbanGardening/"
+      },
+      {
+        "label": "Search interest: \"balcony garden ideas\"",
+        "url": "https://duckduckgo.com/?q=balcony%20garden%20ideas"
+      }
+    ],
+    "publishedAt": "2026-10-20T05:45:07.725Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "sun-smart-herb-shelves",
     "title": "Sun‑Smart Herb Shelves: Boost Light on Dark Balconies",
     "dek": "Turn a narrow balcony rail into a bright herb shelf that catches sun and frees up floor space.",

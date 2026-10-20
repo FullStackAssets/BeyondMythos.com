@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Reinforcing SNES Controller Wires for Consistent Input</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/reinforce-snes-wires.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/reinforce-snes-wires.html</guid>
+      <pubDate>Tue, 20 Oct 2026 05:45:08 GMT</pubDate>
+      <description>A quick guide to strengthen SNES controller wiring, keeping your inputs crisp for marathon runs.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Swapping NES Zapper Lens for Sharper Aim</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-swap-nes-zapper-lens.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-swap-nes-zapper-lens.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/crt-calibration-fix.html</guid>
       <pubDate>Mon, 19 Oct 2026 00:45:06 GMT</pubDate>
       <description>A quick potentiometer tweak brings faded CRT colors back to life for smoother retro runs.</description>
-    </item>
-    <item>
-      <title>Retro LCD Revival: Adding a Backlight to Your Game Boy</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-lcd-revival-backlight-game-boy.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-lcd-revival-backlight-game-boy.html</guid>
-      <pubDate>Sun, 18 Oct 2026 23:45:08 GMT</pubDate>
-      <description>Give your original Game Boy a modern glow without losing its classic charm.</description>
     </item>
   </channel>
 </rss>
