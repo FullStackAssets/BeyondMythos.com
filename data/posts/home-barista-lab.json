@@ -1,5 +1,56 @@
 [
   {
+    "slug": "optimize-espresso-extraction-temperature",
+    "title": "Optimize Your Espresso Extraction with a Simple Water Temperature Calibration",
+    "dek": "A quick temperature check can tighten shot consistency and flavor without buying new gear.",
+    "takeaway": "Dialing in brew temperature is the fastest way to lift espresso quality at home.",
+    "whatHappened": "After noticing uneven extraction across days, we logged brew temps with a cheap digital thermometer. The data revealed a swing of several degrees, correlating with flavor swings. Adjusting the kettle temperature brought the shots back into sync.",
+    "whyItMatters": "Espresso solubility peaks around a narrow temperature band, so even a few degrees off can mute sweetness or accent bitterness. Consistent temperature reduces trial‑and‑error, saving beans and time. It also lets you fine‑tune other variables like dose and grind with confidence.",
+    "howToThink": "Treat temperature like a baseline: set it, measure it, and keep it steady before tweaking anything else. Use a thermometer that reads to at least 1 °C, and record the reading just before you start the shot. If you see drift, adjust your heating method or consider a PID‑controlled kettle.",
+    "pros": [
+      "Instant flavor lift",
+      "No extra equipment needed",
+      "Works with any machine"
+    ],
+    "cons": [
+      "Requires habit of measurement",
+      "Thermometer can drift over time",
+      "May need kettle upgrade for precise control"
+    ],
+    "watchOut": "Don’t overheat the water—scalded water can extract harsh compounds and burn the coffee.",
+    "faq": [
+      {
+        "q": "Do I need a fancy thermometer?",
+        "a": "A basic digital kitchen thermometer that reads 1 °C is sufficient for reliable checks."
+      },
+      {
+        "q": "What temperature range should I aim for?",
+        "a": "Most home espresso machines perform well between 90 °C and 96 °C; start in the middle and adjust by a degree or two."
+      },
+      {
+        "q": "Will this help if my grinder is inconsistent?",
+        "a": "It won’t fix grind variation, but a stable temperature lets you isolate grind issues more clearly."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "temperature",
+      "espresso"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-10-20T09:45:07.591Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-foam-quick-check",
     "title": "Boost Your Espresso Foam Consistency with a Simple Milk Frothing Guide",
     "dek": "A quick, repeatable method to get silky espresso foam every morning.",

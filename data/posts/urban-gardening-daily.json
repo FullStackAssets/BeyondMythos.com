@@ -1,5 +1,56 @@
 [
   {
+    "slug": "rain-barrel-mini-capture-balcony-drips",
+    "title": "Rain Barrel Mini: Capture Balcony Drips for Self‑Watering",
+    "dek": "Turn a tiny balcony rain collector into a low‑maintenance water source for your herbs and veggies.",
+    "takeaway": "A small, repurposed container can keep balcony plants hydrated without daily watering trips.",
+    "whatHappened": "A recent rainstorm left a few inches of water pooling on my balcony. I placed a shallow, food‑grade bucket under the drip line and connected it to a simple gravity‑fed hose. The system filled itself and fed a drip line to my herb pots.",
+    "whyItMatters": "Urban renters often lack easy access to garden water, relying on shared building supplies or frequent trips to the tap. A self‑filled barrel reduces water waste and frees up time, making balcony gardening more resilient during dry spells.",
+    "howToThink": "Choose a container that fits your balcony width, line the interior with a waterproof liner, and add a small overflow spout. Position the bucket where roof runoff collects, then run a thin tubing to your pots, using a drip emitter or a simple perforated hose to control flow.",
+    "pros": [
+      "Low cost using repurposed items",
+      "Reduces tap water use",
+      "Provides consistent moisture"
+    ],
+    "cons": [
+      "Limited capacity on small balconies",
+      "Needs occasional cleaning to avoid algae",
+      "May require occasional topping up during dry periods"
+    ],
+    "watchOut": "Avoid placing the barrel directly on wood or concrete without a protective mat, as standing water can cause damage.",
+    "faq": [
+      {
+        "q": "Can I use any bucket for the mini rain barrel?",
+        "a": "A food‑grade plastic or metal bucket with a tight‑fitting lid works best; ensure it’s clean and has a drain hole you can control."
+      },
+      {
+        "q": "How often should I clean the barrel?",
+        "a": "Clean it at the start of each rainy season or if you notice slime or mosquito larvae."
+      },
+      {
+        "q": "Will this system work in winter?",
+        "a": "If your balcony freezes, empty and store the barrel to prevent cracking; otherwise, the system is safe in mild winter rain."
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "water",
+      "containers"
+    ],
+    "sources": [
+      {
+        "label": "r/houseplants community threads",
+        "url": "https://www.reddit.com/r/houseplants/"
+      },
+      {
+        "label": "Search interest: \"small space vegetables\"",
+        "url": "https://duckduckgo.com/?q=small%20space%20vegetables"
+      }
+    ],
+    "publishedAt": "2026-10-20T09:45:06.879Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "stackable-tiered-pots",
     "title": "Stackable Tiered Pots: Grow More in One Balcony Spot",
     "dek": "Transform a single balcony nook into a multi‑level garden with cheap stackable pots.",

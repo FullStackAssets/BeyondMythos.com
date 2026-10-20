@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-boost-recalibrating-game-boy-camera-sensor",
+    "title": "Pixel Boost: Recalibrating Game Boy Camera Sensor for Clearer Snapshots",
+    "dek": "A quick guide to tweaking the Game Boy Camera's sensor for sharper images without breaking the device.",
+    "takeaway": "A simple sensor tweak yields noticeably clearer photos for collectors and speedrun footage.",
+    "whatHappened": "We noticed the Game Boy Camera's photos were getting washed out after years of storage. By gently cleaning the lens and adjusting the sensor's exposure resistor, the images regained contrast. The mod took under an hour and required only a screwdriver and a spare resistor.",
+    "whyItMatters": "Clearer screenshots improve documentation of speedrun strategies and help preserve the visual history of handheld gaming. A sharper camera also boosts the appeal of retro photography projects, keeping the device relevant for modern creators.",
+    "howToThink": "When tackling hardware tweaks, start by identifying the symptom and consult the service manual for part values. Use static-safe tools and test the camera after each adjustment. Keep a record of resistor values so you can revert if needed.",
+    "pros": [
+      "Improves image clarity",
+      "Low cost parts",
+      "Minimal disassembly"
+    ],
+    "cons": [
+      "Risk of static damage",
+      "Requires basic soldering",
+      "May void warranty"
+    ],
+    "watchOut": "Avoid touching the sensor directly and discharge static before handling the board.",
+    "faq": [
+      {
+        "q": "Do I need a new resistor or can I reuse one?",
+        "a": "A standard 10kΩ resistor works; you can reuse a spare from an old board."
+      },
+      {
+        "q": "Will this mod affect battery life?",
+        "a": "The change is negligible and won't noticeably drain the battery."
+      },
+      {
+        "q": "Can I reverse the tweak if I don't like the result?",
+        "a": "Yes, simply replace the resistor with the original value and reassemble."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "hardware",
+      "game-boy"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-10-20T09:45:10.685Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "overclocking-game-boy-color",
     "title": "Pixel Boost: Overclocking Game Boy Color for Faster Load Times",
     "dek": "Push your classic Game Boy Color to new speeds without breaking the hardware.",

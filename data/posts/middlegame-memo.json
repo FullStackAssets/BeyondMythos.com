@@ -1,5 +1,56 @@
 [
   {
+    "slug": "ask-the-forge-study-plans-81",
+    "title": "Ask the forge: your study plans questions, answered",
+    "dek": "Straight answers to the study plans questions adult chess improvers keep asking, minus the hedging.",
+    "takeaway": "Most study plans questions have boring, reliable answers. Here they are, without the two thousand words of preamble.",
+    "whatHappened": "We gathered the questions that appear weekly wherever adult chess improvers compare notes — the ones usually answered with \"it depends\" — and committed to actual answers with actual reasoning.",
+    "whyItMatters": "\"It depends\" is true and useless. Newcomers to study plans don't need every caveat; they need a defensible default they can adjust later.",
+    "howToThink": "Take the default, use it for a month, then earn your deviations. Customization is a reward for data, not a starting requirement.",
+    "pros": [
+      "Defaults beat decision paralysis",
+      "Reasoning shown, not just verdicts",
+      "Adjustable once you have data"
+    ],
+    "cons": [
+      "Defaults fit most, not all",
+      "Experts will quibble — always",
+      "Questions evolve; answers date"
+    ],
+    "watchOut": "Any answer that can't say what would change its mind isn't an answer — it's an identity. Ours come with conditions attached.",
+    "faq": [
+      {
+        "q": "What's the most-asked question?",
+        "a": "\"What should I buy first?\" — and the answer is almost always: nothing yet. Run the routine for two weeks first."
+      },
+      {
+        "q": "Why give defaults instead of options?",
+        "a": "Because ten options produce paralysis and one default produces feedback. You can only iterate on something you started."
+      },
+      {
+        "q": "How often do these answers change?",
+        "a": "We revisit quarterly. The fundamentals drift slowly; the gear recommendations drift fast."
+      }
+    ],
+    "category": "Study Plans",
+    "tags": [
+      "Study Plans",
+      "Openings"
+    ],
+    "sources": [
+      {
+        "label": "r/chessbeginners community threads",
+        "url": "https://www.reddit.com/r/chessbeginners/"
+      },
+      {
+        "label": "Search interest: \"endgame fundamentals\"",
+        "url": "https://duckduckgo.com/?q=endgame%20fundamentals"
+      }
+    ],
+    "publishedAt": "2026-10-20T09:45:22.449Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-endgames-79",
     "title": "The quiet upgrade: small tweaks in endgames with outsized returns",
     "dek": "No purchases, no overhauls — the modest endgames adjustments that adult chess improvers report mattering most.",

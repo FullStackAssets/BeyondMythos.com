@@ -5,6 +5,13 @@
     <link>https://beyondmythos.com/sites/beige-box-bulletin-3/</link>
     <description>Fresh takes for retro computer restorers and emulation fans.</description>
     <item>
+      <title>A weekend project: level up your restoration in two hours</title>
+      <link>https://beyondmythos.com/sites/beige-box-bulletin-3/posts/weekend-project-restoration-4.html</link>
+      <guid>https://beyondmythos.com/sites/beige-box-bulletin-3/posts/weekend-project-restoration-4.html</guid>
+      <pubDate>Tue, 20 Oct 2026 09:45:38 GMT</pubDate>
+      <description>One contained, satisfying restoration project for retro computer restorers — start Saturday morning, done by lunch.</description>
+    </item>
+    <item>
       <title>Community pulse: what r/emulation is debating this week</title>
       <link>https://beyondmythos.com/sites/beige-box-bulletin-3/posts/community-pulse-emulation-2.html</link>
       <guid>https://beyondmythos.com/sites/beige-box-bulletin-3/posts/community-pulse-emulation-2.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://beyondmythos.com/sites/beige-box-bulletin-3/posts/retro-linux-distro-raspberry-pi.html</guid>
       <pubDate>Wed, 14 Oct 2026 17:15:28 GMT</pubDate>
       <description>Deploy a retro‑focused Linux distro on a Pi to emulate classic UNIX workstations.</description>
-    </item>
-    <item>
-      <title>Color Calibration for Apple II Graphics</title>
-      <link>https://beyondmythos.com/sites/beige-box-bulletin-3/posts/color-calibration-apple-ii-graphics.html</link>
-      <guid>https://beyondmythos.com/sites/beige-box-bulletin-3/posts/color-calibration-apple-ii-graphics.html</guid>
-      <pubDate>Tue, 13 Oct 2026 04:15:28 GMT</pubDate>
-      <description>Adjust the Apple II&apos;s video output for accurate colors on modern monitors.</description>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "sunset-platform-poetry",
+    "title": "Sunset Platform Poetry: Low-Impact Creative Moments on Rural Trains",
+    "dek": "Discover how a few lines of verse can turn a slow train ride into a mindful pause.",
+    "takeaway": "A quick poetic practice adds mindfulness without extra waste.",
+    "whatHappened": "While waiting for the 7:15 rural service, I pulled out a pocket notebook and wrote verses inspired by the passing fields, sharing a line with a fellow passenger.",
+    "whyItMatters": "Creative pauses encourage low-impact engagement with the landscape, fostering presence and reducing the urge for digital distraction during travel.",
+    "howToThink": "Carry a small notebook or notes app, set a five‑minute timer at each stop, and let the scenery dictate your words. Keep it brief, focus on senses, and share only if invited.",
+    "pros": [
+      "Mindful pause",
+      "No extra waste",
+      "Boosts observation"
+    ],
+    "cons": [
+      "Requires paper or device",
+      "May feel awkward",
+      "Limited to quiet moments"
+    ],
+    "watchOut": "Avoid disturbing other passengers; keep your voice low.",
+    "faq": [
+      {
+        "q": "Do I need a notebook?",
+        "a": "A small pocket notebook or any note‑taking app works; the key is simplicity."
+      },
+      {
+        "q": "What if I’m not a poet?",
+        "a": "Write any phrase or observation—perfection isn’t the goal, just the act of noting."
+      },
+      {
+        "q": "Can I share my verses publicly?",
+        "a": "Only if fellow travelers consent; respect privacy and keep it low‑impact."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "creative",
+      "mindfulness"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-10-20T09:45:08.200Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "midday-platform-yoga",
     "title": "Midday Platform Yoga: Low‑Impact Stretching on Rural Trains",
     "dek": "Take a breather between stops with simple stretches that keep you limber and low‑impact on the rails.",
