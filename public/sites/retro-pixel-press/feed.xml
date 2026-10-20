@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Rewiring SNES Power Supply for Stable Voltage</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/rewiring-snes-power.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/rewiring-snes-power.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:45:07 GMT</pubDate>
+      <description>A quick guide to rewiring your SNES power supply for rock‑steady voltage during marathon runs.</description>
+    </item>
+    <item>
       <title>&quot;crt setup guide&quot; in practice: a real-world field test</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/crt-setup-guide-field-test-18.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/crt-setup-guide-field-test-18.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/usb-bridge-diy-adapter.html</guid>
       <pubDate>Sun, 18 Oct 2026 18:45:21 GMT</pubDate>
       <description>Turn a modern USB gamepad into a plug‑and‑play controller for your favorite retro console.</description>
-    </item>
-    <item>
-      <title>Four-Player Frenzy: Building a SNES Adapter for Multiplayer Speedruns</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/four-player-snes-adapter.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/four-player-snes-adapter.html</guid>
-      <pubDate>Sun, 18 Oct 2026 17:45:11 GMT</pubDate>
-      <description>Turn a single‑port SNES into a four‑controller hub for couch co‑op and competitive runs.</description>
     </item>
   </channel>
 </rss>

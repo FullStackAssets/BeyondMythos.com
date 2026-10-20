@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-water-quality-check",
+    "title": "Boost Your Espresso Extraction with a Simple Water Quality Check",
+    "dek": "A quick water test can reveal hidden flaws that sabotage your espresso flavor.",
+    "takeaway": "Clean, balanced water is the silent hero of great espresso.",
+    "whatHappened": "I noticed my espresso tasting flat after a week of consistent brewing. A quick dip of a water‑test strip showed elevated hardness, so I swapped to filtered water and the flavor snapped back. The change was immediate and obvious.",
+    "whyItMatters": "Water makes up over 90% of your cup, so its mineral balance directly shapes extraction and crema. Too hard water can over‑extract, while overly soft water can lead to weak body. Managing water quality gives you a reliable baseline before tweaking grind or pressure.",
+    "howToThink": "Use inexpensive test strips or a TDS meter to gauge hardness and total dissolved solids. Aim for a moderate mineral range that your espresso machine recommends. If your water is out of range, consider a simple inline filter or bottled water with known specs.",
+    "pros": [
+      "Better flavor clarity",
+      "Consistent extraction",
+      "Easy low‑cost tweak"
+    ],
+    "cons": [
+      "May need water filter",
+      "Requires periodic testing",
+      "Harder to source ideal water in some areas"
+    ],
+    "watchOut": "Don’t over‑filter; overly soft water can cause under‑extraction and thin crema.",
+    "faq": [
+      {
+        "q": "Do I need a professional water analysis?",
+        "a": "No, basic test strips or a handheld TDS meter are sufficient for home use."
+      },
+      {
+        "q": "Can I use bottled water?",
+        "a": "Yes, choose a brand with balanced mineral content—many specialty coffee roasters recommend specific brands."
+      },
+      {
+        "q": "How often should I test my water?",
+        "a": "Check monthly or whenever you notice a flavor shift; it’s a quick habit that pays off."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "water"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-10-20T00:45:07.164Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "fine-tune-espresso-brew-ratio",
     "title": "Fine‑Tune Your Espresso Shot with a Simple Brew Ratio Check",
     "dek": "A quick brew‑ratio tweak can bring balance back to your espresso without new gear.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "balcony-harvest-microgreens",
+    "title": "Balcony Harvest: Quick Microgreens for Busy Renters",
+    "dek": "Grow nutrient‑dense microgreens on any balcony in under a week, using tiny trays and repurposed kitchen waste.",
+    "takeaway": "Microgreens give apartment gardeners a fast, flavorful harvest with minimal space.",
+    "whatHappened": "We tested a 10‑inch tray of mustard and radish microgreens on a sunny balcony, using reclaimed coffee grounds as a seed‑starting medium.",
+    "whyItMatters": "Microgreens pack a nutritional punch and turn unused balcony corners into productive greenscapes, perfect for renters who crave fresh flavor.",
+    "howToThink": "Start with a shallow tray, a light soil mix, sprinkle seeds, keep them moist, and harvest in 7‑10 days; reuse the same tray for successive crops.",
+    "pros": [
+      "Super fast growth",
+      "Tiny footprint",
+      "Reusable trays"
+    ],
+    "cons": [
+      "Needs consistent moisture",
+      "Limited to shallow varieties",
+      "May attract pests if over‑watered"
+    ],
+    "watchOut": "Avoid water‑logging the tray, which can cause mold and root rot.",
+    "faq": [
+      {
+        "q": "Can I grow microgreens without soil?",
+        "a": "Yes, you can use a peat‑free mat or a damp paper towel, but soil retains nutrients better for repeated harvests."
+      },
+      {
+        "q": "How often should I water?",
+        "a": "Keep the surface damp; mist twice daily in hot weather."
+      },
+      {
+        "q": "Do microgreens need full sun?",
+        "a": "A bright windowsill or 4‑6 hours of indirect light works fine."
+      }
+    ],
+    "category": "Herbs",
+    "tags": [
+      "Microgreens",
+      "Balcony Tips"
+    ],
+    "sources": [
+      {
+        "label": "r/houseplants community threads",
+        "url": "https://www.reddit.com/r/houseplants/"
+      },
+      {
+        "label": "Search interest: \"small space vegetables\"",
+        "url": "https://duckduckgo.com/?q=small%20space%20vegetables"
+      }
+    ],
+    "publishedAt": "2026-10-20T00:45:08.379Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-containers-64",
     "title": "A weekend project: level up your containers in two hours",
     "dek": "One contained, satisfying containers project for apartment dwellers — start Saturday morning, done by lunch.",

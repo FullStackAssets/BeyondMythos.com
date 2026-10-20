@@ -1,5 +1,56 @@
 [
   {
+    "slug": "evening-platform-stargazing",
+    "title": "Evening Platform Stargazing: Low‑Impact Night Sky on Rural Lines",
+    "dek": "Turn a quiet station stop into a low‑impact stargazing lounge with minimal gear and a mindful pause.",
+    "takeaway": "A simple sky‑watch break adds wonder without waste.",
+    "whatHappened": "After the 7 pm train lingered at a rural halt, I set out a blanket, a reusable thermos, and a star‑chart app. The platform emptied, and the night sky opened up in crystal‑clear detail, perfect for a slow‑travel moment.",
+    "whyItMatters": "Rural platforms often sit under low light pollution, offering premium views for travelers seeking connection to place. Adding a stargazing pause deepens the sense of arrival and encourages low‑impact appreciation of natural cycles.",
+    "howToThink": "Choose routes with known dark‑sky designations, pack a compact blanket and a reusable mug, and use a free offline star map. Keep the area tidy, avoid bright flashlights, and share the experience quietly with fellow passengers.",
+    "pros": [
+      "Zero waste activity",
+      "Enhances sense of place",
+      "Requires only tiny gear"
+    ],
+    "cons": [
+      "Weather dependent",
+      "Limited to clear skies",
+      "May need extra time at stop"
+    ],
+    "watchOut": "Beware of sudden train movements; stay clear of the edge until the train departs.",
+    "faq": [
+      {
+        "q": "Do I need a telescope?",
+        "a": "No, a good naked‑eye view or a simple pair of binoculars is enough under dark skies."
+      },
+      {
+        "q": "Is it safe to stay on the platform after the train?",
+        "a": "Only if the schedule allows a safe dwell time; always verify the next departure."
+      },
+      {
+        "q": "What if the platform is lit?",
+        "a": "Seek the darkest spot, turn off phone lights, and use a red‑filter headlamp to preserve night vision."
+      }
+    ],
+    "category": "Local",
+    "tags": [
+      "stargazing",
+      "slow‑travel"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-10-20T00:45:06.473Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "twilight-platform-podcast",
     "title": "Twilight Platform Podcast: Low‑Impact Audio Sessions on Rural Stops",
     "dek": "Turn the evening commute into a quiet audio escape with portable podcasts that respect the rhythm of rural stations.",

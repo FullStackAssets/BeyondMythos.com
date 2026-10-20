@@ -5,6 +5,13 @@
     <link>https://beyondmythos.com/sites/prop-wash-daily-2/</link>
     <description>Fresh takes for FPV drone pilots and builders.</description>
     <item>
+      <title>Myth vs. reality: fpv simulator practice</title>
+      <link>https://beyondmythos.com/sites/prop-wash-daily-2/posts/myth-vs-reality-fpv-simulator-practice-2.html</link>
+      <guid>https://beyondmythos.com/sites/prop-wash-daily-2/posts/myth-vs-reality-fpv-simulator-practice-2.html</guid>
+      <pubDate>Tue, 20 Oct 2026 00:45:37 GMT</pubDate>
+      <description>The persistent myths around fpv simulator practice, stress-tested against what FPV drone pilots and builders actually report.</description>
+    </item>
+    <item>
       <title>A weekend project: level up your builds in two hours</title>
       <link>https://beyondmythos.com/sites/prop-wash-daily-2/posts/weekend-project-builds-4.html</link>
       <guid>https://beyondmythos.com/sites/prop-wash-daily-2/posts/weekend-project-builds-4.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://beyondmythos.com/sites/prop-wash-daily-2/posts/freestyle-boost-with-gyro-tuning.html</guid>
       <pubDate>Sat, 17 Oct 2026 07:15:34 GMT</pubDate>
       <description>Adjusting gyro gain can give you tighter rolls and smoother loops without hardware changes.</description>
-    </item>
-    <item>
-      <title>Simulate Prop Wash to Train Cleaner Pilots</title>
-      <link>https://beyondmythos.com/sites/prop-wash-daily-2/posts/simulator-setup-for-prop-wash-awareness.html</link>
-      <guid>https://beyondmythos.com/sites/prop-wash-daily-2/posts/simulator-setup-for-prop-wash-awareness.html</guid>
-      <pubDate>Thu, 15 Oct 2026 18:15:34 GMT</pubDate>
-      <description>Use virtual airflow effects in your simulator to recognize and avoid prop wash during tight indoor runs.</description>
     </item>
   </channel>
 </rss>

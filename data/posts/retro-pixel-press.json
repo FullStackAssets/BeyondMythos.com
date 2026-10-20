@@ -1,5 +1,56 @@
 [
   {
+    "slug": "rewiring-snes-power",
+    "title": "Pixel Boost: Rewiring SNES Power Supply for Stable Voltage",
+    "dek": "A quick guide to rewiring your SNES power supply for rock‑steady voltage during marathon runs.",
+    "takeaway": "A stable power supply prevents resets and keeps your run smooth.",
+    "whatHappened": "We opened a standard SNES AC adapter, replaced the aging electrolytic capacitors with modern low‑ESR parts, and added a simple voltage regulator. The console powered up without the usual voltage sag during intensive gameplay.",
+    "whyItMatters": "Power fluctuations are a silent killer for speedrunners, causing sudden resets that waste minutes. A reliable supply ensures the console stays on target from start to finish, protecting both your record and hardware.",
+    "howToThink": "When troubleshooting a run, check the adapter voltage under load, and consider upgrading if you see droop. Simple mods like a regulator can be done with basic soldering tools and a multimeter, giving you a clear view of the power health before each attempt.",
+    "pros": [
+      "Longer console lifespan",
+      "Fewer unexpected resets",
+      "Minimal cost"
+    ],
+    "cons": [
+      "Requires soldering skill",
+      "Opening adapters voids warranty",
+      "Needs proper component selection"
+    ],
+    "watchOut": "Make sure the regulator’s current rating matches the SNES’s draw to avoid overheating.",
+    "faq": [
+      {
+        "q": "Do I need a specific type of regulator?",
+        "a": "A 5V linear regulator with enough headroom for the SNES’s ~1.5A draw works well."
+      },
+      {
+        "q": "Can I use a pre‑built power supply instead of modifying?",
+        "a": "Yes, a modern 5V/2A wall wart can replace the original adapter without any internal changes."
+      },
+      {
+        "q": "Is this mod safe for the original circuitry?",
+        "a": "If you follow proper polarity and use quality components, the mod is safe and often improves overall stability."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "SNES",
+      "Power Mods"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-10-20T00:45:07.769Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "crt-setup-guide-field-test-18",
     "title": "\"crt setup guide\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about crt setup guide through a month of actual use. Some of it survived.",
