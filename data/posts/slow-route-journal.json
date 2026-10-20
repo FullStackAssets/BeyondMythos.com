@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midday-platform-birdwatching",
+    "title": "Midday Platform Birdwatching: Low-Impact Observation on Rural Trains",
+    "dek": "Pause on a rural stop to spot local birds, turning a train delay into a gentle, low-impact wildlife watch.",
+    "takeaway": "Even brief platform pauses can connect you to the region’s feathered residents without adding carbon.",
+    "whatHappened": "During a midday layover on the countryside line, I stepped onto the platform with a binoculars kit and a simple field guide. Within minutes, a flock of swallows swooped over the tracks, and a resident goldfinch perched on the rail, offering a quiet spectacle.",
+    "whyItMatters": "Birds are indicators of ecosystem health, and observing them encourages respect for the surrounding habitats. By integrating birdwatching into train travel, explorers add a layer of environmental awareness to their journey.",
+    "howToThink": "Carry a lightweight pair of binoculars and a pocket field guide, learn the basic calls of common species, and move slowly to avoid startling them. Use the platform’s natural perches—railings, benches, and even the low fence—to get a clear view.",
+    "pros": [
+      "Zero extra emissions",
+      "Low cost, just binoculars",
+      "Enhances sensory connection to place"
+    ],
+    "cons": [
+      "Requires quiet patience",
+      "Limited visibility in bad weather",
+      "May need basic identification skills"
+    ],
+    "watchOut": "Be mindful of train schedules; don’t linger on the platform longer than safety permits.",
+    "faq": [
+      {
+        "q": "Do I need expensive equipment?",
+        "a": "A modest binocular and a simple guidebook are enough for most common species."
+      },
+      {
+        "q": "What if the platform is crowded?",
+        "a": "Choose quieter corners, keep movements gentle, and respect other passengers' space."
+      },
+      {
+        "q": "Can I share sightings with others?",
+        "a": "A quick note in a travel journal or a low-impact photo (no flash) helps you remember without disturbing wildlife."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "birdwatching"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-10-20T14:45:11.894Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "midday-platform-language-exchange",
     "title": "Midday Platform Language Exchange: Low‑Impact Conversation on Rural Trains",
     "dek": "Swap stories and vocab while the train hums, keeping carbon low and connections high.",

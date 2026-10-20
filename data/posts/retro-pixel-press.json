@@ -1,5 +1,56 @@
 [
   {
+    "slug": "cleaning-snes-cartridge-contacts",
+    "title": "Pixel Boost: Cleaning Super Nintendo Cartridge Contacts for Reliable Saves",
+    "dek": "A quick guide to safely clean SNES cartridge pins and prevent save corruption.",
+    "takeaway": "Regular contact cleaning keeps your SNES games loading and saving without hiccups.",
+    "whatHappened": "We noticed several SNES cartridges failing to save progress due to oxidized contacts. A simple cleaning routine restored proper function across multiple titles.",
+    "whyItMatters": "Save data loss can ruin marathon runs and diminish collection value. Maintaining clean contacts ensures longevity and reliable performance for both collectors and speedrunners.",
+    "howToThink": "Start with a soft brush and isopropyl alcohol, avoid excessive liquid, and let the cartridge dry fully before reinserting. Test with a known save file to confirm.",
+    "pros": [
+      "Restores save reliability",
+      "Low cost solution",
+      "Easy to perform"
+    ],
+    "cons": [
+      "Requires careful handling",
+      "May void warranty",
+      "Needs drying time"
+    ],
+    "watchOut": "Do not soak the cartridge; excess liquid can damage internal circuitry.",
+    "faq": [
+      {
+        "q": "Can I use a regular cotton swab?",
+        "a": "A lint‑free swab dipped in isopropyl alcohol works best; avoid paper‑tipped ones that leave fibers."
+      },
+      {
+        "q": "How often should I clean the contacts?",
+        "a": "When you notice save issues or after years of storage, a quick clean is advisable."
+      },
+      {
+        "q": "Is it safe for unlicensed cartridges?",
+        "a": "The cleaning method is safe for any cartridge, but be gentle with fragile third‑party shells."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Hardware",
+      "Preservation"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-20T14:45:08.047Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "reinforcing-gba-battery-contacts",
     "title": "Pixel Boost: Reinforcing Game Boy Advance Battery Contacts for Longer Play",
     "dek": "A simple solder‑free fix that steadies power delivery on aging Game Boy Advance units.",

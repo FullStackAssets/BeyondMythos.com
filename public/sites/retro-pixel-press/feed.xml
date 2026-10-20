@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Cleaning Super Nintendo Cartridge Contacts for Reliable Saves</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/cleaning-snes-cartridge-contacts.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/cleaning-snes-cartridge-contacts.html</guid>
+      <pubDate>Tue, 20 Oct 2026 14:45:08 GMT</pubDate>
+      <description>A quick guide to safely clean SNES cartridge pins and prevent save corruption.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Reinforcing Game Boy Advance Battery Contacts for Longer Play</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/reinforcing-gba-battery-contacts.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/reinforcing-gba-battery-contacts.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-power-tweak-optimizing-nes-voltage.html</guid>
       <pubDate>Mon, 19 Oct 2026 09:45:09 GMT</pubDate>
       <description>A quick guide to fine‑tuning your NES’s power rails to keep frame timing steady during marathon runs.</description>
-    </item>
-    <item>
-      <title>Turbocharged SNES Power Supply: Stable Voltage for Marathon Runs</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/turbocharged-snes-power-supply.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/turbocharged-snes-power-supply.html</guid>
-      <pubDate>Mon, 19 Oct 2026 08:45:06 GMT</pubDate>
-      <description>Boost your SNES reliability with a simple voltage regulator upgrade, perfect for long speedrun sessions.</description>
     </item>
   </channel>
 </rss>
