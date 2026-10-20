@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-temp-thermometer-check",
+    "title": "Fine‑Tune Your Espresso Temperature with a Simple Thermometer Check",
+    "dek": "A quick thermocouple tip to lock in consistent brew temps and boost flavor.",
+    "takeaway": "Consistent water temperature is the single biggest lever for repeatable espresso taste.",
+    "whatHappened": "I noticed my espresso tasted thin on colder mornings and richer after the machine warmed up. A simple thermometer revealed a 5 °C swing between shots.",
+    "whyItMatters": "Temperature fluctuations change extraction balance, leading to under‑ or over‑extracted coffee. Stabilizing heat gives predictable flavor and crema.",
+    "howToThink": "Treat temperature like a baseline; measure the brew water at the group head, aim for your target (usually 93 °C), and adjust the machine or pre‑heat the cup to stay within a degree.",
+    "pros": [
+      "Better flavor consistency",
+      "Easier shot tuning",
+      "No expensive upgrades needed"
+    ],
+    "cons": [
+      "Requires an extra tool",
+      "Adds a small step to workflow",
+      "May expose machine temperature limits"
+    ],
+    "watchOut": "Don’t let the thermometer touch the metal group directly; it can give false high readings.",
+    "faq": [
+      {
+        "q": "Do I need a professional espresso thermometer?",
+        "a": "A basic kitchen thermocouple or digital probe with a stainless tip is sufficient for home use."
+      },
+      {
+        "q": "How often should I check temperature?",
+        "a": "Check at the start of each brewing session and after any machine cleaning or descaling."
+      },
+      {
+        "q": "What if my machine can’t reach the target temperature?",
+        "a": "Consider a PID controller upgrade or pre‑heat the portafilter and cup to raise the effective brew temperature."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "temperature"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-10-20T04:45:06.477Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "boost-morning-espresso-pre-infusion-tap",
     "title": "Boost Your Morning Espresso with a Simple Pre‑Infusion Tap",
     "dek": "Add a quick pre‑infusion pause to your espresso routine and unlock richer flavor without buying new gear.",

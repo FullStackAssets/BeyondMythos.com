@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Swapping NES Zapper Lens for Sharper Aim</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-swap-nes-zapper-lens.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-swap-nes-zapper-lens.html</guid>
+      <pubDate>Tue, 20 Oct 2026 04:45:08 GMT</pubDate>
+      <description>Replace the cheap plastic lens in your NES Zapper with a clear acrylic one for crisper on‑screen targeting.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Optimizing NES Controller Wiring for Faster Input Response</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-optimizing-nes-controller-wiring.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-optimizing-nes-controller-wiring.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-lcd-revival-backlight-game-boy.html</guid>
       <pubDate>Sun, 18 Oct 2026 23:45:08 GMT</pubDate>
       <description>Give your original Game Boy a modern glow without losing its classic charm.</description>
-    </item>
-    <item>
-      <title>Arcade Joystick Retrofit: Adding a 2-Button Layout for Classic Fighters</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-arcade-joystick-mod.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-arcade-joystick-mod.html</guid>
-      <pubDate>Sun, 18 Oct 2026 21:45:11 GMT</pubDate>
-      <description>Give your old arcade stick a modern two‑button layout without soldering, boosting comfort for retro fighting game speedruns.</description>
     </item>
   </channel>
 </rss>

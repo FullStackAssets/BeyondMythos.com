@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-boost-swap-nes-zapper-lens",
+    "title": "Pixel Boost: Swapping NES Zapper Lens for Sharper Aim",
+    "dek": "Replace the cheap plastic lens in your NES Zapper with a clear acrylic one for crisper on‑screen targeting.",
+    "takeaway": "A simple lens swap can dramatically improve Zapper accuracy without expensive mods.",
+    "whatHappened": "We noticed inconsistent hit detection during classic Light Gun speedruns. By swapping the original molded lens for a clear acrylic alternative, the beam focus sharpened, reducing missed shots. The change was reversible and required only basic tools.",
+    "whyItMatters": "Accurate Zapper performance is essential for competitive runs and preserving the original feel of light‑gun games. A reliable hit rate lets runners focus on strategy rather than fighting hardware quirks, and collectors retain functional hardware with minimal alteration.",
+    "howToThink": "Choose a clear acrylic disc cut to the same diameter as the original lens. Clean both surfaces thoroughly, then gently press the new lens into the housing, ensuring no gaps. Test in‑game before sealing the case fully.",
+    "pros": [
+      "Low cost solution",
+      "Reversible and non‑destructive",
+      "Immediate accuracy boost"
+    ],
+    "cons": [
+      "Requires careful handling of tiny parts",
+      "May void warranty if sealed",
+      "Lens sourcing may need a hobby shop"
+    ],
+    "watchOut": "Avoid using scratched or low‑quality acrylic, as it can degrade image clarity.",
+    "faq": [
+      {
+        "q": "Do I need to open the Zapper completely?",
+        "a": "A small opening at the back is enough to replace the lens without fully disassembling the case."
+      },
+      {
+        "q": "Can I use any clear acrylic piece?",
+        "a": "Pick one that matches the original lens diameter and thickness for best fit."
+      },
+      {
+        "q": "Will this affect the Zapper’s calibration?",
+        "a": "No, the calibration remains the same; only the visual focus improves."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "NES",
+      "Light Gun"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-10-20T04:45:08.897Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-boost-optimizing-nes-controller-wiring",
     "title": "Pixel Boost: Optimizing NES Controller Wiring for Faster Input Response",
     "dek": "A quick guide to re-soldering NES controller wires for snappier button presses.",

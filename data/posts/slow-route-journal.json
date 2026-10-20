@@ -1,5 +1,56 @@
 [
   {
+    "slug": "afternoon-platform-garden",
+    "title": "Afternoon Platform Garden: Low‑Impact Green Break on Rural Lines",
+    "dek": "Turn a quiet station stop into a pocket garden and refill your mind without leaving the rail line.",
+    "takeaway": "A small, portable garden kit can turn any platform pause into a restorative, low‑impact experience.",
+    "whatHappened": "During a midday stop at a heritage line, a traveler spread out a lightweight tray of potted herbs and succulents, inviting fellow passengers to tend and chat. The brief garden session sparked spontaneous conversation and a shared sense of place.",
+    "whyItMatters": "Rail journeys often feel rushed; a micro‑garden offers a tangible, calming anchor that highlights local flora and encourages stewardship. It also demonstrates how low‑impact activities can enrich communal travel moments.",
+    "howToThink": "Carry a compact, reusable tray, a few seed packets, and a small watering bottle. Choose hardy, native species that thrive in shade and can survive short, intermittent exposure. Invite others politely and keep the setup easy to pack up when the train departs.",
+    "pros": [
+      "Boosts mood instantly",
+      "Encourages low‑impact interaction",
+      "Easy to transport"
+    ],
+    "cons": [
+      "Limited space for large plants",
+      "Requires occasional watering",
+      "May need permission on some stations"
+    ],
+    "watchOut": "Check station policies first—some stops prohibit placing items on platforms for safety reasons.",
+    "faq": [
+      {
+        "q": "What plants work best for a portable platform garden?",
+        "a": "Hardy herbs like mint, thyme, and small succulents or native wildflowers that tolerate shade and brief watering."
+      },
+      {
+        "q": "Do I need permission to set up a garden on a platform?",
+        "a": "Yes—ask station staff or review local guidelines; many heritage lines welcome community projects with prior notice."
+      },
+      {
+        "q": "How can I keep the garden low‑impact?",
+        "a": "Use reusable trays, locally sourced seeds, and a minimal water bottle; pack out any waste."
+      }
+    ],
+    "category": "Local",
+    "tags": [
+      "green-travel",
+      "rail‑community"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-10-20T04:45:05.748Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "afternoon-platform-book-club",
     "title": "Afternoon Platform Book Club: Low‑Impact Reading on Rural Trains",
     "dek": "Swap a paperback and a story with fellow travelers while the scenery rolls by, keeping the carbon footprint tiny.",
