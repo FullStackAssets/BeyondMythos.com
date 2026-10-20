@@ -5,6 +5,13 @@
     <link>https://beyondmythos.com/sites/night-lens-2/</link>
     <description>Fresh takes for backyard astrophotographers.</description>
     <item>
+      <title>Ask the forge: your light pollution questions, answered</title>
+      <link>https://beyondmythos.com/sites/night-lens-2/posts/ask-the-forge-light-pollution-4.html</link>
+      <guid>https://beyondmythos.com/sites/night-lens-2/posts/ask-the-forge-light-pollution-4.html</guid>
+      <pubDate>Tue, 20 Oct 2026 12:45:35 GMT</pubDate>
+      <description>Straight answers to the light pollution questions backyard astrophotographers keep asking, minus the hedging.</description>
+    </item>
+    <item>
       <title>The quiet upgrade: small tweaks in targets with outsized returns</title>
       <link>https://beyondmythos.com/sites/night-lens-2/posts/quiet-upgrade-targets-4.html</link>
       <guid>https://beyondmythos.com/sites/night-lens-2/posts/quiet-upgrade-targets-4.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://beyondmythos.com/sites/night-lens-2/posts/starter-guide-processing.html</guid>
       <pubDate>Sat, 17 Oct 2026 20:15:52 GMT</pubDate>
       <description>A practical on-ramp to processing for backyard astrophotographers — one repeatable workflow, no gear debt.</description>
-    </item>
-    <item>
-      <title>&quot;astrophotography without tracker&quot; — separating signal from noise</title>
-      <link>https://beyondmythos.com/sites/night-lens-2/posts/signal-vs-noise-astrophotography-without-tracker.html</link>
-      <guid>https://beyondmythos.com/sites/night-lens-2/posts/signal-vs-noise-astrophotography-without-tracker.html</guid>
-      <pubDate>Fri, 16 Oct 2026 07:15:52 GMT</pubDate>
-      <description>Thousands of people search &quot;astrophotography without tracker&quot; every month. Most of what they find is recycled. Here is what holds up.</description>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "balcony-citrus-boost-2",
+    "title": "Balcony Citrus Boost: Mini Trees for Sun‑Kissed Apartments",
+    "dek": "Turn a tiny balcony into a fragrant citrus oasis with dwarf trees that fit snugly into containers.",
+    "takeaway": "Even the smallest balcony can yield fresh citrus with the right dwarf varieties and container setup.",
+    "whatHappened": "Apartment dwellers are swapping out generic herbs for dwarf citrus trees, drawn by the appeal of fresh zest for drinks and cooking. A surge in compact, cold‑hardy varieties has made it feasible on balconies that get at least six hours of sun.",
+    "whyItMatters": "Fresh citrus adds flavor, vitamin C, and a sensory boost to cramped urban living spaces. Growing your own reduces trips to the grocery store and cuts plastic waste from packaged fruit.",
+    "howToThink": "Choose dwarf varieties like Meyer lemon or Calamondin, and plant them in a pot at least 12‑14 inches wide with good drainage. Position the pot where it catches morning sun, water consistently but avoid soggy soil, and feed with a balanced liquid fertilizer during the growing season.",
+    "pros": [
+      "Adds fresh flavor",
+      "Compact evergreen presence",
+      "Attracts pollinators"
+    ],
+    "cons": [
+      "Needs consistent sunlight",
+      "Requires regular pruning",
+      "Sensitive to cold drafts"
+    ],
+    "watchOut": "Avoid exposing the tree to frost; bring it indoors or provide a protective cover when temperatures dip below 50°F.",
+    "faq": [
+      {
+        "q": "Can I grow lemons on a balcony?",
+        "a": "Yes, dwarf lemon varieties thrive in containers as long as they get ample light and proper watering."
+      },
+      {
+        "q": "How often should I water a balcony citrus tree?",
+        "a": "Water when the top inch of soil feels dry, typically every 2‑3 days in warm weather, and reduce frequency in cooler months."
+      },
+      {
+        "q": "What pot size is best for a dwarf citrus tree?",
+        "a": "A pot 12‑14 inches in diameter with drainage holes provides enough room for roots while staying manageable on a balcony."
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "containers",
+      "citrus"
+    ],
+    "sources": [
+      {
+        "label": "r/houseplants community threads",
+        "url": "https://www.reddit.com/r/houseplants/"
+      },
+      {
+        "label": "Search interest: \"small space vegetables\"",
+        "url": "https://duckduckgo.com/?q=small%20space%20vegetables"
+      }
+    ],
+    "publishedAt": "2026-10-20T12:45:07.637Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "window-sill-succulents-low-maintenance",
     "title": "Window‑Sill Succulents: Low‑Maintenance Greenery for Small Spaces",
     "dek": "Turn a sunny windowsill into a mini succulent garden that thrives with minimal care and space.",

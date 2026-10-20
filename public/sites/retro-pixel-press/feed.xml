@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Calibrating Commodore 64 Joystick for Precise Input</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/calibrating-commodore-64-joystick.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/calibrating-commodore-64-joystick.html</guid>
+      <pubDate>Tue, 20 Oct 2026 12:45:07 GMT</pubDate>
+      <description>Tighten up your C64 joystick to shave off wobble and boost control for both collectors and speedrunners.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Restoring Atari 2600 Audio Output</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/restoring-atari-2600-audio.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/restoring-atari-2600-audio.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-perfect-snes-controller-lag.html</guid>
       <pubDate>Mon, 19 Oct 2026 07:45:08 GMT</pubDate>
       <description>Trim a few milliseconds off SNES input lag with a simple resistor tweak and a stable power supply.</description>
-    </item>
-    <item>
-      <title>NES HDMI Converter: Hook Your Retro Console to Modern TVs</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/nes-hdmi-converter-modern-display.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/nes-hdmi-converter-modern-display.html</guid>
-      <pubDate>Mon, 19 Oct 2026 06:45:08 GMT</pubDate>
-      <description>Turn your NES into a plug‑and‑play HDMI source without opening the console.</description>
     </item>
   </channel>
 </rss>

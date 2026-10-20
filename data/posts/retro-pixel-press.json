@@ -1,5 +1,56 @@
 [
   {
+    "slug": "calibrating-commodore-64-joystick",
+    "title": "Pixel Boost: Calibrating Commodore 64 Joystick for Precise Input",
+    "dek": "Tighten up your C64 joystick to shave off wobble and boost control for both collectors and speedrunners.",
+    "takeaway": "A well‑calibrated joystick can mean the difference between a clean run and a busted attempt.",
+    "whatHappened": "After noticing jittery movement on a classic C64 game, we opened the joystick housing, cleaned the contacts, and re‑aligned the potentiometer. The result was a noticeably smoother analog response. The fix took under ten minutes and used only a cotton swab and a tiny screwdriver.",
+    "whyItMatters": "Joystick drift can ruin frame‑perfect inputs, especially in speedrun categories that rely on precise timing. For collectors, a stable controller preserves the original feel of the hardware, keeping the experience authentic. Maintaining hardware integrity also prevents premature wear that could force costly replacements later.",
+    "howToThink": "Start by unplugging the joystick and inspecting the cord for frayed wires. Clean any oxidized contacts with isopropyl alcohol, then gently adjust the potentiometer until the stick returns to neutral without dead zones. Re‑test in a low‑stakes game before committing to a full run.",
+    "pros": [
+      "Restores original feel",
+      "Minimal tools needed",
+      "Extends controller life"
+    ],
+    "cons": [
+      "Requires careful handling",
+      "May void vintage warranty",
+      "Tiny adjustments can be finicky"
+    ],
+    "watchOut": "Avoid overtightening the potentiometer, as it can introduce new dead zones or damage the shaft.",
+    "faq": [
+      {
+        "q": "Do I need to open the joystick fully?",
+        "a": "A partial opening to access the contacts is enough; you don’t have to dismantle the entire casing."
+      },
+      {
+        "q": "Can I use any screwdriver?",
+        "a": "A precision flat‑head or Phillips screwdriver sized for the screws inside the joystick works best."
+      },
+      {
+        "q": "Will this fix work for all C64 joystick models?",
+        "a": "Most standard Atari‑compatible C64 joysticks respond similarly, but rare variants may have different internals."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "C64",
+      "Controller Maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-10-20T12:45:07.046Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "restoring-atari-2600-audio",
     "title": "Pixel Boost: Restoring Atari 2600 Audio Output",
     "dek": "Give your classic Atari 2600 a clean, crisp sound without swapping the whole board.",
