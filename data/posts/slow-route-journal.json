@@ -1,5 +1,56 @@
 [
   {
+    "slug": "heritage-platform-walk",
+    "title": "Heritage Platform Walk: Low‑Impact History on Rural Lines",
+    "dek": "Explore the forgotten heritage stations along quiet countryside tracks, stepping lightly on history.",
+    "takeaway": "Historic platforms offer free, low‑impact immersion into rail culture.",
+    "whatHappened": "We arrived at a disused Victorian halt on a Saturday morning, guided only by the timetable and a pocket map. The platform, still intact, invited us to wander among original signage and rust‑patinated benches.",
+    "whyItMatters": "Preserving and visiting these sites supports local heritage without adding carbon footprints, and reveals stories that trains themselves never tell. It also encourages small‑scale tourism that benefits nearby villages.",
+    "howToThink": "Plan a route using open‑source rail maps, pack light, and bring a reusable water bottle. Walk slowly, respect any posted signs, and leave nothing but footprints. Capture the atmosphere with a sketch or journal rather than a flash‑heavy camera.",
+    "pros": [
+      "Zero emissions activity",
+      "Free entry",
+      "Rich historical context"
+    ],
+    "cons": [
+      "Limited accessibility",
+      "Weather dependent",
+      "May lack amenities"
+    ],
+    "watchOut": "Some heritage platforms have uneven surfaces; wear sturdy shoes.",
+    "faq": [
+      {
+        "q": "Do I need permission to walk on disused platforms?",
+        "a": "Most are public land, but check local signage; if fences are present, stay clear."
+      },
+      {
+        "q": "What to bring for a heritage walk?",
+        "a": "A small notebook, a pen, water, and a weather‑appropriate jacket."
+      },
+      {
+        "q": "How to find these stations?",
+        "a": "Use historic rail line maps, community forums, or apps that tag heritage stops."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "heritage",
+      "walks"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-10-20T01:45:08.120Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "evening-platform-stargazing",
     "title": "Evening Platform Stargazing: Low‑Impact Night Sky on Rural Lines",
     "dek": "Turn a quiet station stop into a low‑impact stargazing lounge with minimal gear and a mindful pause.",

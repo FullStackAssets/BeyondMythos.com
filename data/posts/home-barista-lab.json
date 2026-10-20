@@ -1,5 +1,56 @@
 [
   {
+    "slug": "bottomless-portafilter-insight",
+    "title": "See Your Espresso Shot in Action with a Bottom‑less Portafilter",
+    "dek": "A bottom‑less portafilter reveals channeling, helps dial in grind and dose, and makes your espresso look as good as it tastes.",
+    "takeaway": "Watching the flow lets you spot problems early and fine‑tune your setup for consistent shots.",
+    "whatHappened": "I swapped my standard portafilter for a bottom‑less one during a routine pull. The coffee streamed in a thin, even ribbon, then suddenly broke into spurts, exposing uneven extraction. The visual cue guided a quick grind adjustment that smoothed the flow.",
+    "whyItMatters": "Channeling wastes flavor and creates bitterness, while a clean, uniform stream signals balanced extraction. For home baristas, visual feedback is a low‑cost diagnostic tool that speeds up the tweaking process. Better extraction means richer aroma and a more enjoyable cup.",
+    "howToThink": "Start with your usual dose and grind, then observe the jet for irregularities. If you see dark streams or dry spots, adjust the grind finer or coarser in small steps. Pair the visual check with taste to confirm the improvement.",
+    "pros": [
+      "Instant visual feedback",
+      "Highlights channeling early",
+      "No extra electronics needed"
+    ],
+    "cons": [
+      "Can be messier than sealed portafilter",
+      "Requires careful cleaning",
+      "May feel less stable on some machines"
+    ],
+    "watchOut": "Avoid using the bottomless portafilter with very fine grinds that could clog and create excessive pressure spikes.",
+    "faq": [
+      {
+        "q": "Do I need a special basket for a bottom‑less portafilter?",
+        "a": "Most bottomless adapters accept standard baskets; just ensure they fit snugly."
+      },
+      {
+        "q": "Can I use it on a pressurized machine?",
+        "a": "Yes, but the visual benefit is most evident on machines that allow free flow without a pressure valve."
+      },
+      {
+        "q": "How often should I clean the bottom‑less portafilter?",
+        "a": "Rinse after each use and give it a deeper clean weekly to prevent oil buildup."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "tools"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-10-20T01:45:10.582Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-water-quality-check",
     "title": "Boost Your Espresso Extraction with a Simple Water Quality Check",
     "dek": "A quick water test can reveal hidden flaws that sabotage your espresso flavor.",

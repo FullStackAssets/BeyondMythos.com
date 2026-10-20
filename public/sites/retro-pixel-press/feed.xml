@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Upgrading NES Cartridge Connectors for Reliable Reads</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/nes-cartridge-connector-upgrade.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/nes-cartridge-connector-upgrade.html</guid>
+      <pubDate>Tue, 20 Oct 2026 01:45:06 GMT</pubDate>
+      <description>Swap out the flaky NES cartridge pins for a solid connector and say goodbye to load hiccups on your runs.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Rewiring SNES Power Supply for Stable Voltage</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/rewiring-snes-power.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/rewiring-snes-power.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/game-boy-camera-hack.html</guid>
       <pubDate>Sun, 18 Oct 2026 19:45:06 GMT</pubDate>
       <description>Add a lens and a pull‑up resistor to your Game Boy Camera for instant frame capture during speedrun verification.</description>
-    </item>
-    <item>
-      <title>USB Bridge: DIY Adapter for Classic Controllers</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/usb-bridge-diy-adapter.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/usb-bridge-diy-adapter.html</guid>
-      <pubDate>Sun, 18 Oct 2026 18:45:21 GMT</pubDate>
-      <description>Turn a modern USB gamepad into a plug‑and‑play controller for your favorite retro console.</description>
     </item>
   </channel>
 </rss>

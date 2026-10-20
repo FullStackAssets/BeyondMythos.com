@@ -1,5 +1,56 @@
 [
   {
+    "slug": "seasonal-swap-rotate-herbs-summer",
+    "title": "Seasonal Swap: Rotating Herbs for Summer Heat on Tiny Balconies",
+    "dek": "Swap out heat‑sensitive herbs for shade‑loving varieties as summer peaks, keeping your balcony garden productive all season.",
+    "takeaway": "Match herbs to the sun’s intensity to keep yields steady.",
+    "whatHappened": "When July sun baked my balcony, the basil wilted while the mint thrived. I switched the layout and swapped basil for thyme, noticing immediate vigor.",
+    "whyItMatters": "Choosing the right herbs for the season prevents loss and saves space, crucial for apartments where every pot counts.",
+    "howToThink": "Assess the daily sun hours, group herbs by light tolerance, and rotate them weekly. Use lightweight trays to move pots easily.",
+    "pros": [
+      "Maximizes harvest",
+      "Reduces plant stress",
+      "Keeps balcony tidy"
+    ],
+    "cons": [
+      "Requires monitoring",
+      "Limited by pot space",
+      "May need extra soil nutrients"
+    ],
+    "watchOut": "Avoid overcrowding when rotating, as roots can compete for water.",
+    "faq": [
+      {
+        "q": "How many hours of sun define \"full sun\" for balcony herbs?",
+        "a": "Generally, six or more direct hours each day."
+      },
+      {
+        "q": "Can I grow both basil and thyme together in the same pot?",
+        "a": "They have different light needs, so keep them separate or rotate the pot."
+      },
+      {
+        "q": "What quick shade option works for a sunny balcony?",
+        "a": "A lightweight fabric shade cloth can be clipped onto railings for adjustable protection."
+      }
+    ],
+    "category": "Seasonal",
+    "tags": [
+      "herb rotation",
+      "summer gardening"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-10-20T01:45:07.506Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "balcony-harvest-microgreens",
     "title": "Balcony Harvest: Quick Microgreens for Busy Renters",
     "dek": "Grow nutrient‑dense microgreens on any balcony in under a week, using tiny trays and repurposed kitchen waste.",
