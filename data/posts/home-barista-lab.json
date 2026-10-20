@@ -1,5 +1,56 @@
 [
   {
+    "slug": "dial-in-espresso-dose-scale",
+    "title": "Dial In Espresso Dose Consistency Using a Basic Scale",
+    "dek": "A kitchen scale can lock in dose repeatability, turning guesswork into precision for every shot.",
+    "takeaway": "Weighing each dose removes variability and improves flavor consistency.",
+    "whatHappened": "After noticing nightly flavor swings, I started timing shots but still got inconsistent taste. I added a digital kitchen scale to weigh my coffee dose each pull, and the results steadied within minutes.",
+    "whyItMatters": "Espresso extraction is highly sensitive to coffee mass; a few grams off can swing bitterness or sourness. Consistent dosing lets you focus on other variables like grind and pressure without chasing flavor ghosts.",
+    "howToThink": "Treat your dose like any other recipe ingredient—measure it each time. Start with your preferred gram target, adjust grind to hit desired extraction time, then lock that dose in. When you change beans, repeat the process to re‑calibrate.",
+    "pros": [
+      "Eliminates guesswork",
+      "Easy to implement with cheap scales",
+      "Improves shot repeatability"
+    ],
+    "cons": [
+      "Adds a step before pulling",
+      "Requires a stable, flat surface",
+      "Scale can drift if not calibrated"
+    ],
+    "watchOut": "Make sure the scale is zeroed with the portafilter on it, or you’ll consistently under‑dose.",
+    "faq": [
+      {
+        "q": "Do I need a high‑precision scale?",
+        "a": "A scale that reads to 0.1 g is more than sufficient for home espresso."
+      },
+      {
+        "q": "Can I weigh coffee after grinding?",
+        "a": "Weighing pre‑grind beans is best; grinding can cause static loss, but post‑grind weighing works if you tare the grinder container."
+      },
+      {
+        "q": "How often should I recalibrate the scale?",
+        "a": "Check zero before each session; a full calibration every few weeks keeps it accurate."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "scale"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-10-20T16:45:04.343Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-pressure-gauge-check",
     "title": "Get Consistent Espresso Shots with a Simple Pressure Gauge Check",
     "dek": "A quick guide to using a pressure gauge for more consistent espresso shots at home.",

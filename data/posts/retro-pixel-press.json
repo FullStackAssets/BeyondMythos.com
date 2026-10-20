@@ -1,5 +1,56 @@
 [
   {
+    "slug": "lubricate-nes-controller-buttons",
+    "title": "Pixel Boost: Lubricating NES Controller Buttons for Smoother Presses",
+    "dek": "A quick guide to reviving sticky NES controller buttons with household-safe lubricant.",
+    "takeaway": "Proper lubrication restores button responsiveness without risking the console.",
+    "whatHappened": "We noticed a batch of NES controllers suffering from sluggish button feel after years of use. A simple application of a thin PTFE-based dry lubricant cleared the issue, letting the contacts move freely again.",
+    "whyItMatters": "Sticky buttons can ruin precise inputs in speedruns and diminish the nostalgic feel for collectors. Restoring smooth actuation keeps the hardware playable and preserves its original experience.",
+    "howToThink": "Treat the controller like any mechanical switch: clean away grime, apply a minuscule amount of dry lubricant to the moving parts, and reassemble. Avoid oily substances that can attract dust.",
+    "pros": [
+      "Restores original feel",
+      "Cheap and fast",
+      "No electronics risk"
+    ],
+    "cons": [
+      "Requires disassembly",
+      "Potential over‑lubrication",
+      "May void warranty on rare units"
+    ],
+    "watchOut": "Never use liquid or oil‑based lubricants, as they can seep into the PCB and cause corrosion.",
+    "faq": [
+      {
+        "q": "Can I use WD‑40?",
+        "a": "No, it's oil‑based and will attract dust; stick to dry PTFE lubricants."
+      },
+      {
+        "q": "Do I need to remove the rubber pads?",
+        "a": "Yes, remove the pads to access the button stems, then replace them after lubricating."
+      },
+      {
+        "q": "Will this affect the controller's original value?",
+        "a": "If done carefully, it maintains functionality without altering the exterior, so collector value remains intact."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "NES",
+      "Controller Maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-10-20T16:45:06.196Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "cleaning-nes-cartridge-pins",
     "title": "Pixel Boost: Cleaning NES Cartridge Pins for Consistent Gameplay",
     "dek": "A quick guide to reviving dusty NES cartridges and keeping your runs glitch‑free.",

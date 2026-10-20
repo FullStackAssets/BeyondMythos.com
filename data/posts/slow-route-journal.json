@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midday-platform-book-swap",
+    "title": "Midday Platform Book Swap: Low‑Impact Literary Exchange on Rural Trains",
+    "dek": "Swap a story, share a page, and keep the journey quiet and green on a slow train stop.",
+    "takeaway": "A simple book exchange turns a brief platform pause into a community‑building, low‑impact experience.",
+    "whatHappened": "During a midday stop on the heritage line, travelers gathered with wrapped books, swapping titles and chatting about favorite passages. The informal swap lasted only as long as the train lingered, but left a lingering sense of shared curiosity.",
+    "whyItMatters": "Reading is a low‑energy activity that fosters connection without adding waste. By using existing travel time, the swap avoids extra transport or packaging, aligning with low‑impact principles while enriching the journey.",
+    "howToThink": "Carry one or two well‑wrapped books you’re ready to let go, and bring a small tote for new finds. When the train stops, set up a modest “swap shelf” on a bench and invite fellow passengers to browse. Keep the exchange brief and respectful of the schedule.",
+    "pros": [
+      "Zero‑waste entertainment",
+      "Fosters spontaneous community",
+      "Easy to organize with minimal gear"
+    ],
+    "cons": [
+      "Depends on passenger interest",
+      "Limited time at short stops",
+      "Weather can affect comfort"
+    ],
+    "watchOut": "Make sure books are clean and properly wrapped to protect them from rain or dirt.",
+    "faq": [
+      {
+        "q": "Do I need permission from the train operator?",
+        "a": "A quick check with the conductor is enough; most appreciate low‑impact activities on board."
+      },
+      {
+        "q": "What if no one joins the swap?",
+        "a": "Keep the books in your tote; you can still enjoy reading while the train moves."
+      },
+      {
+        "q": "Can I include magazines or comics?",
+        "a": "Yes, as long as they’re appropriately wrapped and fit the low‑impact ethos."
+      }
+    ],
+    "category": "Local",
+    "tags": [
+      "book-swap",
+      "community"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-10-20T16:45:03.632Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "midday-platform-storytelling",
     "title": "Midday Platform Storytelling: Low‑Impact Oral Traditions on Rural Trains",
     "dek": "Swap the usual scenery for a quick tale exchange while the train pauses at a rural stop.",
