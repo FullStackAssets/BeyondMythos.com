@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Replacing Atari 2600 Cartridge Caps for Better Contact</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/replace-atari-2600-cartridge-caps.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/replace-atari-2600-cartridge-caps.html</guid>
+      <pubDate>Tue, 20 Oct 2026 06:45:09 GMT</pubDate>
+      <description>Old Atari cartridges can suffer from flaky contacts; swapping the tiny metal caps restores reliable reads for collectors and speedrunners.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Reinforcing SNES Controller Wires for Consistent Input</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/reinforce-snes-wires.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/reinforce-snes-wires.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/nes-power-boost-upgrade.html</guid>
       <pubDate>Mon, 19 Oct 2026 01:45:09 GMT</pubDate>
       <description>Swap the stock PSU for a regulated module to keep voltage steady during marathon runs.</description>
-    </item>
-    <item>
-      <title>Retro CRT Calibration: Simple Potentiometer Fix for Accurate Color</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/crt-calibration-fix.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/crt-calibration-fix.html</guid>
-      <pubDate>Mon, 19 Oct 2026 00:45:06 GMT</pubDate>
-      <description>A quick potentiometer tweak brings faded CRT colors back to life for smoother retro runs.</description>
     </item>
   </channel>
 </rss>

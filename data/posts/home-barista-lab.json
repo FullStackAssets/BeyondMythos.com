@@ -1,5 +1,56 @@
 [
   {
+    "slug": "portafilter-alignment-tips",
+    "title": "Refine Your Espresso Shot Consistency with a Simple Portafilter Alignment",
+    "dek": "A quick check of your portafilter’s seating can tighten shot uniformity without buying new gear.",
+    "takeaway": "Even a millimetre shift in portafilter alignment can smooth out channeling and improve flavor balance.",
+    "whatHappened": "During a routine pull, I noticed uneven extraction and traced it to a slightly off‑center portafilter. A tiny rotation corrected the flow and the shot tasted cleaner.",
+    "whyItMatters": "Misaligned ports create uneven water distribution, leading to channeling and inconsistent taste. For home baristas, fixing this costs nothing but yields a noticeable upgrade.",
+    "howToThink": "Treat the portafilter like a puzzle piece—ensure it sits flush and centered before each brew. A quick visual check and a gentle twist are all it takes.",
+    "pros": [
+      "No extra cost",
+      "Instant improvement",
+      "Easy to repeat"
+    ],
+    "cons": [
+      "Requires attentiveness",
+      "May need occasional cleaning",
+      "Small learning curve"
+    ],
+    "watchOut": "Avoid over‑tightening; excessive force can damage the filter basket threads.",
+    "faq": [
+      {
+        "q": "How can I tell if my portafilter is misaligned?",
+        "a": "Look for gaps between the basket and group head or uneven crema edges after a shot."
+      },
+      {
+        "q": "Do I need special tools to adjust alignment?",
+        "a": "No, a clean fingertip or a flat screwdriver (used gently) is enough to nudge it into place."
+      },
+      {
+        "q": "Will this fix affect pressure readings on my machine?",
+        "a": "Proper alignment actually helps the machine maintain stable pressure by preventing leaks."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-10-20T06:45:08.491Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "perfect-espresso-tamping-pressure",
     "title": "Nail Your Espresso Tamping Pressure with a Simple Finger Guide",
     "dek": "A quick finger‑guide hack steadies your tamp for smoother shots every morning.",

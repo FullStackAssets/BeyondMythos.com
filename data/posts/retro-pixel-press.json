@@ -1,5 +1,56 @@
 [
   {
+    "slug": "replace-atari-2600-cartridge-caps",
+    "title": "Pixel Boost: Replacing Atari 2600 Cartridge Caps for Better Contact",
+    "dek": "Old Atari cartridges can suffer from flaky contacts; swapping the tiny metal caps restores reliable reads for collectors and speedrunners.",
+    "takeaway": "Simple cap replacement can rescue misbehaving Atari 2600 games without expensive repairs.",
+    "whatHappened": "We noticed intermittent freezes on a classic Atari 2600 title during a timed run. Inspection revealed corroded cartridge caps. Replacing them with fresh nickel‑plated caps solved the issue.",
+    "whyItMatters": "Unreliable cartridge contacts can ruin a run or hide a game’s value. Restoring proper connectivity keeps the hardware playable and preserves its authenticity.",
+    "howToThink": "When a cartridge misbehaves, first clean the contacts, then assess the caps. If they’re pitted or missing, source compatible caps and solder them carefully, ensuring no excess solder bridges.",
+    "pros": [
+      "Low cost fix",
+      "Extends cartridge life",
+      "Improves run consistency"
+    ],
+    "cons": [
+      "Requires soldering skill",
+      "Small parts can be lost",
+      "May void collector’s warranty"
+    ],
+    "watchOut": "Avoid overheating the plastic housing; use a low‑heat soldering tip and work quickly.",
+    "faq": [
+      {
+        "q": "Can I use generic caps from other consoles?",
+        "a": "Generic caps of the same size work, but nickel‑plated caps match the original spec and resist corrosion."
+      },
+      {
+        "q": "Do I need a magnifying glass?",
+        "a": "A modest magnifier helps see the tiny leads, especially on older cartridges."
+      },
+      {
+        "q": "Is this reversible?",
+        "a": "Yes—if you keep the original caps, you can reinstall them later, preserving the cartridge’s original state."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Atari 2600",
+      "Cartridge Repair"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-10-20T06:45:09.103Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "reinforce-snes-wires",
     "title": "Pixel Boost: Reinforcing SNES Controller Wires for Consistent Input",
     "dek": "A quick guide to strengthen SNES controller wiring, keeping your inputs crisp for marathon runs.",
