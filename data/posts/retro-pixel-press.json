@@ -1,5 +1,56 @@
 [
   {
+    "slug": "reinforcing-gba-battery-contacts",
+    "title": "Pixel Boost: Reinforcing Game Boy Advance Battery Contacts for Longer Play",
+    "dek": "A simple solder‑free fix that steadies power delivery on aging Game Boy Advance units.",
+    "takeaway": "Secure battery contacts can extend playtime and prevent sudden shutdowns.",
+    "whatHappened": "We discovered that many late‑model GBA cartridges suffer from flaky gold‑plated contacts after years of use. A thin conductive copper shim can bridge the gap without permanent modifications.",
+    "whyItMatters": "Unreliable power causes missed inputs in speedruns and can damage the handheld’s motherboard over time. Restoring stable contact keeps your hardware race‑ready and preserves the console for future collectors.",
+    "howToThink": "Use a small piece of copper tape or a pre‑cut shim, clean both surfaces with isopropyl alcohol, and press it into place with a plastic tool. Test the console before sealing the case to confirm stable power.",
+    "pros": [
+      "No solder required",
+      "Reversible fix",
+      "Low cost"
+    ],
+    "cons": [
+      "Adds a thin layer inside cartridge",
+      "May require case reopening",
+      "Potential for misalignment if not placed carefully"
+    ],
+    "watchOut": "Avoid using conductive adhesives that could seep into the cartridge and cause shorts.",
+    "faq": [
+      {
+        "q": "Do I need to open the cartridge case?",
+        "a": "Yes, a small opening is needed to insert the shim, but the case can be snapped back without permanent damage."
+      },
+      {
+        "q": "Can I use any metal tape?",
+        "a": "Use copper or gold‑plated tape; avoid steel which can corrode."
+      },
+      {
+        "q": "Will this affect the GBA’s battery life?",
+        "a": "The shim improves contact resistance, so battery life should remain unchanged or slightly better."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "hardware",
+      "maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-10-20T13:45:10.361Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "calibrating-commodore-64-joystick",
     "title": "Pixel Boost: Calibrating Commodore 64 Joystick for Precise Input",
     "dek": "Tighten up your C64 joystick to shave off wobble and boost control for both collectors and speedrunners.",

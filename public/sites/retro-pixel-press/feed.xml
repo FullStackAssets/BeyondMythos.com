@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Reinforcing Game Boy Advance Battery Contacts for Longer Play</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/reinforcing-gba-battery-contacts.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/reinforcing-gba-battery-contacts.html</guid>
+      <pubDate>Tue, 20 Oct 2026 13:45:10 GMT</pubDate>
+      <description>A simple solder‑free fix that steadies power delivery on aging Game Boy Advance units.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Calibrating Commodore 64 Joystick for Precise Input</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/calibrating-commodore-64-joystick.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/calibrating-commodore-64-joystick.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/turbocharged-snes-power-supply.html</guid>
       <pubDate>Mon, 19 Oct 2026 08:45:06 GMT</pubDate>
       <description>Boost your SNES reliability with a simple voltage regulator upgrade, perfect for long speedrun sessions.</description>
-    </item>
-    <item>
-      <title>Pixel Perfect: Fine‑Tuning Your SNES Controller Lag</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-perfect-snes-controller-lag.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-perfect-snes-controller-lag.html</guid>
-      <pubDate>Mon, 19 Oct 2026 07:45:08 GMT</pubDate>
-      <description>Trim a few milliseconds off SNES input lag with a simple resistor tweak and a stable power supply.</description>
     </item>
   </channel>
 </rss>

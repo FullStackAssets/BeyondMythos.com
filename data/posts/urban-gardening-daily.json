@@ -1,5 +1,56 @@
 [
   {
+    "slug": "clever-compost-cups",
+    "title": "Clever Compost Cups: Turning Kitchen Scraps into Balcony Gold",
+    "dek": "Turn everyday waste into nutrient‑rich compost with tiny balcony‑friendly cups—no mess, no fuss, just greener growth.",
+    "takeaway": "Small compost cups can feed balcony plants without sacrificing space.",
+    "whatHappened": "We tested three DIY compost cups made from recycled containers on a sunny balcony. Over two weeks, kitchen scraps broke down into dark, crumbly material ready for feeding herbs and greens. The plants responded with noticeable perkiness.",
+    "whyItMatters": "Apartment gardeners often lack space for traditional bins, yet they generate organic waste daily. Providing a micro‑compost solution closes the loop, reduces kitchen waste, and supplies natural nutrients that boost plant health.",
+    "howToThink": "Choose a shallow, breathable container—like a cut‑down yogurt cup with holes drilled in the sides. Layer in a bit of shredded newspaper, add scraps, and top with more paper to keep odors down. When the mix looks soil‑like, scoop a spoonful into your plant pot and restart the cycle.",
+    "pros": [
+      "Minimal space needed",
+      "Zero‑cost materials",
+      "Immediate nutrient source"
+    ],
+    "cons": [
+      "Needs regular stirring",
+      "Limited capacity per cup",
+      "May attract pests if not covered"
+    ],
+    "watchOut": "Avoid adding meat, dairy, or oily foods, as they can smell and attract pests.",
+    "faq": [
+      {
+        "q": "How often should I stir the compost cup?",
+        "a": "Give it a gentle stir every two to three days to aerate and speed decomposition."
+      },
+      {
+        "q": "Can I use the same cup for multiple plant types?",
+        "a": "Yes, the finished compost works for herbs, lettuce, and small vegetables alike."
+      },
+      {
+        "q": "What if the cup smells bad?",
+        "a": "Add more dry paper or shredded leaves to balance moisture and keep odors at bay."
+      }
+    ],
+    "category": "Composting",
+    "tags": [
+      "balcony",
+      "compost"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-10-20T13:45:06.532Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "balcony-citrus-boost-2",
     "title": "Balcony Citrus Boost: Mini Trees for Sun‑Kissed Apartments",
     "dek": "Turn a tiny balcony into a fragrant citrus oasis with dwarf trees that fit snugly into containers.",

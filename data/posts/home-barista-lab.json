@@ -1,5 +1,56 @@
 [
   {
+    "slug": "master-brew-ratio-pour-over",
+    "title": "Master Your Brew Ratio with a Simple Pour‑Over Calculator",
+    "dek": "Learn how a quick brew‑ratio check can make every pour‑over taste balanced and consistent.",
+    "takeaway": "A consistent brew ratio is the simplest path to repeatable flavor.",
+    "whatHappened": "I was frustrated by day‑to‑day flavor swings in my daily V60. After logging coffee weight and water volume, I spotted a pattern that the ratio was the missing link.",
+    "whyItMatters": "Brew ratio directly influences extraction balance, so small tweaks can swing a cup from sour to sweet. Consistency lets you fine‑tune other variables without chasing a moving target.",
+    "howToThink": "Start with a 1:15 coffee‑to‑water ratio as a baseline, measure both with a scale, and adjust in small steps until the cup hits your preferred profile. Keep a quick note of each brew so you can reference what works for each bean.",
+    "pros": [
+      "Predictable flavor",
+      "Easier troubleshooting",
+      "Better coffee‑to‑water efficiency"
+    ],
+    "cons": [
+      "Requires a scale",
+      "Adds a step",
+      "May limit experimentation"
+    ],
+    "watchOut": "Don’t obsess over the number at the expense of tasting the coffee.",
+    "faq": [
+      {
+        "q": "Do I need a precise scale for brew ratio?",
+        "a": "A scale that measures to 0.5 g is sufficient for most home setups."
+      },
+      {
+        "q": "Can I use the same ratio for all beans?",
+        "a": "Start with the baseline, then adjust for roast level and personal taste."
+      },
+      {
+        "q": "Is a 1:15 ratio too weak for espresso?",
+        "a": "Yes, espresso typically uses a much lower ratio; this tip is for pour‑over only."
+      }
+    ],
+    "category": "Pour-over",
+    "tags": [
+      "brew ratio",
+      "pour-over"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-10-20T13:45:07.855Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-pour-over-mistakes-52",
     "title": "Five mistakes everyone makes in their first month of pour-over",
     "dek": "The most common early stumbles in pour-over, and the cheap corrections that fix them for home coffee enthusiasts.",

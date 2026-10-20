@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midday-platform-language-exchange",
+    "title": "Midday Platform Language Exchange: Low‑Impact Conversation on Rural Trains",
+    "dek": "Swap stories and vocab while the train hums, keeping carbon low and connections high.",
+    "takeaway": "A brief language swap enriches the journey without adding environmental cost.",
+    "whatHappened": "During a quiet stretch between stations, a few travelers gathered on the platform to practice basic phrases in each other's languages. The exchange lasted just ten minutes before the train arrived.",
+    "whyItMatters": "It shows how low‑impact social moments can deepen cultural immersion and foster community among slow‑travelers, all while staying carbon‑conscious.",
+    "howToThink": "Treat the platform as a pop‑up classroom: bring a phrase‑card, keep it light, and let the rhythm of the train set the pace. Even a single shared word builds rapport.",
+    "pros": [
+      "Builds cultural ties",
+      "Zero extra carbon",
+      "Easy to start"
+    ],
+    "cons": [
+      "Requires willing participants",
+      "Limited to short bursts",
+      "May need prior prep"
+    ],
+    "watchOut": "Make sure the train isn’t due to depart soon—don’t miss your stop while chatting.",
+    "faq": [
+      {
+        "q": "Do I need to bring any materials?",
+        "a": "A small notebook or a printed phrase‑card is enough; the goal is simplicity."
+      },
+      {
+        "q": "What if I’m shy about speaking?",
+        "a": "Start with greetings and let others lead; the low‑pressure setting helps ease nerves."
+      },
+      {
+        "q": "Can I do this on any train?",
+        "a": "Any regional or rural service with a brief stop works—just respect local rules and timing."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "Rail",
+      "Community"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-10-20T13:45:07.237Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "slow-train-bathroom-meditation",
     "title": "Midday Train Restroom Meditation: Low‑Impact Mindfulness on Rural Lines",
     "dek": "A quick, quiet mindfulness pause in a rural carriage restroom, perfect for low‑impact travelers.",
