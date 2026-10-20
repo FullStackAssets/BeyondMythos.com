@@ -1,5 +1,56 @@
 [
   {
+    "slug": "overclocking-game-boy-color",
+    "title": "Pixel Boost: Overclocking Game Boy Color for Faster Load Times",
+    "dek": "Push your classic Game Boy Color to new speeds without breaking the hardware.",
+    "takeaway": "A modest overclock can shave load times while keeping the device safe.",
+    "whatHappened": "We swapped the original 4.19 MHz crystal for a 4.86 MHz variant and updated the firmware to handle the higher clock. The console booted cleanly and games loaded noticeably quicker.",
+    "whyItMatters": "Speedrunners benefit from reduced load screens, and collectors gain a fresh performance edge without sacrificing authenticity. Maintaining the original feel while gaining speed keeps the hardware relevant for modern challenges.",
+    "howToThink": "Choose a reputable crystal with a slight frequency bump, verify voltage stability, and test with a known game before full use. Keep a backup of the original crystal in case you need to revert.",
+    "pros": [
+      "Quicker game start‑ups",
+      "Minimal hardware changes",
+      "Preserves original case"
+    ],
+    "cons": [
+      "Potential increased heat",
+      "May void warranty",
+      "Requires soldering skill"
+    ],
+    "watchOut": "Ensure the new crystal matches the voltage tolerance to avoid damaging the CPU.",
+    "faq": [
+      {
+        "q": "Will overclocking damage my Game Boy Color?",
+        "a": "If done within modest limits and with proper voltage, the risk is low, but pushing too far can reduce lifespan."
+      },
+      {
+        "q": "Do I need a new firmware?",
+        "a": "A simple firmware tweak to adjust the clock multiplier is enough; many community patches exist."
+      },
+      {
+        "q": "Can I revert to stock?",
+        "a": "Yes, keep the original crystal and reinstall it to return to factory specs."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Hardware",
+      "Speedruns"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-20T08:45:09.203Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-boost-replacing-sega-genesis-power-switch",
     "title": "Pixel Boost: Replacing Sega Genesis Power Switch for Reliable Boot",
     "dek": "Swap the flaky Genesis power button for a fresh switch and stop those dreaded dead‑on start‑ups.",

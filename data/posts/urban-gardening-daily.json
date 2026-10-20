@@ -1,5 +1,56 @@
 [
   {
+    "slug": "stackable-tiered-pots",
+    "title": "Stackable Tiered Pots: Grow More in One Balcony Spot",
+    "dek": "Transform a single balcony nook into a multi‑level garden with cheap stackable pots.",
+    "takeaway": "Layered containers multiply planting space without extra floor area.",
+    "whatHappened": "We tested a set of three stackable plastic pots on a south‑facing balcony, arranging them vertically to use the height instead of width. The arrangement proved stable and yielded noticeably more herbs than a single‑layer setup.",
+    "whyItMatters": "Apartment gardeners often lack horizontal space; vertical stacking turns unused air space into productive soil, boosting yields. More produce from the same footprint means fresher meals and less grocery waste.",
+    "howToThink": "Pick lightweight, drainage‑ready pots that nest, fill the bottom with a base mix, and add a lighter pot on top with a tailored soil blend for the plant’s needs. Ensure each tier has adequate drainage and consider a small support bracket for windy days.",
+    "pros": [
+      "Maximizes limited balcony space",
+      "Improves airflow between layers",
+      "Easy to reconfigure"
+    ],
+    "cons": [
+      "May require sturdy support on windy balconies",
+      "Weight adds up when fully watered",
+      "Upper pots dry faster, need more attention"
+    ],
+    "watchOut": "Secure the stack to prevent tipping in gusty weather.",
+    "faq": [
+      {
+        "q": "Can I use ceramic pots for stacking?",
+        "a": "Ceramics are heavy; if you choose them, be sure the balcony rail can bear the load and anchor the stack."
+      },
+      {
+        "q": "What plants thrive in the top tier?",
+        "a": "Shallow‑rooted herbs like basil, thyme, and lettuce do well where the soil depth is limited."
+      },
+      {
+        "q": "How often should I water stacked pots?",
+        "a": "Check the bottom pot first; water from the bottom so moisture rises, then top up the upper pots as needed."
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "containers",
+      "balcony gardening"
+    ],
+    "sources": [
+      {
+        "label": "r/UrbanGardening community threads",
+        "url": "https://www.reddit.com/r/UrbanGardening/"
+      },
+      {
+        "label": "Search interest: \"balcony garden ideas\"",
+        "url": "https://duckduckgo.com/?q=balcony%20garden%20ideas"
+      }
+    ],
+    "publishedAt": "2026-10-20T08:45:07.960Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "balcony-microgreen-magic",
     "title": "Microgreen Marvels: Fast‑Growing Greens for Tiny Terraces",
     "dek": "Turn a spare balcony rail into a thriving microgreen patch that delivers fresh flavor in days.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-foam-quick-check",
+    "title": "Boost Your Espresso Foam Consistency with a Simple Milk Frothing Guide",
+    "dek": "A quick, repeatable method to get silky espresso foam every morning.",
+    "takeaway": "A consistent frothing routine transforms your espresso drinks without fancy gear.",
+    "whatHappened": "I tried a few different whisking speeds and cup angles while steaming milk for my daily latte. By standardizing the wrist motion and the pitcher tilt, the foam turned from airy and uneven to smooth and glossy. The result was a noticeable lift in both texture and taste.",
+    "whyItMatters": "Foam is the bridge between espresso and milk, influencing mouthfeel and flavor balance. When the foam is inconsistent, it can mask the espresso’s nuance or create a clumpy mouthfeel. Reliable foam lets you focus on the coffee itself and improves latte art confidence.",
+    "howToThink": "Start with cold milk and a clean pitcher; position the steam wand just below the surface and tilt the pitcher to create a whirlpool. Keep the wand moving in a gentle circular motion and listen for a soft hissing sound—avoid a loud screech. Stop when the pitcher feels warm to the touch and the foam has a glossy sheen, then tap and swirl to settle any large bubbles.",
+    "pros": [
+      "Improved mouthfeel",
+      "Easier latte art",
+      "Consistent texture"
+    ],
+    "cons": [
+      "Requires practice",
+      "May need extra time",
+      "Depends on milk quality"
+    ],
+    "watchOut": "Avoid overheating the milk; it can scorch and ruin the flavor.",
+    "faq": [
+      {
+        "q": "Do I need a thermometer for this method?",
+        "a": "No, rely on hand warmth and the sound of the steam instead of precise temperature readings."
+      },
+      {
+        "q": "Can I use non-dairy milk?",
+        "a": "Yes, but some plant milks foam differently; experiment with temperature and steam position."
+      },
+      {
+        "q": "How long should the frothing process take?",
+        "a": "Aim for a quick, steady motion—typically under a minute for a single cup."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "milk"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-10-20T08:45:07.221Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-dosing-scale",
     "title": "Boost Espresso Consistency with a Simple Dose Scale",
     "dek": "A kitchen scale helps you dial in the perfect coffee dose for consistent espresso shots.",

@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Overclocking Game Boy Color for Faster Load Times</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/overclocking-game-boy-color.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/overclocking-game-boy-color.html</guid>
+      <pubDate>Tue, 20 Oct 2026 08:45:09 GMT</pubDate>
+      <description>Push your classic Game Boy Color to new speeds without breaking the hardware.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Replacing Sega Genesis Power Switch for Reliable Boot</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-replacing-sega-genesis-power-switch.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-replacing-sega-genesis-power-switch.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-cartridge-cleaner.html</guid>
       <pubDate>Mon, 19 Oct 2026 03:45:11 GMT</pubDate>
       <description>A quick alcohol wipe can restore old cartridges and cut down load hiccups for your next speedrun.</description>
-    </item>
-    <item>
-      <title>Pixel Sync: Adding a Pull‑Up Resistor for Stable NES Controller Signals</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-sync-pull-up-resistor.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-sync-pull-up-resistor.html</guid>
-      <pubDate>Mon, 19 Oct 2026 02:45:09 GMT</pubDate>
-      <description>A quick mod to add a pull‑up resistor to your NES controller, eliminating flaky inputs during marathon runs.</description>
     </item>
   </channel>
 </rss>

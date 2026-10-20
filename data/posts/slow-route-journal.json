@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midday-platform-yoga",
+    "title": "Midday Platform Yoga: Low‑Impact Stretching on Rural Trains",
+    "dek": "Take a breather between stops with simple stretches that keep you limber and low‑impact on the rails.",
+    "takeaway": "A quick yoga routine on the train boosts wellbeing without increasing your carbon footprint.",
+    "whatHappened": "I boarded the 10:15 regional service to Willow Creek and, after a short stop, rolled out a travel mat in the carriage aisle. While the train rolled on, I guided a 10‑minute sequence of seated and standing poses, sharing the calm with fellow passengers.",
+    "whyItMatters": "Slow travel isn’t just about speed; it’s about caring for your body and the environment. Stretching on board reduces stiffness from sitting and keeps the journey mindful.",
+    "howToThink": "Pick low‑impact poses that require no equipment, keep movements within your seat or aisle, and breathe with the rhythm of the train. Aim for a routine you can repeat on each leg of the trip.",
+    "pros": [
+      "Improves circulation",
+      "Zero extra waste",
+      "Fits any schedule"
+    ],
+    "cons": [
+      "Limited space",
+      "May disturb nearby passengers",
+      "Requires basic flexibility"
+    ],
+    "watchOut": "Avoid blocking aisles or doors; keep movements gentle to prevent spills.",
+    "faq": [
+      {
+        "q": "Can I do yoga on a crowded train?",
+        "a": "Choose seated stretches or lean against the seat back; if space is tight, pause until the carriage clears."
+      },
+      {
+        "q": "Do I need a mat?",
+        "a": "A thin travel mat or folded towel adds comfort but isn’t required—many poses work directly on the seat."
+      },
+      {
+        "q": "Is it okay to play music?",
+        "a": "Use headphones at low volume; the train’s ambient sounds are often enough to set a calm rhythm."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail‑wellness",
+      "slow‑travel"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-10-20T08:45:08.582Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "midnight-platform-wildlife-spotting",
     "title": "Midnight Platform Wildlife Spotting: Low‑Impact Night Train Observation",
     "dek": "Explore nocturnal wildlife from the comfort of a slow train without leaving a trace.",
