@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-dosing-scale",
+    "title": "Boost Espresso Consistency with a Simple Dose Scale",
+    "dek": "A kitchen scale helps you dial in the perfect coffee dose for consistent espresso shots.",
+    "takeaway": "Weighing your coffee dose removes guesswork and steadies extraction.",
+    "whatHappened": "I noticed my espresso shots fluctuated day to day despite using the same beans. Adding a digital scale to measure the dose revealed the hidden variable.",
+    "whyItMatters": "Even a few grams difference changes the coffee-to-water ratio, affecting flavor balance and crema quality. Consistent dosing is the foundation of repeatable espresso performance.",
+    "howToThink": "Treat each shot like a recipe: measure the dose, then adjust grind and tamp accordingly. Start with the manufacturer’s recommended dose, then fine‑tune based on taste.",
+    "pros": [
+      "Precise dose control",
+      "Improved shot repeatability",
+      "Easy to track recipe changes"
+    ],
+    "cons": [
+      "Extra step before pulling",
+      "Requires a scale that can handle small weights",
+      "May expose other variables to tweak"
+    ],
+    "watchOut": "Make sure the scale is calibrated and placed on a stable surface to avoid drift.",
+    "faq": [
+      {
+        "q": "Do I need a high‑precision scale for espresso?",
+        "a": "A scale that reads to 0.1 g is sufficient for most home setups."
+      },
+      {
+        "q": "Can I use the same dose for all beans?",
+        "a": "Start with the recommended dose, then adjust up or down depending on bean density and flavor."
+      },
+      {
+        "q": "What if my scale shows a different weight each time?",
+        "a": "Check that the portafilter is empty, tare the scale, and ensure the scale is on a level surface."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "dosing"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-10-20T07:45:08.467Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "portafilter-alignment-tips",
     "title": "Refine Your Espresso Shot Consistency with a Simple Portafilter Alignment",
     "dek": "A quick check of your portafilter’s seating can tighten shot uniformity without buying new gear.",

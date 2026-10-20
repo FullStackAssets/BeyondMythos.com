@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-boost-replacing-sega-genesis-power-switch",
+    "title": "Pixel Boost: Replacing Sega Genesis Power Switch for Reliable Boot",
+    "dek": "Swap the flaky Genesis power button for a fresh switch and stop those dreaded dead‑on start‑ups.",
+    "takeaway": "A new power switch restores instant boot reliability to your Genesis.",
+    "whatHappened": "A batch of late‑80s Sega Genesis units began showing intermittent power loss due to worn contacts in the original push‑button switch. A simple replacement restores crisp on/off behavior without opening the case fully.",
+    "whyItMatters": "Consistent power delivery is crucial for speedrunners who need every second counted, and collectors benefit from preserving the console’s original performance without resorting to risky hacks.",
+    "howToThink": "Treat the switch swap like any other console mod: document the original layout, use a soldering iron with a fine tip, and verify continuity before re‑assembling. Keep the original switch as a spare if you ever need to revert.",
+    "pros": [
+      "Easier boot",
+      "Longer console life",
+      "Simple tool‑free swap"
+    ],
+    "cons": [
+      "Requires soldering",
+      "Potential void warranty",
+      "Need specific switch model"
+    ],
+    "watchOut": "Double‑check polarity before soldering to avoid damaging the board.",
+    "faq": [
+      {
+        "q": "Do I need a special screwdriver to open the Genesis?",
+        "a": "A standard Phillips #1 is enough to remove the bottom screws."
+      },
+      {
+        "q": "Can I use any generic tactile switch?",
+        "a": "Choose a 6‑mm tactile switch rated for 5 V DC to match the original specs."
+      },
+      {
+        "q": "Will this mod affect the console’s value?",
+        "a": "A clean, reversible mod typically preserves value, especially if you keep the original part."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Sega Genesis",
+      "Hardware Mods"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-10-20T07:45:07.851Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "replace-atari-2600-cartridge-caps",
     "title": "Pixel Boost: Replacing Atari 2600 Cartridge Caps for Better Contact",
     "dek": "Old Atari cartridges can suffer from flaky contacts; swapping the tiny metal caps restores reliable reads for collectors and speedrunners.",

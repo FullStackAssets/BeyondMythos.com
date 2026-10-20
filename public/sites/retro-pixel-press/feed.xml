@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Replacing Sega Genesis Power Switch for Reliable Boot</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-replacing-sega-genesis-power-switch.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-replacing-sega-genesis-power-switch.html</guid>
+      <pubDate>Tue, 20 Oct 2026 07:45:07 GMT</pubDate>
+      <description>Swap the flaky Genesis power button for a fresh switch and stop those dreaded dead‑on start‑ups.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Replacing Atari 2600 Cartridge Caps for Better Contact</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/replace-atari-2600-cartridge-caps.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/replace-atari-2600-cartridge-caps.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-sync-pull-up-resistor.html</guid>
       <pubDate>Mon, 19 Oct 2026 02:45:09 GMT</pubDate>
       <description>A quick mod to add a pull‑up resistor to your NES controller, eliminating flaky inputs during marathon runs.</description>
-    </item>
-    <item>
-      <title>NES Power Boost: Upgrading Your Console’s Supply for Consistent Speedruns</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/nes-power-boost-upgrade.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/nes-power-boost-upgrade.html</guid>
-      <pubDate>Mon, 19 Oct 2026 01:45:09 GMT</pubDate>
-      <description>Swap the stock PSU for a regulated module to keep voltage steady during marathon runs.</description>
     </item>
   </channel>
 </rss>

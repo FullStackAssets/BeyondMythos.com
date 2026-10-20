@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midnight-platform-wildlife-spotting",
+    "title": "Midnight Platform Wildlife Spotting: Low‑Impact Night Train Observation",
+    "dek": "Explore nocturnal wildlife from the comfort of a slow train without leaving a trace.",
+    "takeaway": "Night trains give a quiet window onto ecosystems that thrive after dark.",
+    "whatHappened": "On a recent sleeper service through the highlands, the carriage lights dimmed and a hush fell over the car. Passengers peered out as deer, owls, and a shy fox crossed the tracks near a remote station. The moment felt like a shared secret between travelers and the landscape.",
+    "whyItMatters": "Observing wildlife from a train reduces disturbance compared to foot hikes, preserving natural behavior. It also adds a unique narrative to low‑impact travel, turning transit time into a discovery moment. By highlighting these encounters, we encourage more people to choose rail over car for night journeys.",
+    "howToThink": "Plan a route that passes through known wildlife corridors and choose a sleeper with large windows. Keep lights low, use a flash‑free phone camera, and stay silent. Treat the platform as a viewing deck—step out briefly if safe, then retreat to the carriage.",
+    "pros": [
+      "Zero vehicle emissions",
+      "Minimal habitat intrusion",
+      "Adds wonder to travel"
+    ],
+    "cons": [
+      "Limited visibility in bad weather",
+      "Requires early‑morning or late‑night schedules",
+      "May need extra safety precautions"
+    ],
+    "watchOut": "Never lean too far out of the carriage; safety rails exist for a reason.",
+    "faq": [
+      {
+        "q": "Do I need a special ticket for night wildlife spotting?",
+        "a": "No, any standard sleeper or night‑train ticket gives you the same window view."
+      },
+      {
+        "q": "What gear should I bring?",
+        "a": "A quiet flashlight with a red filter, a notebook, and a camera with a silent shutter mode."
+      },
+      {
+        "q": "Is it safe to step onto a platform at night?",
+        "a": "Only if the station is staffed, well‑lit, and you stay within the designated safe zones."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "night-train",
+      "wildlife"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-10-20T07:45:07.150Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "evening-platform-jazz",
     "title": "Evening Platform Jazz: Low‑Impact Music Sessions on Rural Stops",
     "dek": "Wind down with acoustic jazz at a sleepy rural station, all while keeping your carbon footprint tiny.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "balcony-microgreen-magic",
+    "title": "Microgreen Marvels: Fast‑Growing Greens for Tiny Terraces",
+    "dek": "Turn a spare balcony rail into a thriving microgreen patch that delivers fresh flavor in days.",
+    "takeaway": "You can harvest nutrient‑dense greens in under two weeks using simple containers.",
+    "whatHappened": "A handful of city renters experimented with shallow trays filled with seed‑mix and a daily mist, and within a week the seedlings were ready to harvest. The experiment proved that even the narrowest balcony can produce a continuous supply of fresh microgreens.",
+    "whyItMatters": "Fresh microgreens boost nutrition and flavor without needing a garden plot, helping apartment dwellers eat healthier on a budget. They also make use of under‑utilized vertical space, reducing food waste.",
+    "howToThink": "Choose a shallow, lightweight tray that fits your railing, fill with a peat‑free seed mix, and keep the medium consistently moist. Place the tray in the brightest spot, rotate daily, and harvest the tops when they reach 2‑3 inches.",
+    "pros": [
+      "Quick harvest",
+      "Minimal space",
+      "Low cost"
+    ],
+    "cons": [
+      "Requires daily moisture",
+      "Limited to leafy varieties",
+      "Short shelf life after harvest"
+    ],
+    "watchOut": "Avoid overwatering, as soggy media can cause mold.",
+    "faq": [
+      {
+        "q": "How often should I water microgreens?",
+        "a": "Mist the surface lightly two to three times a day to keep the medium damp but not soaked."
+      },
+      {
+        "q": "Can I grow microgreens indoors?",
+        "a": "Yes, a sunny windowsill works, but a balcony adds natural airflow and light."
+      },
+      {
+        "q": "When is the best time to sow?",
+        "a": "Any time of year; just match the light conditions—spring and summer give the fastest growth."
+      }
+    ],
+    "category": "Herbs",
+    "tags": [
+      "Microgreens",
+      "Balcony"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-10-20T07:45:10.945Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-houseplants-14",
     "title": "Community pulse: what r/houseplants is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the seasonal community this week.",
