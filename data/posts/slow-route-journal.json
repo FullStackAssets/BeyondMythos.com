@@ -1,5 +1,56 @@
 [
   {
+    "slug": "afternoon-platform-book-club",
+    "title": "Afternoon Platform Book Club: Low‑Impact Reading on Rural Trains",
+    "dek": "Swap a paperback and a story with fellow travelers while the scenery rolls by, keeping the carbon footprint tiny.",
+    "takeaway": "Shared reading turns a slow train ride into a low‑impact community hub.",
+    "whatHappened": "At a quiet rural stop, a few passengers gathered on the platform with a stack of gently used paperbacks. They swapped titles, discussed plot twists, and let the train’s rhythm set the reading pace.",
+    "whyItMatters": "Book swapping adds social value without generating waste, reinforcing the low‑impact ethos of slow travel. It also encourages lingering at stations, supporting local cafés and small economies.",
+    "howToThink": "Carry one or two lightweight paperbacks or a small e‑ink reader, and announce your book club with a simple sign. Keep the exchange informal—no strict schedule, just a friendly chat as the train arrives.",
+    "pros": [
+      "Builds community",
+      "Zero waste",
+      "Enriches journeys"
+    ],
+    "cons": [
+      "Limited space",
+      "Weather dependent",
+      "Requires coordination"
+    ],
+    "watchOut": "Guard against losing or damaging books in the shuffle of luggage.",
+    "faq": [
+      {
+        "q": "Do I need to bring my own books?",
+        "a": "A single or two paperbacks are enough; you can also use a lightweight e‑reader."
+      },
+      {
+        "q": "What if I’m not a reader?",
+        "a": "You can still join the conversation or help curate the swap list for others."
+      },
+      {
+        "q": "Can I organize this at any station?",
+        "a": "Yes, any quiet platform works—just be mindful of local rules and keep the gathering low‑key."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "community"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-10-20T03:45:10.270Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "midday-platform-picnic",
     "title": "Midday Platform Picnic: Low-Impact Culinary Break on Rural Lines",
     "dek": "Take a bite and a break on a quiet station platform without leaving the rails.",

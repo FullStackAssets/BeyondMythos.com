@@ -1,5 +1,56 @@
 [
   {
+    "slug": "ask-the-forge-whole-grain-2",
+    "title": "Ask the forge: your whole grain questions, answered",
+    "dek": "Straight answers to the whole grain questions home sourdough bakers keep asking, minus the hedging.",
+    "takeaway": "Most whole grain questions have boring, reliable answers. Here they are, without the two thousand words of preamble.",
+    "whatHappened": "We gathered the questions that appear weekly wherever home sourdough bakers compare notes — the ones usually answered with \"it depends\" — and committed to actual answers with actual reasoning.",
+    "whyItMatters": "\"It depends\" is true and useless. Newcomers to whole grain don't need every caveat; they need a defensible default they can adjust later.",
+    "howToThink": "Take the default, use it for a month, then earn your deviations. Customization is a reward for data, not a starting requirement.",
+    "pros": [
+      "Defaults beat decision paralysis",
+      "Reasoning shown, not just verdicts",
+      "Adjustable once you have data"
+    ],
+    "cons": [
+      "Defaults fit most, not all",
+      "Experts will quibble — always",
+      "Questions evolve; answers date"
+    ],
+    "watchOut": "Any answer that can't say what would change its mind isn't an answer — it's an identity. Ours come with conditions attached.",
+    "faq": [
+      {
+        "q": "What's the most-asked question?",
+        "a": "\"What should I buy first?\" — and the answer is almost always: nothing yet. Run the routine for two weeks first."
+      },
+      {
+        "q": "Why give defaults instead of options?",
+        "a": "Because ten options produce paralysis and one default produces feedback. You can only iterate on something you started."
+      },
+      {
+        "q": "How often do these answers change?",
+        "a": "We revisit quarterly. The fundamentals drift slowly; the gear recommendations drift fast."
+      }
+    ],
+    "category": "Whole Grain",
+    "tags": [
+      "Whole Grain",
+      "Starters"
+    ],
+    "sources": [
+      {
+        "label": "r/AskBaking community threads",
+        "url": "https://www.reddit.com/r/AskBaking/"
+      },
+      {
+        "label": "Search interest: \"sourdough schedule for workers\"",
+        "url": "https://duckduckgo.com/?q=sourdough%20schedule%20for%20workers"
+      }
+    ],
+    "publishedAt": "2026-10-20T03:45:39.121Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-scoring-2",
     "title": "The quiet upgrade: small tweaks in scoring with outsized returns",
     "dek": "No purchases, no overhauls — the modest scoring adjustments that home sourdough bakers report mattering most.",

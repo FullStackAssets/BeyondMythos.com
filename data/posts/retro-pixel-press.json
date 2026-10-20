@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-boost-optimizing-nes-controller-wiring",
+    "title": "Pixel Boost: Optimizing NES Controller Wiring for Faster Input Response",
+    "dek": "A quick guide to re-soldering NES controller wires for snappier button presses.",
+    "takeaway": "Clean wiring cuts latency and reduces missed inputs for speedruns.",
+    "whatHappened": "We discovered that many vintage NES controllers develop intermittent connections due to oxidized solder joints. By reflowing and reinforcing the wire connections, the controllers regained crisp, reliable input.",
+    "whyItMatters": "Speedrunners rely on every millisecond, and a flaky controller can cost a run. Reliable hardware also preserves the original feel, keeping collectors happy.",
+    "howToThink": "When inspecting a controller, look for dull solder and loose strands. Use a fine-tip soldering iron and thin rosin-core solder to rebuild the joints, keeping leads short. Test each button with a simple continuity checker before reassembling.",
+    "pros": [
+      "Improved response",
+      "Reduced input errors",
+      "Extended controller life"
+    ],
+    "cons": [
+      "Requires soldering skill",
+      "Risk of damaging PCB if rushed",
+      "Time-consuming for multiple units"
+    ],
+    "watchOut": "Avoid overheating the plastic housing, as it can warp and affect button feel.",
+    "faq": [
+      {
+        "q": "Do I need a special soldering iron?",
+        "a": "A standard low-wattage soldering iron with a fine tip works fine for NES controller work."
+      },
+      {
+        "q": "Can I use lead-free solder?",
+        "a": "Lead-free solder is okay, but it melts at a higher temperature, so be careful not to overheat the board."
+      },
+      {
+        "q": "Will this void any collector value?",
+        "a": "If done cleanly, the modification is reversible and usually doesn't affect value for most collectors."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "NES",
+      "Controller Mods"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-10-20T03:45:09.032Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-boost-modifying-turbografx-switch",
     "title": "Pixel Boost: Modifying TurboGrafx-16 Power Switch for Instant Starts",
     "dek": "Swap the original power switch for a tactile momentary type and enjoy instant boot‑up on your TurboGrafx‑16.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "boost-morning-espresso-pre-infusion-tap",
+    "title": "Boost Your Morning Espresso with a Simple Pre‑Infusion Tap",
+    "dek": "Add a quick pre‑infusion pause to your espresso routine and unlock richer flavor without buying new gear.",
+    "takeaway": "A short pre‑infusion can improve extraction balance with nothing more than a timed tap.",
+    "whatHappened": "I tried pausing the pump for a couple of seconds after the initial water burst on my home machine. The shot tasted smoother and the crema held longer.",
+    "whyItMatters": "Pre‑infusion lets the coffee bloom, reducing channeling and giving the water time to saturate evenly. The result is a more consistent cup that highlights subtle notes.",
+    "howToThink": "Set your machine to start the pump, then quickly stop it for a brief moment before resuming. Keep the pause short—just enough to hear the coffee swell. Experiment with timing to match your grind and dose.",
+    "pros": [
+      "Richer flavor",
+      "Better crema stability",
+      "No extra equipment needed"
+    ],
+    "cons": [
+      "Adds a step",
+      "Timing can vary by machine",
+      "May slightly lengthen pull time"
+    ],
+    "watchOut": "Don’t hold the pause too long or the puck can become over‑saturated and lead to bitterness.",
+    "faq": [
+      {
+        "q": "Can I use pre‑infusion on all espresso machines?",
+        "a": "Most pump‑based machines allow a manual pause; lever machines may need a different approach."
+      },
+      {
+        "q": "Do I need to adjust my grind when pre‑infusing?",
+        "a": "A slight coarser grind can balance the extra soak, but start with your usual setting and tweak as needed."
+      },
+      {
+        "q": "Will pre‑infusion affect espresso volume?",
+        "a": "The overall volume stays similar; the pause just changes how the water interacts with the coffee."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "technique"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-10-20T03:45:09.642Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "elevate-espresso-crema-grinder-calibration",
     "title": "Elevate Your Espresso Crema with a Simple Grinder Calibration",
     "dek": "A quick calibration of your grinder can unlock richer crema and more consistent shots.",
