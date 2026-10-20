@@ -1,5 +1,56 @@
 [
   {
+    "slug": "tuning-nes-audio",
+    "title": "Pixel Boost: Tuning NES Audio for Cleaner Sound",
+    "dek": "Boost your NES’s sound quality with simple tweaks to the audio output circuitry.",
+    "takeaway": "A clean audio signal makes games more enjoyable and can reduce wear on speakers.",
+    "whatHappened": "We discovered that many vintage NES consoles suffer from muffled sound due to oxidized audio contacts and aging capacitors. A quick re-solder and capacitor swap restores clarity.",
+    "whyItMatters": "Clear audio preserves the original game experience and helps speedrunners hear cues that affect timing. It also reduces strain on downstream audio equipment.",
+    "howToThink": "Inspect the audio board for corrosion, replace electrolytic capacitors with fresh ones, and verify the connection to the TV or monitor. Keep the solder joints tidy to avoid shorts.",
+    "pros": [
+      "Brighter sound",
+      "Low cost fixes",
+      "Improves immersion"
+    ],
+    "cons": [
+      "Requires soldering",
+      "May void warranty",
+      "Need proper replacement parts"
+    ],
+    "watchOut": "Double‑check polarity when installing new capacitors to avoid damaging the audio circuit.",
+    "faq": [
+      {
+        "q": "Do I need a multimeter?",
+        "a": "A multimeter helps verify continuity but isn’t strictly required for visual inspection."
+      },
+      {
+        "q": "Can I use any capacitor value?",
+        "a": "Stick to the original specifications; typical values are 100 µF electrolytic."
+      },
+      {
+        "q": "Will this affect gameplay speed?",
+        "a": "Audio tweaks don’t change CPU timing, so speedrun performance remains unchanged."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "audio",
+      "NES"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-20T17:45:10.361Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "lubricate-nes-controller-buttons",
     "title": "Pixel Boost: Lubricating NES Controller Buttons for Smoother Presses",
     "dek": "A quick guide to reviving sticky NES controller buttons with household-safe lubricant.",

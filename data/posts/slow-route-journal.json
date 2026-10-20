@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midday-platform-plant-swap",
+    "title": "Midday Platform Plant Swap: Low‑Impact Green Exchange on Rural Trains",
+    "dek": "Swap seedlings at a rural train stop and keep your journey blooming while staying light on carbon.",
+    "takeaway": "A quick plant swap turns a layover into a low‑impact seed‑bank for travelers.",
+    "whatHappened": "At a quiet stop on the Greenline, a handful of passengers opened a small tote of cuttings, pots, and seed packets. Within minutes, the platform became a mini‑nursery as travelers traded and chatted about native flora.",
+    "whyItMatters": "Sharing plants reduces the need for new packaging and encourages travelers to bring living souvenirs home. It also spreads awareness of regional ecosystems without adding waste.",
+    "howToThink": "Carry a lightweight, reusable pouch and a few hardy cuttings or seed packets. Offer a swap sign, and be ready to chat about care tips. Keep the exchange informal and respect any platform rules.",
+    "pros": [
+      "Zero waste exchange",
+      "Boosts local plant knowledge",
+      "Creates community moments"
+    ],
+    "cons": [
+      "Requires minimal prep",
+      "Limited space on crowded trains",
+      "Potential for plant damage if mishandled"
+    ],
+    "watchOut": "Make sure any plants you bring comply with local transport regulations to avoid fines or ecological harm.",
+    "faq": [
+      {
+        "q": "Can I bring non‑native plants?",
+        "a": "Stick to native or well‑known low‑risk species to prevent accidental invasive spread."
+      },
+      {
+        "q": "What packaging is best?",
+        "a": "Reusable cloth bags or biodegradable paper work well and stay light."
+      },
+      {
+        "q": "How do I protect cuttings during travel?",
+        "a": "Wrap stems in damp cloth and keep them upright in a small, ventilated container."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "plant swap",
+      "low-impact"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-10-20T17:45:06.488Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "midday-platform-book-swap",
     "title": "Midday Platform Book Swap: Low‑Impact Literary Exchange on Rural Trains",
     "dek": "Swap a story, share a page, and keep the journey quiet and green on a slow train stop.",

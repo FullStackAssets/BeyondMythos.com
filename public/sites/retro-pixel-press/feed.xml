@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Tuning NES Audio for Cleaner Sound</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/tuning-nes-audio.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/tuning-nes-audio.html</guid>
+      <pubDate>Tue, 20 Oct 2026 17:45:10 GMT</pubDate>
+      <description>Boost your NES’s sound quality with simple tweaks to the audio output circuitry.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Lubricating NES Controller Buttons for Smoother Presses</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/lubricate-nes-controller-buttons.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/lubricate-nes-controller-buttons.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-pulse-modifying-game-boy-link-cable.html</guid>
       <pubDate>Mon, 19 Oct 2026 12:45:07 GMT</pubDate>
       <description>Upgrade your Game Boy link cable to cut lag and keep your speedrun splits tight.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Upgrading Your Game Boy Battery for Marathon Sessions</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-game-boy-battery.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-game-boy-battery.html</guid>
-      <pubDate>Mon, 19 Oct 2026 11:45:10 GMT</pubDate>
-      <description>Swap your Game Boy’s AA cells for high‑capacity rechargeables and keep the timer ticking for those long‑run challenges.</description>
     </item>
   </channel>
 </rss>
