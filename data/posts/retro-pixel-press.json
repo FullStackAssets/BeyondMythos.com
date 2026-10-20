@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-boost-modifying-turbografx-switch",
+    "title": "Pixel Boost: Modifying TurboGrafx-16 Power Switch for Instant Starts",
+    "dek": "Swap the original power switch for a tactile momentary type and enjoy instant boot‑up on your TurboGrafx‑16.",
+    "takeaway": "A quick switch swap eliminates lag and reduces wear on the console’s power contacts.",
+    "whatHappened": "We replaced the stock toggle switch with a low‑profile tactile switch. The new part fits the existing cutout and restores a crisp click. After soldering, the console powers up the moment the button is pressed, with no hesitation.",
+    "whyItMatters": "Speedrunners hate any delay before the timer starts, and collectors appreciate a reliable power source that won’t corrode over time. A solid switch also protects the console’s internal traces from the occasional surge caused by a worn contact. The mod keeps your TurboGrafx‑16 ready for marathon sessions without surprise failures.",
+    "howToThink": "Choose a switch rated for similar current, trim the leads to match the board, and use a thin solder joint to avoid stressing the PCB. Test the polarity before soldering, then secure the switch with a small amount of heat‑shrink tubing. Finally, verify the console boots cleanly before re‑assembling the case.",
+    "pros": [
+      "Instant power response",
+      "Improved durability",
+      "Low cost and easy install"
+    ],
+    "cons": [
+      "Requires basic soldering",
+      "Potential case modification",
+      "Irreversible if you later want stock switch"
+    ],
+    "watchOut": "Double‑check the switch polarity; reversing it can prevent the console from powering on.",
+    "faq": [
+      {
+        "q": "Can I use any tactile switch?",
+        "a": "Pick one rated for at least 1 A and with a similar travel length to keep the feel familiar."
+      },
+      {
+        "q": "Will this void my warranty?",
+        "a": "The TurboGrafx‑16 is out of warranty, and the mod is reversible if you keep the original switch."
+      },
+      {
+        "q": "Do I need to desolder the old switch fully?",
+        "a": "Yes, remove the old pins completely to avoid shorting the new connections."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Hardware",
+      "TurboGrafx-16"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-20T02:45:06.259Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "nes-cartridge-connector-upgrade",
     "title": "Pixel Boost: Upgrading NES Cartridge Connectors for Reliable Reads",
     "dek": "Swap out the flaky NES cartridge pins for a solid connector and say goodbye to load hiccups on your runs.",

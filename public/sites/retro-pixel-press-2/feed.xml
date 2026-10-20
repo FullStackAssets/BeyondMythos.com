@@ -5,6 +5,13 @@
     <link>https://beyondmythos.com/sites/retro-pixel-press-2/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Myth vs. reality: crt setup guide</title>
+      <link>https://beyondmythos.com/sites/retro-pixel-press-2/posts/myth-vs-reality-crt-setup-guide-2.html</link>
+      <guid>https://beyondmythos.com/sites/retro-pixel-press-2/posts/myth-vs-reality-crt-setup-guide-2.html</guid>
+      <pubDate>Tue, 20 Oct 2026 02:45:37 GMT</pubDate>
+      <description>The persistent myths around crt setup guide, stress-tested against what retro game collectors and speedrunners actually report.</description>
+    </item>
+    <item>
       <title>A weekend project: level up your hardware in two hours</title>
       <link>https://beyondmythos.com/sites/retro-pixel-press-2/posts/weekend-project-hardware-4.html</link>
       <guid>https://beyondmythos.com/sites/retro-pixel-press-2/posts/weekend-project-hardware-4.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://beyondmythos.com/sites/retro-pixel-press-2/posts/indie-retro-pixel-factory-launch.html</guid>
       <pubDate>Wed, 14 Oct 2026 10:15:14 GMT</pubDate>
       <description>A new indie title that captures 8‑bit charm while adding modern quality‑of‑life tweaks.</description>
-    </item>
-    <item>
-      <title>FPGA Consoles Bridge the Gap Between Original and Modern</title>
-      <link>https://beyondmythos.com/sites/retro-pixel-press-2/posts/fpga-console-compatibility.html</link>
-      <guid>https://beyondmythos.com/sites/retro-pixel-press-2/posts/fpga-console-compatibility.html</guid>
-      <pubDate>Mon, 12 Oct 2026 21:15:14 GMT</pubDate>
-      <description>Why FPGA‑based retro consoles are becoming the go‑to hardware for purists.</description>
     </item>
   </channel>
 </rss>

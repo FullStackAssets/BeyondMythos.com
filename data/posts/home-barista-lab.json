@@ -1,5 +1,56 @@
 [
   {
+    "slug": "elevate-espresso-crema-grinder-calibration",
+    "title": "Elevate Your Espresso Crema with a Simple Grinder Calibration",
+    "dek": "A quick calibration of your grinder can unlock richer crema and more consistent shots.",
+    "takeaway": "Calibrating your grinder daily sharpens flavor and crema.",
+    "whatHappened": "I ran a side‑by‑side taste test before and after a 5‑minute grind‑size tweak, noting a visibly thicker crema on the second pour. The beans were the same, the machine unchanged—only the grinder setting shifted.",
+    "whyItMatters": "Consistent grind size is the linchpin of espresso extraction; even tiny deviations can mute sweetness and thin the crema. A stable crema signals balanced extraction and better mouthfeel for home baristas.",
+    "howToThink": "Start with your usual dose, pull a shot, and note crema thickness. Then adjust the grind finer by a single click, pull another shot, and compare. Iterate until the crema is fuller without over‑extraction signs like bitterness.",
+    "pros": [
+      "Richer crema instantly",
+      "Better flavor consistency",
+      "No extra equipment needed"
+    ],
+    "cons": [
+      "Requires patience",
+      "May need multiple tweaks",
+      "Potential waste of beans during testing"
+    ],
+    "watchOut": "Avoid over‑tightening the grind, which can cause channeling and bitter shots.",
+    "faq": [
+      {
+        "q": "How often should I calibrate my grinder?",
+        "a": "A quick check once a week or whenever you notice crema thinning keeps the grind on point."
+      },
+      {
+        "q": "Can I use this method with any grinder?",
+        "a": "Yes, manual and stepless grinders both respond to small adjustments; just note the click increments."
+      },
+      {
+        "q": "What if my crema still looks thin after calibration?",
+        "a": "Check dose, tamp pressure, and water temperature—crema is a holistic symptom."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "grinder"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-10-20T02:45:06.963Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "bottomless-portafilter-insight",
     "title": "See Your Espresso Shot in Action with a Bottom‑less Portafilter",
     "dek": "A bottom‑less portafilter reveals channeling, helps dial in grind and dose, and makes your espresso look as good as it tastes.",

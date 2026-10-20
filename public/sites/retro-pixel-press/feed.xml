@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Modifying TurboGrafx-16 Power Switch for Instant Starts</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-modifying-turbografx-switch.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-modifying-turbografx-switch.html</guid>
+      <pubDate>Tue, 20 Oct 2026 02:45:06 GMT</pubDate>
+      <description>Swap the original power switch for a tactile momentary type and enjoy instant boot‑up on your TurboGrafx‑16.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Upgrading NES Cartridge Connectors for Reliable Reads</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/nes-cartridge-connector-upgrade.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/nes-cartridge-connector-upgrade.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-controller-revamp-tactile-switch.html</guid>
       <pubDate>Sun, 18 Oct 2026 20:45:22 GMT</pubDate>
       <description>Upgrade your classic controller with a cheap tactile switch for crisper, more reliable button presses.</description>
-    </item>
-    <item>
-      <title>Game Boy Camera Hack: Faster Shots for Speedrun Recordings</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/game-boy-camera-hack.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/game-boy-camera-hack.html</guid>
-      <pubDate>Sun, 18 Oct 2026 19:45:06 GMT</pubDate>
-      <description>Add a lens and a pull‑up resistor to your Game Boy Camera for instant frame capture during speedrun verification.</description>
     </item>
   </channel>
 </rss>

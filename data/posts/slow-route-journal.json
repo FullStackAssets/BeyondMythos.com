@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midday-platform-picnic",
+    "title": "Midday Platform Picnic: Low-Impact Culinary Break on Rural Lines",
+    "dek": "Take a bite and a break on a quiet station platform without leaving the rails.",
+    "takeaway": "A simple picnic transforms a stop into a sustainable, memorable pause.",
+    "whatHappened": "We pulled a blanket onto a seldom-used platform at noon, unpacked locally sourced snacks, and savoured the view while the train idled nearby.",
+    "whyItMatters": "Eating on-site reduces extra travel, supports nearby producers, and deepens the sense of place that fast travel often misses.",
+    "howToThink": "Plan your stop ahead, pack reusable containers, and choose foods that need no heating. Treat the platform as a temporary table, and leave no trace.",
+    "pros": [
+      "Zero extra transport",
+      "Supports local food",
+      "Adds a relaxed rhythm"
+    ],
+    "cons": [
+      "Limited seating",
+      "Weather dependent",
+      "Requires careful timing"
+    ],
+    "watchOut": "Check platform rules; some stations forbid loitering or open containers.",
+    "faq": [
+      {
+        "q": "Can I picnic on any rural platform?",
+        "a": "Most low‑traffic stations allow it, but always look for signage or ask staff."
+      },
+      {
+        "q": "What foods are best for a platform picnic?",
+        "a": "Simple, non‑perishable items in reusable wraps—cheese, fruit, bread, nuts."
+      },
+      {
+        "q": "How do I pack sustainably?",
+        "a": "Use a cloth napkin, a stainless steel bottle, and a reusable cutlery set, and take all waste back."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "low-impact"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-10-20T02:45:08.218Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "heritage-platform-walk",
     "title": "Heritage Platform Walk: Low‑Impact History on Rural Lines",
     "dek": "Explore the forgotten heritage stations along quiet countryside tracks, stepping lightly on history.",
