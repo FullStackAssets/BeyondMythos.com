@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midday-platform-sketching",
+    "title": "Midday Platform Sketching: Low‑Impact Artistic Pause on Rural Trains",
+    "dek": "Grab a sketchpad, hop on a slow train, and turn a brief stop into a mindful drawing session.",
+    "takeaway": "A few minutes of sketching turns transit time into creative low‑impact exploration.",
+    "whatHappened": "During a recent journey on a heritage line through the valley, I disembarked at a quiet station, set up my sketchbook, and captured the passing landscape in quick pencil strokes. The pause lasted just fifteen minutes but left a lasting impression.",
+    "whyItMatters": "Slow travel thrives on turning idle moments into meaningful experiences, and sketching keeps the carbon footprint low while deepening observation. It also encourages travelers to engage with place rather than just pass through.",
+    "howToThink": "Carry a small, lightweight sketchpad and a single graphite pencil; set a timer for ten minutes at each stop. Focus on broad shapes rather than detail, and let the rhythm of the train guide your line work. Share a quick photo of the finished sketch on a community board to inspire others.",
+    "pros": [
+      "Boosts mindfulness",
+      "Zero waste activity",
+      "Enhances place awareness"
+    ],
+    "cons": [
+      "Requires basic supplies",
+      "Weather dependent",
+      "May distract from schedule"
+    ],
+    "watchOut": "Be mindful of train schedules so you don’t miss the next departure.",
+    "faq": [
+      {
+        "q": "Do I need any special art skills?",
+        "a": "No, simple line sketches work fine; the goal is observation, not mastery."
+      },
+      {
+        "q": "What kind of paper works best on a moving train?",
+        "a": "A small, sturdy sketchpad with slightly heavier paper resists smudging."
+      },
+      {
+        "q": "Can I sketch on a crowded platform?",
+        "a": "Aim for quieter stations; if it’s busy, keep sketches brief and respectful of space."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "creative",
+      "rail"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-10-20T11:45:07.132Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "morning-platform-coffee",
     "title": "Morning Platform Coffee: Low‑Impact Brew on Rural Trains",
     "dek": "Start your day with a simple, sustainable coffee ritual aboard slow trains.",

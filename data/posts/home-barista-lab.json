@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-cleaning-routine",
+    "title": "Simplify Your Espresso Machine Maintenance with a Simple Daily Clean",
+    "dek": "A quick daily routine keeps your machine humming and your shots consistent.",
+    "takeaway": "Regular light cleaning prevents buildup and preserves flavor.",
+    "whatHappened": "I noticed my espresso tasted flat after weeks of use, so I added a five‑minute end‑of‑day wipe‑down and weekly portafilter soak.",
+    "whyItMatters": "Residue and oil can clog the group head, altering pressure and flavor, leading to costly repairs if ignored.",
+    "howToThink": "Treat cleaning like a pre‑shot ritual: wipe the group, backflush with blind filter, and descale monthly if water hardness is high.",
+    "pros": [
+      "Prolongs machine life",
+      "Improves shot consistency",
+      "Low effort daily"
+    ],
+    "cons": [
+      "Requires habit formation",
+      "Mild water usage",
+      "May need occasional deeper service"
+    ],
+    "watchOut": "Avoid using abrasive cleaners on seals—they can damage the gasket.",
+    "faq": [
+      {
+        "q": "How often should I backflush my machine?",
+        "a": "Once a day for a home machine, or at least three times a week if you pull fewer shots."
+      },
+      {
+        "q": "Can I use vinegar for descaling?",
+        "a": "A mild citric acid solution works well; vinegar can leave a lingering taste if not rinsed thoroughly."
+      },
+      {
+        "q": "Do I need to clean the steam wand daily?",
+        "a": "Wipe it after each use and purge with steam weekly to prevent milk film buildup."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "Espresso",
+      "Maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-10-20T11:45:05.222Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-grinder-dose-check",
     "title": "Sharpen Your Espresso Extraction with a Simple Grinder Dose Check",
     "dek": "A quick check of your grinder’s dose can tighten shot consistency without buying new gear.",

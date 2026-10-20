@@ -1,5 +1,56 @@
 [
   {
+    "slug": "restoring-atari-2600-audio",
+    "title": "Pixel Boost: Restoring Atari 2600 Audio Output",
+    "dek": "Give your classic Atari 2600 a clean, crisp sound without swapping the whole board.",
+    "takeaway": "A simple capacitor swap revives the original tonal quality of the console’s speaker.",
+    "whatHappened": "Collectors noticed muffled buzz on their vintage Atari 2600 units after years of use. A quick teardown revealed aging electrolytic capacitors on the audio filter circuit. Replacing them with modern low‑ESR equivalents restored the expected tinny buzz and clear beeps.",
+    "whyItMatters": "Audio fidelity is part of the nostalgic experience; a degraded sound can mask subtle cues in classic games. Restoring the original output preserves both the gameplay feel and the historical integrity of the hardware for future generations.",
+    "howToThink": "When you hear distortion, suspect aging capacitors first. Use a reputable replacement with similar voltage rating, and follow the board’s polarity. Test the console after each swap to confirm the improvement before moving on.",
+    "pros": [
+      "Low cost – a few dollars for parts",
+      "Minimal soldering skill needed",
+      "Reversible if you keep the old caps"
+    ],
+    "cons": [
+      "Requires opening the console",
+      "May need a soldering iron with fine tip",
+      "Old boards can be fragile"
+    ],
+    "watchOut": "Make sure the power is fully unplugged and the capacitors are fully discharged before touching any circuitry.",
+    "faq": [
+      {
+        "q": "Do I need a multimeter to test the caps?",
+        "a": "A multimeter with capacitance mode helps, but you can usually replace them based on visual age alone."
+      },
+      {
+        "q": "Will this affect the TV output?",
+        "a": "No, the audio filter is isolated; video remains unchanged."
+      },
+      {
+        "q": "Can I use any electrolytic capacitor?",
+        "a": "Stick to the same voltage rating and a low ESR type for best results."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Audio Restoration",
+      "Atari"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-20T11:45:04.512Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-boost-recalibrating-game-boy-pocket-lcd",
     "title": "Pixel Boost: Recalibrating Game Boy Pocket LCD for Crisper Text",
     "dek": "A quick tweak to the Game Boy Pocket's LCD bias can make on‑screen text noticeably sharper without any soldering.",

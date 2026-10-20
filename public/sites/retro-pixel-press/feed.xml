@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Restoring Atari 2600 Audio Output</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/restoring-atari-2600-audio.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/restoring-atari-2600-audio.html</guid>
+      <pubDate>Tue, 20 Oct 2026 11:45:04 GMT</pubDate>
+      <description>Give your classic Atari 2600 a clean, crisp sound without swapping the whole board.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Recalibrating Game Boy Pocket LCD for Crisper Text</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-recalibrating-game-boy-pocket-lcd.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-recalibrating-game-boy-pocket-lcd.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/nes-hdmi-converter-modern-display.html</guid>
       <pubDate>Mon, 19 Oct 2026 06:45:08 GMT</pubDate>
       <description>Turn your NES into a plug‑and‑play HDMI source without opening the console.</description>
-    </item>
-    <item>
-      <title>Audio Overhaul: Installing a DAC for Crystal‑Clear SNES Sound</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/audio-overhaul-dac-snes.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/audio-overhaul-dac-snes.html</guid>
-      <pubDate>Mon, 19 Oct 2026 05:45:06 GMT</pubDate>
-      <description>Give your SNES the sound quality it deserves with a simple DAC swap.</description>
     </item>
   </channel>
 </rss>
