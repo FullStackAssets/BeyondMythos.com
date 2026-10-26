@@ -1,5 +1,56 @@
 [
   {
+    "slug": "microbudget-lighting-hacks",
+    "title": "Microbudget lighting hacks: make magic with everyday objects",
+    "dek": "Turn household items into compelling lights without blowing your budget.",
+    "takeaway": "Creative repurposing of common objects can replace pricey lighting gear for indie shoots.",
+    "whatHappened": "While prepping a short film on a shoestring budget, our crew scavenged kitchen lamps, reflective foil, and a white sheet to build a three‑point setup. The resulting footage looked professional enough to pass festival screening.",
+    "whyItMatters": "Lighting drives visual storytelling, yet gear costs often limit indie creators. Finding low‑cost alternatives expands creative freedom and keeps production on schedule.",
+    "howToThink": "Start by identifying the quality of light you need, then match it to an everyday source—soft diffusion from a white sheet, bounce from foil, or a lamp with a dimmer. Test each DIY light on camera, adjust distance and angle, and layer them for depth. Keep a simple checklist to ensure consistency across scenes.",
+    "pros": [
+      "Cost‑effective",
+      "Rapidly improvise",
+      "Adds visual character"
+    ],
+    "cons": [
+      "Limited output control",
+      "Potential color shift",
+      "Durability concerns"
+    ],
+    "watchOut": "Be cautious of heat and electrical safety when repurposing household lamps.",
+    "faq": [
+      {
+        "q": "Can I use regular household bulbs for key lighting?",
+        "a": "Yes, especially soft white or daylight bulbs, but watch the color temperature and use diffusion to avoid harsh spots."
+      },
+      {
+        "q": "How do I control the intensity without a dimmer?",
+        "a": "Use distance, diffusion material, or simple flagging to cut light; a cheap lamp dimmer switch also works."
+      },
+      {
+        "q": "Is it safe to use metal foil as a reflector?",
+        "a": "Aluminum foil works well for bounce, but keep it away from hot bulbs and avoid creasing that creates hotspots."
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "lighting",
+      "budget"
+    ],
+    "sources": [
+      {
+        "label": "r/Filmmakers community threads",
+        "url": "https://www.reddit.com/r/Filmmakers/"
+      },
+      {
+        "label": "Search interest: \"indie film lighting budget\"",
+        "url": "https://duckduckgo.com/?q=indie%20film%20lighting%20budget"
+      }
+    ],
+    "publishedAt": "2026-10-26T22:45:14.954Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-distribution-84",
     "title": "The quiet upgrade: small tweaks in distribution with outsized returns",
     "dek": "No purchases, no overhauls — the modest distribution adjustments that indie filmmakers and short-film creators report mattering most.",

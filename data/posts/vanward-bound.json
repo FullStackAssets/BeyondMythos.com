@@ -1,5 +1,56 @@
 [
   {
+    "slug": "ask-the-forge-cooking-83",
+    "title": "Ask the forge: your cooking questions, answered",
+    "dek": "Straight answers to the cooking questions van dwellers and weekend overlanders keep asking, minus the hedging.",
+    "takeaway": "Most cooking questions have boring, reliable answers. Here they are, without the two thousand words of preamble.",
+    "whatHappened": "We gathered the questions that appear weekly wherever van dwellers and weekend overlanders compare notes — the ones usually answered with \"it depends\" — and committed to actual answers with actual reasoning.",
+    "whyItMatters": "\"It depends\" is true and useless. Newcomers to cooking don't need every caveat; they need a defensible default they can adjust later.",
+    "howToThink": "Take the default, use it for a month, then earn your deviations. Customization is a reward for data, not a starting requirement.",
+    "pros": [
+      "Defaults beat decision paralysis",
+      "Reasoning shown, not just verdicts",
+      "Adjustable once you have data"
+    ],
+    "cons": [
+      "Defaults fit most, not all",
+      "Experts will quibble — always",
+      "Questions evolve; answers date"
+    ],
+    "watchOut": "Any answer that can't say what would change its mind isn't an answer — it's an identity. Ours come with conditions attached.",
+    "faq": [
+      {
+        "q": "What's the most-asked question?",
+        "a": "\"What should I buy first?\" — and the answer is almost always: nothing yet. Run the routine for two weeks first."
+      },
+      {
+        "q": "Why give defaults instead of options?",
+        "a": "Because ten options produce paralysis and one default produces feedback. You can only iterate on something you started."
+      },
+      {
+        "q": "How often do these answers change?",
+        "a": "We revisit quarterly. The fundamentals drift slowly; the gear recommendations drift fast."
+      }
+    ],
+    "category": "Cooking",
+    "tags": [
+      "Cooking",
+      "Builds"
+    ],
+    "sources": [
+      {
+        "label": "r/overlanding community threads",
+        "url": "https://www.reddit.com/r/overlanding/"
+      },
+      {
+        "label": "Search interest: \"best van life routes\"",
+        "url": "https://duckduckgo.com/?q=best%20van%20life%20routes"
+      }
+    ],
+    "publishedAt": "2026-10-26T22:45:20.074Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-routes-82",
     "title": "The quiet upgrade: small tweaks in routes with outsized returns",
     "dek": "No purchases, no overhauls — the modest routes adjustments that van dwellers and weekend overlanders report mattering most.",

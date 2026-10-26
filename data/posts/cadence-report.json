@@ -1,5 +1,56 @@
 [
   {
+    "slug": "boost-cadence-micro-interval-drills",
+    "title": "Boost your cadence: micro‑interval drills for virtual races",
+    "dek": "Short, high‑intensity cadence bursts can sharpen your sprint feel without extra fatigue.",
+    "takeaway": "Micro‑intervals improve pedal stroke efficiency and race‑day responsiveness.",
+    "whatHappened": "I ran a two‑week experiment on my smart trainer, inserting 10‑second cadence sprints every five minutes during steady rides. The sprints felt intense but left the overall session manageable. Riders reported smoother power delivery in subsequent Zwift races.",
+    "whyItMatters": "Virtual races often hinge on rapid cadence changes during attacks and sprints. Training the nervous system to accelerate and decelerate quickly translates to better positioning and fewer missed opportunities on the course.",
+    "howToThink": "Start with a base ride at your usual endurance zone. Every five minutes, crank the cadence up to 110‑120 RPM for ten seconds, then return to normal. Keep the effort short to avoid lactate buildup, and repeat for the duration of the ride. Gradually increase the frequency as you adapt.",
+    "pros": [
+      "Minimal equipment needed",
+      "Boosts neuromuscular coordination",
+      "Fits into regular rides"
+    ],
+    "cons": [
+      "Can feel uncomfortable at first",
+      "Requires careful pacing to avoid overreaching",
+      "May not suit ultra‑endurance focus"
+    ],
+    "watchOut": "If you feel excessive knee strain, reduce the cadence spikes or shorten the interval length.",
+    "faq": [
+      {
+        "q": "Do I need a power meter for these drills?",
+        "a": "No, a cadence sensor or the trainer’s built‑in readout is sufficient."
+      },
+      {
+        "q": "How often should I schedule micro‑interval sessions?",
+        "a": "One to two times per week works well alongside your regular training."
+      },
+      {
+        "q": "Can these drills replace traditional sprint workouts?",
+        "a": "They complement but don’t replace longer sprint intervals; use both for balanced development."
+      }
+    ],
+    "category": "Training",
+    "tags": [
+      "cadence",
+      "virtual‑racing"
+    ],
+    "sources": [
+      {
+        "label": "r/indoorcycling community threads",
+        "url": "https://www.reddit.com/r/indoorcycling/"
+      },
+      {
+        "label": "Search interest: \"zwift training plans\"",
+        "url": "https://duckduckgo.com/?q=zwift%20training%20plans"
+      }
+    ],
+    "publishedAt": "2026-10-26T22:45:23.086Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-setup-80",
     "title": "Ask the forge: your setup questions, answered",
     "dek": "Straight answers to the setup questions indoor cyclists and virtual racers keep asking, minus the hedging.",

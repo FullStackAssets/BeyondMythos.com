@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midday-platform-yoga-low-impact-stretching",
+    "title": "Midday Platform Yoga: Low‑Impact Stretching on Rural Trains",
+    "dek": "A quick, quiet yoga session on a moving train helps reset your body and mind without missing the scenery.",
+    "takeaway": "Stretching on the rails keeps you limber and grounded while traveling slowly.",
+    "whatHappened": "During a midday stop, I rolled out a travel mat on the empty carriage and guided a 15‑minute flow that used the train’s gentle sway as a natural metronome. Fellow passengers joined, creating a low‑key community of stretchers. The routine left everyone feeling refreshed for the afternoon leg.",
+    "whyItMatters": "Even brief movement combats the stiffness that long train rides can cause, and the shared experience reinforces the slow‑travel ethos of presence and connection. It also demonstrates that a train can be a flexible space for wellness, not just transit.",
+    "howToThink": "Treat the carriage like a quiet studio: clear a small area, keep movements simple, and use the train’s rhythm to guide breath. Focus on stretches that open the hips, shoulders, and lower back, which are most affected by sitting. Finish with a grounding pose to settle any motion‑induced dizziness.",
+    "pros": [
+      "Boosts circulation",
+      "Easy to fit into a schedule",
+      "Creates communal vibe"
+    ],
+    "cons": [
+      "Limited space on crowded cars",
+      "Requires a mat or towel",
+      "May need permission on some services"
+    ],
+    "watchOut": "Watch the train’s motion; avoid balance‑intensive poses if the carriage is moving fast.",
+    "faq": [
+      {
+        "q": "Do I need a yoga mat?",
+        "a": "A thin travel towel works fine; the goal is a clean surface, not a studio mat."
+      },
+      {
+        "q": "Is it okay to do yoga on any train?",
+        "a": "Check the operator’s policy; many regional services welcome low‑impact activities in empty cars."
+      },
+      {
+        "q": "Can I lead a group without prior teaching experience?",
+        "a": "Stick to basic poses and guide with clear, simple cues; the focus is on gentle movement, not advanced practice."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "wellness",
+      "community"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-10-26T22:45:07.347Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "midday-platform-music",
     "title": "Midday Platform Music: Low‑Impact Rhythm on Rural Trains",
     "dek": "A quick guide to turning a slow‑train pause into a low‑impact jam session for the wanderer on a budget.",

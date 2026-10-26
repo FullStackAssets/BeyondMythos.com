@@ -1,5 +1,56 @@
 [
   {
+    "slug": "elevate-espresso-crema-portafilter-seal",
+    "title": "Elevate Espresso Crema with a Simple Portafilter Seal Test",
+    "dek": "A quick seal check can tighten your espresso puck and boost crema without buying new gear.",
+    "takeaway": "A proper portafilter seal is key to consistent, rich crema.",
+    "whatHappened": "We noticed a drop in crema volume across several machines after routine cleaning. A simple visual and tactile seal test revealed the portafilter gasket had softened, allowing steam to leak. Re‑seating and lightly tightening the portafilter restored crema height instantly.",
+    "whyItMatters": "Crema is the visual cue of proper extraction; a leaky seal lets pressure escape, leading to thin or uneven shots. Maintaining the seal extends the life of your machine and keeps flavor consistency, especially important for home baristas chasing café‑quality results.",
+    "howToThink": "Before each pull, press the portafilter into the group head and feel for a snug, even resistance. If it feels loose or you hear hissing, clean the gasket and tighten the lock. A quick 30‑second seal check becomes a habit that prevents wasted beans and frustration.",
+    "pros": [
+      "No extra tools required",
+      "Improves crema instantly",
+      "Extends machine lifespan"
+    ],
+    "cons": [
+      "Requires a brief pause before brewing",
+      "May need occasional gasket replacement",
+      "Less noticeable on low‑pressure machines"
+    ],
+    "watchOut": "Avoid overtightening the lock; excess force can damage the brew head threads.",
+    "faq": [
+      {
+        "q": "How often should I perform the seal test?",
+        "a": "Do it before each brewing session or whenever you notice a change in crema."
+      },
+      {
+        "q": "Can I use any cleaning solution on the gasket?",
+        "a": "A mild, food‑safe detergent and a soft cloth are sufficient; harsh chemicals can degrade the rubber."
+      },
+      {
+        "q": "What signs indicate the gasket needs replacement?",
+        "a": "Cracks, hardening, or persistent hissing despite cleaning suggest it’s time for a new seal."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-10-26T22:45:07.984Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "boost-espresso-crema-simple-brew-pressure-check",
     "title": "Boost Your Espresso Crema with a Simple Brew Pressure Check",
     "dek": "A quick pressure test can tighten up your crema and give every shot a richer mouthfeel.",

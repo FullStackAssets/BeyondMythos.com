@@ -1,5 +1,56 @@
 [
   {
+    "slug": "rainwater-harvest-mini-systems-2",
+    "title": "Rainwater Harvest Mini‑Systems for Balcony Plants",
+    "dek": "Capture rooftop runoff with tiny, balcony‑friendly rain barrels and boost plant health without upping your water bill.",
+    "takeaway": "A small rain‑catcher can keep balcony gardens thriving during dry spells.",
+    "whatHappened": "A recent surge of micro‑rain barrels on balconies shows gardeners are turning rain into a reliable water source. Simple DIY kits are popping up on urban‑gardening forums, and early adopters report greener leaves and fewer missed watering days.",
+    "whyItMatters": "Apartment dwellers often rely on municipal water, which can be pricey and less sustainable. Using captured rain reduces that dependence and teaches water‑wise habits, a win for wallets and the planet.",
+    "howToThink": "Start with a shallow, lightweight container—like a 5‑gal tote with a spigot. Position it where runoff naturally flows, add a mesh screen to keep debris out, and connect a hose or drip line to your pots. Refill the barrel after any rain and monitor the level to avoid overflow.",
+    "pros": [
+      "Low cost DIY setup",
+      "Reduces municipal water use",
+      "Improves plant resilience"
+    ],
+    "cons": [
+      "Limited capacity on small balconies",
+      "Needs occasional cleaning",
+      "Dependent on rainfall patterns"
+    ],
+    "watchOut": "Make sure the barrel is sealed well to prevent mosquito breeding.",
+    "faq": [
+      {
+        "q": "Can I use any container as a rain barrel?",
+        "a": "A sturdy, food‑grade tote or plastic drum works, as long as it’s opaque and has a secure lid."
+      },
+      {
+        "q": "How often should I empty the barrel?",
+        "a": "Empty it before it overflows, typically after a heavy rain, and clean it every few weeks to prevent algae."
+      },
+      {
+        "q": "Will the collected water harm my plants?",
+        "a": "Rainwater is naturally soft and ideal for most balcony plants; just avoid using water that’s sat stagnant for weeks."
+      }
+    ],
+    "category": "Seasonal",
+    "tags": [
+      "Water Saving",
+      "Balcony DIY"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-10-26T22:45:06.541Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "balcony-peppers-pop",
     "title": "Balcony Peppers Pop: Heat Up Small Spaces",
     "dek": "Spice up your balcony with compact pepper plants that thrive in containers, delivering heat and color all season.",

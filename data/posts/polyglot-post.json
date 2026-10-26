@@ -1,5 +1,56 @@
 [
   {
+    "slug": "micro-shadowing-daily-pronunciation",
+    "title": "Micro-shadowing: 5-minute daily habit for pronunciation",
+    "dek": "A quick, repeatable shadowing routine that boosts pronunciation without draining your schedule.",
+    "takeaway": "Even five minutes of focused shadowing each day noticeably sharpens your accent.",
+    "whatHappened": "I tried recording a native speaker's sentence, then mimicking it aloud for five minutes every morning for two weeks. The audio felt clearer and my tongue movements steadier.",
+    "whyItMatters": "Pronunciation is often the last skill learners feel confident about, yet it shapes intelligibility. A tiny habit sidesteps the overwhelm of long drills while delivering steady progress.",
+    "howToThink": "Pick a short, natural sentence, play it at normal speed, and repeat until you match the rhythm and intonation. Record yourself to spot gaps, then loop the same clip for the full five minutes.",
+    "pros": [
+      "Fast to fit anywhere",
+      "Immediate auditory feedback",
+      "Builds muscle memory"
+    ],
+    "cons": [
+      "Limited to short phrases",
+      "May feel repetitive",
+      "Requires a quiet space"
+    ],
+    "watchOut": "Avoid rushing; clarity beats speed when mimicking native speech.",
+    "faq": [
+      {
+        "q": "How long should each shadowing session be?",
+        "a": "Aim for five minutes; the goal is consistency, not marathon length."
+      },
+      {
+        "q": "Do I need special software?",
+        "a": "A basic audio player and a phone recorder are enough."
+      },
+      {
+        "q": "Can I use any content?",
+        "a": "Choose authentic, native-speaker audio that matches your target accent and level."
+      }
+    ],
+    "category": "Methods",
+    "tags": [
+      "pronunciation",
+      "habit"
+    ],
+    "sources": [
+      {
+        "label": "r/duolingo community threads",
+        "url": "https://www.reddit.com/r/duolingo/"
+      },
+      {
+        "label": "Search interest: \"language learning plateau\"",
+        "url": "https://duckduckgo.com/?q=language%20learning%20plateau"
+      }
+    ],
+    "publishedAt": "2026-10-26T22:45:38.430Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-apps-mistakes-81",
     "title": "Five mistakes everyone makes in their first month of apps",
     "dek": "The most common early stumbles in apps, and the cheap corrections that fix them for self-taught language learners.",

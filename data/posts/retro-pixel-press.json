@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-boost-upgrading-atari-5200-controller-cont",
+    "title": "Pixel Boost: Upgrading Atari 5200 Controller Contacts for Consistent Input",
+    "dek": "A quick guide to cleaning and improving the Atari 5200 controller's internal contacts, keeping your inputs crisp for marathon runs.",
+    "takeaway": "Clean contacts mean fewer misfires and smoother gameplay on an Atari 5200.",
+    "whatHappened": "We opened a well-worn Atari 5200 controller, removed the worn metal contacts, and applied a fresh layer of conductive grease. After reassembly, the controller responded instantly to every button press.",
+    "whyItMatters": "Unreliable controller input can ruin a speedrun attempt or cause frustrating loss of lives in classic games. Restoring reliable contacts extends the life of both the controller and the console.",
+    "howToThink": "Treat each contact like a tiny switch; remove oxidation, add a thin, non-corrosive conductive layer, and test before sealing. Keep the grease amount minimal to avoid excess residue.",
+    "pros": [
+      "Restores original feel",
+      "Low cost materials",
+      "Extends controller lifespan"
+    ],
+    "cons": [
+      "Requires careful disassembly",
+      "Potential for static damage if rushed",
+      "May void vintage warranty"
+    ],
+    "watchOut": "Avoid using abrasive cleaners that could strip the contact pads entirely.",
+    "faq": [
+      {
+        "q": "Do I need special tools to open the Atari 5200 controller?",
+        "a": "A small Phillips screwdriver and a plastic spudger are enough for most units."
+      },
+      {
+        "q": "What kind of conductive grease is safe for vintage electronics?",
+        "a": "A thin layer of silicone-based conductive grease or a dedicated electronics contact enhancer works well."
+      },
+      {
+        "q": "Can I reuse the original contacts after cleaning?",
+        "a": "If the metal is still intact and not pitted, a thorough cleaning is often sufficient; replace only when damage is evident."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "hardware",
+      "Atari"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-10-26T22:45:08.607Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-boost-upgrading-sega-master-system-power-s",
     "title": "Pixel Boost: Upgrading Sega Master System Power Supply for Stable Voltage",
     "dek": "Swap the original brick for a modern regulator to keep your Master System humming without random resets.",

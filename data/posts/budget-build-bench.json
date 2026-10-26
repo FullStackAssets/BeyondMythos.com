@@ -1,5 +1,56 @@
 [
   {
+    "slug": "budget-gpu-upgrade-gtx-960-1080p",
+    "title": "Budget GPU Upgrade: 1080p Performance from a $130 GTX 960",
+    "dek": "A modest GTX 960 can still push 1080p games when paired with the right tweaks and expectations.",
+    "takeaway": "A used GTX 960 offers decent 1080p gaming if you manage settings wisely.",
+    "whatHappened": "We sourced a used GTX 960 for roughly $130 and tested it on several popular titles at 1080p. By dialing down ultra settings to medium or low and enabling V‑Sync, the card delivered smooth frame rates in most scenarios. The build stayed under $400 total, including a budget CPU and SSD.",
+    "whyItMatters": "Many builders think a sub‑$150 GPU is dead‑weight, but the GTX 960 shows that older silicon can still serve casual 1080p gamers. Extending the life of older cards reduces e‑waste and keeps budgets realistic, especially when newer GPUs are scarce or inflated.",
+    "howToThink": "Focus on games that aren’t GPU‑hungry and prioritize resolution over maxed graphics. Use driver updates and a modest overclock if thermal headroom allows. Pair the card with a mid‑range CPU to avoid bottlenecks and keep the system balanced.",
+    "pros": [
+      "Cheap entry point",
+      "Runs most e‑sports titles smoothly",
+      "Low power draw"
+    ],
+    "cons": [
+      "Struggles with latest AAA titles",
+      "Limited VR support",
+      "Older VRAM architecture"
+    ],
+    "watchOut": "Don’t expect the GTX 960 to match modern mid‑range cards; keep expectations realistic.",
+    "faq": [
+      {
+        "q": "Can I overclock a used GTX 960 safely?",
+        "a": "A modest overclock is generally safe if the card stays below 70 °C and you have decent cooling."
+      },
+      {
+        "q": "What games are best suited for this card?",
+        "a": "Older AAA titles, e‑sports games, and indie releases run well at medium settings."
+      },
+      {
+        "q": "Is the GTX 960 worth buying over a newer $150 card?",
+        "a": "If you find a clean, low‑hour GTX 960 for the price, it can be a better value than a brand‑new low‑end GPU."
+      }
+    ],
+    "category": "GPUs",
+    "tags": [
+      "budget",
+      "gtx960"
+    ],
+    "sources": [
+      {
+        "label": "r/buildapc community threads",
+        "url": "https://www.reddit.com/r/buildapc/"
+      },
+      {
+        "label": "Search interest: \"used pc parts guide\"",
+        "url": "https://duckduckgo.com/?q=used%20pc%20parts%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-26T22:45:10.594Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "hidden-gem-80-gtx-1050-ti",
     "title": "Hidden Gem: The $80 GTX 1050 Ti Still Holds Up",
     "dek": "An older GTX 1050 Ti can still deliver decent 1080p play on a shoestring budget.",

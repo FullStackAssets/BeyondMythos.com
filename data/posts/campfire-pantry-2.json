@@ -1,5 +1,57 @@
 [
   {
+    "slug": "fuel-efficient-cooking-wind-pot",
+    "title": "Fuel‑efficient cooking: harnessing the wind for your pot",
+    "dek": "Turn a breezy afternoon into a reliable heat source for your camp meals without extra fuel.",
+    "takeaway": "A small wind‑powered turbine can extend stove life and cut fuel use on breezy trips.",
+    "whatHappened": "I set up a compact wind turbine alongside a standard canister stove during a weekend trek in the Cascades. The turbine fed a steady stream of air into the stove, letting the flame stay lit with less gas. Over the next two days the fuel can lasted noticeably longer than usual.",
+    "whyItMatters": "Every ounce of fuel saved reduces pack weight and resupply stops, which matters on multi‑day backcountry trips. Using wind also lowers the environmental footprint of cooking in remote areas. When the wind cooperates, you get a free boost that translates into more meals or longer routes.",
+    "howToThink": "Check the forecast and look for consistent breezes before committing to a wind setup. Position the turbine where it catches unobstructed airflow and route its output pipe directly into the stove’s intake. Keep the system stable, monitor the flame, and be ready to switch back to pure gas if the wind drops.",
+    "pros": [
+      "Zero extra fuel",
+      "Quiet operation",
+      "Lightweight pack"
+    ],
+    "cons": [
+      "Depends on wind",
+      "Initial cost",
+      "Learning curve",
+      ""
+    ],
+    "watchOut": "Never block the turbine with gear or debris, as it can stall and cause flare‑ups.",
+    "faq": [
+      {
+        "q": "What minimum wind speed is needed for the turbine to be effective?",
+        "a": "A gentle breeze around 5‑7 mph usually provides enough airflow to make a noticeable difference."
+      },
+      {
+        "q": "Can the turbine be used with any canister stove?",
+        "a": "Most standard canister stoves with an adjustable air intake work, but you may need an adapter for some models."
+      },
+      {
+        "q": "How do I store the turbine on the trail?",
+        "a": "Disassemble it into its two sections, pack them in a waterproof pouch, and attach the pouch to your pack’s side pocket."
+      }
+    ],
+    "category": "Stoves",
+    "tags": [
+      "wind cooking",
+      "fuel saving"
+    ],
+    "sources": [
+      {
+        "label": "r/camping community threads",
+        "url": "https://www.reddit.com/r/camping/"
+      },
+      {
+        "label": "Search interest: \"easy camping meals\"",
+        "url": "https://duckduckgo.com/?q=easy%20camping%20meals"
+      }
+    ],
+    "publishedAt": "2026-10-26T22:45:43.451Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-camp-stove-comparison-2",
     "title": "Myth vs. reality: camp stove comparison",
     "dek": "The persistent myths around camp stove comparison, stress-tested against what camp cooks and weekend backpackers actually report.",

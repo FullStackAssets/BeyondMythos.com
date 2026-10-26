@@ -1,5 +1,56 @@
 [
   {
+    "slug": "five-emulation-mistakes-5",
+    "title": "Five mistakes everyone makes in their first month of emulation",
+    "dek": "The most common early stumbles in emulation, and the cheap corrections that fix them for retro computer restorers and emulation fans.",
+    "takeaway": "Month-one mistakes in emulation are nearly universal — and nearly all reversible if you catch them early.",
+    "whatHappened": "We combed the recurring \"what did I do wrong\" threads that retro computer restorers and emulation fans post and the same five emulation mistakes appear over and over: buying before learning, copying advanced setups, skipping the log, chasing novelty, and quitting during the boring middle.",
+    "whyItMatters": "Each of these mistakes feels productive while you're making it. That's why they persist — and why naming them explicitly saves newcomers weeks of stalled progress in emulation.",
+    "howToThink": "Audit yourself against the list once a month. The point isn't guilt — it's that every one of these has a five-minute correction if you notice it early enough.",
+    "pros": [
+      "Each mistake has a cheap fix",
+      "Recognition is most of the cure",
+      "Applies at any experience level"
+    ],
+    "cons": [
+      "Easy to nod along and change nothing",
+      "Some mistakes feel like progress",
+      "Lists can't replace a habit"
+    ],
+    "watchOut": "The most expensive version of every month-one mistake is the one you rationalize as \"investing in the hobby.\"",
+    "faq": [
+      {
+        "q": "Which mistake costs the most?",
+        "a": "Buying before learning — it converts enthusiasm into clutter and guilt instead of skill."
+      },
+      {
+        "q": "I already made all five. Now what?",
+        "a": "Good news: so did everyone else. Pick the one currently costing you the most and fix only that."
+      },
+      {
+        "q": "How do I avoid new mistakes?",
+        "a": "Keep the log. Most errors are invisible until they're written down."
+      }
+    ],
+    "category": "Emulation",
+    "tags": [
+      "Emulation",
+      "Upgrades"
+    ],
+    "sources": [
+      {
+        "label": "r/vintagecomputing community threads",
+        "url": "https://www.reddit.com/r/vintagecomputing/"
+      },
+      {
+        "label": "Search interest: \"best emulation setup\"",
+        "url": "https://duckduckgo.com/?q=best%20emulation%20setup"
+      }
+    ],
+    "publishedAt": "2026-10-26T22:45:41.533Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "recap-vintage-computer-field-test-2",
     "title": "\"recap vintage computer\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about recap vintage computer through a month of actual use. Some of it survived.",
