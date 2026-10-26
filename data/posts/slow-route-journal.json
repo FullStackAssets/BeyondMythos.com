@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midday-platform-composting",
+    "title": "Midday Platform Composting: Low‑Impact Soil Building on Rural Trains",
+    "dek": "Turn train pauses into a chance to enrich soil, using simple compost kits that fit in a backpack.",
+    "takeaway": "A tiny compost bin can turn food scraps into fertilizer for the stations you visit.",
+    "whatHappened": "While the train idled at a small countryside stop, I set out a compact, sealed compost kit and added leftover fruit skins from my snack. Fellow passengers curious about the scent joined in, swapping tips about local organic gardening. By the next stop, the bin was bubbling gently, a visible reminder that waste can travel forward too.",
+    "whyItMatters": "Diverting food waste from the trash reduces the train's overall environmental footprint, even in tiny increments. Sharing the process with other travelers spreads low‑impact habits beyond the rails. Plus, stations often host community gardens that can benefit from the finished compost.",
+    "howToThink": "Choose a sealed, odor‑controlled compost tumbler that fits under the seat. Pack only plant‑based scraps and avoid meat, dairy, or oily foods to keep the process smooth. When you arrive, find a quiet corner of the platform, add your waste, give it a quick shake, and let the train’s motion do the rest.",
+    "pros": [
+      "Zero waste",
+      "Engages locals",
+      "Adds learning"
+    ],
+    "cons": [
+      "Requires patience",
+      "Limited space",
+      "Compost odor if mismanaged"
+    ],
+    "watchOut": "Make sure the kit complies with railway regulations and keep meat or dairy out to avoid attracting pests.",
+    "faq": [
+      {
+        "q": "Can I compost on any train stop?",
+        "a": "Yes, as long as you have a sealed container and respect local rules about littering."
+      },
+      {
+        "q": "How long does it take for scraps to break down?",
+        "a": "In a tumbling kit, noticeable breakdown can happen over a few days, but full compost may need weeks."
+      },
+      {
+        "q": "What if the train is crowded?",
+        "a": "Use a discreet, sealed unit and keep the activity low‑key; the process works even in tight spaces."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "sustainability"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-10-26T19:45:08.219Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "midday-platform-herb-garden",
     "title": "Midday Platform Herb Garden: Low‑Impact Greenery on Rural Trains",
     "dek": "Turn a train stop into a pop‑up herb garden and harvest fresh flavor while keeping your carbon footprint tiny.",

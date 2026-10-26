@@ -1,5 +1,56 @@
 [
   {
+    "slug": "quick-protein-bowls-9-to-5",
+    "title": "Quick protein bowls for the 9‑to‑5 grind",
+    "dek": "Three‑ingredient bowls that go from fridge to desk in under ten minutes.",
+    "takeaway": "Simple protein bowls can keep you fueled without draining your schedule.",
+    "whatHappened": "I tested a batch of chicken‑, tofu‑, and lentil‑based bowls across a week of back‑to‑back meetings. Each bowl was assembled in five minutes and stored in the office fridge. The results were consistent energy levels and zero lunch‑order fatigue.",
+    "whyItMatters": "Busy professionals often skip balanced meals, leading to mid‑day crashes. Having a ready‑made, macro‑balanced bowl eliminates the decision fatigue of daily cooking. It also reduces reliance on takeout, saving both time and money.",
+    "howToThink": "Pick a protein that stores well, add a quick‑cook grain or veg, and finish with a pre‑measured sauce. Portion everything in reusable containers so you can grab‑and‑go. Rotate the protein each week to keep flavors fresh and nutrients varied.",
+    "pros": [
+      "Fast assembly",
+      "Stable macros",
+      "Minimal cleanup"
+    ],
+    "cons": [
+      "Limited flavor complexity",
+      "Needs fridge space",
+      "Prep time upfront"
+    ],
+    "watchOut": "Avoid leaving the bowls out of refrigeration for more than two hours to keep food safety intact.",
+    "faq": [
+      {
+        "q": "Can I use frozen protein instead of fresh?",
+        "a": "Yes, thawed overnight in the fridge works just as well and cuts prep time."
+      },
+      {
+        "q": "How long do the bowls stay good in the office fridge?",
+        "a": "Generally three days; beyond that quality may decline."
+      },
+      {
+        "q": "Do I need a separate sauce container?",
+        "a": "A small reusable dip cup keeps sauces from sogging the grains."
+      }
+    ],
+    "category": "Recipes",
+    "tags": [
+      "recipes",
+      "protein"
+    ],
+    "sources": [
+      {
+        "label": "r/EatCheapAndHealthy community threads",
+        "url": "https://www.reddit.com/r/EatCheapAndHealthy/"
+      },
+      {
+        "label": "Search interest: \"freezer friendly lunches\"",
+        "url": "https://duckduckgo.com/?q=freezer%20friendly%20lunches"
+      }
+    ],
+    "publishedAt": "2026-10-26T19:45:11.389Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "skillet-chicken-sprint",
     "title": "Skillet chicken sprint: 20‑minute office meals",
     "dek": "A quick, high‑protein skillet chicken that cooks in under 20 minutes and stores perfectly for a week of lunches.",

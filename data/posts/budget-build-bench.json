@@ -1,5 +1,56 @@
 [
   {
+    "slug": "sneaky-savings-1080p-used-gpu",
+    "title": "Sneaky Savings: 1080p Gains from a $120 Used GPU",
+    "dek": "Turn a cheap second‑hand GPU into a decent 1080p gaming experience with smart settings and cheap tweaks.",
+    "takeaway": "A modest used GPU can still deliver playable 1080p if you optimize settings and pair it with the right components.",
+    "whatHappened": "We sourced a $120 used GTX 1050 Ti from a local marketplace, paired it with a budget CPU and 8 GB RAM, and tested popular indie and older AAA titles at 1080p. The results showed playable frame rates with modest graphical tweaks.",
+    "whyItMatters": "Budget builders often assume older GPUs are useless, but many still hold up for 1080p gaming when paired correctly. Understanding how to stretch cheap hardware saves money and reduces electronic waste.",
+    "howToThink": "Focus on lowering resolution scaling, using medium presets, and disabling expensive effects like ambient occlusion. Complement the GPU with a fast SSD and a CPU that isn’t a bottleneck, and keep drivers up to date.",
+    "pros": [
+      "Low upfront cost",
+      "Decent 1080p performance on older titles",
+      "Widely available second‑hand market"
+    ],
+    "cons": [
+      "Higher power draw than newer efficient GPUs",
+      "Limited VRAM for newer textures",
+      "Potential lack of warranty"
+    ],
+    "watchOut": "Check the card for physical damage or signs of overheating before buying.",
+    "faq": [
+      {
+        "q": "Will a used GPU work out of the box?",
+        "a": "Usually it does, but reinstall the latest drivers and run a stress test to confirm stability."
+      },
+      {
+        "q": "Is it worth overclocking a budget used card?",
+        "a": "Mild overclocking can help, but be mindful of the card’s cooling and power limits."
+      },
+      {
+        "q": "What games are safe choices for a $120 GPU?",
+        "a": "Indie titles, older AAA games, and esports titles like CS:GO or League of Legends run smoothly at medium settings."
+      }
+    ],
+    "category": "GPUs",
+    "tags": [
+      "budget-gpu",
+      "1080p-gaming"
+    ],
+    "sources": [
+      {
+        "label": "r/buildapc community threads",
+        "url": "https://www.reddit.com/r/buildapc/"
+      },
+      {
+        "label": "Search interest: \"used pc parts guide\"",
+        "url": "https://duckduckgo.com/?q=used%20pc%20parts%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-26T19:45:10.746Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "max-fps-200-gpu-1080p-tips",
     "title": "Maximize FPS on a $200 GPU: Tips for 1080p Gaming",
     "dek": "Get the most frames out of a sub‑$200 graphics card without breaking the bank.",

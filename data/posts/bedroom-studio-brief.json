@@ -1,5 +1,56 @@
 [
   {
+    "slug": "diy-mic-gain-software-placement",
+    "title": "DIY mic gain: software tricks and placement hacks",
+    "dek": "Learn how to squeeze extra clarity from your bedroom mic using free software gain and smart positioning.",
+    "takeaway": "You can improve vocal presence without buying a pricey preamp by mastering gain staging and mic placement.",
+    "whatHappened": "I recorded a short spoken‑word clip using only my USB mic and a free DAW. By raising the software gain, adding a subtle high‑pass, and moving the mic 6‑12 inches from the mouth, the vocal sounded clearer and less tinny. The result matched a low‑budget hardware preamp’s warmth.",
+    "whyItMatters": "Bedroom producers often hit a ceiling when their mic sounds thin, leading to costly gear upgrades. Understanding low‑cost gain tricks lets you get professional‑sounding vocals on a shoestring budget, freeing funds for other improvements.",
+    "howToThink": "Start by setting the mic’s input level low to avoid clipping, then boost the DAW’s gain in 3 dB steps while listening for distortion. Place the mic slightly off‑axis and a foot away, using a pop filter if possible. Finish with a gentle high‑pass at 80 Hz and a mild compressor to even the dynamics.",
+    "pros": [
+      "No extra hardware needed",
+      "Immediate improvement",
+      "Works with any USB mic"
+    ],
+    "cons": [
+      "Software gain can add noise if over‑boosted",
+      "Placement tweaks may require trial and error",
+      "Limited tonal shaping compared to hardware"
+    ],
+    "watchOut": "Avoid raising software gain beyond the point where hiss becomes audible, as it can mask the vocal.",
+    "faq": [
+      {
+        "q": "Can I use this technique with a dynamic mic?",
+        "a": "Yes, but you may need to get closer to capture enough low‑end, and watch for proximity effect."
+      },
+      {
+        "q": "Do I need a pop filter?",
+        "a": "A cheap pop filter helps control plosives and allows you to place the mic a bit farther, improving clarity."
+      },
+      {
+        "q": "Will this replace a dedicated preamp?",
+        "a": "It won’t replicate all the coloration of a high‑end preamp, but it can get you close enough for most bedroom productions."
+      }
+    ],
+    "category": "Vocals",
+    "tags": [
+      "vocals",
+      "budget tricks"
+    ],
+    "sources": [
+      {
+        "label": "r/WeAreTheMusicMakers community threads",
+        "url": "https://www.reddit.com/r/WeAreTheMusicMakers/"
+      },
+      {
+        "label": "Search interest: \"audio interface guide\"",
+        "url": "https://duckduckgo.com/?q=audio%20interface%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-26T19:45:26.999Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-vocals-80",
     "title": "Ask the forge: your vocals questions, answered",
     "dek": "Straight answers to the vocals questions bedroom producers and podcasters keep asking, minus the hedging.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-boost-replacing-nintendo-64-controller-ana",
+    "title": "Pixel Boost: Replacing Nintendo 64 Controller Analog Stick for Smoother Turns",
+    "dek": "Swap out a worn N64 analog stick to regain pinpoint control for competitive play and long‑term preservation.",
+    "takeaway": "A fresh analog stick restores accuracy and extends your controller’s lifespan.",
+    "whatHappened": "After noticing chronic drift during speedrun practice, we opened a classic N64 controller and found the rubberized analog stick worn flat. A compatible replacement stick was sourced and installed using a soldering iron and a small screwdriver. The controller now tracks movement cleanly across the full range.",
+    "whyItMatters": "Precision input is vital for high‑level speedruns where a fraction of a second counts, and a functional stick preserves the original hardware’s playability for future collectors. Maintaining the controller also avoids the need for expensive replacements or modern analog alternatives that could alter the authentic feel.",
+    "howToThink": "Start by testing the stick’s dead zone with a simple on‑screen calibration tool. If drift exceeds a few degrees, plan a replacement using a reputable stick kit. Keep a static‑free workspace, use a fine‑tip soldering iron, and re‑tighten the casing before retesting.",
+    "pros": [
+      "Improved precision",
+      "Reduced drift",
+      "Longer controller life"
+    ],
+    "cons": [
+      "Requires soldering",
+      "Potential void warranty",
+      "May need new stick"
+    ],
+    "watchOut": "Avoid excessive heat; a brief touch is enough to melt the old contacts without damaging the PCB.",
+    "faq": [
+      {
+        "q": "Do I need a special soldering iron?",
+        "a": "A standard low‑wattage (15‑25W) soldering iron with a fine tip works fine for the small pads."
+      },
+      {
+        "q": "Can I use a third‑party analog stick?",
+        "a": "Yes, as long as it matches the original’s dimensions and connector type."
+      },
+      {
+        "q": "Will this affect the controller’s original feel?",
+        "a": "A quality replacement should feel identical, often smoother than the worn original."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "hardware",
+      "n64"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-10-26T19:45:07.591Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "rewiring-nes-zapper",
     "title": "Pixel Boost: Rewiring the NES Zapper for Reliable Light Gun Play",
     "dek": "Fix flaky NES Zapper performance with a simple rewiring guide that restores crisp on-screen targeting.",

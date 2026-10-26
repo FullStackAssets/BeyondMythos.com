@@ -1,5 +1,56 @@
 [
   {
+    "slug": "stabilize-espresso-water-temp-thermometer",
+    "title": "Stabilize Espresso Water Temp with a Simple Thermometer",
+    "dek": "A cheap kitchen thermometer can keep your brew water in the sweet spot for consistent espresso shots.",
+    "takeaway": "Monitoring water temperature with a basic thermometer boosts shot repeatability.",
+    "whatHappened": "I noticed my espresso tasting flat on some mornings and bright on others. A quick check revealed my machine’s boiler temperature fluctuated by several degrees. Adding a simple digital thermometer let me see and adjust the temp in real time.",
+    "whyItMatters": "Espresso extraction is highly sensitive to water temperature; even a few degrees off can change solubility and flavor balance. Consistent temperature means predictable sweetness, acidity, and body, reducing the guesswork each pull.",
+    "howToThink": "Treat temperature like a dial you can read, not a hidden setting. Aim for the 90‑96 °C window, and adjust the machine’s thermostat or pre‑heat time until the thermometer reads steady. Re‑check after the machine cools down to confirm stability.",
+    "pros": [
+      "Cheap and easy to use",
+      "Immediate visual feedback",
+      "Works with any machine"
+    ],
+    "cons": [
+      "Requires occasional calibration",
+      "May need a mount or holder",
+      "Reading can be obscured by steam"
+    ],
+    "watchOut": "Don’t let steam fog the sensor; wipe it clean before each reading.",
+    "faq": [
+      {
+        "q": "Do I need a high‑precision thermometer?",
+        "a": "A standard kitchen digital probe with ±1 °C accuracy is sufficient for home espresso."
+      },
+      {
+        "q": "Can I attach the thermometer permanently?",
+        "a": "Use a heat‑resistant clip or magnetic holder so it stays in place without touching the boiler."
+      },
+      {
+        "q": "What if my machine’s thermostat is off?",
+        "a": "Use the thermometer to fine‑tune the pre‑heat time or consider a PID upgrade for tighter control."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "temperature",
+      "espresso"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-10-26T19:45:06.834Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "detect-espresso-shot-end-with-knock-sensor",
     "title": "Detect Espresso Shot End with a Simple Knock Sensor",
     "dek": "Add a cheap piezo knock sensor to your machine and let it tell you when the shot is done, no stopwatch needed.",

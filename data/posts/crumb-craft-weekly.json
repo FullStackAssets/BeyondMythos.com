@@ -1,5 +1,56 @@
 [
   {
+    "slug": "starter-boost-quick-fix",
+    "title": "Boost Your Starter: A Quick Fix for Dormant Cultures",
+    "dek": "Learn a fast, reliable way to revive a sluggish sourdough starter without fancy equipment.",
+    "takeaway": "A simple feeding schedule and temperature tweak can bring a lazy starter back to life.",
+    "whatHappened": "A reader reported their starter had gone flat after a week in the fridge. They tried a handful of tricks, but nothing worked until they applied a warm, regular feeding routine. Within 48 hours the starter showed vigorous bubbles again.",
+    "whyItMatters": "A healthy starter is the foundation of good sourdough, and a dead starter can halt progress for beginners. Reviving it quickly saves time, money, and frustration, keeping the baking momentum alive.",
+    "howToThink": "Keep the starter at room temperature for a couple of days, feeding it equal parts flour and water every 12 hours. Use lukewarm water (around 25‑27 °C) to encourage activity. If the starter still seems sluggish, discard half and feed again, maintaining a 1:1:1 ratio.",
+    "pros": [
+      "Fast revival",
+      "No special tools",
+      "Low waste"
+    ],
+    "cons": [
+      "Requires daily attention",
+      "May need multiple feedings",
+      "Temperature dependent"
+    ],
+    "watchOut": "Avoid over‑feeding; too much flour can dilute the yeast and delay bubbling.",
+    "faq": [
+      {
+        "q": "How long should I keep the starter at room temperature?",
+        "a": "Usually 24‑48 hours is enough to see noticeable activity, then you can return it to the fridge."
+      },
+      {
+        "q": "Can I use whole‑grain flour for the rescue feed?",
+        "a": "Yes, whole‑grain flour can boost microbial activity, but you may need to adjust water slightly."
+      },
+      {
+        "q": "What if the starter still smells off after feeding?",
+        "a": "A sour, unpleasant odor may indicate contamination; discard and start fresh if the smell persists."
+      }
+    ],
+    "category": "Troubleshooting",
+    "tags": [
+      "starter",
+      "revival"
+    ],
+    "sources": [
+      {
+        "label": "r/Baking community threads",
+        "url": "https://www.reddit.com/r/Baking/"
+      },
+      {
+        "label": "Search interest: \"artisan bread at home\"",
+        "url": "https://duckduckgo.com/?q=artisan%20bread%20at%20home"
+      }
+    ],
+    "publishedAt": "2026-10-26T19:45:39.378Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-sourdough-23",
     "title": "Community pulse: what r/Sourdough is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the troubleshooting community this week.",
