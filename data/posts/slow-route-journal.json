@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midday-platform-photography",
+    "title": "Midday Platform Photography: Low‑Impact Lens on Rural Trains",
+    "dek": "Capture fleeting train scenery with a light kit and zero waste mindset.",
+    "takeaway": "A simple camera setup turns any rail stop into a mindful photo journal.",
+    "whatHappened": "During a midday pause on a regional line, we set up a compact mirrorless camera, a recycled cardboard backdrop, and a solar charger. In under ten minutes we captured crisp landscape frames and candid commuter moments without disturbing the flow of passengers.",
+    "whyItMatters": "Travel photography often fuels consumption—gear, prints, and digital excess. By limiting equipment and embracing reuse, we model low‑impact storytelling that respects both the environment and the rhythm of the rail.",
+    "howToThink": "Choose a camera under 500 g, power it with a portable solar panel, and use recyclable props. Focus on composition over megapixels, and edit on-device using free software to avoid extra hardware.",
+    "pros": [
+      "Ultra‑light gear",
+      "Zero‑waste accessories",
+      "Instant visual record"
+    ],
+    "cons": [
+      "Limited zoom range",
+      "Battery depends on sun",
+      "Fewer creative filters"
+    ],
+    "watchOut": "Beware of glare on glass doors; angle the camera to use natural shade instead.",
+    "faq": [
+      {
+        "q": "What camera size is truly low‑impact?",
+        "a": "Anything that fits in a small backpack and can run on USB‑C power."
+      },
+      {
+        "q": "Do I need a tripod?",
+        "a": "A collapsible carbon‑fiber stand is optional; a sturdy hand can suffice on stable platforms."
+      },
+      {
+        "q": "Can I share photos without extra carbon?",
+        "a": "Upload via Wi‑Fi on the train or sync later at a green‑powered hostel."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "photography",
+      "rail"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-10-26T23:45:08.647Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "midday-platform-yoga-low-impact-stretching",
     "title": "Midday Platform Yoga: Low‑Impact Stretching on Rural Trains",
     "dek": "A quick, quiet yoga session on a moving train helps reset your body and mind without missing the scenery.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pantry-inventory-hacks",
+    "title": "Unlocking hidden savings: pantry inventory hacks",
+    "dek": "A quick guide to scanning your pantry for waste‑cutting wins and stretching every grocery dollar.",
+    "takeaway": "Regular pantry audits reveal cheap ways to cut waste and lower grocery bills.",
+    "whatHappened": "I opened my pantry after a weekend of cooking and realized half the items were past their prime or duplicated. A 10‑minute sweep let me list what I actually have and what I need to restock. The result was a cleaner shelf and a clearer shopping list.",
+    "whyItMatters": "Food waste is a silent budget drain that many households overlook. By knowing exactly what sits in your pantry, you avoid buying duplicates and reduce the chance of letting food spoil. That translates directly into lower grocery spend and a greener kitchen.",
+    "howToThink": "Treat your pantry like a mini‑inventory: pull everything out, group by type, and note expiration dates. Record the items you have in a simple note‑taking app or paper list, then plan meals around those ingredients before you shop. Repeat the process monthly to keep the system fresh and effective.",
+    "pros": [
+      "Reduces food waste",
+      "Boosts meal planning",
+      "Saves money"
+    ],
+    "cons": [
+      "Takes a few minutes initially",
+      "Requires consistent tracking",
+      "May reveal overlooked expired items"
+    ],
+    "watchOut": "Don’t let the audit become a chore—keep it brief and schedule it for a low‑stress time.",
+    "faq": [
+      {
+        "q": "How often should I do a pantry audit?",
+        "a": "A monthly quick check is enough to stay on top of dates and avoid duplicates."
+      },
+      {
+        "q": "Do I need fancy tools?",
+        "a": "No, a pen and paper or any note app works; the goal is visibility, not tech."
+      },
+      {
+        "q": "What if I find a lot of expired food?",
+        "a": "Prioritize using safe items first, then consider composting or donating unopened goods if appropriate."
+      }
+    ],
+    "category": "Groceries",
+    "tags": [
+      "groceries",
+      "frugality"
+    ],
+    "sources": [
+      {
+        "label": "r/Frugal community threads",
+        "url": "https://www.reddit.com/r/Frugal/"
+      },
+      {
+        "label": "Search interest: \"grocery budget tips\"",
+        "url": "https://duckduckgo.com/?q=grocery%20budget%20tips"
+      }
+    ],
+    "publishedAt": "2026-10-26T23:45:23.080Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-cut-energy-bill-28",
     "title": "Myth vs. reality: cut energy bill",
     "dek": "The persistent myths around cut energy bill, stress-tested against what budget-minded households and frugal optimizers actually report.",

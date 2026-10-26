@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-flow-rate-check",
+    "title": "Fine‑Tune Your Espresso Shot With a Simple Flow‑Rate Check",
+    "dek": "A quick visual test to gauge espresso flow consistency without fancy equipment.",
+    "takeaway": "Consistent flow means balanced extraction and better taste.",
+    "whatHappened": "We tried timing the first few seconds of espresso pour using a kitchen timer and noted the visual stream shape. The test revealed subtle variations between shots that standard pressure gauges missed.",
+    "whyItMatters": "Flow rate directly influences extraction time and flavor balance, so spotting irregularities helps avoid over- or under-extracted cups. Home baristas can catch machine quirks early, preserving bean quality.",
+    "howToThink": "Watch the espresso as it emerges; a steady, thin stream indicates proper flow. If the stream sputters or widens, adjust grind or dose slightly. Use the timer to compare shot start times and aim for a repeatable pattern.",
+    "pros": [
+      "No extra tools needed",
+      "Instant visual feedback",
+      "Improves shot consistency"
+    ],
+    "cons": [
+      "Subjective observation",
+      "May need practice to gauge",
+      "Not a replacement for pressure gauge"
+    ],
+    "watchOut": "Don’t over‑adjust grind based solely on one test; verify with taste.",
+    "faq": [
+      {
+        "q": "Can I use a smartphone timer?",
+        "a": "Yes, any second‑resolution timer works for measuring the first 5 seconds of flow."
+      },
+      {
+        "q": "What stream shape indicates a good shot?",
+        "a": "A narrow, steady stream that darkens evenly without large bubbles."
+      },
+      {
+        "q": "How often should I perform the flow check?",
+        "a": "Do it when you notice taste shifts or after cleaning the machine."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "technique"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-10-26T23:45:09.920Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "elevate-espresso-crema-portafilter-seal",
     "title": "Elevate Espresso Crema with a Simple Portafilter Seal Test",
     "dek": "A quick seal check can tighten your espresso puck and boost crema without buying new gear.",

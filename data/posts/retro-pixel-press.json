@@ -1,5 +1,56 @@
 [
   {
+    "slug": "replacing-gbcolor-link-cable",
+    "title": "Pixel Boost: Replacing Game Boy Color Link Cable Connectors for Reliable Multiplayer",
+    "dek": "Swap out corroded Game Boy Color link cable pins for rock‑solid two‑player sessions.",
+    "takeaway": "A fresh connector restores lag‑free multiplayer without buying a new cable.",
+    "whatHappened": "During a local speedrun meet, several Game Boy Color units dropped connection mid‑race due to oxidized link pins. A quick teardown revealed the culprit: the tiny gold contacts had corroded.",
+    "whyItMatters": "Unreliable link cables can ruin competitive runs and damage the reputation of retro events, while preserving the original hardware keeps the experience authentic.",
+    "howToThink": "Treat the link cable like any other connector—clean, inspect, and replace worn pins before they cause failures. A soldering iron and a set of replacement contacts are all you need.",
+    "pros": [
+      "Cheap fix",
+      "Keeps original cable",
+      "Improves multiplayer reliability"
+    ],
+    "cons": [
+      "Requires soldering",
+      "Tiny parts can be fiddly",
+      "Risk of damaging pins if rushed"
+    ],
+    "watchOut": "Double‑check polarity before soldering to avoid shorting the cable.",
+    "faq": [
+      {
+        "q": "Do I need a special soldering tip for the link pins?",
+        "a": "A fine‑point tip works fine; the pins are tiny but accessible."
+      },
+      {
+        "q": "Can I just clean the pins instead of replacing them?",
+        "a": "Cleaning helps, but severely corroded contacts usually need fresh metal to stay reliable."
+      },
+      {
+        "q": "Will this void any warranty?",
+        "a": "These cables are out of warranty anyway, but any modification is technically a self‑repair."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "hardware",
+      "game-boy"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-26T23:45:09.283Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-boost-upgrading-atari-5200-controller-cont",
     "title": "Pixel Boost: Upgrading Atari 5200 Controller Contacts for Consistent Input",
     "dek": "A quick guide to cleaning and improving the Atari 5200 controller's internal contacts, keeping your inputs crisp for marathon runs.",

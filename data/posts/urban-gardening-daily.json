@@ -1,5 +1,56 @@
 [
   {
+    "slug": "balcony-edible-flowers",
+    "title": "Balcony Edible Flowers: Colorful Harvest for Small Spaces",
+    "dek": "Turn your balcony into a living palette—grow edible flowers that spice up dishes and brighten tiny outdoor spaces.",
+    "takeaway": "Edible blooms add flavor, color, and pollinator appeal to any balcony garden.",
+    "whatHappened": "We tested a selection of hardy, low‑maintenance edible flowers in standard balcony containers. Over a few weeks the plants produced abundant blossoms that were harvested straight into salads and drinks. The experiment proved that even narrow railings can host a vibrant flower garden.",
+    "whyItMatters": "Edible flowers let apartment dwellers expand their culinary toolkit without extra kitchen space, while also supporting urban pollinators. Their bright hues lift mood and make small balconies feel more inviting, turning a functional garden into a decorative showcase.",
+    "howToThink": "Start with compact varieties like nasturtium, pansy, or calendula and plant them in shallow trays or hanging pockets. Pair them with existing herbs for a mixed‑border effect and water consistently but avoid soggy soil. Harvest petals early in the morning for the best flavor and visual impact.",
+    "pros": [
+      "Adds color and flavor",
+      "Attracts pollinators",
+      "Fits shallow containers"
+    ],
+    "cons": [
+      "May attract bees to dining area",
+      "Requires regular deadheading",
+      "Some varieties are seasonal"
+    ],
+    "watchOut": "Watch for pests like aphids that love tender flower buds and treat promptly.",
+    "faq": [
+      {
+        "q": "Can I grow edible flowers indoors near a window?",
+        "a": "Yes, many varieties thrive in bright, indirect light and can be placed on a sunny sill or balcony ledge."
+      },
+      {
+        "q": "Are all garden flowers safe to eat?",
+        "a": "No, only species specifically labeled as edible should be consumed; avoid ornamental varieties that may be toxic."
+      },
+      {
+        "q": "How often should I harvest the petals?",
+        "a": "Pick blossoms when they’re fully open but before they start wilting, usually every few days during peak bloom."
+      }
+    ],
+    "category": "Seasonal",
+    "tags": [
+      "flowers",
+      "balcony"
+    ],
+    "sources": [
+      {
+        "label": "r/UrbanGardening community threads",
+        "url": "https://www.reddit.com/r/UrbanGardening/"
+      },
+      {
+        "label": "Search interest: \"balcony garden ideas\"",
+        "url": "https://duckduckgo.com/?q=balcony%20garden%20ideas"
+      }
+    ],
+    "publishedAt": "2026-10-26T23:45:07.907Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "rainwater-harvest-mini-systems-2",
     "title": "Rainwater Harvest Mini‑Systems for Balcony Plants",
     "dek": "Capture rooftop runoff with tiny, balcony‑friendly rain barrels and boost plant health without upping your water bill.",

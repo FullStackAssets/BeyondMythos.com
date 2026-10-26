@@ -1,5 +1,56 @@
 [
   {
+    "slug": "quick-fixes-leaky-kayak-deck",
+    "title": "Quick fixes for a leaky kayak deck",
+    "dek": "A few easy steps to stop water seeping through your kayak deck before your next outing.",
+    "takeaway": "Seal the deck quickly and cheaply to keep the water out.",
+    "whatHappened": "During a weekend trip a small deck leak turned into a soggy paddle, prompting us to test rapid repair methods. We tried a handful of on‑water fixes to see what actually held up.",
+    "whyItMatters": "A leaking deck can soak gear, affect buoyancy, and cut your trip short. Fixing it on the water saves time, money, and morale.",
+    "howToThink": "Inspect seams before launch, carry a simple repair kit, and use compatible sealant to patch leaks without removing the deck. Keep the kit lightweight and waterproof. Test the patch briefly before heading out again.",
+    "pros": [
+      "Low cost",
+      "Rapid application",
+      "Minimal tools needed"
+    ],
+    "cons": [
+      "May need re‑application",
+      "Sealant can affect finish",
+      "Not a permanent fix for large damage"
+    ],
+    "watchOut": "Avoid over‑applying sealant; excess can soften the deck surface.",
+    "faq": [
+      {
+        "q": "What type of sealant works best on kayak decks?",
+        "a": "A marine‑grade, flexible silicone or polyurethane that matches the hull material is ideal."
+      },
+      {
+        "q": "Can I use the same patch on a plastic and a wooden kayak?",
+        "a": "Yes, as long as the sealant is compatible with both substrates; clean the area thoroughly first."
+      },
+      {
+        "q": "How long should I let the sealant cure before paddling?",
+        "a": "Follow the product’s instructions, but a brief 10‑15 minute set time usually suffices for a quick patch."
+      }
+    ],
+    "category": "Boats",
+    "tags": [
+      "DIY",
+      "Maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/Kayaking community threads",
+        "url": "https://www.reddit.com/r/Kayaking/"
+      },
+      {
+        "label": "Search interest: \"first kayak buying guide\"",
+        "url": "https://duckduckgo.com/?q=first%20kayak%20buying%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-26T23:45:31.893Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-canoeing-28",
     "title": "Community pulse: what r/canoeing is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the storage community this week.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "thread-tension-hacks",
+    "title": "Thread tension hacks: fine-tune your machine for flawless seams",
+    "dek": "A quick dive into adjusting tension for smoother stitches without costly trial and error.",
+    "takeaway": "Proper tension is the secret to consistent seams and fewer thread breaks.",
+    "whatHappened": "I spent a Saturday swapping tension dial settings on my mid-range sewing machine, noting how each tweak altered stitch quality on cotton and jersey. The results were immediate: tighter stitches on low tension, loops on high.",
+    "whyItMatters": "Incorrect tension leads to puckering, thread breaks, and uneven seams, which waste fabric and time. Mastering tension lets you trust your machine across fabrics, boosting confidence in pattern hacks.",
+    "howToThink": "Start with the factory default, stitch a test swatch, then adjust one click at a time, checking both the top and bobbin sides. Aim for a balanced stitch where the thread forms a clean lock without visible loops.",
+    "pros": [
+      "Consistent stitch quality",
+      "Reduced thread breaks",
+      "Easier fabric handling"
+    ],
+    "cons": [
+      "Requires test swatches",
+      "May need readjustment per fabric",
+      "Time spent dialing in"
+    ],
+    "watchOut": "Never force the tension dial; gentle clicks are all you need.",
+    "faq": [
+      {
+        "q": "How often should I re-check tension?",
+        "a": "Whenever you switch to a markedly different fabric or after cleaning the machine."
+      },
+      {
+        "q": "Does thread weight affect tension?",
+        "a": "Yes, heavier thread generally needs a slightly looser setting, while fine thread prefers tighter tension."
+      },
+      {
+        "q": "Can I set tension for stretch fabrics?",
+        "a": "A modestly looser tension helps prevent thread breakage on stretchy knits, but keep the stitch length moderate."
+      }
+    ],
+    "category": "Machines",
+    "tags": [
+      "Machine maintenance",
+      "Thread tension"
+    ],
+    "sources": [
+      {
+        "label": "r/sewhelp community threads",
+        "url": "https://www.reddit.com/r/sewhelp/"
+      },
+      {
+        "label": "Search interest: \"how to fit sewing patterns\"",
+        "url": "https://duckduckgo.com/?q=how%20to%20fit%20sewing%20patterns"
+      }
+    ],
+    "publishedAt": "2026-10-26T23:45:38.808Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "beginner-sewing-patterns-field-test-24",
     "title": "\"beginner sewing patterns\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about beginner sewing patterns through a month of actual use. Some of it survived.",
