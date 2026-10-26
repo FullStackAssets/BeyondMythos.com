@@ -1,5 +1,56 @@
 [
   {
+    "slug": "boosting-root-oxygen-air-stone-hacks",
+    "title": "Boosting root oxygen: simple air stone hacks",
+    "dek": "A quick guide to adding cheap air stones for healthier roots and faster growth in indoor hydroponics.",
+    "takeaway": "More dissolved oxygen in the nutrient solution means stronger, faster‑growing plants.",
+    "whatHappened": "Growers noticed stunted growth in dense lettuce canopies and traced it to low dissolved oxygen. Adding a few inexpensive air stones to the reservoir stirred the solution and raised oxygen levels. Within a week, leaf vigor improved noticeably.",
+    "whyItMatters": "Root oxygen drives nutrient uptake and root health; low oxygen can lead to root rot and slow growth. In closed‑loop systems, oxygen can be the limiting factor even when nutrients are perfect. Simple aeration upgrades can prevent costly yield losses.",
+    "howToThink": "Start with one air stone per 10 gal of solution and a low‑speed air pump. Position the stone where water circulates to avoid dead zones. Monitor for bubbles; if you see a steady stream, you’re likely in the sweet spot—no need for high flow that disrupts the root zone.",
+    "pros": [
+      "Cheap and easy to install",
+      "Immediate boost to root health",
+      "Works with any reservoir size"
+    ],
+    "cons": [
+      "Adds a small power draw",
+      "May require periodic cleaning",
+      "Too much aeration can disturb delicate roots"
+    ],
+    "watchOut": "Don’t place the stone directly against the net pot; excess turbulence can dislodge seedlings.",
+    "faq": [
+      {
+        "q": "Do I need a timer for the air pump?",
+        "a": "A timer isn’t required; most growers run the pump continuously for steady oxygen."
+      },
+      {
+        "q": "Can I use a kitchen blender as an air source?",
+        "a": "No—blenders aren’t designed for continuous aeration and can overheat. Use a purpose‑built aquarium pump."
+      },
+      {
+        "q": "Will air stones affect pH?",
+        "a": "Aeration can cause a slight pH drift upward, so check and adjust pH regularly."
+      }
+    ],
+    "category": "Systems",
+    "tags": [
+      "root health",
+      "aeration"
+    ],
+    "sources": [
+      {
+        "label": "r/hydro community threads",
+        "url": "https://www.reddit.com/r/hydro/"
+      },
+      {
+        "label": "Search interest: \"kratky method guide\"",
+        "url": "https://duckduckgo.com/?q=kratky%20method%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-26T21:45:29.840Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-grow-lights-for-greens-27",
     "title": "Myth vs. reality: grow lights for greens",
     "dek": "The persistent myths around grow lights for greens, stress-tested against what indoor hydroponic growers actually report.",

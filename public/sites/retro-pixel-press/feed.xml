@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Upgrading Sega Master System Power Supply for Stable Voltage</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-upgrading-sega-master-system-power-s.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-upgrading-sega-master-system-power-s.html</guid>
+      <pubDate>Mon, 26 Oct 2026 21:45:07 GMT</pubDate>
+      <description>Swap the original brick for a modern regulator to keep your Master System humming without random resets.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Refreshing Sega Genesis Controller Rubber for Tighter Grip</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/refreshing-genesis-controller-rubber.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/refreshing-genesis-controller-rubber.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-clarity-gb-lcd-upgrade.html</guid>
       <pubDate>Mon, 19 Oct 2026 16:45:10 GMT</pubDate>
       <description>A quick guide to fitting a high‑contrast LCD into your Game Boy Pocket for clearer reads during marathon runs.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Enhancing Game Boy Camera Shutter Speed</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-enhancing-game-boy-camera-shutter-sp.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-enhancing-game-boy-camera-shutter-sp.html</guid>
-      <pubDate>Mon, 19 Oct 2026 15:45:07 GMT</pubDate>
-      <description>Speed up your Game Boy Camera snaps with a simple capacitor tweak for smoother photo runs.</description>
     </item>
   </channel>
 </rss>

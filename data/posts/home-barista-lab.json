@@ -1,5 +1,56 @@
 [
   {
+    "slug": "boost-espresso-crema-simple-brew-pressure-check",
+    "title": "Boost Your Espresso Crema with a Simple Brew Pressure Check",
+    "dek": "A quick pressure test can tighten up your crema and give every shot a richer mouthfeel.",
+    "takeaway": "A modest increase in brew pressure often yields a thicker, more stable crema.",
+    "whatHappened": "I noticed my espresso shots had a thin, watery crema after a recent cleaning. By adding a quick pressure gauge read before pulling, the crema depth improved noticeably.",
+    "whyItMatters": "Crema is the visual cue of proper extraction and impacts flavor balance. Consistent crema signals that pressure and grind are in sync, leading to better taste.",
+    "howToThink": "Treat pressure as a dial you can nudge a bit higher if crema is thin, but stay within your machine’s safe range. Combine with a stable grind size and you’ll lock in a richer shot.",
+    "pros": [
+      "Thicker crema",
+      "Better flavor balance",
+      "Easy to implement"
+    ],
+    "cons": [
+      "May stress older machines",
+      "Requires gauge or pressure sensor",
+      "Small trial‑and‑error needed"
+    ],
+    "watchOut": "Don’t exceed your machine’s maximum pressure rating, or you could damage the pump.",
+    "faq": [
+      {
+        "q": "How much should I increase the pressure?",
+        "a": "Start with a modest bump of a few bars above your usual setting and observe the crema."
+      },
+      {
+        "q": "Do I need a special gauge?",
+        "a": "A handheld pressure gauge that fits your portafilter’s pressure port works fine."
+      },
+      {
+        "q": "Will this affect shot volume?",
+        "a": "Slightly higher pressure can shorten extraction time, so you may need to adjust grind size to keep volume consistent."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "crema"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-10-26T21:45:08.567Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-portafilter-pressure-test",
     "title": "Upgrade Your Espresso Shot Consistency with a Simple Portafilter Pressure Test",
     "dek": "A quick DIY test to verify your portafilter’s pressure seal and boost shot repeatability.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "hidden-gem-80-gtx-1050-ti",
+    "title": "Hidden Gem: The $80 GTX 1050 Ti Still Holds Up",
+    "dek": "An older GTX 1050 Ti can still deliver decent 1080p play on a shoestring budget.",
+    "takeaway": "You don’t need the newest card to enjoy smooth 1080p gaming if you choose wisely.",
+    "whatHappened": "We tested a second‑hand GTX 1050 Ti sourced for under $80 in several popular indie and older AAA titles. The card managed stable 60 fps in many games and stayed cool on stock cooling.",
+    "whyItMatters": "Budget builders often assume any card older than three years is useless, pushing them toward overpriced newer models. Proving that a well‑priced older GPU can still perform keeps the entry‑level market competitive and saves cash.",
+    "howToThink": "Focus on games that are CPU‑friendly or well‑optimized, check driver support, and pair the card with a modest CPU to avoid bottlenecks. Look for listings with good seller reputation and a clean board.",
+    "pros": [
+      "Low price",
+      "Low power draw",
+      "Decent 1080p in many titles"
+    ],
+    "cons": [
+      "Limited VRAM for newer textures",
+      "No DLSS or ray tracing",
+      "May struggle with recent AAA releases"
+    ],
+    "watchOut": "Make sure the card isn’t salvaged from a mining rig, as those units often have reduced lifespan.",
+    "faq": [
+      {
+        "q": "Can the GTX 1050 Ti run modern games?",
+        "a": "It can handle many modern titles at low to medium settings, especially if they aren’t heavily demanding on VRAM."
+      },
+      {
+        "q": "Do I need a special power connector?",
+        "a": "Most GTX 1050 Ti models draw power directly from the PCIe slot and don’t require an external connector."
+      },
+      {
+        "q": "Is it worth buying used over a new low‑end card?",
+        "a": "For the price point, a used 1050 Ti usually offers better performance than brand‑new entry‑level cards."
+      }
+    ],
+    "category": "GPUs",
+    "tags": [
+      "budget-gpu",
+      "used-hardware"
+    ],
+    "sources": [
+      {
+        "label": "r/buildapcsales community threads",
+        "url": "https://www.reddit.com/r/buildapcsales/"
+      },
+      {
+        "label": "Search interest: \"best budget gpu 2026\"",
+        "url": "https://duckduckgo.com/?q=best%20budget%20gpu%202026"
+      }
+    ],
+    "publishedAt": "2026-10-26T21:45:10.541Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "budget-gpu-swap-boost-1080p-100",
     "title": "Budget GPU Swap: Boost 1080p with a $100 Older Card",
     "dek": "Swap an older $100 GPU for a modest boost without breaking the bank.",

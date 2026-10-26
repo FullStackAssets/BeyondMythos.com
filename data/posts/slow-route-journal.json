@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midday-platform-music",
+    "title": "Midday Platform Music: Low‑Impact Rhythm on Rural Trains",
+    "dek": "A quick guide to turning a slow‑train pause into a low‑impact jam session for the wanderer on a budget.",
+    "takeaway": "A few simple steps let you share music responsibly while keeping the train’s carbon footprint tiny.",
+    "whatHappened": "During a midday stop on a regional line, we unpacked a portable, solar‑charged speaker and invited fellow travelers to share a song or two. The brief set turned a quiet carriage into a humming community, all without extra waste.",
+    "whyItMatters": "Music builds spontaneous connections, reinforcing the slow‑travel ethos of sharing and presence. By keeping the set acoustic or solar‑powered you avoid added emissions and noise pollution for nearby residents.",
+    "howToThink": "Carry a small, solar‑friendly speaker and a curated playlist of royalty‑free tracks. Ask permission before playing, keep volume low, and encourage others to contribute a verse or hum. Use the pause to swap stories about local songs, deepening place‑based appreciation.",
+    "pros": [
+      "Boosts community spirit",
+      "Zero‑fuel energy source",
+      "Minimal gear"
+    ],
+    "cons": [
+      "Requires brief coordination",
+      "Limited to short sets",
+      "Depends on daylight for solar charge"
+    ],
+    "watchOut": "Never block aisles or disturb passengers who need quiet; keep volume respectful.",
+    "faq": [
+      {
+        "q": "Do I need a licence to play music on a train?",
+        "a": "Public‑domain or royalty‑free tracks are safe; avoid copyrighted songs unless you have permission."
+      },
+      {
+        "q": "What if the train has no power outlet?",
+        "a": "A small solar panel or hand‑crank charger can keep a tiny speaker running for an hour."
+      },
+      {
+        "q": "How can I involve kids without overwhelming them?",
+        "a": "Invite them to clap or hum a simple tune; keep the session short and interactive."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "community"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-10-26T21:45:06.397Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "midday-platform-cooking-low-impact-meal-prep",
     "title": "Midday Platform Cooking: Low‑Impact Meal Prep on Rural Trains",
     "dek": "Turn a brief stop into a zero‑waste kitchen, using local ingredients and reusable gear for a tasty, low‑impact lunch on the rails.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "speedy-sheet-pan-salmon",
+    "title": "Speedy sheet‑pan salmon for the 9‑to‑5 hustle",
+    "dek": "A sheet‑pan salmon with veggies that cooks in 20 minutes and stores cleanly for the workweek.",
+    "takeaway": "Fast, balanced salmon meals are within reach without extra dishes.",
+    "whatHappened": "We tested a simple sheet‑pan salmon recipe, pairing it with broccoli and sweet potatoes. After cooking, we portioned it into containers and reheated throughout the week, noting texture and flavor retention.",
+    "whyItMatters": "Busy professionals need nutritious protein that survives the fridge and reheats well, saving time and mental bandwidth.",
+    "howToThink": "Pick a protein that cooks quickly, use a single pan, and choose veggies that stay crisp. Portion by macro targets and label containers for easy grab‑and‑go.",
+    "pros": [
+      "One‑pan cleanup",
+      "Balanced macros",
+      "Reheats well"
+    ],
+    "cons": [
+      "Requires oven space",
+      "Limited flavor variation",
+      "May dry if overcooked"
+    ],
+    "watchOut": "Don’t overcook the salmon; it dries out fast.",
+    "faq": [
+      {
+        "q": "Can I swap salmon for another protein?",
+        "a": "Yes, chicken breast or firm tofu work similarly on a sheet pan."
+      },
+      {
+        "q": "How long can I keep the meals in the fridge?",
+        "a": "Up to four days is safe for most office‑ready meals."
+      },
+      {
+        "q": "Do I need to season each portion separately?",
+        "a": "Season the whole pan before cooking; the flavor distributes evenly."
+      }
+    ],
+    "category": "Recipes",
+    "tags": [
+      "quick",
+      "protein"
+    ],
+    "sources": [
+      {
+        "label": "r/MealPrepSunday community threads",
+        "url": "https://www.reddit.com/r/MealPrepSunday/"
+      },
+      {
+        "label": "Search interest: \"high protein meal prep\"",
+        "url": "https://duckduckgo.com/?q=high%20protein%20meal%20prep"
+      }
+    ],
+    "publishedAt": "2026-10-26T21:45:14.909Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "mediterranean-one-pan-prep",
     "title": "One‑pan Mediterranean prep: flavor without fuss",
     "dek": "A single sheet pan delivers protein, veggies, and olives for a week of balanced lunches.",

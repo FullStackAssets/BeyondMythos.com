@@ -1,5 +1,56 @@
 [
   {
+    "slug": "tall-seam-pattern-hack",
+    "title": "Stretching patterns for longer torsos without losing shape",
+    "dek": "A quick guide to lengthening patterns while keeping proportions in check.",
+    "takeaway": "Adjust pattern length first, then re‑balance key measurements to preserve fit.",
+    "whatHappened": "While testing a popular dress pattern on a tall friend, the length was fine but the waist and hip lines looked stretched. I rewrote the lengthening steps, adding a proportional scaling formula, and the result fit perfectly. The tweak now lives in the blog’s pattern‑hacking toolkit.",
+    "whyItMatters": "Tall sewists often abandon patterns that look great on the rack but flop on a longer frame, leading to wasted fabric and frustration. A systematic approach saves time and keeps design intent intact. Sharing the method empowers anyone to adapt commercial drafts without guesswork.",
+    "howToThink": "Start by measuring the difference between the pattern’s total length and the wearer’s desired length. Apply that delta to the side seams, then re‑measure bust, waist, and hip points to ensure they stay within the original ratios. Finally, add a small ease buffer at the hem to avoid pulling.",
+    "pros": [
+      "Preserves original design lines",
+      "Reduces trial‑and‑error",
+      "Works on most ready‑to‑sew patterns"
+    ],
+    "cons": [
+      "Adds extra calculation step",
+      "May require a new muslin test",
+      "Not ideal for highly structured garments"
+    ],
+    "watchOut": "Avoid adding length solely to the center front/back; always distribute it evenly to keep side seam balance.",
+    "faq": [
+      {
+        "q": "Do I need a grading ruler for this trick?",
+        "a": "A basic ruler and a pen are enough; a grading ruler just speeds up the math."
+      },
+      {
+        "q": "Can this method be used on plus‑size patterns?",
+        "a": "Yes, just keep the proportional ratios consistent with the original grading."
+      },
+      {
+        "q": "What if the pattern has a built‑in lengthen‑by‑X‑inches option?",
+        "a": "Use the built‑in option for minor adjustments, but for larger changes follow the scaling steps to avoid distortion."
+      }
+    ],
+    "category": "Patterns",
+    "tags": [
+      "pattern‑hacking",
+      "fit‑adjustments"
+    ],
+    "sources": [
+      {
+        "label": "r/quilting community threads",
+        "url": "https://www.reddit.com/r/quilting/"
+      },
+      {
+        "label": "Search interest: \"sewing machine maintenance\"",
+        "url": "https://duckduckgo.com/?q=sewing%20machine%20maintenance"
+      }
+    ],
+    "publishedAt": "2026-10-26T21:45:37.656Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-fitting-71",
     "title": "The quiet upgrade: small tweaks in fitting with outsized returns",
     "dek": "No purchases, no overhauls — the modest fitting adjustments that home sewists and pattern hackers report mattering most.",

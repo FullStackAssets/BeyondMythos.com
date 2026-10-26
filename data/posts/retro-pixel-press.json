@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-boost-upgrading-sega-master-system-power-s",
+    "title": "Pixel Boost: Upgrading Sega Master System Power Supply for Stable Voltage",
+    "dek": "Swap the original brick for a modern regulator to keep your Master System humming without random resets.",
+    "takeaway": "A reliable power supply eliminates crashes and preserves hardware longevity.",
+    "whatHappened": "Many collectors notice their Master System powering off during long sessions. The cause is often an aging AC adapter that can’t maintain steady voltage. Replacing it with a regulated supply restores stability instantly.",
+    "whyItMatters": "Unstable power not only interrupts gameplay but can stress internal components, shortening the console's life. A solid supply ensures consistent performance for both casual play and speedrun attempts.",
+    "howToThink": "Identify the original adapter’s voltage and current rating, then select a regulated 9V/1.5A supply with matching polarity. Solder the new plug or use a secure connector, and double‑check polarity before plugging in.",
+    "pros": [
+      "More stable gameplay",
+      "Extended console lifespan",
+      "Reduced flicker"
+    ],
+    "cons": [
+      "Requires soldering",
+      "Potential void warranty",
+      "Need correct voltage regulator"
+    ],
+    "watchOut": "Never power the console without confirming polarity; a reverse connection can fry the board.",
+    "faq": [
+      {
+        "q": "Do I need a specific connector type?",
+        "a": "A standard barrel plug matching the original size works; many adapters include interchangeable tips."
+      },
+      {
+        "q": "Can I use a USB‑C power bank?",
+        "a": "Only if it provides the correct 9V output and polarity, which most do not."
+      },
+      {
+        "q": "Will this affect the console’s original look?",
+        "a": "No, the external brick is replaceable and the console itself remains unchanged."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Hardware",
+      "Sega"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-10-26T21:45:07.191Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "refreshing-genesis-controller-rubber",
     "title": "Pixel Boost: Refreshing Sega Genesis Controller Rubber for Tighter Grip",
     "dek": "Give your classic Genesis pad a fresh feel and more precise inputs with a simple rubber refresh.",
