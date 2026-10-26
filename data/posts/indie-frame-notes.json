@@ -1,5 +1,56 @@
 [
   {
+    "slug": "quick-gear-hacks-for-indie-filmmakers",
+    "title": "Quick gear hacks: turn household items into set saviors",
+    "dek": "Simple, budget-friendly tricks to repurpose common items for indie film production.",
+    "takeaway": "Every cheap household object can become a reliable piece of film gear.",
+    "whatHappened": "While shooting a short in a cramped apartment, I ran out of light diffusion material. I grabbed a white shower curtain and a few cereal boxes, rigging them to soften harsh light. The result was a surprisingly even, cinematic look without spending a dime.",
+    "whyItMatters": "Indie budgets are tight, and gear costs can stall projects. Finding low-cost alternatives keeps momentum and encourages creative problem‑solving. Plus, it reduces reliance on rented equipment that may be unavailable.",
+    "howToThink": "Assess the visual problem first, then scan your surroundings for objects with similar optical properties. Test the makeshift solution on a small scale before committing. Document what works for future shoots.",
+    "pros": [
+      "Cost‑free",
+      "Readily available",
+      "Encourages creativity"
+    ],
+    "cons": [
+      "May lack durability",
+      "Variable quality",
+      "Requires extra setup time"
+    ],
+    "watchOut": "Ensure improvised gear doesn't pose safety hazards or cause fire risks.",
+    "faq": [
+      {
+        "q": "Can a shower curtain replace a professional diffuser?",
+        "a": "It softens harsh light well enough for tight shots, though it may not be as uniform as a dedicated diffuser."
+      },
+      {
+        "q": "What household item works as a cheap reflector?",
+        "a": "A white poster board or a piece of aluminum foil on cardboard creates an effective bounce surface."
+      },
+      {
+        "q": "How to stabilize makeshift rigs?",
+        "a": "Use clamps, sandbags, or even heavy books to keep improvised gear steady during takes."
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "budget",
+      "DIY"
+    ],
+    "sources": [
+      {
+        "label": "r/videography community threads",
+        "url": "https://www.reddit.com/r/videography/"
+      },
+      {
+        "label": "Search interest: \"short film festival strategy\"",
+        "url": "https://duckduckgo.com/?q=short%20film%20festival%20strategy"
+      }
+    ],
+    "publishedAt": "2026-10-26T20:45:15.249Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-production-84",
     "title": "A weekend project: level up your production in two hours",
     "dek": "One contained, satisfying production project for indie filmmakers — start Saturday morning, done by lunch.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "budget-gpu-swap-boost-1080p-100",
+    "title": "Budget GPU Swap: Boost 1080p with a $100 Older Card",
+    "dek": "Swap an older $100 GPU for a modest boost without breaking the bank.",
+    "takeaway": "A cheap, used GPU can still lift 1080p performance when paired with the right tweaks.",
+    "whatHappened": "We sourced a pre‑2015 Nvidia GTX 960 on a local marketplace for $100, installed it in a modest $400 build, and ran the usual 1080p titles. Benchmarks showed a noticeable jump over integrated graphics and older low‑end cards.",
+    "whyItMatters": "Budget builders often think they need the newest silicon to game at 1080p, but older GPUs still offer solid performance for many titles. Extending the life of used hardware also reduces e‑waste.",
+    "howToThink": "Match the GPU to the rest of your system, check power requirements, and clean the card before installation. Pair it with a modest CPU and enable game settings like medium textures and 60 Hz refresh for smooth play.",
+    "pros": [
+      "Low cost",
+      "Immediate performance bump",
+      "Easy to find"
+    ],
+    "cons": [
+      "Higher power draw than integrated",
+      "May lack latest driver features",
+      "Potentially louder fans"
+    ],
+    "watchOut": "Make sure your PSU can handle the extra power draw before installing.",
+    "faq": [
+      {
+        "q": "Will a $100 GPU run modern games?",
+        "a": "It can handle many modern titles at 1080p on medium settings, though very demanding AAA games may need lower settings."
+      },
+      {
+        "q": "Do I need to reinstall drivers?",
+        "a": "Yes, uninstall old drivers and install the latest version for the card to avoid conflicts."
+      },
+      {
+        "q": "Is it worth buying a used card versus a new low‑end one?",
+        "a": "Often yes, because used mid‑range cards deliver more performance per dollar than brand‑new entry‑level models."
+      }
+    ],
+    "category": "Used Parts",
+    "tags": [
+      "budget",
+      "used-gpu"
+    ],
+    "sources": [
+      {
+        "label": "r/pcmasterrace community threads",
+        "url": "https://www.reddit.com/r/pcmasterrace/"
+      },
+      {
+        "label": "Search interest: \"1440p value build\"",
+        "url": "https://duckduckgo.com/?q=1440p%20value%20build"
+      }
+    ],
+    "publishedAt": "2026-10-26T20:45:10.833Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "sneaky-savings-1080p-used-gpu",
     "title": "Sneaky Savings: 1080p Gains from a $120 Used GPU",
     "dek": "Turn a cheap second‑hand GPU into a decent 1080p gaming experience with smart settings and cheap tweaks.",

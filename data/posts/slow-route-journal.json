@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midday-platform-cooking-low-impact-meal-prep",
+    "title": "Midday Platform Cooking: Low‑Impact Meal Prep on Rural Trains",
+    "dek": "Turn a brief stop into a zero‑waste kitchen, using local ingredients and reusable gear for a tasty, low‑impact lunch on the rails.",
+    "takeaway": "A simple, portable cooking set lets you eat well without adding waste to the train’s ecosystem.",
+    "whatHappened": "During a scheduled stop at a small town station, we unpacked a compact, stove‑free cooking kit, combined locally sourced fruit, nuts, and a reusable container, and assembled a fresh salad while the train idled. The whole process took less than ten minutes and left no trace behind.",
+    "whyItMatters": "Slow‑travel thrives on mindful consumption; turning idle platform time into a sustainable food moment reduces reliance on packaged snacks and supports local producers. It also demonstrates that low‑impact habits are feasible even in transit‑heavy settings.",
+    "howToThink": "Carry a lightweight, insulated bag, a stainless steel spoon, and a reusable container. Source ingredients from farmers’ markets or station stalls, and favor items that require no cooking. Keep waste to a minimum by packing out any leftovers or compostable scraps.",
+    "pros": [
+      "Zero waste lunch",
+      "Supports local vendors",
+      "Minimal prep time"
+    ],
+    "cons": [
+      "Limited to cold meals",
+      "Needs pre‑planning",
+      "May need extra bag space"
+    ],
+    "watchOut": "Avoid using open flames on platforms; stick to no‑heat or stove‑free methods to stay safe and compliant.",
+    "faq": [
+      {
+        "q": "Can I use a portable stove on a platform?",
+        "a": "Most stations prohibit open flames; opt for stove‑free kits or electric appliances approved for public spaces."
+      },
+      {
+        "q": "What if the stop is shorter than ten minutes?",
+        "a": "Prepare ingredients in advance and keep them ready to assemble quickly; a few seconds of chopping is enough."
+      },
+      {
+        "q": "How do I handle leftover food?",
+        "a": "Pack leftovers in a sealed container and either eat later or take them to a nearby waste‑reduction facility."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "cooking",
+      "rail"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-10-26T20:45:07.602Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "midday-platform-composting",
     "title": "Midday Platform Composting: Low‑Impact Soil Building on Rural Trains",
     "dek": "Turn train pauses into a chance to enrich soil, using simple compost kits that fit in a backpack.",

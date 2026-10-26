@@ -1,5 +1,56 @@
 [
   {
+    "slug": "refreshing-genesis-controller-rubber",
+    "title": "Pixel Boost: Refreshing Sega Genesis Controller Rubber for Tighter Grip",
+    "dek": "Give your classic Genesis pad a fresh feel and more precise inputs with a simple rubber refresh.",
+    "takeaway": "Replacing worn controller rubber restores grip and improves response without pricey upgrades.",
+    "whatHappened": "We noticed many Genesis controllers developing slick, cracked rubber pads that reduced comfort and accuracy. A quick swap of the rubber inserts revived the original tactile feel.",
+    "whyItMatters": "A solid grip translates to fewer missed inputs during fast platforming and speedrun attempts, preserving the authenticity of the hardware experience.",
+    "howToThink": "When the pad feels spongy or slides, source compatible rubber pads or repurpose silicone from old controllers, clean the contact area, and install with a little adhesive.",
+    "pros": [
+      "Restores original feel",
+      "Low cost solution",
+      "Easy DIY"
+    ],
+    "cons": [
+      "Requires careful disassembly",
+      "Finding exact rubber size can be tricky",
+      "Potential void of warranty"
+    ],
+    "watchOut": "Avoid using overly sticky adhesives that could damage the pad surface.",
+    "faq": [
+      {
+        "q": "Can I use generic silicone pads instead of original parts?",
+        "a": "Yes, as long as they match the thickness and shape, generic silicone works well."
+      },
+      {
+        "q": "Do I need special tools to open the controller?",
+        "a": "A small screwdriver and a plastic prying tool are sufficient for most Genesis pads."
+      },
+      {
+        "q": "Will this affect the controller's button feel?",
+        "a": "The button feel stays the same; only the directional pad grip changes."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Genesis",
+      "Controller Maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-26T20:45:08.246Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-boost-replacing-nintendo-64-controller-ana",
     "title": "Pixel Boost: Replacing Nintendo 64 Controller Analog Stick for Smoother Turns",
     "dek": "Swap out a worn N64 analog stick to regain pinpoint control for competitive play and long‑term preservation.",

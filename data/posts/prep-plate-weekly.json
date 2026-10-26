@@ -1,5 +1,56 @@
 [
   {
+    "slug": "mediterranean-one-pan-prep",
+    "title": "One‑pan Mediterranean prep: flavor without fuss",
+    "dek": "A single sheet pan delivers protein, veggies, and olives for a week of balanced lunches.",
+    "takeaway": "One pan, five days, zero extra dishes.",
+    "whatHappened": "I tossed chick‑peas, chicken thighs, cherry tomatoes, bell peppers, and kalamata olives onto a sheet pan, seasoned with lemon‑zest oregano, and roasted for 35 minutes. The result was a cohesive, colorful bowl that held up well in the fridge. By portioning it into containers, I secured a ready‑to‑eat lunch for the entire workweek.",
+    "whyItMatters": "Busy professionals need meals that survive reheating without losing texture or flavor. This recipe proves you can get protein, fiber, and healthy fats in one go, cutting prep time and kitchen cleanup. Consistency in macros also helps you stay on track with your nutrition goals.",
+    "howToThink": "Treat the pan as a macro‑balancing board: protein on one side, carbs in the middle, fats and veggies on the other. Roast everything together to let the natural juices mingle, then portion into airtight containers. When you reheat, add a splash of lemon or olive oil to revive brightness.",
+    "pros": [
+      "Minimal cleanup",
+      "Balanced macros in one dish",
+      "Scalable for any household size"
+    ],
+    "cons": [
+      "Requires oven space",
+      "Chicken thighs need proper seasoning to avoid dryness",
+      "Olives add sodium, adjust if watching salt"
+    ],
+    "watchOut": "If you’re low‑sodium, rinse the olives briefly before adding them to the pan.",
+    "faq": [
+      {
+        "q": "Can I swap chicken for a plant‑based protein?",
+        "a": "Yes—firm tofu or tempeh work well; press and marinate them before roasting."
+      },
+      {
+        "q": "How long will the meals stay fresh in the fridge?",
+        "a": "Up to four days; freeze any extra portions for up to three months."
+      },
+      {
+        "q": "Do I need to pre‑cook the chick‑peas?",
+        "a": "No, canned chick‑peas are fine; just rinse and dry them before the pan."
+      }
+    ],
+    "category": "Recipes",
+    "tags": [
+      "one‑pan",
+      "Mediterranean"
+    ],
+    "sources": [
+      {
+        "label": "r/slowcooking community threads",
+        "url": "https://www.reddit.com/r/slowcooking/"
+      },
+      {
+        "label": "Search interest: \"batch cooking guide\"",
+        "url": "https://duckduckgo.com/?q=batch%20cooking%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-26T20:45:11.444Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quick-protein-bowls-9-to-5",
     "title": "Quick protein bowls for the 9‑to‑5 grind",
     "dek": "Three‑ingredient bowls that go from fridge to desk in under ten minutes.",

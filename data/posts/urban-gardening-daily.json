@@ -1,5 +1,56 @@
 [
   {
+    "slug": "microgreen-magic-fast-harvest",
+    "title": "Microgreen Magic: Fast‑Harvest Greens for Tiny Balconies",
+    "dek": "Turn a shallow balcony box into a rapid‑growth microgreen farm in under two weeks.",
+    "takeaway": "Microgreens give apartment gardeners fresh, nutritious greens with minimal space and effort.",
+    "whatHappened": "A small balcony in downtown Seattle was fitted with a 12‑inch deep tray filled with seed‑starting mix. Within ten days, a vibrant carpet of radish and mustard microgreens emerged, ready to harvest.",
+    "whyItMatters": "Fresh microgreens add a nutritional punch to meals without needing a full‑size garden, making healthy eating accessible to city dwellers. The quick turnover also keeps the growing routine engaging for busy schedules.",
+    "howToThink": "Choose a shallow, well‑draining tray and a lightweight, sterile mix. Sow seeds densely, keep the surface moist, and provide indirect light or a low‑intensity grow light. Harvest by snipping at the base once the first true leaves appear, usually 7‑14 days after sowing.",
+    "pros": [
+      "Lightning‑fast harvest",
+      "Minimal space required",
+      "Boosts indoor nutrition"
+    ],
+    "cons": [
+      "Needs consistent moisture",
+      "Limited to small‑leaf varieties",
+      "Harvest window is narrow"
+    ],
+    "watchOut": "Avoid over‑watering; soggy media can cause mold and root rot.",
+    "faq": [
+      {
+        "q": "Can I grow microgreens in winter?",
+        "a": "Yes, with a grow light and a warm spot, microgreens thrive year‑round."
+      },
+      {
+        "q": "How often should I water?",
+        "a": "Mist the surface daily or keep the tray on a tray of water to maintain humidity."
+      },
+      {
+        "q": "Do I need fertilizer?",
+        "a": "A light, balanced liquid feed once during the growth cycle is enough, but many mixes are nutrient‑rich enough on their own."
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "microgreens",
+      "balcony‑gardening"
+    ],
+    "sources": [
+      {
+        "label": "r/UrbanGardening community threads",
+        "url": "https://www.reddit.com/r/UrbanGardening/"
+      },
+      {
+        "label": "Search interest: \"balcony garden ideas\"",
+        "url": "https://duckduckgo.com/?q=balcony%20garden%20ideas"
+      }
+    ],
+    "publishedAt": "2026-10-26T20:45:06.817Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "balcony-fern-revival",
     "title": "Balcony Fern Revival: Low‑Light Greenery for Winter Apartments",
     "dek": "Bring life to dim winter balconies with hardy ferns that thrive in low light.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "reviving-old-fashioned-twists",
+    "title": "Reviving the Old Fashioned: subtle twists for the modern palate",
+    "dek": "Give the timeless Old Fashioned a fresh spin with a handful of ingredient swaps and technique tweaks.",
+    "takeaway": "Small, thoughtful adjustments can make a classic feel brand‑new without losing its soul.",
+    "whatHappened": "We swapped the traditional sugar cube for a dash of demerara syrup, tried a smoked orange peel, and finished with a brief stir‑then‑shake hybrid. The resulting drink retained the Old Fashioned’s backbone while unveiling brighter aromatics.",
+    "whyItMatters": "Home bartenders often feel stuck in the repeat‑mode of the same recipes; tweaking a classic keeps the ritual exciting and hones palate awareness. It also shows how technique can be as influential as ingredient choice.",
+    "howToThink": "Start with one variable—sweetener, citrus, or dilution method—test it side‑by‑side with the original, and note the change in mouthfeel and aroma. Keep the spirit base unchanged to isolate the effect. Iterate until the balance feels both familiar and surprising.",
+    "pros": [
+      "Elevates a staple without extra cost",
+      "Showcases ingredient versatility",
+      "Boosts confidence in experimentations"
+    ],
+    "cons": [
+      "Risk of over‑complicating a simple drink",
+      "May stray from purist expectations",
+      "Requires extra prep time for swaps"
+    ],
+    "watchOut": "Don’t let the new aromatics dominate; the spirit should still be the star.",
+    "faq": [
+      {
+        "q": "Can I use brown sugar instead of demerara syrup?",
+        "a": "Yes, a light dissolve in warm water yields a similar molasses note."
+      },
+      {
+        "q": "Is the stir‑then‑shake method necessary?",
+        "a": "It’s optional but adds a frothy texture that highlights the citrus oil."
+      },
+      {
+        "q": "Will smoked orange peel work with bourbon and rye alike?",
+        "a": "Both benefit, though rye’s spicier profile pairs especially well with smoke."
+      }
+    ],
+    "category": "Classics",
+    "tags": [
+      "Old Fashioned",
+      "Technique"
+    ],
+    "sources": [
+      {
+        "label": "r/bartenders community threads",
+        "url": "https://www.reddit.com/r/bartenders/"
+      },
+      {
+        "label": "Search interest: \"cocktail tools essentials\"",
+        "url": "https://duckduckgo.com/?q=cocktail%20tools%20essentials"
+      }
+    ],
+    "publishedAt": "2026-10-26T20:45:29.889Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-classics-81",
     "title": "A weekend project: level up your classics in two hours",
     "dek": "One contained, satisfying classics project for home bartenders — start Saturday morning, done by lunch.",

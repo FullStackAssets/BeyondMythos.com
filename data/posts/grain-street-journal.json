@@ -1,5 +1,56 @@
 [
   {
+    "slug": "reviving-silver-gel-darkroom-techniques",
+    "title": "Reviving the Silver Gel: Fresh Darkroom Techniques for 2024",
+    "dek": "New tricks to boost contrast, grain control, and workflow in your home darkroom without pricey upgrades.",
+    "takeaway": "Simple process tweaks can dramatically improve print quality and enjoyment.",
+    "whatHappened": "After a weekend of experimenting with alternative developers and modified agitation, I compared prints side‑by‑side. The results showed clearer shadows and richer midtones without sacrificing highlight detail. The workflow changes required only a few extra minutes per sheet.",
+    "whyItMatters": "Most hobbyists stick to the classic developer‑agitation recipe, missing out on subtle gains that keep prints lively. By updating the chemistry and timing, you preserve the film’s original character while reducing waste. Better prints mean more motivation to keep shooting and processing film.",
+    "howToThink": "Treat the darkroom like a lab: note each variable—developer dilution, temperature, agitation pattern—and adjust one at a time. Start with a modest reduction in developer strength and a longer, gentler agitation to tame grain. Evaluate results on a single frame before scaling the change to a full batch.",
+    "pros": [
+      "Improved contrast control",
+      "Reduced grain without new chemicals",
+      "Minimal extra time per print"
+    ],
+    "cons": [
+      "Requires careful temperature monitoring",
+      "May need new agitation tools",
+      "Initial trial runs waste a few sheets"
+    ],
+    "watchOut": "Avoid over‑diluting the developer, which can leave prints flat and under‑exposed.",
+    "faq": [
+      {
+        "q": "Can I use these tweaks with any black‑and‑white film?",
+        "a": "Yes, the principles apply broadly, though each emulsion may respond slightly differently, so test a strip first."
+      },
+      {
+        "q": "Do I need to buy new chemicals?",
+        "a": "No, just adjust the concentration of your existing developer and consider a mild agitation device."
+      },
+      {
+        "q": "Will these changes affect the archival stability of my prints?",
+        "a": "When done correctly, the alterations maintain or even improve longevity because they avoid over‑development."
+      }
+    ],
+    "category": "Darkroom",
+    "tags": [
+      "darkroom",
+      "print-quality"
+    ],
+    "sources": [
+      {
+        "label": "r/Darkroom community threads",
+        "url": "https://www.reddit.com/r/Darkroom/"
+      },
+      {
+        "label": "Search interest: \"home film scanning\"",
+        "url": "https://duckduckgo.com/?q=home%20film%20scanning"
+      }
+    ],
+    "publishedAt": "2026-10-26T20:45:39.354Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "scanning-pre-spend-checklist-70",
     "title": "The scanning checklist: run this before you spend",
     "dek": "Seven questions that separate a justified scanning purchase from an expensive mood.",

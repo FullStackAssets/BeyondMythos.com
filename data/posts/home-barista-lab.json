@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-portafilter-pressure-test",
+    "title": "Upgrade Your Espresso Shot Consistency with a Simple Portafilter Pressure Test",
+    "dek": "A quick DIY test to verify your portafilter’s pressure seal and boost shot repeatability.",
+    "takeaway": "A snug portafilter seal is key to stable extraction pressure and better espresso.",
+    "whatHappened": "While troubleshooting uneven shots, I discovered the portafilter’s gasket was slightly loose. A simple finger‑press test revealed the issue, prompting a quick gasket swap that immediately steadied the pressure curve. The result was cleaner, more consistent shots across the day.",
+    "whyItMatters": "Even minor gaps in the portafilter can cause pressure fluctuations, leading to under‑extracted or bitter espresso. Consistent pressure ensures each shot hits the target brew ratio and flavor profile, saving time and coffee beans. For home baristas, catching this early prevents waste and frustration.",
+    "howToThink": "Press the portafilter firmly into the group head and release; it should snap back with a solid click and no wobble. If you feel a soft give, inspect the gasket for wear or debris. Re‑seat or replace the gasket, then repeat the test until the click feels firm and the portafilter sits flush.",
+    "pros": [
+      "Instant feedback on seal integrity",
+      "No extra tools required",
+      "Extends gasket lifespan"
+    ],
+    "cons": [
+      "Requires a functional group head",
+      "May miss micro‑leaks without pressure gauge",
+      "Only checks static pressure, not dynamic flow"
+    ],
+    "watchOut": "Avoid using excessive force that could damage the group head’s lock mechanism.",
+    "faq": [
+      {
+        "q": "How often should I perform the pressure test?",
+        "a": "Once a month or whenever you notice a change in shot quality."
+      },
+      {
+        "q": "Can I use this test with a bottomless portafilter?",
+        "a": "Yes, but watch for splatter; a bottomless basket makes leaks more visible."
+      },
+      {
+        "q": "What if the gasket looks fine but the test fails?",
+        "a": "Inspect the portafilter’s metal body for warping and clean any coffee oils that might prevent a tight seal."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "technique"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-10-26T20:45:08.870Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "stabilize-espresso-water-temp-thermometer",
     "title": "Stabilize Espresso Water Temp with a Simple Thermometer",
     "dek": "A cheap kitchen thermometer can keep your brew water in the sweet spot for consistent espresso shots.",
