@@ -1,5 +1,56 @@
 [
   {
+    "slug": "rewiring-nes-zapper",
+    "title": "Pixel Boost: Rewiring the NES Zapper for Reliable Light Gun Play",
+    "dek": "Fix flaky NES Zapper performance with a simple rewiring guide that restores crisp on-screen targeting.",
+    "takeaway": "A proper solder joint on the Zapper’s trigger restores reliable light detection.",
+    "whatHappened": "Many collectors report intermittent or dead Zapper response after years of use. The culprit is often a cracked solder joint on the trigger circuit. Our quick fix gets the gun shooting again without replacing the whole unit.",
+    "whyItMatters": "A functional Zapper unlocks classic light‑gun titles like Duck Hunt, preserving the full retro experience. It also saves collectors from costly aftermarket replacements and keeps original hardware in the loop for speedrun categories that still allow the Zapper.",
+    "howToThink": "Inspect the trigger board for dull or cracked solder, then clean and re‑solder using a fine‑tip iron. Use a low‑temperature solder to avoid heat damage. Test the Zapper on a CRT or compatible emulator before sealing it back up.",
+    "pros": [
+      "Restores original hardware",
+      "Low cost fix",
+      "Keeps collection authentic"
+    ],
+    "cons": [
+      "Requires basic soldering skills",
+      "Needs a working CRT or proper testing setup",
+      "Small risk of accidental damage if rushed"
+    ],
+    "watchOut": "Make sure the console is unplugged and the Zapper is fully discharged before you start soldering.",
+    "faq": [
+      {
+        "q": "Do I need a special solder for retro consoles?",
+        "a": "A standard lead‑free rosin core solder works fine; just keep the iron temperature modest."
+      },
+      {
+        "q": "Can I use this fix on a wireless Zapper clone?",
+        "a": "The guide targets the original wired NES Zapper; wireless clones have different circuitry."
+      },
+      {
+        "q": "Will this affect my speedrun eligibility?",
+        "a": "A repaired Zapper is still considered original hardware, so it remains legal in most Zapper‑based speedrun categories."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "NES",
+      "Hardware"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-10-26T18:45:08.957Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "tuning-nes-audio",
     "title": "Pixel Boost: Tuning NES Audio for Cleaner Sound",
     "dek": "Boost your NES’s sound quality with simple tweaks to the audio output circuitry.",

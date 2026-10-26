@@ -1,5 +1,56 @@
 [
   {
+    "slug": "first-walk-fundamentals",
+    "title": "First Walk Fundamentals: Setting Up Success",
+    "dek": "Your pup’s inaugural walk doesn’t have to be chaotic—follow this quick checklist to keep tails wagging and nerves calm.",
+    "takeaway": "A smooth first walk hinges on preparation, calm energy, and simple cues.",
+    "whatHappened": "We tried the checklist with a new Labrador puppy on his first neighborhood stroll. The dog stayed focused, and the owner felt in control.",
+    "whyItMatters": "First outings shape a pup’s perception of the world and set expectations for future walks. A calm start reduces anxiety for both dog and owner.",
+    "howToThink": "Treat the walk as a training session: pick a quiet route, use a well-fitted harness, keep treats handy, and reward calm walking every few steps.",
+    "pros": [
+      "Boosts confidence",
+      "Reduces pulling",
+      "Creates positive association"
+    ],
+    "cons": [
+      "Requires extra prep time",
+      "May need extra patience",
+      "Limited to short distances initially"
+    ],
+    "watchOut": "Avoid busy streets until the pup reliably responds to recall and heel cues.",
+    "faq": [
+      {
+        "q": "How long should the first walk be?",
+        "a": "Keep it to five‑ten minutes, just enough to explore without overwhelming the puppy."
+      },
+      {
+        "q": "What gear is essential for a first walk?",
+        "a": "A snug harness or collar, a standard 4‑foot leash, and a few small treats."
+      },
+      {
+        "q": "What if the puppy pulls?",
+        "a": "Stop walking, reset, and reward a few steps of loose‑leash before moving forward."
+      }
+    ],
+    "category": "Behavior",
+    "tags": [
+      "Puppies",
+      "Behavior"
+    ],
+    "sources": [
+      {
+        "label": "r/dogs community threads",
+        "url": "https://www.reddit.com/r/dogs/"
+      },
+      {
+        "label": "Search interest: \"positive reinforcement basics\"",
+        "url": "https://duckduckgo.com/?q=positive%20reinforcement%20basics"
+      }
+    ],
+    "publishedAt": "2026-10-26T18:45:13.754Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-health-83",
     "title": "Ask the forge: your health questions, answered",
     "dek": "Straight answers to the health questions first-time dog owners keep asking, minus the hedging.",

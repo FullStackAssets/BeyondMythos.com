@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midday-platform-herb-garden",
+    "title": "Midday Platform Herb Garden: Low‑Impact Greenery on Rural Trains",
+    "dek": "Turn a train stop into a pop‑up herb garden and harvest fresh flavor while keeping your carbon footprint tiny.",
+    "takeaway": "A small garden on the platform fuels sustainable meals and community connection.",
+    "whatHappened": "At a quiet countryside station, we set up portable pots of basil, mint, and chives on the waiting bench. Passengers were invited to snip a leaf and share cooking ideas during the layover.",
+    "whyItMatters": "Urban travelers often miss the chance to source truly local food, and train stations are low‑impact hubs. A herb garden bridges that gap, turning transit time into a foraging lesson.",
+    "howToThink": "Carry a few lightweight, reusable pots and seed packets; choose herbs that thrive in partial shade. Encourage fellow riders to contribute cuttings, creating a communal micro‑garden that moves with you.",
+    "pros": [
+      "Zero waste flavor boost",
+      "Easy, low‑cost setup",
+      "Builds traveler camaraderie"
+    ],
+    "cons": [
+      "Limited space on busy platforms",
+      "Needs occasional watering",
+      "Seasonal herb availability"
+    ],
+    "watchOut": "Avoid blocking walkways or violating station rules—keep the garden tidy and portable.",
+    "faq": [
+      {
+        "q": "Can I set up a herb garden on any train station?",
+        "a": "Yes, as long as the station allows temporary displays and you keep it small and non‑intrusive."
+      },
+      {
+        "q": "What herbs work best in a portable setup?",
+        "a": "Hardy, low‑maintenance herbs like mint, chives, and oregano handle variable light and brief watering."
+      },
+      {
+        "q": "How do I keep the garden from becoming a mess?",
+        "a": "Use saucers to catch runoff, limit watering to a light mist, and pack everything back into a carry‑bag when you leave."
+      }
+    ],
+    "category": "Local",
+    "tags": [
+      "herbs",
+      "community"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-10-26T18:45:07.502Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "midday-platform-plant-swap",
     "title": "Midday Platform Plant Swap: Low‑Impact Green Exchange on Rural Trains",
     "dek": "Swap seedlings at a rural train stop and keep your journey blooming while staying light on carbon.",

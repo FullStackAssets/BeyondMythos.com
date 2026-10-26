@@ -1,5 +1,56 @@
 [
   {
+    "slug": "five-techniques-mistakes-7",
+    "title": "Five mistakes everyone makes in their first month of techniques",
+    "dek": "The most common early stumbles in techniques, and the cheap corrections that fix them for miniature painters and tabletop hobbyists.",
+    "takeaway": "Month-one mistakes in techniques are nearly universal — and nearly all reversible if you catch them early.",
+    "whatHappened": "We combed the recurring \"what did I do wrong\" threads that miniature painters and tabletop hobbyists post and the same five techniques mistakes appear over and over: buying before learning, copying advanced setups, skipping the log, chasing novelty, and quitting during the boring middle.",
+    "whyItMatters": "Each of these mistakes feels productive while you're making it. That's why they persist — and why naming them explicitly saves newcomers weeks of stalled progress in techniques.",
+    "howToThink": "Audit yourself against the list once a month. The point isn't guilt — it's that every one of these has a five-minute correction if you notice it early enough.",
+    "pros": [
+      "Each mistake has a cheap fix",
+      "Recognition is most of the cure",
+      "Applies at any experience level"
+    ],
+    "cons": [
+      "Easy to nod along and change nothing",
+      "Some mistakes feel like progress",
+      "Lists can't replace a habit"
+    ],
+    "watchOut": "The most expensive version of every month-one mistake is the one you rationalize as \"investing in the hobby.\"",
+    "faq": [
+      {
+        "q": "Which mistake costs the most?",
+        "a": "Buying before learning — it converts enthusiasm into clutter and guilt instead of skill."
+      },
+      {
+        "q": "I already made all five. Now what?",
+        "a": "Good news: so did everyone else. Pick the one currently costing you the most and fix only that."
+      },
+      {
+        "q": "How do I avoid new mistakes?",
+        "a": "Keep the log. Most errors are invisible until they're written down."
+      }
+    ],
+    "category": "Techniques",
+    "tags": [
+      "Techniques",
+      "Tools"
+    ],
+    "sources": [
+      {
+        "label": "r/minipainting community threads",
+        "url": "https://www.reddit.com/r/minipainting/"
+      },
+      {
+        "label": "Search interest: \"miniature painting beginner guide\"",
+        "url": "https://duckduckgo.com/?q=miniature%20painting%20beginner%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-26T18:45:42.807Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "best-hobby-brushes-field-test-2",
     "title": "\"best hobby brushes\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about best hobby brushes through a month of actual use. Some of it survived.",

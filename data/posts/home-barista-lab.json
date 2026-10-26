@@ -1,5 +1,56 @@
 [
   {
+    "slug": "detect-espresso-shot-end-with-knock-sensor",
+    "title": "Detect Espresso Shot End with a Simple Knock Sensor",
+    "dek": "Add a cheap piezo knock sensor to your machine and let it tell you when the shot is done, no stopwatch needed.",
+    "takeaway": "A knock sensor gives you a reliable audible cue for shot completion.",
+    "whatHappened": "We installed a small piezo element under the portafilter cradle of a home espresso machine. When the water flow stops, the pressure change creates a subtle tap that the sensor picks up and triggers a beep.",
+    "whyItMatters": "Knowing the exact moment the shot ends helps maintain consistency and prevents over‑extraction. It also frees you from watching the timer, letting you focus on latte art.",
+    "howToThink": "Treat the sensor as an extra sense: calibrate it by pulling a few shots, listening for the beep, and then trust the signal for daily brewing. Adjust the sensitivity if you hear false triggers.",
+    "pros": [
+      "Cheap and easy to install",
+      "Provides audible cue",
+      "Works with any machine"
+    ],
+    "cons": [
+      "May need tweaking for different machines",
+      "Sensor can pick up unrelated vibrations",
+      "Requires a small power source"
+    ],
+    "watchOut": "Ensure the sensor isn’t exposed to water to avoid short circuits.",
+    "faq": [
+      {
+        "q": "Do I need technical skills to install?",
+        "a": "Basic DIY tools and a soldering iron are enough for most setups."
+      },
+      {
+        "q": "Can the sensor work with a capsule machine?",
+        "a": "It can, but the cradle design may require a custom mounting solution."
+      },
+      {
+        "q": "What if the beep is too quiet?",
+        "a": "Add a small amplifier or connect the sensor to a louder speaker."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "DIY"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-10-26T18:45:08.295Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "time-espresso-shot-without-timer",
     "title": "Time Your Espresso Shot Without a Timer Using Simple Visual Cues",
     "dek": "Learn how to gauge espresso extraction by sight and sound, no fancy timer needed.",

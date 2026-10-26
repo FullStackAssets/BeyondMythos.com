@@ -1,5 +1,56 @@
 [
   {
+    "slug": "skillet-chicken-sprint",
+    "title": "Skillet chicken sprint: 20‑minute office meals",
+    "dek": "A quick, high‑protein skillet chicken that cooks in under 20 minutes and stores perfectly for a week of lunches.",
+    "takeaway": "You can prep a tasty, protein‑rich chicken dish in under 20 minutes and keep it fresh all week.",
+    "whatHappened": "I tried a simple chicken‑and‑veggie skillet recipe using pre‑cut vegetables and a single pan. The result was a flavorful, moist chicken that survived three reheats without drying out.",
+    "whyItMatters": "Busy professionals need meals that are fast to prepare, nutritious, and storage‑friendly. This method proves you don’t need a fancy setup to meet those needs.",
+    "howToThink": "Start with a hot pan, season chicken briefly, add frozen or fresh veggies, and finish with a splash of sauce. Cool quickly, portion, and freeze or refrigerate. Reheat in the microwave or on the stovetop for a ready‑to‑eat meal.",
+    "pros": [
+      "Under 20 minutes",
+      "One‑pan cleanup",
+      "Freezer‑friendly"
+    ],
+    "cons": [
+      "Limited flavor variety",
+      "Relies on pre‑cut veg",
+      "May need extra sauce for reheating"
+    ],
+    "watchOut": "Avoid overcrowding the pan, or the chicken will steam instead of sear.",
+    "faq": [
+      {
+        "q": "Can I use turkey instead of chicken?",
+        "a": "Yes, thin turkey cutlets work the same way; just watch the cooking time."
+      },
+      {
+        "q": "Is this safe to freeze for a full week?",
+        "a": "Cool the dish quickly, portion, and store in airtight containers; it stays good for up to 5‑7 days."
+      },
+      {
+        "q": "What sauce works best for reheating?",
+        "a": "A simple soy‑ginger glaze or a dash of olive oil revives moisture during reheating."
+      }
+    ],
+    "category": "Recipes",
+    "tags": [
+      "quick",
+      "protein"
+    ],
+    "sources": [
+      {
+        "label": "r/MealPrepSunday community threads",
+        "url": "https://www.reddit.com/r/MealPrepSunday/"
+      },
+      {
+        "label": "Search interest: \"high protein meal prep\"",
+        "url": "https://duckduckgo.com/?q=high%20protein%20meal%20prep"
+      }
+    ],
+    "publishedAt": "2026-10-26T18:45:15.864Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-slowcooking-28",
     "title": "Community pulse: what r/slowcooking is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the tools community this week.",

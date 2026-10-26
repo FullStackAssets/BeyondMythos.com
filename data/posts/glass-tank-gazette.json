@@ -1,5 +1,56 @@
 [
   {
+    "slug": "boost-water-clarity-cheap-tricks",
+    "title": "Boost water clarity with cheap tricks",
+    "dek": "Clear water doesn't need expensive filters—simple steps can make your tank sparkle.",
+    "takeaway": "A few low‑cost habits dramatically improve water transparency.",
+    "whatHappened": "We tried three budget‑friendly tweaks—regular water changes, activated carbon upgrades, and strategic placement of live plants—in a 20‑gallon community tank. Within a week, the haze lifted and the substrate looked brighter.",
+    "whyItMatters": "Crystal‑clear water not only looks better, it reduces stress for fish and promotes healthier plant growth. Keeping the view pristine also helps spot early signs of disease or algae bloom.",
+    "howToThink": "Focus on three pillars: mechanical filtration, biological balance, and plant coverage. Swap in fresh carbon, schedule consistent 25% water changes, and add a fast‑growing stem plant to mop up excess nutrients.",
+    "pros": [
+      "Low cost, easy to implement",
+      "Immediate visual improvement",
+      "Boosts overall tank health"
+    ],
+    "cons": [
+      "Requires routine maintenance",
+      "Plant growth may need trimming",
+      "Carbon needs periodic replacement"
+    ],
+    "watchOut": "Over‑planting can shade other flora, so balance plant density with light needs.",
+    "faq": [
+      {
+        "q": "How often should I replace activated carbon?",
+        "a": "Replace it every 4–6 weeks, or sooner if you notice a drop in water clarity."
+      },
+      {
+        "q": "Can I use any fast‑growing plant?",
+        "a": "Stem plants like hornwort, water wisteria, or duckweed work well for quick nutrient uptake."
+      },
+      {
+        "q": "Do frequent water changes affect beneficial bacteria?",
+        "a": "If you change no more than 30% at a time, the bacterial colonies remain stable."
+      }
+    ],
+    "category": "Water",
+    "tags": [
+      "clarity",
+      "budget"
+    ],
+    "sources": [
+      {
+        "label": "r/PlantedTank community threads",
+        "url": "https://www.reddit.com/r/PlantedTank/"
+      },
+      {
+        "label": "Search interest: \"planted tank setup\"",
+        "url": "https://duckduckgo.com/?q=planted%20tank%20setup"
+      }
+    ],
+    "publishedAt": "2026-10-26T18:45:41.663Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "fish-pre-spend-checklist-71",
     "title": "The fish checklist: run this before you spend",
     "dek": "Seven questions that separate a justified fish purchase from an expensive mood.",

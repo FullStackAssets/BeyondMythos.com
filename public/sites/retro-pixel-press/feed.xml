@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Rewiring the NES Zapper for Reliable Light Gun Play</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/rewiring-nes-zapper.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/rewiring-nes-zapper.html</guid>
+      <pubDate>Mon, 26 Oct 2026 18:45:08 GMT</pubDate>
+      <description>Fix flaky NES Zapper performance with a simple rewiring guide that restores crisp on-screen targeting.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Tuning NES Audio for Cleaner Sound</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/tuning-nes-audio.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/tuning-nes-audio.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/heatwave-nes-heat-sink.html</guid>
       <pubDate>Mon, 19 Oct 2026 13:45:08 GMT</pubDate>
       <description>A quick guide to adding a low‑cost heat sink to your NES, keeping it cool for marathon speedruns.</description>
-    </item>
-    <item>
-      <title>Pixel Pulse: Modifying Game Boy Link Cable for Faster Data Transfer</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-pulse-modifying-game-boy-link-cable.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-pulse-modifying-game-boy-link-cable.html</guid>
-      <pubDate>Mon, 19 Oct 2026 12:45:07 GMT</pubDate>
-      <description>Upgrade your Game Boy link cable to cut lag and keep your speedrun splits tight.</description>
     </item>
   </channel>
 </rss>

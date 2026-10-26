@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/home-barista-lab/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Detect Espresso Shot End with a Simple Knock Sensor</title>
+      <link>https://www.beyondmythos.com/sites/home-barista-lab/posts/detect-espresso-shot-end-with-knock-sensor.html</link>
+      <guid>https://www.beyondmythos.com/sites/home-barista-lab/posts/detect-espresso-shot-end-with-knock-sensor.html</guid>
+      <pubDate>Mon, 26 Oct 2026 18:45:08 GMT</pubDate>
+      <description>Add a cheap piezo knock sensor to your machine and let it tell you when the shot is done, no stopwatch needed.</description>
+    </item>
+    <item>
       <title>Time Your Espresso Shot Without a Timer Using Simple Visual Cues</title>
       <link>https://www.beyondmythos.com/sites/home-barista-lab/posts/time-espresso-shot-without-timer.html</link>
       <guid>https://www.beyondmythos.com/sites/home-barista-lab/posts/time-espresso-shot-without-timer.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/home-barista-lab/posts/adjust-group-temp.html</guid>
       <pubDate>Mon, 19 Oct 2026 13:45:09 GMT</pubDate>
       <description>A few simple steps let you dial in the group temperature and keep your espresso tasting steady day to day.</description>
-    </item>
-    <item>
-      <title>Add a Pre‑Infusion Pause for Smoother Espresso</title>
-      <link>https://www.beyondmythos.com/sites/home-barista-lab/posts/add-preinfusion-pause.html</link>
-      <guid>https://www.beyondmythos.com/sites/home-barista-lab/posts/add-preinfusion-pause.html</guid>
-      <pubDate>Mon, 19 Oct 2026 12:45:08 GMT</pubDate>
-      <description>A quick pre‑infusion pause can smooth out channeling and improve flavor without new gear.</description>
     </item>
   </channel>
 </rss>

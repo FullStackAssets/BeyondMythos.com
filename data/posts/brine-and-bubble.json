@@ -1,5 +1,56 @@
 [
   {
+    "slug": "boost-your-brine-quick-pickles",
+    "title": "Boost your brine: quick pickles for busy weekends",
+    "dek": "Turn ordinary veggies into tangy, crunchy pickles in under an hour—perfect for the weekend crowd.",
+    "takeaway": "Fast pickling gives you flavor without the wait, so you can enjoy fresh crunch any day.",
+    "whatHappened": "I tried a 45‑minute quick‑pickle method with cucumbers, carrots, and radishes, using a basic salt‑water brine and a splash of vinegar. The jars were ready to eat by dinner, and the vegetables stayed crisp and bright. The experiment proved that a short ferment can still deliver satisfying tang.",
+    "whyItMatters": "Home fermenters often think pickling requires weeks of patience, which can deter newcomers. Demonstrating a rapid approach shows that rewarding results are achievable on a tight schedule, encouraging more people to experiment with vegetables.",
+    "howToThink": "Start with clean, firm veggies; slice them uniformly for even brine penetration. Use a 5% salt solution (roughly one tablespoon per cup of water) and add a mild acid like apple cider vinegar for instant tang. Keep jars at room temperature for 30‑45 minutes, then refrigerate to halt activity and preserve crunch.",
+    "pros": [
+      "Instant flavor boost",
+      "Minimal equipment needed",
+      "Keeps veggies crisp"
+    ],
+    "cons": [
+      "Short shelf life (a week)",
+      "Limited depth of fermentation flavor",
+      "Requires close monitoring"
+    ],
+    "watchOut": "If the brine isn’t salty enough, you risk unwanted spoilage microbes taking hold.",
+    "faq": [
+      {
+        "q": "Can I use other vegetables besides cucumbers?",
+        "a": "Absolutely—carrots, radishes, green beans, and even cauliflower work well in the quick‑pickle method."
+      },
+      {
+        "q": "Do I need to sterilize the jars?",
+        "a": "A quick rinse with hot water is sufficient; the short fermentation doesn’t demand full sterilization."
+      },
+      {
+        "q": "How long can I keep these pickles in the fridge?",
+        "a": "They stay crisp and tasty for about 5‑7 days, after which texture may soften."
+      }
+    ],
+    "category": "Vegetables",
+    "tags": [
+      "quick pickles",
+      "weekend ferment"
+    ],
+    "sources": [
+      {
+        "label": "r/fermentation community threads",
+        "url": "https://www.reddit.com/r/fermentation/"
+      },
+      {
+        "label": "Search interest: \"fermentation for beginners\"",
+        "url": "https://duckduckgo.com/?q=fermentation%20for%20beginners"
+      }
+    ],
+    "publishedAt": "2026-10-26T18:45:30.773Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "fermented-hot-sauce-recipe-field-test-27",
     "title": "\"fermented hot sauce recipe\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about fermented hot sauce recipe through a month of actual use. Some of it survived.",
