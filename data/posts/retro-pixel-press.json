@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-boost-rewiring-gba-link-cable",
+    "title": "Pixel Boost: Rewiring Game Boy Advance Link Cable for Reliable Multiplayer",
+    "dek": "Fix flaky GBA link cables with a simple rewiring to ensure smooth multiplayer sessions.",
+    "takeaway": "A proper wire connection restores stable multiplayer without costly replacements.",
+    "whatHappened": "Many collectors noticed intermittent disconnections when using original Game Boy Advance link cables. The culprit is often broken or oxidized internal wires. A quick rewiring restores continuity.",
+    "whyItMatters": "Multiplayer battles are a core part of the GBA experience, especially for speedrun practice and competitive play. Unreliable cables can ruin runs and frustrate collectors.",
+    "howToThink": "Inspect the cable, identify broken strands, and reseat them with fresh solder and heat‑shrink tubing. Use a multimeter to verify continuity before testing the link.",
+    "pros": [
+      "Cost‑effective fix",
+      "Extends cable lifespan",
+      "Improves multiplayer reliability"
+    ],
+    "cons": [
+      "Requires soldering tools",
+      "Risk of short if done improperly",
+      "Time investment for careful work"
+    ],
+    "watchOut": "Make sure the cable is unplugged from both consoles before soldering to avoid damage.",
+    "faq": [
+      {
+        "q": "Do I need special tools?",
+        "a": "A basic soldering iron, thin solder, and heat‑shrink tubing are sufficient."
+      },
+      {
+        "q": "Can I use any replacement wire?",
+        "a": "Fine‑gauge stranded wire matching the original gauge works best."
+      },
+      {
+        "q": "Will this void any warranties?",
+        "a": "The GBA is long out of warranty, so the modification is effectively risk‑free for vintage hardware."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "GBA",
+      "Link Cable"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-27T23:45:08.721Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-boost-tg16-audio-tuning",
     "title": "Pixel Boost: Tuning TurboGrafx‑16 Audio Output for Clear Retro Sound",
     "dek": "Boost your TurboGrafx‑16 audio clarity with a simple capacitor swap and connector cleaning.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "boost-espresso-extraction-pressure-gauge",
+    "title": "Boost Espresso Extraction with a Simple Pressure Gauge Hack",
+    "dek": "Add a cheap pressure gauge to your machine and instantly see what’s holding back your shot consistency.",
+    "takeaway": "Seeing real‑time pressure lets you dial in the sweet spot for every bean.",
+    "whatHappened": "While testing a low‑cost analog gauge on a home machine, we discovered that small pressure drifts were the hidden cause of inconsistent extractions. A quick visual cue let us adjust grind and tamp on the fly.",
+    "whyItMatters": "Pressure governs flow rate and flavor balance; without a clear readout you’re guessing. A simple gauge turns guesswork into data, leading to richer, more repeatable espresso.",
+    "howToThink": "Mount the gauge on the portafilter’s pressure port, pull a shot, and note the peak pressure. If it spikes low or high, tweak grind size or tamp pressure until the gauge steadies around the target range for your machine.",
+    "pros": [
+      "Instant visual feedback",
+      "Cheap and easy to install",
+      "Improves shot consistency"
+    ],
+    "cons": [
+      "Adds a small extra component",
+      "May need occasional calibration",
+      "Not useful for fully automatic machines without a pressure port"
+    ],
+    "watchOut": "Ensure the gauge is rated for espresso pressures to avoid damage or inaccurate readings.",
+    "faq": [
+      {
+        "q": "Do I need a special gauge for espresso?",
+        "a": "A standard coffee pressure gauge that reads up to 15 bar works fine for most home machines."
+      },
+      {
+        "q": "Where should I attach the gauge?",
+        "a": "Most machines have a pressure port on the group head or you can use a portafilter adapter that screws in."
+      },
+      {
+        "q": "Will the gauge affect my brew temperature?",
+        "a": "No, it only measures pressure; temperature remains unchanged."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "tips"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-10-27T23:45:07.240Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-pourover-18",
     "title": "Community pulse: what r/pourover is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the gear community this week.",

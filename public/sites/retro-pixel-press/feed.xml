@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Rewiring Game Boy Advance Link Cable for Reliable Multiplayer</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-rewiring-gba-link-cable.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-rewiring-gba-link-cable.html</guid>
+      <pubDate>Tue, 27 Oct 2026 23:45:08 GMT</pubDate>
+      <description>Fix flaky GBA link cables with a simple rewiring to ensure smooth multiplayer sessions.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Tuning TurboGrafx‑16 Audio Output for Clear Retro Sound</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-tg16-audio-tuning.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-tg16-audio-tuning.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/rewiring-nes-zapper.html</guid>
       <pubDate>Mon, 26 Oct 2026 18:45:08 GMT</pubDate>
       <description>Fix flaky NES Zapper performance with a simple rewiring guide that restores crisp on-screen targeting.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Tuning NES Audio for Cleaner Sound</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/tuning-nes-audio.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/tuning-nes-audio.html</guid>
-      <pubDate>Tue, 20 Oct 2026 17:45:10 GMT</pubDate>
-      <description>Boost your NES’s sound quality with simple tweaks to the audio output circuitry.</description>
     </item>
   </channel>
 </rss>

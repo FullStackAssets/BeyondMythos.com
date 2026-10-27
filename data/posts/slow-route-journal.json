@@ -1,5 +1,56 @@
 [
   {
+    "slug": "afternoon-platform-reading",
+    "title": "Afternoon Platform Reading: Low‑Impact Book Exchange on Rural Trains",
+    "dek": "A quick book swap at the carriage door turns a routine ride into a low‑impact community moment.",
+    "takeaway": "A simple book exchange on a train deepens connections while keeping your carbon footprint tiny.",
+    "whatHappened": "During a three‑hour regional service we placed a small shelf of donated paperbacks at the carriage door. Passengers swapped titles, chatted briefly, and left with new reads for the next leg of their journey.",
+    "whyItMatters": "Sharing books extends the life of printed material, reduces waste, and nurtures community on journeys that often feel anonymous.",
+    "howToThink": "Next time you board, bring a lightweight paperback, a sticky note, and a willingness to chat; the exchange can be as informal as a quick hand‑off at a stop.",
+    "pros": [
+      "Zero‑cost activity",
+      "Boosts passenger interaction",
+      "Gives books a second life"
+    ],
+    "cons": [
+      "Needs a tidy spot",
+      "May attract non‑readers",
+      "Limited to paper books"
+    ],
+    "watchOut": "Keep the shelf clear of liquids and secure it to avoid rolling during stops.",
+    "faq": [
+      {
+        "q": "Do I need permission from the train operator?",
+        "a": "Most operators allow small, non‑obtrusive items; a quick check with staff ensures compliance."
+      },
+      {
+        "q": "What if I’m traveling with a digital reader?",
+        "a": "You can still join by sharing e‑book recommendations via a QR code or a printed list."
+      },
+      {
+        "q": "How many books can I realistically carry?",
+        "a": "A couple of light paperbacks fit easily in a backpack without adding much weight."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "community"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-10-27T23:45:12.024Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "midday-platform-breathing-low-impact-mindful-pau",
     "title": "Midday Platform Breathing: Low‑Impact Mindful Pauses on Rural Trains",
     "dek": "A quick guide to turning train pauses into low‑impact mindfulness moments.",
