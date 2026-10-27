@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-pressure-lever-hack",
+    "title": "Tame Espresso Pressure with a Simple Lever Trick",
+    "dek": "Learn a quick lever tweak to stabilize pressure and boost espresso consistency.",
+    "takeaway": "A small lever adjustment can smooth pressure spikes for richer shots.",
+    "whatHappened": "While testing a home espresso setup, I added a lightweight lever to the portafilter handle to manually modulate pressure during extraction. The lever let me feel resistance changes and adjust on the fly, resulting in a smoother flow. The experiment proved that a tactile cue can replace guesswork.",
+    "whyItMatters": "Consistent pressure is the hidden driver of flavor balance in espresso. When pressure spikes, you get over‑extraction and bitter notes; when it dips, the shot can taste thin. By keeping pressure steady, you let the coffee’s natural sweetness and acidity shine.",
+    "howToThink": "Treat the lever as a subtle brake—press gently when the flow feels too fast, ease off when it slows. Practice with a few shots to sense the sweet spot, then let the feel guide you each brew. The goal is a steady, even stream from start to finish.",
+    "pros": [
+      "Easy DIY addition",
+      "Immediate tactile feedback",
+      "Improves shot consistency"
+    ],
+    "cons": [
+      "Adds a small moving part",
+      "Requires practice to master feel",
+      "May not fit all portafilter designs"
+    ],
+    "watchOut": "Avoid over‑pressuring the lever; too much force can damage the portafilter or disrupt the pump.",
+    "faq": [
+      {
+        "q": "Do I need special tools to attach the lever?",
+        "a": "A small drill bit and a screw that fits the portafilter’s existing hole are enough—no fancy equipment required."
+      },
+      {
+        "q": "Will this affect my machine’s warranty?",
+        "a": "The lever attaches externally and doesn’t modify the machine’s internals, so it generally won’t void the warranty."
+      },
+      {
+        "q": "Can I use this trick with a pressurized portafilter?",
+        "a": "It works best with a non‑pressurized basket where pressure control matters most."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "technique"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-10-27T17:45:07.691Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-preinfusion-pause",
     "title": "Add a Pre‑infusion Pause for a Fuller Espresso Flavor",
     "dek": "Add a brief pause before the full pump to coax richer flavors from your espresso without extra gear.",

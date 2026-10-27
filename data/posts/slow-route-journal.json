@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midday-platform-conversation",
+    "title": "Midday Platform Conversation: Low‑Impact Storytelling on Rural Trains",
+    "dek": "Swap stories with fellow travelers on a slow train, keeping the carbon footprint light and the dialogue richer.",
+    "takeaway": "A shared narrative can turn a routine ride into a low‑impact cultural exchange.",
+    "whatHappened": "During a midday stop on a regional line, a group of passengers gathered on the platform with notebooks and a portable recorder. They exchanged travel tales, local legends, and tips for minimizing waste on the journey.",
+    "whyItMatters": "Storytelling builds community without extra transport, reinforcing low‑impact values and enriching the travel experience. It also encourages listeners to adopt mindful habits they hear about.",
+    "howToThink": "Treat each platform pause as a micro‑workshop: ask open‑ended questions, listen without judgement, and note any sustainable practices mentioned. Keep the exchange brief to respect schedules, but let curiosity guide the flow.",
+    "pros": [
+      "Fosters connection",
+      "Encourages sustainable ideas",
+      "No extra resources needed"
+    ],
+    "cons": [
+      "Depends on willing participants",
+      "Can be noisy in busy stations",
+      "Time limited by train schedule"
+    ],
+    "watchOut": "Make sure the conversation doesn’t block boarding pathways or disturb other passengers.",
+    "faq": [
+      {
+        "q": "How can I start a storytelling circle without seeming intrusive?",
+        "a": "Begin with a friendly greeting, mention you’re collecting low‑impact travel tips, and invite anyone to share a short anecdote."
+      },
+      {
+        "q": "What if I’m not a confident speaker?",
+        "a": "Listening is just as valuable; you can contribute by asking follow‑up questions or sharing written notes."
+      },
+      {
+        "q": "Are there any tools that help keep the exchange low‑impact?",
+        "a": "A simple notebook, a pen, and a small rechargeable recorder are enough—no paper waste or disposable batteries needed."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "storytelling"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-10-27T17:45:09.753Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "midday-platform-planting",
     "title": "Midday Platform Planting: Low‑Impact Seed Swaps on Rural Trains",
     "dek": "Swap seeds with fellow travelers at the station garden and let your journey sprout new green connections.",

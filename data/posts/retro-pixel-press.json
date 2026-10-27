@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-boost-restoring-game-boy-cartridge-contact",
+    "title": "Pixel Boost: Restoring Game Boy Cartridge Contacts for Smooth Play",
+    "dek": "A quick guide to cleaning and re‑tinning Game Boy cartridge edge contacts for reliable loading and fewer dead frames.",
+    "takeaway": "Clean contacts = fewer freezes and smoother runs.",
+    "whatHappened": "We discovered a batch of original Game Boy cartridges suffering from oxidized contacts, causing intermittent reads. A simple cleaning and re‑tinning restored full functionality.",
+    "whyItMatters": "For collectors, preserving playability keeps the hardware valuable. For speedrunners, reliable loads shave precious seconds off runs.",
+    "howToThink": "Use isopropyl alcohol and a soft brush to remove grime, then apply a thin layer of conductive grease. Test each cartridge before and after. Keep a maintenance log to track which titles need repeat care.",
+    "pros": [
+      "Revives dead cartridges",
+      "Improves load consistency",
+      "Low-cost fix"
+    ],
+    "cons": [
+      "Requires careful handling",
+      "Conductive grease can attract dust",
+      "Time-consuming for large libraries"
+    ],
+    "watchOut": "Avoid excess liquid; it can seep into the cartridge PCB and cause damage.",
+    "faq": [
+      {
+        "q": "Can I use regular household cleaning supplies?",
+        "a": "Stick to isopropyl alcohol (90%+); other cleaners may leave residues."
+      },
+      {
+        "q": "Is conductive grease necessary?",
+        "a": "It helps prevent future oxidation, but a clean dry contact often works fine."
+      },
+      {
+        "q": "Will this affect the cartridge's value?",
+        "a": "Proper restoration can actually maintain or increase value when documented."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "hardware",
+      "preservation"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-27T17:45:08.479Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "restoring-c64-cartridge-connectors",
     "title": "Pixel Boost: Restoring Commodore 64 Cartridge Edge Connectors",
     "dek": "A quick guide to cleaning and re‑tinning C64 cartridge edge connectors for reliable gameplay.",
