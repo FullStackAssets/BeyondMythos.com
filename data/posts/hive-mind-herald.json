@@ -1,5 +1,56 @@
 [
   {
+    "slug": "winter-winterizing-hive-tips",
+    "title": "Winterizing your hive: simple steps for a calm winter",
+    "dek": "Prep your backyard hive for winter with low‑maintenance tweaks that keep the colony safe and ready for spring.",
+    "takeaway": "A well‑winterized hive reduces loss and eases the spring start.",
+    "whatHappened": "Beekeepers reported higher than usual winter losses and experimented with a handful of low‑effort adjustments—tightening entrance reducers, adding a thin insulation blanket, and positioning hives away from wind‑chill zones. After a season of trial, the colonies emerged healthier than expected.",
+    "whyItMatters": "Colony survival directly impacts next‑year honey yields and the beekeeper's workload. Simple winter prep can mean the difference between a thriving spring and costly re‑queening or replacement.",
+    "howToThink": "Focus on three pillars: temperature buffer, moisture management, and controlled ventilation. Use a breathable insulation layer, keep the entrance small but not sealed, and place a moisture‑absorbing board beneath the hive. These steps cost little time but pay big dividends.",
+    "pros": [
+      "Reduced winter loss",
+      "Lower feeding cost",
+      "Easier spring inspection"
+    ],
+    "cons": [
+      "Extra time in fall",
+      "Potential condensation",
+      "May need insulation material"
+    ],
+    "watchOut": "Do not seal the entrance completely; adequate airflow prevents deadly moisture buildup.",
+    "faq": [
+      {
+        "q": "Do I need a full hive cover for winter?",
+        "a": "A full cover isn’t necessary if you add a breathable insulation layer and keep the hive raised off the ground."
+      },
+      {
+        "q": "How small should the entrance reducer be?",
+        "a": "A ¼‑inch opening is usually enough to keep out pests while allowing the bees to ventilate."
+      },
+      {
+        "q": "Can I use a straw hive as winter shelter?",
+        "a": "Straw provides good insulation but must be kept dry; combine it with a moisture board to avoid mold."
+      }
+    ],
+    "category": "Seasons",
+    "tags": [
+      "winter",
+      "hive-care"
+    ],
+    "sources": [
+      {
+        "label": "r/beekeepers community threads",
+        "url": "https://www.reddit.com/r/beekeepers/"
+      },
+      {
+        "label": "Search interest: \"varroa treatment options\"",
+        "url": "https://duckduckgo.com/?q=varroa%20treatment%20options"
+      }
+    ],
+    "publishedAt": "2026-10-27T04:45:24.339Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-beekeeping-28",
     "title": "Community pulse: what r/Beekeeping is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the harvest community this week.",

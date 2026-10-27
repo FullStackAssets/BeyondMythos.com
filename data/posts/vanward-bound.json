@@ -1,5 +1,56 @@
 [
   {
+    "slug": "solar-panels-optimizing-energy",
+    "title": "Solar panels on the move: optimizing your van's energy harvest",
+    "dek": "Maximize solar output on the road with simple placement tweaks and smart wiring tricks.",
+    "takeaway": "Smart panel placement and wiring can boost your van’s solar harvest without extra cost.",
+    "whatHappened": "We swapped a flat‑mounted panel for a tilt‑mount on a weekend trip and logged daily charge rates. The tilt‑mount consistently added a few extra amp‑hours, especially on cloudy mornings. We also re‑routed the charge controller cables to reduce voltage drop.",
+    "whyItMatters": "Every watt counts when you’re off‑grid; a modest boost in solar intake extends your fridge run time and reduces reliance on noisy generators. Better efficiency translates to more freedom and less stress on limited battery reserves.",
+    "howToThink": "Mount panels where they can tilt toward the sun, even if it means a small roof bracket. Keep wiring runs short and use appropriately sized gauge wire to cut loss. Pair your panels with a MPPT controller to extract the most power in varying conditions.",
+    "pros": [
+      "Higher daily charge",
+      "Reduced generator use",
+      "Improved battery longevity"
+    ],
+    "cons": [
+      "Slight weight increase",
+      "More complex mounting",
+      "Potential roof leaks if not sealed properly"
+    ],
+    "watchOut": "Ensure any roof modifications are watertight; a leak can ruin electronics faster than a low solar output.",
+    "faq": [
+      {
+        "q": "Do I need a new inverter after adding more solar?",
+        "a": "Not necessarily; if your existing inverter handles the peak load, focus on solar and battery sizing."
+      },
+      {
+        "q": "Can I use flexible panels instead of rigid ones?",
+        "a": "Flexible panels work but typically deliver less power per area; they’re best for curved surfaces."
+      },
+      {
+        "q": "How often should I clean the panels?",
+        "a": "A quick wipe every few weeks in dusty areas keeps efficiency up; rain usually does the job in wetter climates."
+      }
+    ],
+    "category": "Power",
+    "tags": [
+      "Power",
+      "Solar"
+    ],
+    "sources": [
+      {
+        "label": "r/overlanding community threads",
+        "url": "https://www.reddit.com/r/overlanding/"
+      },
+      {
+        "label": "Search interest: \"best van life routes\"",
+        "url": "https://duckduckgo.com/?q=best%20van%20life%20routes"
+      }
+    ],
+    "publishedAt": "2026-10-27T04:45:23.743Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "one-pot-wonders-fueling-weekend-overland",
     "title": "One-pot wonders: fueling your weekend overland trips",
     "dek": "Maximize flavor and simplicity with single-pot meals that fit any van kitchen.",

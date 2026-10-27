@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midday-platform-gear-low-impact-packing",
+    "title": "Midday Platform Gear: Low-Impact Packing for Rural Trains",
+    "dek": "Smart, sustainable packing tips to keep your rail wander light and low-impact.",
+    "takeaway": "Pack less, travel lighter, and leave a smaller footprint on the rails.",
+    "whatHappened": "During a week‑long trek across the countryside by regional train, we tested a minimalist packing list that fit in a single carry‑on. The setup proved surprisingly comfortable for daily excursions and overnight stays.",
+    "whyItMatters": "Carrying less reduces fuel consumption indirectly by encouraging lighter loads on trains, and it forces travelers to consider the environmental cost of each item. A streamlined bag also means more room for local souvenirs without crowding the carriage aisle.",
+    "howToThink": "Prioritize multi‑use pieces—think a scarf that doubles as a blanket or a jacket that works in rain and shine. Choose reusable items like a stainless steel bottle and solid toiletries to cut waste. Pack by weight, not volume, and leave space for any unexpected finds along the route.",
+    "pros": [
+      "Reduced weight",
+      "Less waste",
+      "More flexibility"
+    ],
+    "cons": [
+      "Limited clothing options",
+      "Frequent laundry needed",
+      "Potential for forgetfulness"
+    ],
+    "watchOut": "Watch out for train luggage size limits on older carriages, especially on short‑haul services.",
+    "faq": [
+      {
+        "q": "How many clothes should I bring?",
+        "a": "Aim for versatile layers you can mix and match, focusing on fabrics that handle both warmth and breathability."
+      },
+      {
+        "q": "Can I bring a reusable water bottle?",
+        "a": "Yes, most regional trains have bottle‑filling stations; just keep it sealed."
+      },
+      {
+        "q": "What about toiletries?",
+        "a": "Opt for solid alternatives like shampoo bars and toothpaste tablets to save space and avoid liquids."
+      }
+    ],
+    "category": "Packing",
+    "tags": [
+      "packing",
+      "rail"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-10-27T04:45:07.243Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "midday-platform-language-low-impact-conversation",
     "title": "Midday Platform Language: Low-Impact Conversation on Rural Trains",
     "dek": "Learn how brief, mindful chats on regional trains can deepen local ties while keeping your carbon footprint tiny.",

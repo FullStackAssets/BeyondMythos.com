@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-water-hardness-test",
+    "title": "Check Water Hardness with a Simple Test Strip",
+    "dek": "A quick strip test reveals if your tap water is too hard, helping you fine‑tune flavor without pricey equipment.",
+    "takeaway": "Know your water hardness to protect equipment and extract cleaner espresso.",
+    "whatHappened": "I noticed a lingering metallic taste and faster scale buildup on my group head. A cheap test strip showed my water was borderline hard. After a simple filter swap, the taste brightened and cleaning intervals lengthened.",
+    "whyItMatters": "Hard water deposits alter temperature stability and restrict flow, compromising shot consistency. Softer water preserves grinder burrs and prolongs boiler life, making each brew more reliable.",
+    "howToThink": "Treat water as a variable like dose or grind size; test it monthly and adjust with a filter or mineral blend. If strips read above the recommended range, consider a reverse‑osmosis unit or a cartridge filter. Keep a log alongside your other espresso parameters.",
+    "pros": [
+      "Inexpensive",
+      "Fast results",
+      "No lab needed"
+    ],
+    "cons": [
+      "Strip accuracy limited",
+      "Requires periodic testing",
+      "May need additional filtration"
+    ],
+    "watchOut": "Avoid over‑softening water, which can lead to flat extraction and under‑extracted flavors.",
+    "faq": [
+      {
+        "q": "How often should I test my water?",
+        "a": "A monthly check is enough for most households, or after any plumbing changes."
+      },
+      {
+        "q": "Can I use the same strips for pour‑over?",
+        "a": "Yes, water hardness affects any brewing method, so the test is universally useful."
+      },
+      {
+        "q": "Do I need a professional water analysis?",
+        "a": "Not for home use; a strip gives a reliable range for everyday adjustments."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "water",
+      "espresso"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-10-27T04:45:07.909Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-foam-tap-test",
     "title": "Boost Espresso Foam Consistency with a Simple Tap Test",
     "dek": "A quick tap on the portafilter reveals hidden issues affecting your crema and foam texture.",

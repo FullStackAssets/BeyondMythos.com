@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Upgrading Game Gear Battery for Longer Sessions</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/upgrading-game-gear-battery.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/upgrading-game-gear-battery.html</guid>
+      <pubDate>Tue, 27 Oct 2026 04:45:08 GMT</pubDate>
+      <description>Swap the original Game Gear battery for a higher-capacity rechargeable unit to extend playtime without sacrificing portability.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Restoring Game Gear LCD Backlight for Brighter Play</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/restoring-game-gear-lcd.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/restoring-game-gear-lcd.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/crt-setup-guide-field-test-18.html</guid>
       <pubDate>Mon, 19 Oct 2026 23:45:05 GMT</pubDate>
       <description>We put the most-repeated advice about crt setup guide through a month of actual use. Some of it survived.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Lubricating NES Controller Joysticks for Smoother Runs</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-lubricate-nes-joystick.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-lubricate-nes-joystick.html</guid>
-      <pubDate>Mon, 19 Oct 2026 22:45:07 GMT</pubDate>
-      <description>A quick joystick lube can tighten response, shave precious frames, and keep your classic NES controller humming for marathon speedruns.</description>
     </item>
   </channel>
 </rss>

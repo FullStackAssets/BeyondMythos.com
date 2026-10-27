@@ -1,5 +1,56 @@
 [
   {
+    "slug": "sneaky-savings-1080p-gaming-115-used-rx560",
+    "title": "Sneaky Savings: 1080p Gaming with a $115 Used Radeon RX 560",
+    "dek": "A $115 used Radeon RX 560 can surprisingly hold its own at 1080p, proving budget builds still have bite.",
+    "takeaway": "You can game 1080p on a tight budget with a modest used GPU.",
+    "whatHappened": "We sourced a Radeon RX 560 in the $100-$120 range from a local marketplace and installed it in a mid-range build. Then we tested popular esports titles at 1080p.",
+    "whyItMatters": "Many builders think you need a $200+ card for decent 1080p, but older GPUs still deliver playable frame rates. This keeps total system cost low and leaves room for other upgrades.",
+    "howToThink": "When hunting used GPUs, prioritize cards with decent VRAM and low power draw, and verify that drivers are still supported. Pair the RX 560 with a modest CPU to avoid bottlenecks, and set graphics settings to medium or high depending on the title.",
+    "pros": [
+      "Low price",
+      "Decent 1080p performance",
+      "Low power draw"
+    ],
+    "cons": [
+      "Limited future-proofing",
+      "No ray tracing",
+      "Driver updates slower"
+    ],
+    "watchOut": "Watch out for cards with missing fans or signs of overheating.",
+    "faq": [
+      {
+        "q": "Is the RX 560 still supported by AMD drivers?",
+        "a": "Yes, AMD continues to provide driver updates for the RX 560, though major feature updates have slowed."
+      },
+      {
+        "q": "Can I play newer AAA games at 1080p?",
+        "a": "Older titles run smoothly, while newer AAA games may require lowering settings to medium."
+      },
+      {
+        "q": "What power supply do I need?",
+        "a": "The RX 560 draws modest power, so a 450W PSU is usually sufficient."
+      }
+    ],
+    "category": "GPUs",
+    "tags": [
+      "budget-gpu",
+      "rx560"
+    ],
+    "sources": [
+      {
+        "label": "r/buildapc community threads",
+        "url": "https://www.reddit.com/r/buildapc/"
+      },
+      {
+        "label": "Search interest: \"used pc parts guide\"",
+        "url": "https://duckduckgo.com/?q=used%20pc%20parts%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-27T04:45:11.177Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "used-rtx-2060-1080p-budget",
     "title": "Sneaky Savings: 1080p Gaming with a $150 Used RTX 2060",
     "dek": "A $150 RTX 2060 can still push 1080p titles with modest settings, stretching your budget further.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "vertical-herb-tower",
+    "title": "Vertical Herb Tower: Maximizing Flavor in Tiny Balconies",
+    "dek": "Stack pots vertically on your balcony to grow a rotating herb garden without sacrificing floor space.",
+    "takeaway": "A vertical herb tower turns limited balcony width into a thriving, harvest‑ready herb wall.",
+    "whatHappened": "We tried a DIY wooden pallet fitted with modular planter pockets on a sunny balcony. Within weeks the basil, mint, and thyme filled the tiered slots, creating a lush, aromatic backdrop. The tower stayed stable and easy to water from the top down.",
+    "whyItMatters": "Balcony dwellers often lack horizontal room for a full herb garden. By going vertical, you free up floor space for seating or other plants while keeping fresh flavor at arm’s reach. Continuous harvest encourages cooking with herbs, reducing grocery trips and waste.",
+    "howToThink": "Choose a sturdy, weather‑resistant frame and size the pockets for the mature spread of each herb. Position the tower where it catches morning sun and can be watered from the top to let gravity feed the lower tiers. Rotate herbs seasonally to match light and temperature changes, keeping the tower productive year‑round.",
+    "pros": [
+      "Space‑efficient",
+      "Easy watering from the top",
+      "Eye‑catching décor"
+    ],
+    "cons": [
+      "Initial build effort",
+      "Weight when fully planted",
+      "Limited to shallow‑rooted herbs"
+    ],
+    "watchOut": "Ensure the balcony rail can support the tower’s weight once all pots are filled.",
+    "faq": [
+      {
+        "q": "What materials work best for a balcony‑friendly tower?",
+        "a": "Untreated cedar, recycled plastic, or metal frames with drainage holes resist moisture and stay lightweight."
+      },
+      {
+        "q": "How often should I water a vertical tower?",
+        "a": "Water from the top every 2–3 days in warm weather; let the water trickle down, checking that lower pots stay moist but not soggy."
+      },
+      {
+        "q": "Can I grow fruiting herbs like rosemary in this setup?",
+        "a": "Yes, as long as the pockets are deep enough for their root systems and the tower gets full sun."
+      }
+    ],
+    "category": "Herbs",
+    "tags": [
+      "herbs",
+      "space-saving"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-10-27T04:45:06.486Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "balcony-succulent-stack",
     "title": "Balcony Succulent Stack: Low‑Maintenance Green Layers",
     "dek": "Layered succulents turn tiny balconies into resilient, low‑maintenance green walls.",

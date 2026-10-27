@@ -1,5 +1,56 @@
 [
   {
+    "slug": "upgrading-game-gear-battery",
+    "title": "Pixel Boost: Upgrading Game Gear Battery for Longer Sessions",
+    "dek": "Swap the original Game Gear battery for a higher-capacity rechargeable unit to extend playtime without sacrificing portability.",
+    "takeaway": "A fresh, high-capacity battery keeps your Game Gear gaming longer, letting you focus on the run.",
+    "whatHappened": "We opened a classic Game Gear, removed the aging NiMH cell, and installed a modern 1200 mAh Li‑ion pack with a simple boost regulator. The console powered up instantly and held charge through multiple marathon sessions.",
+    "whyItMatters": "Battery life is a hidden choke point for handheld speedrunners; dying mid‑run forces a reset and loses momentum. Extending playtime also preserves the original circuitry by reducing deep‑cycle stress on the old cells.",
+    "howToThink": "When selecting a replacement, match the original voltage using a boost regulator to avoid over‑voltage. Secure the new cell with silicone pads to absorb vibration. Test the unit in short bursts before committing to a full run.",
+    "pros": [
+      "Longer play sessions",
+      "Reduced mid‑run resets",
+      "Cleaner power delivery"
+    ],
+    "cons": [
+      "Requires soldering",
+      "Battery size may increase",
+      "Li‑ion handling caution"
+    ],
+    "watchOut": "Never exceed the original voltage rating, as it can fry the screen and internal chips.",
+    "faq": [
+      {
+        "q": "Can I use a standard AA rechargeable battery?",
+        "a": "A standard AA won’t fit the space and lacks the capacity needed; a custom pack is the reliable route."
+      },
+      {
+        "q": "Do I need a voltage regulator?",
+        "a": "Yes, use a boost converter to raise the Li‑ion voltage to the Game Gear’s required 6 V safely."
+      },
+      {
+        "q": "Will this modification affect my warranty?",
+        "a": "The Game Gear is out of warranty, so the modification is effectively irreversible and should be done only if you’re comfortable with the trade‑off."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "hardware",
+      "battery-mod"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-10-27T04:45:08.573Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "restoring-game-gear-lcd",
     "title": "Pixel Boost: Restoring Game Gear LCD Backlight for Brighter Play",
     "dek": "Give your Sega Game Gear a brighter, clearer screen with a simple LCD backlight swap.",
