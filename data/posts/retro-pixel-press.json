@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-boost-tuning-neo-geo-cd-laser",
+    "title": "Pixel Boost: Tuning Neo‑Geo CD Laser for Consistent Playback",
+    "dek": "A quick laser clean brings back smooth loading on your Neo‑Geo CD without pricey repairs.",
+    "takeaway": "A clean laser lens restores reliable Neo‑Geo CD loading and reduces read errors.",
+    "whatHappened": "Long ago I noticed my Neo‑Geo CD stuttering on several titles, with occasional freeze‑ups during loading screens. The culprit turned out to be a dusty, slightly hazed laser lens after years of use. A simple cleaning restored the original performance.",
+    "whyItMatters": "For collectors, a functional disc drive preserves the value and playability of rare CD titles. Speedrunners rely on consistent load times to keep runs clean and avoid unexpected resets that can ruin a run attempt.",
+    "howToThink": "First, gather a microfiber swab, isopropyl alcohol (90%+), and a small screwdriver. Disassemble the drive carefully, locate the laser assembly, and gently wipe the lens in a single direction. Reassemble, test with a known title, and repeat if needed.",
+    "pros": [
+      "Improved load times",
+      "Fewer read errors",
+      "Extended disc lifespan"
+    ],
+    "cons": [
+      "Requires careful disassembly",
+      "Risk of static damage",
+      "May void warranty"
+    ],
+    "watchOut": "Avoid touching the laser diode or applying excessive pressure, as both can cause permanent damage.",
+    "faq": [
+      {
+        "q": "Do I need special tools to open the Neo‑Geo CD?",
+        "a": "A small Phillips screwdriver and a plastic prying tool are sufficient; avoid metal tools that could scratch the case."
+      },
+      {
+        "q": "Can I use regular cleaning solution?",
+        "a": "Use only high‑purity isopropyl alcohol; other cleaners may leave residues that attract dust."
+      },
+      {
+        "q": "Will cleaning the laser affect game timing?",
+        "a": "A clean lens restores the original timing; any variance was due to read errors, not the cleaning itself."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "NeoGeo",
+      "Hardware"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-10-27T13:45:07.344Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-hidden-snes-gems-18",
     "title": "Myth vs. reality: hidden snes gems",
     "dek": "The persistent myths around hidden snes gems, stress-tested against what retro game collectors and speedrunners actually report.",

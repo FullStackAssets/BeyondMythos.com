@@ -1,5 +1,56 @@
 [
   {
+    "slug": "speedy-portafilter-clean-hack",
+    "title": "Speedy Portafilter Clean Hack for Better Shots",
+    "dek": "A quick rinse‑and‑brush routine that keeps your portafilter spotless and boosts extraction.",
+    "takeaway": "A fast, repeatable cleaning step can noticeably improve espresso flavor.",
+    "whatHappened": "I noticed a subtle bitterness in my daily pulls and traced it to built‑up coffee oils in the portafilter basket. A simple rinse with hot water and a quick brush swipe cleared the residue in seconds.",
+    "whyItMatters": "Even thin layers of old coffee can alter flow and temperature, leading to uneven extraction and off‑notes. Regular light cleaning preserves consistency without sacrificing brew time.",
+    "howToThink": "After each shot, dump the puck, rinse the basket with hot water, give the sides a brisk brush, and tap out excess. Keep a small stainless‑steel brush handy and repeat this routine for every brew session.",
+    "pros": [
+      "Saves time",
+      "Improves flavor",
+      "Easy to adopt"
+    ],
+    "cons": [
+      "Needs a spare brush",
+      "Hot water required",
+      "Doesn't replace deep weekly cleaning"
+    ],
+    "watchOut": "Avoid abrasive scrubbers that can scratch the basket and affect water flow.",
+    "faq": [
+      {
+        "q": "Can I use regular kitchen sponges?",
+        "a": "A soft brush works best; sponges may leave fibers behind."
+      },
+      {
+        "q": "How often should I do this quick clean?",
+        "a": "Ideally after every shot, especially if you pull multiple drinks in a row."
+      },
+      {
+        "q": "Will this replace a full soak?",
+        "a": "No, schedule a deeper soak weekly to remove stubborn oils."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-10-27T13:45:08.081Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "boost-espresso-crema-stir",
     "title": "Boost Espresso Crema with a Simple Stir Technique",
     "dek": "A quick stir before extraction can thicken crema and sharpen flavor without extra gear.",

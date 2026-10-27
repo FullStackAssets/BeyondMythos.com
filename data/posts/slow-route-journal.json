@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midday-platform-photography-2",
+    "title": "Midday Platform Photography: Low‑Impact Snapshot on Rural Trains",
+    "dek": "Capture the journey without leaving a trace, using simple gear and mindful habits.",
+    "takeaway": "Great photos come from slowing down, not from heavy equipment.",
+    "whatHappened": "I boarded a slow‑moving regional train at noon, set a modest compact camera on a repurposed cardboard backstop, and watched the countryside glide by. Between stops I paused to frame a passing herd, a weathered station, and the play of light on the rails.",
+    "whyItMatters": "Each image preserves a moment of low‑impact travel, encouraging others to see beauty without needing a carbon‑heavy setup. It also demonstrates that mindful observation is as valuable as any technical gadget.",
+    "howToThink": "Choose a lightweight, battery‑friendly camera or even a smartphone. Use natural light whenever possible, and limit accessories to a simple strap or reusable bag. Treat each shot as a brief meditation: breathe, compose, click, then return to the present scene.",
+    "pros": [
+      "Minimal gear weight",
+      "Zero‑waste setup",
+      "Encourages mindful observation"
+    ],
+    "cons": [
+      "Limited zoom range",
+      "May miss fast action",
+      "Requires patience"
+    ],
+    "watchOut": "Avoid using flash in shared spaces; it can disturb fellow travelers and wildlife.",
+    "faq": [
+      {
+        "q": "Do I need a dedicated camera for low‑impact train photography?",
+        "a": "No, a compact camera or a good smartphone works fine if you keep accessories minimal."
+      },
+      {
+        "q": "How can I protect my gear from rain without disposable plastic?",
+        "a": "Wrap it in a reusable waterproof pouch or a waxed canvas bag."
+      },
+      {
+        "q": "Is it okay to edit photos on the train?",
+        "a": "Yes, but limit processing to basic adjustments to keep energy use low and stay present."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "photography"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-10-27T13:45:08.721Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "evening-platform-star-gazing",
     "title": "Evening Platform Star-Gazing: Low-Impact Night Sky on Rural Trains",
     "dek": "Swap the usual train-car chatter for a quiet sky-watch on a rural night route.",
