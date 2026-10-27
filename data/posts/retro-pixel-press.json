@@ -1,5 +1,56 @@
 [
   {
+    "slug": "cleaning-atari-5200-contacts",
+    "title": "Pixel Boost: Cleaning Atari 5200 Cartridge Contacts for Reliable Play",
+    "dek": "A quick guide to reviving sticky Atari 5200 cartridges so they load cleanly every time.",
+    "takeaway": "A simple cleaning routine can restore your Atari 5200 cartridges without costly repairs.",
+    "whatHappened": "We noticed several Atari 5200 cartridges suffering from intermittent loading due to oxidized contacts. A batch of common household supplies was used to test a non‑abrasive cleaning method. The results were immediate, with games booting reliably after a single pass.",
+    "whyItMatters": "Cartridge reliability is crucial for both collectors preserving original hardware and speedrunners seeking consistent performance. Unreliable contacts can lead to missed runs, wasted time, and potential damage to the console. A low‑cost fix keeps the experience authentic and reduces the need for replacement parts.",
+    "howToThink": "Use a soft lint‑free swab dampened with isopropyl alcohol (70% or higher). Gently rub each contact row, avoiding excess liquid. Let the cartridge dry fully before reinserting, and repeat only if needed.",
+    "pros": [
+      "Inexpensive materials",
+      "No special tools required",
+      "Works on multiple cartridge types"
+    ],
+    "cons": [
+      "Requires careful handling",
+      "Alcohol smell may linger",
+      "May need repeat cleaning for heavily corroded contacts"
+    ],
+    "watchOut": "Do not soak the cartridge; excess liquid can seep into the PCB and cause damage.",
+    "faq": [
+      {
+        "q": "Can I use regular household cleaners instead of isopropyl alcohol?",
+        "a": "Alcohol is preferred because it evaporates quickly and leaves no residue; other cleaners may leave film or attract dust."
+      },
+      {
+        "q": "How long should I let the cartridge dry?",
+        "a": "Allow at least five minutes in a well‑ventilated area before testing the cartridge."
+      },
+      {
+        "q": "Will this method work on other Atari systems?",
+        "a": "Yes, the same technique is safe for Atari 2600, 7800, and other cartridge‑based systems."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Cartridge Care",
+      "Atari 5200"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-10-27T19:45:10.058Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "reconditioning-game-gear-lcd",
     "title": "Pixel Boost: Reconditioning Game Gear LCD for Crisp Retro Play",
     "dek": "A quick guide to cleaning and resealing the Game Gear’s aging LCD to restore vibrancy without pricey replacements.",

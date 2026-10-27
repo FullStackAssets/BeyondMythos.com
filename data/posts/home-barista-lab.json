@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-portafilter-alignment",
+    "title": "Boost Your Home Espresso Consistency with a Simple Portafilter Alignment Trick",
+    "dek": "Align your portafilter correctly to improve shot symmetry and reduce channeling without buying new equipment.",
+    "takeaway": "Proper portafilter alignment yields more consistent espresso extraction.",
+    "whatHappened": "We noticed uneven crema and bitter notes across multiple shots. A quick check revealed the portafilter was slightly off-center each time. Adjusting its position solved the issue.",
+    "whyItMatters": "Channeling skews flow, leading to under‑extracted or over‑extracted coffee, which ruins flavor balance. Consistency is key for dialing in recipes and tracking progress.",
+    "howToThink": "Before pulling a shot, seat the portafilter, then give it a gentle tap to ensure it sits flush in the group. Use a fingertip to feel for any wobble and rotate slightly until it feels snug. This habit adds seconds but pays off in shot quality.",
+    "pros": [
+      "Better crema",
+      "More even extraction",
+      "No extra cost"
+    ],
+    "cons": [
+      "Requires extra step",
+      "May need practice",
+      "Only helps if other variables stable"
+    ],
+    "watchOut": "Avoid overtightening the portafilter, as it can stress the brew head.",
+    "faq": [
+      {
+        "q": "How can I tell if my portafilter is misaligned?",
+        "a": "Look for uneven crema or channeling and feel for wobble when the basket is seated."
+      },
+      {
+        "q": "Do I need special tools?",
+        "a": "No, just use your fingers and a gentle tap."
+      },
+      {
+        "q": "Will this work on all machine types?",
+        "a": "It helps any machine with a removable portafilter, but older models may have looser tolerances."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "Espresso",
+      "Technique"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-10-27T19:45:05.603Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "stabilize-pour-over-temp",
     "title": "Stabilize Pour‑Over Water Temp with a Simple Kettle Thermostat Hack",
     "dek": "A cheap thermostat hack keeps your water at the perfect brew temperature for consistent pour‑over extractions.",

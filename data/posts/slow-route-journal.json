@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midday-platform-upcycling",
+    "title": "Midday Platform Upcycling: Low‑Impact Creativity on Rural Trains",
+    "dek": "Turn spare train seats into mini workspaces with repurposed materials, keeping your journey green and productive.",
+    "takeaway": "Simple upcycling tricks can enrich slow travel without adding waste.",
+    "whatHappened": "On a weekday ride through the countryside, I swapped a discarded cardboard box for a portable drafting board, letting the rhythm of the rails inspire sketches. Fellow passengers joined, passing along scraps of fabric and pens, turning the carriage into an impromptu maker‑space.",
+    "whyItMatters": "Upcycling on board reduces single‑use waste and fosters community interaction, aligning with low‑impact travel values. It also demonstrates that creativity need not rely on new resources, reinforcing the ethos of mindful consumption.",
+    "howToThink": "Carry a small, foldable surface and a few reusable tools; assess the space around you before you set up, and invite others to contribute materials they no longer need. Keep your setup lightweight and easy to pack away when the train stops.",
+    "pros": [
+      "Zero waste addition",
+      "Boosts engagement",
+      "Portable creativity"
+    ],
+    "cons": [
+      "Limited space",
+      "Potential clutter",
+      "Requires coordination"
+    ],
+    "watchOut": "Ensure your upcycled setup doesn’t obstruct aisles or emergency exits.",
+    "faq": [
+      {
+        "q": "Can I upcycle on any train?",
+        "a": "Most regional and commuter services have enough open area for a small board, but check local regulations and be respectful of other passengers."
+      },
+      {
+        "q": "What materials are best?",
+        "a": "Reusable items like cardboard, fabric scraps, reusable pens, and clip‑on lights work well and are easy to pack."
+      },
+      {
+        "q": "How do I store my upcycling kit?",
+        "a": "A compact zip‑bag or roll‑up case fits in a standard backpack and keeps everything tidy between rides."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "upcycling"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-10-27T19:45:04.940Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "midday-platform-silence-listening",
     "title": "Midday Platform Silence: Low‑Impact Listening to Ambient Train Sounds",
     "dek": "Discover how quiet moments on a slow train can deepen your travel experience while keeping your footprint light.",

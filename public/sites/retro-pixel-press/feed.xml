@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Cleaning Atari 5200 Cartridge Contacts for Reliable Play</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/cleaning-atari-5200-contacts.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/cleaning-atari-5200-contacts.html</guid>
+      <pubDate>Tue, 27 Oct 2026 19:45:10 GMT</pubDate>
+      <description>A quick guide to reviving sticky Atari 5200 cartridges so they load cleanly every time.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Reconditioning Game Gear LCD for Crisp Retro Play</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/reconditioning-game-gear-lcd.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/reconditioning-game-gear-lcd.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/cleaning-snes-cartridge-contacts.html</guid>
       <pubDate>Tue, 20 Oct 2026 14:45:08 GMT</pubDate>
       <description>A quick guide to safely clean SNES cartridge pins and prevent save corruption.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Reinforcing Game Boy Advance Battery Contacts for Longer Play</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/reinforcing-gba-battery-contacts.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/reinforcing-gba-battery-contacts.html</guid>
-      <pubDate>Tue, 20 Oct 2026 13:45:10 GMT</pubDate>
-      <description>A simple solder‑free fix that steadies power delivery on aging Game Boy Advance units.</description>
     </item>
   </channel>
 </rss>
