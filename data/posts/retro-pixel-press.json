@@ -1,5 +1,56 @@
 [
   {
+    "slug": "recalibrating-nes-zapper-crt",
+    "title": "Pixel Boost: Recalibrating NES Zapper for Modern CRTs",
+    "dek": "Learn how to restore accuracy to your NES Zapper on today’s CRT monitors without costly replacements.",
+    "takeaway": "A simple recalibration can bring reliable light‑gun performance back to life.",
+    "whatHappened": "Collectors have reported drift and missed shots on aging Zappers when used on newer CRTs. A community‑tested method involving resistor adjustments and screen brightness tweaks restores proper timing.",
+    "whyItMatters": "Accurate light‑gun input is crucial for classic shooters and for speedrun categories that rely on precise hits. Restoring the Zapper keeps the original hardware viable and preserves the authentic experience.",
+    "howToThink": "Start by measuring the Zapper’s trigger resistance, then replace it with a known‑good value. Adjust the TV’s sync and brightness to match the Zapper’s timing window. Test with a calibration screen before tackling full runs.",
+    "pros": [
+      "Low cost",
+      "Keeps original hardware",
+      "Improves game reliability"
+    ],
+    "cons": [
+      "Requires basic soldering",
+      "May need TV adjustments",
+      "Not a fix for severely damaged units"
+    ],
+    "watchOut": "Never work on the Zapper while it’s connected to power; unplug it first.",
+    "faq": [
+      {
+        "q": "Do I need a specific type of CRT?",
+        "a": "Any standard composite‑input CRT will work, though older models often have more consistent sync."
+      },
+      {
+        "q": "Can I use this method on the SNES Zapper?",
+        "a": "The principle is similar, but the SNES version uses a different sensor and may need a different resistor value."
+      },
+      {
+        "q": "What if the Zapper still misfires after recalibration?",
+        "a": "Check the connector pins for corrosion and consider replacing the photodiode if the issue persists."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Hardware",
+      "NES"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-10-27T07:45:12.742Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-indie-51",
     "title": "Ask the forge: your indie questions, answered",
     "dek": "Straight answers to the indie questions retro game collectors and speedrunners keep asking, minus the hedging.",

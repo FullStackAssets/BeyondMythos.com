@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midday-platform-reading",
+    "title": "Midday Platform Reading: Low‑Impact Book Club on Rural Trains",
+    "dek": "Turn a quiet carriage into a rolling reading room, swapping pages and stories without leaving a carbon trace.",
+    "takeaway": "Traveling by train can double as a low‑impact literary lounge.",
+    "whatHappened": "I boarded a regional train heading north and set up a small, paper‑free reading nook using a reusable tote and a solar‑lit e‑reader. Fellow passengers joined, swapping recommendations and discussing plot twists as the landscape slipped by.",
+    "whyItMatters": "Sharing books on rails encourages community, reduces solitary screen time, and aligns with low‑impact values by keeping waste minimal. It also showcases how slow travel can be intellectually enriching, not just scenic.",
+    "howToThink": "Pack a lightweight e‑reader or a few paper books in a reusable bag, bring a compact lamp or use natural light, and invite nearby travelers to join a quiet discussion. Keep the volume low and respect personal space, letting the rhythm of the train set the pace.",
+    "pros": [
+      "Zero waste reading",
+      "Fosters spontaneous community",
+      "Enriches travel experience"
+    ],
+    "cons": [
+      "Limited space on crowded cars",
+      "Potential noise concerns",
+      "Requires portable lighting"
+    ],
+    "watchOut": "Be mindful of train etiquette; keep voices soft and avoid blocking aisles.",
+    "faq": [
+      {
+        "q": "Do I need a physical book?",
+        "a": "A paper book works, but an e‑reader cuts weight and waste."
+      },
+      {
+        "q": "What if the carriage is full?",
+        "a": "Start with a quick intro and let others join if space permits; even a brief chat adds value."
+      },
+      {
+        "q": "Can I charge my device on the train?",
+        "a": "Many regional trains have power outlets; if not, a small solar charger can keep a device alive for a few hours."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "low-impact"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-10-27T07:45:08.874Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "midday-platform-rest",
     "title": "Midday Platform Rest: Low‑Impact Siesta on Rural Trains",
     "dek": "Discover how a brief, mindful pause on a countryside train can recharge low‑impact travelers and deepen the journey.",

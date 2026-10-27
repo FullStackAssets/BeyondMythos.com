@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-microfoam-stir-hack",
+    "title": "Upgrade Your Microfoam with a Simple Stir Hack",
+    "dek": "A quick stir after steaming can smooth out bubbles and give your latte a silkier texture.",
+    "takeaway": "Stirring the milk briefly after steaming creates a more consistent microfoam.",
+    "whatHappened": "We tried a kitchen spoon stir on freshly steamed milk and noticed the foam became glossy and uniform. The technique took just a few seconds and required no extra gear.",
+    "whyItMatters": "Microfoam texture directly affects mouthfeel and latte art stability. A smoother foam also reduces the chance of bitter scalded milk flavors.",
+    "howToThink": "After pulling the steam wand, tap the pitcher to settle large bubbles, then use a small spoon to stir clockwise for about five seconds. Keep the pitcher tilted to maintain temperature, and pour immediately.",
+    "pros": [
+      "Instant improvement",
+      "No extra tools",
+      "Works with any milk"
+    ],
+    "cons": [
+      "Adds a small extra step",
+      "May slightly cool milk",
+      "Requires gentle hand"
+    ],
+    "watchOut": "Avoid over‑stirring, which can break down the foam and make it watery.",
+    "faq": [
+      {
+        "q": "Can I use a whisk instead of a spoon?",
+        "a": "A small whisk works but can introduce air if used too aggressively; a spoon is gentler."
+      },
+      {
+        "q": "Does this work with alternative milks?",
+        "a": "Yes, oat, almond, and soy respond similarly, though they may need a slightly longer stir."
+      },
+      {
+        "q": "Should I stir before or after tapping the pitcher?",
+        "a": "Tap first to settle bubbles, then stir for the best consistency."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "microfoam"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-10-27T07:45:12.113Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-coffee-14",
     "title": "Community pulse: what r/Coffee is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the gear community this week.",

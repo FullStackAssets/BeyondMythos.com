@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Recalibrating NES Zapper for Modern CRTs</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/recalibrating-nes-zapper-crt.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/recalibrating-nes-zapper-crt.html</guid>
+      <pubDate>Tue, 27 Oct 2026 07:45:12 GMT</pubDate>
+      <description>Learn how to restore accuracy to your NES Zapper on today’s CRT monitors without costly replacements.</description>
+    </item>
+    <item>
       <title>Ask the forge: your indie questions, answered</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/ask-the-forge-indie-51.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/ask-the-forge-indie-51.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-modifying-turbografx-switch.html</guid>
       <pubDate>Tue, 20 Oct 2026 02:45:06 GMT</pubDate>
       <description>Swap the original power switch for a tactile momentary type and enjoy instant boot‑up on your TurboGrafx‑16.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Upgrading NES Cartridge Connectors for Reliable Reads</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/nes-cartridge-connector-upgrade.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/nes-cartridge-connector-upgrade.html</guid>
-      <pubDate>Tue, 20 Oct 2026 01:45:06 GMT</pubDate>
-      <description>Swap out the flaky NES cartridge pins for a solid connector and say goodbye to load hiccups on your runs.</description>
     </item>
   </channel>
 </rss>
