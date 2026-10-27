@@ -1,5 +1,56 @@
 [
   {
+    "slug": "reconditioning-game-gear-lcd",
+    "title": "Pixel Boost: Reconditioning Game Gear LCD for Crisp Retro Play",
+    "dek": "A quick guide to cleaning and resealing the Game Gear’s aging LCD to restore vibrancy without pricey replacements.",
+    "takeaway": "A refreshed LCD can give your Game Gear new life and clearer visuals for both collectors and speedrun practice.",
+    "whatHappened": "Many Game Gear owners notice faded colors and dim backlighting after years of use. The LCD’s polarizer and seal degrade, causing light bleed and ghosting. A simple reseal with proper cleaning can reverse most of the symptoms.",
+    "whyItMatters": "Clear visuals improve readability of on-screen timers and HUDs, essential for competitive speedrunning. Preservationists also gain a non‑destructive method to keep the hardware functional for future generations.",
+    "howToThink": "Start by disassembling carefully, cleaning the screen with isopropyl alcohol, and applying a thin, even layer of clear silicone sealant. Reassemble, let the seal cure, and calibrate the backlight brightness. Test with a known benchmark level to confirm improvement.",
+    "pros": [
+      "Low cost fix",
+      "Restores original look",
+      "Extends device lifespan"
+    ],
+    "cons": [
+      "Requires delicate handling",
+      "Seal may need re‑application later",
+      "No guarantee for severely damaged panels"
+    ],
+    "watchOut": "Avoid excess sealant; it can seep into the display and cause permanent clouding.",
+    "faq": [
+      {
+        "q": "Can I use any silicone sealant?",
+        "a": "A clear, food‑grade silicone works best; avoid those with dyes or strong curing agents."
+      },
+      {
+        "q": "Will this void my warranty?",
+        "a": "The Game Gear is out of warranty by default, and the procedure is considered a hobby repair."
+      },
+      {
+        "q": "How often should I repeat the reseal?",
+        "a": "Typically every 5–7 years, or when you notice a return of backlight unevenness."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Game Gear",
+      "LCD"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-10-27T18:45:07.417Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-boost-restoring-game-boy-cartridge-contact",
     "title": "Pixel Boost: Restoring Game Boy Cartridge Contacts for Smooth Play",
     "dek": "A quick guide to cleaning and re‑tinning Game Boy cartridge edge contacts for reliable loading and fewer dead frames.",

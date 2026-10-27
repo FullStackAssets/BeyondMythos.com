@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Reconditioning Game Gear LCD for Crisp Retro Play</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/reconditioning-game-gear-lcd.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/reconditioning-game-gear-lcd.html</guid>
+      <pubDate>Tue, 27 Oct 2026 18:45:07 GMT</pubDate>
+      <description>A quick guide to cleaning and resealing the Game Gear’s aging LCD to restore vibrancy without pricey replacements.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Restoring Game Boy Cartridge Contacts for Smooth Play</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-restoring-game-boy-cartridge-contact.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-restoring-game-boy-cartridge-contact.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/reinforcing-gba-battery-contacts.html</guid>
       <pubDate>Tue, 20 Oct 2026 13:45:10 GMT</pubDate>
       <description>A simple solder‑free fix that steadies power delivery on aging Game Boy Advance units.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Calibrating Commodore 64 Joystick for Precise Input</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/calibrating-commodore-64-joystick.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/calibrating-commodore-64-joystick.html</guid>
-      <pubDate>Tue, 20 Oct 2026 12:45:07 GMT</pubDate>
-      <description>Tighten up your C64 joystick to shave off wobble and boost control for both collectors and speedrunners.</description>
     </item>
   </channel>
 </rss>

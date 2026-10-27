@@ -1,5 +1,56 @@
 [
   {
+    "slug": "balcony-herb-spiral",
+    "title": "Balcony Herb Spiral: Space‑Saving Design for Tiny Terraces",
+    "dek": "Turn a corner balcony into a spiraling herb garden that fits snugly into any small space.",
+    "takeaway": "A herb spiral lets you grow a variety of herbs in a single, compact structure.",
+    "whatHappened": "We tried building a DIY herb spiral using reclaimed bricks and a lightweight soil mix on a 6‑ft balcony. The spiral filled three layers of herbs, from thyme at the top to rosemary at the base, and stayed stable through a breezy week.",
+    "whyItMatters": "Balcony space is precious, and vertical layering maximizes planting area without crowding. The design also creates micro‑climates, letting sun‑loving herbs bask while shade‑preferring ones stay cooler.",
+    "howToThink": "Start with a sturdy base, use lightweight aggregates, and arrange herbs by moisture and light needs. Keep the spiral anchored to a railing or wall to prevent wobble, and water from the top so moisture trickles down.",
+    "pros": [
+      "Maximizes planting area",
+      "Creates micro‑climates",
+      "Eye‑catching design"
+    ],
+    "cons": [
+      "Initial build effort",
+      "Needs anchoring",
+      "Soil can dry faster at top"
+    ],
+    "watchOut": "Secure the spiral to prevent it from tipping in windy conditions.",
+    "faq": [
+      {
+        "q": "Can I use plastic pots instead of bricks?",
+        "a": "Yes, sturdy plastic containers work, but ensure they’re weighted or anchored to stay stable."
+      },
+      {
+        "q": "How often should I water a herb spiral?",
+        "a": "Water from the top once the surface feels dry; the water will seep down, keeping lower levels moist."
+      },
+      {
+        "q": "What herbs thrive in the lower, shadier part?",
+        "a": "Shade‑tolerant herbs like mint, parsley, and chives do well at the base."
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "herbs",
+      "containers"
+    ],
+    "sources": [
+      {
+        "label": "r/houseplants community threads",
+        "url": "https://www.reddit.com/r/houseplants/"
+      },
+      {
+        "label": "Search interest: \"small space vegetables\"",
+        "url": "https://duckduckgo.com/?q=small%20space%20vegetables"
+      }
+    ],
+    "publishedAt": "2026-10-27T18:45:10.790Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "balcony-succulent-stack-2",
     "title": "Balcony Succulent Stack: Vertical Greenery for Tiny Terraces",
     "dek": "Stack drought‑tolerant succulents in a narrow tower to maximize green space on balconies and windowsills.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midday-platform-silence-listening",
+    "title": "Midday Platform Silence: Low‑Impact Listening to Ambient Train Sounds",
+    "dek": "Discover how quiet moments on a slow train can deepen your travel experience while keeping your footprint light.",
+    "takeaway": "Listening to the train’s ambient sounds turns transit into meditation and reduces the urge for noisy gadgets.",
+    "whatHappened": "On a sunny Wednesday I boarded a regional service and deliberately left my earbuds behind. I settled by the window, closed my eyes, and let the clack‑clack of wheels, the hiss of brakes, and distant chatter become the soundtrack of the journey.",
+    "whyItMatters": "These sound‑scapes anchor you to the present, fostering mindfulness without adding waste or power consumption. By tuning in, you respect the low‑impact ethos and discover nuances of place that often go unheard in a noisy cabin.",
+    "howToThink": "Before boarding, set your phone to silent and stash any headphones. Choose a seat near a window or door where you can hear the rhythm of the train. Breathe with each squeak, note patterns, and let the journey become a moving meditation rather than background noise.",
+    "pros": [
+      "Enhanced mindfulness",
+      "Zero extra waste",
+      "Deeper sense of place"
+    ],
+    "cons": [
+      "May feel uncomfortable at first",
+      "Less entertainment",
+      "Requires patience"
+    ],
+    "watchOut": "Stay aware of announcements and safety cues while you tune in.",
+    "faq": [
+      {
+        "q": "Do I need special equipment to hear the sounds better?",
+        "a": "No, just an open mind and a quiet spot; your ears are the best tool."
+      },
+      {
+        "q": "What if the train is too loud or crowded?",
+        "a": "Choose off‑peak times or a carriage near the front where ambient noise is gentler."
+      },
+      {
+        "q": "Can I combine this with other low‑impact practices?",
+        "a": "Absolutely—pair listening with mindful breathing or a simple sketch of the scenery."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "mindfulness"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-10-27T18:45:08.080Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "midday-platform-conversation",
     "title": "Midday Platform Conversation: Low‑Impact Storytelling on Rural Trains",
     "dek": "Swap stories with fellow travelers on a slow train, keeping the carbon footprint light and the dialogue richer.",

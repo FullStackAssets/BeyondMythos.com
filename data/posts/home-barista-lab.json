@@ -1,5 +1,56 @@
 [
   {
+    "slug": "stabilize-pour-over-temp",
+    "title": "Stabilize Pour‑Over Water Temp with a Simple Kettle Thermostat Hack",
+    "dek": "A cheap thermostat hack keeps your water at the perfect brew temperature for consistent pour‑over extractions.",
+    "takeaway": "Consistent water temperature yields a clearer, more balanced cup without expensive gear.",
+    "whatHappened": "I noticed my pour‑over tasted different from day to day, and the culprit was water temperature drifting as the kettle cooled. By adding a basic thermostat controller to a standard electric kettle, I could lock the temperature at the target range and see the flavor profile steadier within a few brews. The tweak was inexpensive and required only a small clip‑on sensor and a simple set‑point dial.",
+    "whyItMatters": "Water temperature is one of the biggest variables in pour‑over, influencing extraction speed and flavor balance. When the temperature drops, you under‑extract and get sour notes; when it spikes, you over‑extract and get bitterness. Controlling this factor narrows the margin for error and lets you focus on grind and pour technique.",
+    "howToThink": "Treat temperature like any other brew parameter: measure, set, and repeat. Choose a kettle that can accept an external sensor, attach the thermostat, and set the target (around 93 °C for most beans). Let the kettle reach the set point before you start, and keep an eye on the display during the brew to catch any drift. This habit turns temperature control into a repeatable step rather than a guess.",
+    "pros": [
+      "Low cost",
+      "Easy to install",
+      "Improves flavor consistency"
+    ],
+    "cons": [
+      "Requires a compatible kettle",
+      "Adds a small learning curve",
+      "Sensor can be delicate"
+    ],
+    "watchOut": "Don’t set the thermostat too high; overheating can scorch the coffee and damage the kettle.",
+    "faq": [
+      {
+        "q": "Can I use a regular stovetop kettle?",
+        "a": "A stovetop kettle can’t hold a thermostat sensor reliably, so an electric kettle with a stable heating element works best."
+      },
+      {
+        "q": "Do I need a separate power source for the thermostat?",
+        "a": "Most clip‑on controllers draw power from the kettle’s outlet or a small battery, making them plug‑and‑play."
+      },
+      {
+        "q": "Will this affect the kettle’s warranty?",
+        "a": "Adding an aftermarket sensor may void the warranty, so check the manufacturer’s policy first."
+      }
+    ],
+    "category": "Pour-over",
+    "tags": [
+      "temperature",
+      "pour-over"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-10-27T18:45:06.647Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-pressure-lever-hack",
     "title": "Tame Espresso Pressure with a Simple Lever Trick",
     "dek": "Learn a quick lever tweak to stabilize pressure and boost espresso consistency.",
