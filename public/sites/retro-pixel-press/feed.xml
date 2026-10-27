@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Ask the forge: your indie questions, answered</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/ask-the-forge-indie-51.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/ask-the-forge-indie-51.html</guid>
+      <pubDate>Tue, 27 Oct 2026 06:45:05 GMT</pubDate>
+      <description>Straight answers to the indie questions retro game collectors and speedrunners keep asking, minus the hedging.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Fine‑Tuning TurboTap for Competitive Speedruns</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/fine-tuning-turbotap.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/fine-tuning-turbotap.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/nes-cartridge-connector-upgrade.html</guid>
       <pubDate>Tue, 20 Oct 2026 01:45:06 GMT</pubDate>
       <description>Swap out the flaky NES cartridge pins for a solid connector and say goodbye to load hiccups on your runs.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Rewiring SNES Power Supply for Stable Voltage</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/rewiring-snes-power.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/rewiring-snes-power.html</guid>
-      <pubDate>Tue, 20 Oct 2026 00:45:07 GMT</pubDate>
-      <description>A quick guide to rewiring your SNES power supply for rock‑steady voltage during marathon runs.</description>
     </item>
   </channel>
 </rss>

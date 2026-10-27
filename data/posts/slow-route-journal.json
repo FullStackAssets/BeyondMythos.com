@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midday-platform-rest",
+    "title": "Midday Platform Rest: Low‑Impact Siesta on Rural Trains",
+    "dek": "Discover how a brief, mindful pause on a countryside train can recharge low‑impact travelers and deepen the journey.",
+    "takeaway": "A short, intentional rest on the rails boosts energy and mindfulness without increasing your footprint.",
+    "whatHappened": "While traveling the slow‑track through the valley, I tucked a small travel pillow into my bag and settled into a quiet carriage at the next stop. The gentle sway of the train and the soft chatter of locals created a perfect backdrop for a ten‑minute siesta.",
+    "whyItMatters": "Resting on the move reduces the need for longer layovers, cutting extra transport emissions. It also encourages travelers to tune into the present moment, aligning with low‑impact principles.",
+    "howToThink": "Treat each stop as a micro‑camp: set a timer, dim your screen, and let the rhythm of the rails lull you. Keep your bag light and your space tidy to avoid lingering footprints. Use the pause to stretch, hydrate, and note observations in a small notebook.",
+    "pros": [
+      "Zero extra travel needed",
+      "Boosts alertness for the next leg",
+      "Fits into tight itineraries"
+    ],
+    "cons": [
+      "Requires a quiet carriage",
+      "Limited to short durations",
+      "May be uncomfortable for those with back issues"
+    ],
+    "watchOut": "Avoid napping in crowded cars where you might unintentionally block aisles or disturb other passengers.",
+    "faq": [
+      {
+        "q": "Do I need a special pillow for a train siesta?",
+        "a": "A compact travel pillow or rolled-up sweater works fine; the goal is just a bit of support."
+      },
+      {
+        "q": "How long should the rest be?",
+        "a": "Ten to fifteen minutes is enough to refresh without missing the next departure."
+      },
+      {
+        "q": "Is it okay to nap on a moving train?",
+        "a": "Yes, as long as you stay seated, keep your belongings secure, and respect fellow travelers."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "rest"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-10-27T06:45:09.833Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "midday-platform-silence",
     "title": "Midday Platform Silence: Low‑Impact Listening on Rural Trains",
     "dek": "Discover how quiet moments on slow trains boost mindfulness and lower your travel footprint.",
