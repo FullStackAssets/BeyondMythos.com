@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-shot-temperature-trick",
+    "title": "Master the Espresso Shot Temperature with a Simple Thermometer Trick",
+    "dek": "Use a basic kitchen thermometer to dial in the perfect brewing temperature for consistent espresso flavor.",
+    "takeaway": "Consistent water temperature is the secret to reliable espresso extraction.",
+    "whatHappened": "We measured brew water temperature with a cheap digital thermometer and tweaked the machine's thermostat until the reading steadied at the sweet spot. The resulting shots tasted smoother and more balanced.",
+    "whyItMatters": "Temperature fluctuations cause under- or over-extraction, leading to sour or bitter notes. By controlling temperature you remove a major variable and let the beans shine.",
+    "howToThink": "Treat temperature like a dial on a radio—tune it gradually and listen to the flavor changes. Start with the manufacturer’s recommendation, then fine‑tune by a degree or two based on taste. Keep a log of the setting and the resulting flavor profile.",
+    "pros": [
+      "Better flavor consistency",
+      "Easy low‑cost tool",
+      "Improves machine lifespan"
+    ],
+    "cons": [
+      "Requires extra step",
+      "Thermometer can drift",
+      "May void warranty if tampering"
+    ],
+    "watchOut": "Don’t let the thermometer touch the hot plate directly, it can give false readings.",
+    "faq": [
+      {
+        "q": "Do I need a special espresso thermometer?",
+        "a": "A small, fast‑reading digital kitchen thermometer works fine."
+      },
+      {
+        "q": "What temperature range should I aim for?",
+        "a": "Most espresso extracts best between 90°C and 96°C, but adjust within that band for your beans."
+      },
+      {
+        "q": "Can I calibrate my machine without opening it?",
+        "a": "Yes, you can measure the water at the group head and use the machine’s temperature offset setting if it has one."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "temperature",
+      "espresso"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-10-27T15:45:10.332Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "fine-tune-brew-ratio",
     "title": "Fine‑Tune Your Brew Ratio for Consistent Pour‑Over",
     "dek": "A quick guide to setting the perfect coffee‑to‑water ratio at home.",

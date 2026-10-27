@@ -1,5 +1,56 @@
 [
   {
+    "slug": "reinforce-nes-joypad-contacts",
+    "title": "Pixel Boost: Reinforcing NES Joypad Contacts for Consistent Inputs",
+    "dek": "A quick guide to strengthen your classic NES controller contacts for reliable button presses during marathon runs.",
+    "takeaway": "Solid contacts keep your inputs crisp and your scores climbing.",
+    "whatHappened": "After noticing intermittent button dropouts on an aging NES controller, we opened the casing and found oxidized pads and loose springs. A simple cleaning and a tiny bit of conductive grease restored the feel. The fix proved durable through several hours of speedrun practice.",
+    "whyItMatters": "Unreliable inputs can cost precious milliseconds or even a run, especially in tight platforming sections. Maintaining hardware integrity ensures your skill, not a faulty controller, determines your performance. It also extends the life of a beloved collector's item.",
+    "howToThink": "Start by safely opening the controller, then inspect each contact for corrosion. Use isopropyl alcohol and a soft brush to clean, followed by a dab of conductive grease on the pads. Re‑assemble, test each button, and repeat if needed—small maintenance prevents big frustration.",
+    "pros": [
+      "Restores original feel",
+      "Low‑cost fix",
+      "Prolongs controller lifespan"
+    ],
+    "cons": [
+      "Requires basic soldering tools",
+      "Time‑consuming for beginners",
+      "Potential for damage if disassembled improperly"
+    ],
+    "watchOut": "Avoid using excessive liquid; it can seep into the PCB and cause shorts.",
+    "faq": [
+      {
+        "q": "Do I need to replace the springs?",
+        "a": "If springs are bent or corroded, swapping them with new ones is advisable, but most controllers work fine after cleaning."
+      },
+      {
+        "q": "Can I use regular oil instead of conductive grease?",
+        "a": "Standard oils can attract dust; a thin layer of conductive grease is preferred for consistent conductivity."
+      },
+      {
+        "q": "Is this fix reversible?",
+        "a": "Yes—re‑assemble the controller as it came, and you can re‑clean or replace contacts later if needed."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "NES",
+      "Controller Maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-10-27T15:45:07.728Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "refreshing-snes-controller-contacts",
     "title": "Pixel Boost: Refreshing SNES Controller Contacts for Snappy Inputs",
     "dek": "A quick guide to clean and lubricate SNES controller contacts, restoring that crisp click for collectors and speedrunners.",

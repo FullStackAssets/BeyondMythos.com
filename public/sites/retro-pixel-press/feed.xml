@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Reinforcing NES Joypad Contacts for Consistent Inputs</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/reinforce-nes-joypad-contacts.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/reinforce-nes-joypad-contacts.html</guid>
+      <pubDate>Tue, 27 Oct 2026 15:45:07 GMT</pubDate>
+      <description>A quick guide to strengthen your classic NES controller contacts for reliable button presses during marathon runs.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Refreshing SNES Controller Contacts for Snappy Inputs</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/refreshing-snes-controller-contacts.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/refreshing-snes-controller-contacts.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-recalibrating-game-boy-pocket-lcd.html</guid>
       <pubDate>Tue, 20 Oct 2026 10:45:08 GMT</pubDate>
       <description>A quick tweak to the Game Boy Pocket&apos;s LCD bias can make on‑screen text noticeably sharper without any soldering.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Recalibrating Game Boy Camera Sensor for Clearer Snapshots</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-recalibrating-game-boy-camera-sensor.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-recalibrating-game-boy-camera-sensor.html</guid>
-      <pubDate>Tue, 20 Oct 2026 09:45:10 GMT</pubDate>
-      <description>A quick guide to tweaking the Game Boy Camera&apos;s sensor for sharper images without breaking the device.</description>
     </item>
   </channel>
 </rss>

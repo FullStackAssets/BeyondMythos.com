@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midday-platform-music-folk-trains",
+    "title": "Midday Platform Music: Low‑Impact Folk Tunes on Rural Trains",
+    "dek": "Discover how curating a simple folk playlist can enhance your train journey while keeping your carbon footprint low.",
+    "takeaway": "A thoughtful soundtrack turns a slow train ride into a mindful, low‑impact experience.",
+    "whatHappened": "I loaded a modest, offline folk playlist onto my phone before boarding a regional line through the hills. As the train chugged past fields, the gentle strings and harmonies blended with the rhythm of the wheels, making the hours feel both shorter and richer.",
+    "whyItMatters": "Sound shapes perception; by choosing low‑energy, locally sourced music you honor the landscape instead of drowning it in commercial noise. It also reduces the impulse to stream, saving data and energy on the move.",
+    "howToThink": "Pick a handful of tracks from regional artists or traditional tunes you already own. Load them onto a device in advance, set the volume low, and let the train’s ambience fill the gaps. Use the music as a cue to notice passing scenery rather than as background noise.",
+    "pros": [
+      "Enhances sense of place",
+      "No need for streaming data",
+      "Encourages local artist discovery"
+    ],
+    "cons": [
+      "Limited playlist length",
+      "May clash with fellow passengers' tastes",
+      "Requires pre‑trip preparation"
+    ],
+    "watchOut": "Keep volume low enough that you can still hear station announcements and the natural sounds outside.",
+    "faq": [
+      {
+        "q": "Can I use a streaming service without increasing impact?",
+        "a": "If you’re on cellular data, each stream uses energy; offline playlists are the greener choice."
+      },
+      {
+        "q": "What if I don’t know any local folk music?",
+        "a": "Search for regional folk compilations on public domain sites or ask locals for recommendations before you travel."
+      },
+      {
+        "q": "Is it okay to share headphones with a travel companion?",
+        "a": "Yes, as long as both agree and you stay aware of safety announcements."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "music",
+      "rail"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-10-27T15:45:11.135Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "midday-platform-art-sketching-2",
     "title": "Midday Platform Art: Low‑Impact Sketching on Rural Trains",
     "dek": "Turning idle train minutes into a pocket‑sized sketch session that leaves no trace.",

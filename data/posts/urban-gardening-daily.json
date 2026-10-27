@@ -1,5 +1,56 @@
 [
   {
+    "slug": "balcony-micro-mushroom-magic",
+    "title": "Balcony Micro‑Mushroom Magic: Grow Fungi in a Foot‑Long Box",
+    "dek": "Turn a tiny balcony corner into a mushroom harvest with a simple box kit.",
+    "takeaway": "Even the smallest balcony can produce fresh mushrooms with minimal space and effort.",
+    "whatHappened": "We set up a compact mushroom kit in a sunny‑shaded balcony nook and watched the substrate colonize over a few weeks. The first pins appeared, and within days tiny caps were ready to harvest. The whole process proved that fungi don’t need a garden, just a dark, moist pocket.",
+    "whyItMatters": "Homegrown mushrooms add protein and umami without buying packaged produce, and the kit reuses coffee grounds or straw, cutting kitchen waste. For apartment dwellers, it’s a low‑maintenance way to diversify food and practice circular living.",
+    "howToThink": "Pick a spot that stays cool and out of direct afternoon sun, then place a ready‑made kit or a DIY box of straw and spores. Keep the substrate damp with a spray bottle and cover with a breathable lid to retain humidity. Harvest by twisting off caps when they’re still firm, and reuse the leftover substrate for another round or as compost.",
+    "pros": [
+      "Space‑saving",
+      "Fast harvest cycles",
+      "Uses kitchen scraps"
+    ],
+    "cons": [
+      "Needs consistent moisture",
+      "Limited to shade‑loving species",
+      "Short fruiting window"
+    ],
+    "watchOut": "Avoid over‑watering, which can invite unwanted mold instead of mushrooms.",
+    "faq": [
+      {
+        "q": "Can I use coffee grounds instead of straw?",
+        "a": "Yes, fresh coffee grounds mixed with a bit of sawdust create a good substrate for many oyster mushroom varieties."
+      },
+      {
+        "q": "How long before I see the first mushrooms?",
+        "a": "Typically the first pins appear within two to three weeks after inoculation, depending on temperature."
+      },
+      {
+        "q": "Do I need special lighting?",
+        "a": "Mushrooms prefer low light; a shaded balcony or a simple cloth cover works fine."
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "mushrooms",
+      "small spaces"
+    ],
+    "sources": [
+      {
+        "label": "r/houseplants community threads",
+        "url": "https://www.reddit.com/r/houseplants/"
+      },
+      {
+        "label": "Search interest: \"small space vegetables\"",
+        "url": "https://duckduckgo.com/?q=small%20space%20vegetables"
+      }
+    ],
+    "publishedAt": "2026-10-27T15:45:08.721Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "balcony-citrus-burst",
     "title": "Balcony Citrus Burst: Tiny Oranges for Sun‑Loving Apartments",
     "dek": "Grow dwarf orange trees on a balcony using compact containers and a bit of patience.",
