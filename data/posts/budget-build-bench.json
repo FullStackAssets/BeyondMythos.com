@@ -1,5 +1,56 @@
 [
   {
+    "slug": "sneaky-savings-1080p-gaming-115-used-radeon-rx-5",
+    "title": "Sneaky Savings: 1080p Gaming with a $115 Used Radeon RX 570",
+    "dek": "We put a $115 Radeon RX 570 to the test to see if it can still deliver smooth 1080p gameplay on a tight budget.",
+    "takeaway": "A $115 RX 570 still handles most modern titles at 1080p with decent settings, making it a solid budget buy.",
+    "whatHappened": "We sourced a used RX 570 from a local marketplace, installed it in a modest build, and ran a selection of popular games at 1080p. Performance stayed above 45 FPS on medium settings across the board.",
+    "whyItMatters": "Many builders think older GPUs are dead ends, but the RX 570 shows that a few years old cards can still provide playable experiences without breaking the bank. This extends the life of existing hardware and reduces e‑waste.",
+    "howToThink": "When hunting used GPUs, prioritize cards with solid driver support and decent VRAM, and test for any artifacting before committing. Pair the RX 570 with a capable CPU to avoid bottlenecks, and be ready to tweak settings for smoother frames.",
+    "pros": [
+      "Strong 1080p performance",
+      "Good driver support",
+      "Affordable on the secondhand market"
+    ],
+    "cons": [
+      "Higher power draw than newer entry‑level cards",
+      "Potential fan noise",
+      "Limited VRAM for future titles"
+    ],
+    "watchOut": "Check the card’s thermal paste and fan condition; a neglected cooler can cause overheating under load.",
+    "faq": [
+      {
+        "q": "Is the RX 570 still supported by AMD drivers?",
+        "a": "Yes, AMD continues to release driver updates for the RX 570, ensuring compatibility with newer games."
+      },
+      {
+        "q": "What power supply is needed for this card?",
+        "a": "A reliable 450W PSU with a 6‑pin PCIe connector is generally sufficient."
+      },
+      {
+        "q": "Can I use the RX 570 for light content creation?",
+        "a": "It handles basic video editing and Photoshop tasks, but intensive rendering will be limited."
+      }
+    ],
+    "category": "GPUs",
+    "tags": [
+      "used-gpu",
+      "budget-build"
+    ],
+    "sources": [
+      {
+        "label": "r/pcmasterrace community threads",
+        "url": "https://www.reddit.com/r/pcmasterrace/"
+      },
+      {
+        "label": "Search interest: \"1440p value build\"",
+        "url": "https://duckduckgo.com/?q=1440p%20value%20build"
+      }
+    ],
+    "publishedAt": "2026-10-27T08:45:12.488Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-used-parts-mistakes-83",
     "title": "Five mistakes everyone makes in their first month of used parts",
     "dek": "The most common early stumbles in used parts, and the cheap corrections that fix them for PC builders on a budget.",

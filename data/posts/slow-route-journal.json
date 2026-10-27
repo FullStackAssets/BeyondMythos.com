@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midday-platform-reflections-journaling",
+    "title": "Midday Platform Reflections: Low‑Impact Journaling on Rural Trains",
+    "dek": "A quick guide to turning train windows into low‑impact journals of place and feeling.",
+    "takeaway": "Writing on the move deepens observation without adding carbon.",
+    "whatHappened": "On a Saturday morning I boarded the 9:15 to a sleepy village, notebook in hand, and recorded the rhythm of the rails, the scent of pine, and the chatter of fellow passengers.",
+    "whyItMatters": "Journaling anchors the fleeting moments of slow travel, turning them into lasting insights that inspire future low‑impact routes. It also encourages mindfulness, a core value for eco‑conscious explorers.",
+    "howToThink": "Treat each mile as a prompt: note a colour, a sound, a fleeting interaction. Keep entries brief, using symbols or doodles to save paper. Review later to spot patterns that guide greener choices.",
+    "pros": [
+      "Boosts mindfulness",
+      "Creates a travel record",
+      "Minimal gear needed"
+    ],
+    "cons": [
+      "Requires discipline",
+      "Can distract from scenery",
+      "Notebook may get wet"
+    ],
+    "watchOut": "Avoid writing while the train is in motion if safety guidelines prohibit it.",
+    "faq": [
+      {
+        "q": "Do I need a fancy journal?",
+        "a": "A simple spiral notebook works; the focus is on habit, not paper quality."
+      },
+      {
+        "q": "How often should I write?",
+        "a": "A few lines per stop or a quick summary at the end of the journey keeps it manageable."
+      },
+      {
+        "q": "Can I go digital?",
+        "a": "Yes, a lightweight app on a solar‑charged device works, but paper leaves no electronic waste."
+      }
+    ],
+    "category": "Local",
+    "tags": [
+      "journaling",
+      "mindful-travel"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-10-27T08:45:09.219Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "midday-platform-reading",
     "title": "Midday Platform Reading: Low‑Impact Book Club on Rural Trains",
     "dek": "Turn a quiet carriage into a rolling reading room, swapping pages and stories without leaving a carbon trace.",

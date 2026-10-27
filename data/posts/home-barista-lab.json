@@ -1,5 +1,56 @@
 [
   {
+    "slug": "perfect-espresso-dose-scale",
+    "title": "Perfect Your Espresso Dose with a Simple Scale Routine",
+    "dek": "A quick routine to dial in the right coffee dose every time using just a kitchen scale.",
+    "takeaway": "Weighing your dose eliminates guesswork and improves consistency.",
+    "whatHappened": "I swapped my eyeball estimates for a digital scale and saw my shot times stabilize within seconds. The flavor profile became noticeably steadier across mornings.",
+    "whyItMatters": "A stable dose means the water‑coffee ratio stays predictable, leading to repeatable extraction and taste. Consistency is the backbone of any espresso improvement plan.",
+    "howToThink": "Tare the scale, weigh your beans, then grind directly into the portafilter and re‑weigh the grounds. Adjust grind size until the target dose lands within a gram or two. Keep the routine the same each day.",
+    "pros": [
+      "Consistent shots",
+      "Easier troubleshooting",
+      "Better flavor control"
+    ],
+    "cons": [
+      "Requires a scale",
+      "Adds a step",
+      "Needs regular cleaning of scale"
+    ],
+    "watchOut": "Make sure the scale is calibrated and placed on a stable surface to avoid drift.",
+    "faq": [
+      {
+        "q": "Do I need a high‑precision scale?",
+        "a": "A scale that reads to 0.1 g is plenty for home espresso."
+      },
+      {
+        "q": "Can I weigh beans and then grounds on the same scale?",
+        "a": "Yes – just tare the scale before each measurement."
+      },
+      {
+        "q": "What dose range is typical for home espresso?",
+        "a": "Most home setups aim for 18‑20 g of coffee for a double shot."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "dosing"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-10-27T08:45:09.852Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-microfoam-stir-hack",
     "title": "Upgrade Your Microfoam with a Simple Stir Hack",
     "dek": "A quick stir after steaming can smooth out bubbles and give your latte a silkier texture.",

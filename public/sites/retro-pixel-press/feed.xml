@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Optimizing Game Boy Advance Link Port for Stable Multiplayer</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/optimizing-gba-link-port.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/optimizing-gba-link-port.html</guid>
+      <pubDate>Tue, 27 Oct 2026 08:45:08 GMT</pubDate>
+      <description>A quick guide to cleaning and reinforcing the GBA link port so your multiplayer sessions stay connected.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Recalibrating NES Zapper for Modern CRTs</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/recalibrating-nes-zapper-crt.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/recalibrating-nes-zapper-crt.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-optimizing-nes-controller-wiring.html</guid>
       <pubDate>Tue, 20 Oct 2026 03:45:09 GMT</pubDate>
       <description>A quick guide to re-soldering NES controller wires for snappier button presses.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Modifying TurboGrafx-16 Power Switch for Instant Starts</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-modifying-turbografx-switch.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-modifying-turbografx-switch.html</guid>
-      <pubDate>Tue, 20 Oct 2026 02:45:06 GMT</pubDate>
-      <description>Swap the original power switch for a tactile momentary type and enjoy instant boot‑up on your TurboGrafx‑16.</description>
     </item>
   </channel>
 </rss>

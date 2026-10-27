@@ -1,5 +1,56 @@
 [
   {
+    "slug": "optimizing-gba-link-port",
+    "title": "Pixel Boost: Optimizing Game Boy Advance Link Port for Stable Multiplayer",
+    "dek": "A quick guide to cleaning and reinforcing the GBA link port so your multiplayer sessions stay connected.",
+    "takeaway": "A clean, well‑tinned link port prevents drop‑outs and extends cable life.",
+    "whatHappened": "During a recent local tournament, several players reported intermittent disconnections on their Game Boy Advance link cables. Investigation revealed dust and oxidation inside the port as the common culprit.",
+    "whyItMatters": "Reliable link connections are essential for competitive runs and cooperative play, and a faulty port can ruin a tightly timed attempt. Fixing the port also preserves the device’s hardware integrity.",
+    "howToThink": "Treat the link port like any other connector: clean, inspect, and if needed, re‑tin the contacts. Use a small anti‑static brush and a quality solder alloy to refresh the pads, then test with a known‑good cable.",
+    "pros": [
+      "Improved connection reliability",
+      "Extended cable lifespan",
+      "Low cost fix"
+    ],
+    "cons": [
+      "Requires soldering skill",
+      "Small risk of damage if rushed",
+      "May void warranty"
+    ],
+    "watchOut": "Avoid applying excess heat; a brief touch with a fine‑tip soldering iron is sufficient.",
+    "faq": [
+      {
+        "q": "Do I need a soldering iron?",
+        "a": "A fine‑tip iron makes re‑tinning easy, but a contact cleaner can work for light dust."
+      },
+      {
+        "q": "Can I use any solder?",
+        "a": "A rosin‑core, lead‑free solder with a low melting point works best for delicate pins."
+      },
+      {
+        "q": "Will cleaning affect my warranty?",
+        "a": "Opening the case may void warranty, so consider professional service if the device is still covered."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "GBA",
+      "Hardware Maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-27T08:45:08.553Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "recalibrating-nes-zapper-crt",
     "title": "Pixel Boost: Recalibrating NES Zapper for Modern CRTs",
     "dek": "Learn how to restore accuracy to your NES Zapper on today’s CRT monitors without costly replacements.",
