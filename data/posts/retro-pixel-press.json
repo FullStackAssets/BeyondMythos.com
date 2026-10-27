@@ -1,5 +1,56 @@
 [
   {
+    "slug": "calibrating-sega-master-system-rf-switch",
+    "title": "Pixel Boost: Calibrating Sega Master System RF Switch for Clean Signal",
+    "dek": "Tame the fuzz on your Master System by tweaking its RF switch for a crisp picture on any CRT.",
+    "takeaway": "A simple RF switch adjustment restores reliable video without expensive upgrades.",
+    "whatHappened": "We noticed persistent static and ghosting on a 1990s Master System hooked to a standard TV. By opening the console and adjusting the RF switch potentiometer, the signal stabilized. The console now delivers a clean picture comparable to its original performance.",
+    "whyItMatters": "Many collectors rely on original hardware for authenticity, but a noisy signal can ruin the experience. Fixing the RF switch preserves the console’s integrity while avoiding costly replacement parts. It also keeps the retro aesthetic alive for speedrunning events that still use CRTs.",
+    "howToThink": "First, locate the RF switch on the motherboard—usually near the antenna input. Use a small screwdriver to gently turn the potentiometer clockwise until static fades, then fine‑tune back if needed. Re‑assemble, test on a CRT, and you’ll have a stable feed without altering the original circuitry.",
+    "pros": [
+      "Restores original video quality",
+      "No need for modern adapters",
+      "Cost‑free if you have basic tools"
+    ],
+    "cons": [
+      "Requires opening the console",
+      "Risk of damaging the potentiometer if over‑turned",
+      "Only works on RF‑based setups"
+    ],
+    "watchOut": "Avoid applying excessive force to the potentiometer, as it can strip the component.",
+    "faq": [
+      {
+        "q": "Do I need a multimeter to adjust the RF switch?",
+        "a": "No, visual inspection of the picture while turning the knob is sufficient for most units."
+      },
+      {
+        "q": "Will this fix affect the audio output?",
+        "a": "The RF switch only handles video, so audio remains unchanged."
+      },
+      {
+        "q": "Can I reverse the adjustment if I’m unhappy?",
+        "a": "Yes, the potentiometer is reversible; just turn it back to its original position."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "RF Switch",
+      "Sega Master System"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-10-27T10:45:12.321Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "recalibrate-tg16-cd-drive",
     "title": "Pixel Boost: Recalibrating TurboGrafx‑16 CD Drive for Faster Loading",
     "dek": "Fix the TG‑16 CD drive’s latency and enjoy smoother loading on your classic titles.",

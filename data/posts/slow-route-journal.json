@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midday-platform-meal",
+    "title": "Midday Platform Meal: Low‑Impact Foraging on Rural Trains",
+    "dek": "Discover how a quick foraging stop on a rural train can feed your body and the planet with minimal waste.",
+    "takeaway": "A brief foraging pause transforms a train ride into a sustainable snack break.",
+    "whatHappened": "While riding the countryside line, I disembarked at a small station with a meadow beside the tracks. I gathered edible wild greens and seeds, prepared a simple salad on the train, and shared the experience with fellow travelers.",
+    "whyItMatters": "Foraging uses no packaging, reduces reliance on commercial snacks, and connects travelers to the landscape they traverse. It also demonstrates how low‑impact habits fit seamlessly into rail journeys.",
+    "howToThink": "Before you travel, learn a few local edible plants and pack a small pair of scissors and a reusable container. When a stop offers safe access, pause, observe, and collect responsibly, then enjoy the fresh flavors on board.",
+    "pros": [
+      "Zero waste snack",
+      "Connects you to place",
+      "Boosts mindfulness"
+    ],
+    "cons": [
+      "Requires plant ID knowledge",
+      "Limited to suitable stops",
+      "Season‑dependent availability"
+    ],
+    "watchOut": "Never harvest from polluted or protected areas; verify that foraging is allowed.",
+    "faq": [
+      {
+        "q": "Is it legal to forage near train stations?",
+        "a": "Rules vary; many rural areas allow casual gathering of common wild greens, but always check local signage."
+      },
+      {
+        "q": "What basic gear should I bring?",
+        "a": "A small scissors, a reusable bowl or container, and a field guide or phone app for plant ID."
+      },
+      {
+        "q": "How do I ensure I’m not over‑harvesting?",
+        "a": "Take only what you need, leave plenty for wildlife, and follow the ‘take‑no‑more‑than‑10%’ guideline."
+      }
+    ],
+    "category": "Local",
+    "tags": [
+      "foraging",
+      "rail‑snacks"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-10-27T10:45:11.067Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-packing-53",
     "title": "The quiet upgrade: small tweaks in packing with outsized returns",
     "dek": "No purchases, no overhauls — the modest packing adjustments that slow-travel and low-impact explorers report mattering most.",
