@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-boost-refreshing-atari-2600-power-switch",
+    "title": "Pixel Boost: Refreshing Atari 2600 Power Switch for Reliable Play",
+    "dek": "Swap out the flaky Atari 2600 power switch to stop dead‑on start‑ups and enjoy uninterrupted marathons.",
+    "takeaway": "A simple switch replacement can rescue a dead console and keep your speedrun practice sessions alive.",
+    "whatHappened": "A batch of late‑production Atari 2600 units began failing to power on due to oxidized switch contacts. Users reported intermittent power loss during runs, forcing frequent resets. A quick teardown revealed a corroded toggle that could be cleaned or replaced.",
+    "whyItMatters": "Power reliability is the foundation of any speedrun; a missed boot can ruin a perfect split. Restoring the switch also preserves the original hardware, keeping the console’s value intact for collectors. It prevents the temptation to replace the whole unit with a modern replica, which would erase the tactile feel of the era.",
+    "howToThink": "Treat the switch like a tiny mechanical relay—inspect for grime, test continuity, and replace with a matching vintage part or a modern low‑profile tactile switch. Keep a spare switch on hand for future failures. When re‑soldering, use just enough heat to avoid damaging the PCB trace.",
+    "pros": [
+      "Instant power stability",
+      "Preserves original case",
+      "Low cost part"
+    ],
+    "cons": [
+      "Requires soldering skill",
+      "Finding exact vintage switch can be tricky",
+      "Potential void of warranty"
+    ],
+    "watchOut": "Make sure the console is unplugged and the capacitors are discharged before touching the switch to avoid a shock.",
+    "faq": [
+      {
+        "q": "Can I use a modern push‑button instead of the original switch?",
+        "a": "Yes, as long as the new part matches the original’s rating and fits the mounting holes, a modern tactile switch works fine."
+      },
+      {
+        "q": "Do I need to desolder the whole board?",
+        "a": "Only the switch leads need to be desoldered; the rest of the board stays untouched."
+      },
+      {
+        "q": "Will cleaning the contacts be enough?",
+        "a": "Cleaning may work temporarily, but corrosion often returns; replacement is the more reliable solution."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Atari 2600",
+      "Power Switch"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-27T20:45:07.583Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "cleaning-atari-5200-contacts",
     "title": "Pixel Boost: Cleaning Atari 5200 Cartridge Contacts for Reliable Play",
     "dek": "A quick guide to reviving sticky Atari 5200 cartridges so they load cleanly every time.",

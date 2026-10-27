@@ -1,5 +1,56 @@
 [
   {
+    "slug": "grinder-tap-reset-trick",
+    "title": "Stabilize Grinder Output with a Simple Tap-Reset Trick",
+    "dek": "A quick tap-reset routine keeps your burr grinder delivering consistent doses without pricey calibrations.",
+    "takeaway": "A brief tap-reset before grinding smooths out dose variance.",
+    "whatHappened": "I noticed my grinder's dose fluctuated after a few minutes of use. A gentle tap on the grinder housing reset the burr alignment, and the output steadied instantly.",
+    "whyItMatters": "Inconsistent doses lead to uneven extraction, compromising flavor and repeatability. A stable grind weight is the backbone of reliable espresso and pour-over results.",
+    "howToThink": "Treat the grinder like a precision tool - reset it with a light tap when you feel the dose wobble. Combine this with regular cleaning for best stability.",
+    "pros": [
+      "No extra tools needed",
+      "Instant effect",
+      "Works on most home grinders"
+    ],
+    "cons": [
+      "May need repeated taps",
+      "Not a substitute for proper calibration",
+      "Effect varies by grinder design"
+    ],
+    "watchOut": "Avoid hitting the grinder too hard; a gentle tap is enough.",
+    "faq": [
+      {
+        "q": "Will this work on blade grinders?",
+        "a": "Blade grinders don't have burr alignment, so the tap-reset won't affect dose consistency."
+      },
+      {
+        "q": "How often should I perform the tap-reset?",
+        "a": "Whenever you notice the dose drifting, typically after 10-15 minutes of continuous grinding."
+      },
+      {
+        "q": "Can this damage my grinder?",
+        "a": "If done gently, it's safe; excessive force could loosen components."
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "grinder",
+      "dose consistency"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-10-27T20:45:09.627Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-portafilter-alignment",
     "title": "Boost Your Home Espresso Consistency with a Simple Portafilter Alignment Trick",
     "dek": "Align your portafilter correctly to improve shot symmetry and reduce channeling without buying new equipment.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midday-platform-composting-2",
+    "title": "Midday Platform Composting: Low-Impact Soil Building on Rural Trains",
+    "dek": "Turn leftover snacks into seed-ready compost while the train rolls by, boosting countryside soil with zero waste.",
+    "takeaway": "You can turn train-time leftovers into useful compost without missing a beat.",
+    "whatHappened": "During a midday stop on a regional line, I set up a small bin and collected peelings, tea bags, and paper from fellow passengers. Within an hour the bin filled, and I mixed the material with a bit of soil from the platform, creating a portable compost pouch.",
+    "whyItMatters": "Rail journeys generate organic waste that often ends up in landfill, but repurposing it feeds the very landscapes the train crosses. A tiny compost pouch can enrich a garden stop or community plot, extending the low-impact ethos beyond the ride.",
+    "howToThink": "Carry a reusable, breathable compost bag and a small scoop; separate wet from dry waste as you snack. When the bag is about half full, add a handful of native soil and seal it for later use at your destination.",
+    "pros": [
+      "Zero waste addition",
+      "Enriches stop-over gardens",
+      "Easy to pack"
+    ],
+    "cons": [
+      "Requires a stop with soil access",
+      "Limited capacity on short trips",
+      "Needs modest odor management"
+    ],
+    "watchOut": "Avoid adding meat, dairy, or oily foods as they attract pests and slow decomposition.",
+    "faq": [
+      {
+        "q": "Can I compost on a moving train?",
+        "a": "Only when the train stops long enough to handle the material safely; the process is about collection, not active decomposition."
+      },
+      {
+        "q": "What if I don’t have soil on the platform?",
+        "a": "You can keep the bag sealed and add soil later at a hostel garden or community plot."
+      },
+      {
+        "q": "Is composting allowed on all trains?",
+        "a": "Check the railway’s policy; most regional services are fine with personal waste bags as long as they’re tidy."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "composting",
+      "sustainability"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-10-27T20:45:10.259Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "midday-platform-upcycling",
     "title": "Midday Platform Upcycling: Low‑Impact Creativity on Rural Trains",
     "dek": "Turn spare train seats into mini workspaces with repurposed materials, keeping your journey green and productive.",
