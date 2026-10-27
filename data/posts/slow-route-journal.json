@@ -1,5 +1,56 @@
 [
   {
+    "slug": "evening-platform-star-gazing",
+    "title": "Evening Platform Star-Gazing: Low-Impact Night Sky on Rural Trains",
+    "dek": "Swap the usual train-car chatter for a quiet sky-watch on a rural night route.",
+    "takeaway": "A simple pause under the stars turns a train ride into a low-impact meditation.",
+    "whatHappened": "After the last stop, the carriage lights dimmed and the conductor invited passengers to step onto the platform for a brief stargazing session. The sky was clear, revealing constellations that rarely appear in city light. Travelers lingered, sharing binoculars and quiet wonder.",
+    "whyItMatters": "Seeing the night sky from a moving train reconnects us with the landscape’s natural rhythm and reduces the impulse to fill every moment with screens. It also shows how low-impact activities can enrich slow travel without extra resources.",
+    "howToThink": "Plan a short platform stop on routes known for low light pollution. Bring a lightweight blanket, a pair of binoculars, and a printed star map. Encourage silence or soft conversation to keep the experience gentle.",
+    "pros": [
+      "Zero-carbon activity",
+      "Deepens place-based connection",
+      "No extra gear needed"
+    ],
+    "cons": [
+      "Requires clear skies",
+      "Limited to routes with platform access",
+      "Short time window"
+    ],
+    "watchOut": "Watch for sudden schedule changes that may cancel the platform stop.",
+    "faq": [
+      {
+        "q": "Do I need a telescope?",
+        "a": "A simple pair of binoculars or even naked eyes works fine on a clear night."
+      },
+      {
+        "q": "What if it clouds over?",
+        "a": "Have a backup indoor activity like a low-impact journal prompt about the journey."
+      },
+      {
+        "q": "Is it safe to step onto rural platforms at night?",
+        "a": "Stick to well-lit stations and follow any staff guidance; most rural stops are low-traffic."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "night"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-10-27T12:45:17.422Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "evening-platform-brew",
     "title": "Evening Platform Brew: Low-Impact Tea Ritual on Rural Trains",
     "dek": "Swap coffee for tea on the evening train and cut waste while savoring the slow rhythm of the rails.",

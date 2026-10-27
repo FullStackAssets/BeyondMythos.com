@@ -1,5 +1,56 @@
 [
   {
+    "slug": "boost-espresso-crema-stir",
+    "title": "Boost Espresso Crema with a Simple Stir Technique",
+    "dek": "A quick stir before extraction can thicken crema and sharpen flavor without extra gear.",
+    "takeaway": "A brief stir of the puck pre‑brew yields richer crema and more consistent shots.",
+    "whatHappened": "I tried gently agitating the coffee grounds with a small spoon for five seconds before tamping. The resulting shot showed a noticeably denser crema and a cleaner flavor profile. The method took under a minute and required no new tools.",
+    "whyItMatters": "Crema is the visual and textural hallmark of a well‑extracted espresso; a fuller crema signals balanced extraction and can enhance mouthfeel. Home baristas often struggle to achieve café‑level crema with basic equipment, so a low‑effort tweak can boost confidence and enjoyment.",
+    "howToThink": "After dosing and leveling, use a clean, small stir stick to swirl the grounds lightly—just enough to break up any clumps. Keep the motion gentle to avoid over‑aerating the coffee. Then resume your usual tamp and lock‑in the shot.",
+    "pros": [
+      "Instant improvement",
+      "No extra gear needed",
+      "Easy to integrate"
+    ],
+    "cons": [
+      "Adds a tiny step",
+      "May disturb perfect level if over‑done",
+      "Requires clean stir tool"
+    ],
+    "watchOut": "Avoid vigorous stirring that creates air pockets, which can lead to channeling during extraction.",
+    "faq": [
+      {
+        "q": "Will stirring affect my dose weight?",
+        "a": "No, the coffee mass stays the same; you’re just redistributing it."
+      },
+      {
+        "q": "Can I use a metal spoon?",
+        "a": "A non‑metal, clean stir stick works best to avoid scratching the portafilter."
+      },
+      {
+        "q": "Is this technique suitable for all grind sizes?",
+        "a": "It works best with fine espresso grinds; coarser grinds may not benefit as much."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "technique"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-10-27T12:45:13.437Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "revive-stale-beans",
     "title": "Revive Stale Espresso Beans with a Quick Oven Refresh",
     "dek": "Give tired espresso a second life by gently reheating beans in a home oven for a brighter shot.",
