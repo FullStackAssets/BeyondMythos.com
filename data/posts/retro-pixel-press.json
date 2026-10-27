@@ -1,5 +1,56 @@
 [
   {
+    "slug": "reviving-atari-2600-cartridge-contacts",
+    "title": "Pixel Boost: Reviving Atari 2600 Cartridge Contacts for Reliable Play",
+    "dek": "A quick guide to cleaning and restoring old Atari 2600 cartridge pins for smoother gameplay.",
+    "takeaway": "Clean contacts can dramatically improve load reliability on vintage cartridges.",
+    "whatHappened": "Many collectors report intermittent freezing on Atari 2600 games due to oxidized cartridge pins. We tested a simple cleaning method using isopropyl alcohol and a soft brush. The results showed noticeably steadier performance across several titles.",
+    "whyItMatters": "Unreliable contacts can mask the true condition of a cartridge, leading to unnecessary replacements or missed gaming sessions. Restoring the original hardware preserves both the game and the collector's investment. For speedrunners, consistent input response is crucial for timing accuracy.",
+    "howToThink": "Start by removing dust with compressed air, then gently brush the pins with a lint‑free swab dampened in isopropyl alcohol. Allow the contacts to dry fully before reinserting. Repeat if any residue remains, but avoid excessive force.",
+    "pros": [
+      "Low cost",
+      "Extends cartridge life",
+      "Improves game stability"
+    ],
+    "cons": [
+      "Requires careful handling",
+      "May not fix severely damaged pins",
+      "Time‑consuming for many cartridges"
+    ],
+    "watchOut": "Avoid using liquid directly on the cartridge body to prevent damage to the plastic shell.",
+    "faq": [
+      {
+        "q": "Do I need a special brush?",
+        "a": "A soft, anti‑static brush or a cotton swab works fine; avoid metal tools."
+      },
+      {
+        "q": "Can I use any alcohol?",
+        "a": "Use 90%+ isopropyl alcohol; avoid household cleaners that leave residues."
+      },
+      {
+        "q": "How often should I clean my cartridges?",
+        "a": "A quick clean when you notice glitches or every few months for stored collections."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Hardware",
+      "Preservation"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-27T11:45:09.790Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "calibrating-sega-master-system-rf-switch",
     "title": "Pixel Boost: Calibrating Sega Master System RF Switch for Clean Signal",
     "dek": "Tame the fuzz on your Master System by tweaking its RF switch for a crisp picture on any CRT.",

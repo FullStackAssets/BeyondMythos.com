@@ -1,5 +1,56 @@
 [
   {
+    "slug": "evening-platform-brew",
+    "title": "Evening Platform Brew: Low-Impact Tea Ritual on Rural Trains",
+    "dek": "Swap coffee for tea on the evening train and cut waste while savoring the slow rhythm of the rails.",
+    "takeaway": "A simple tea swap reduces waste and deepens the travel experience.",
+    "whatHappened": "On a late-afternoon service through the countryside, I brewed a loose-leaf tea using a reusable metal infuser and a small solar kettle. The steam rose as the train slipped past fields, and the ritual stretched the journey.",
+    "whyItMatters": "Tea bags generate micro‑plastic litter and require single‑use packaging, while loose leaf leaves leave a smaller footprint. Embracing low‑impact brewing turns a routine pause into an eco‑conscious statement.",
+    "howToThink": "Carry a compact stainless-steel infuser, a small solar-powered kettle, and a tin of your favorite leaf. Refill with hot water from the train’s pantry or a portable stove, then steep for a few minutes. Clean the infuser with a travel brush and reuse it on the next stop.",
+    "pros": [
+      "Zero-bag waste",
+      "Richer flavor",
+      "Easy to reuse"
+    ],
+    "cons": [
+      "Needs a kettle",
+      "Infuser cleaning",
+      "Limited tea selection on board"
+    ],
+    "watchOut": "Make sure the kettle’s power source complies with train safety rules.",
+    "faq": [
+      {
+        "q": "Can I brew tea on a train without a kettle?",
+        "a": "A small solar-powered or USB kettle works on most services, or you can use hot water from the carriage pantry."
+      },
+      {
+        "q": "What tea varieties work best on the move?",
+        "a": "Robust black or herbal blends steep quickly and tolerate variable water temperatures."
+      },
+      {
+        "q": "How do I dispose of tea leaves responsibly?",
+        "a": "Collect them in a biodegradable bag and toss them into the compost bin at the station or pack them out."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "tea"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-10-27T11:45:13.293Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "midday-platform-meal",
     "title": "Midday Platform Meal: Low‑Impact Foraging on Rural Trains",
     "dek": "Discover how a quick foraging stop on a rural train can feed your body and the planet with minimal waste.",

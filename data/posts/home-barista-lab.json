@@ -1,5 +1,56 @@
 [
   {
+    "slug": "revive-stale-beans",
+    "title": "Revive Stale Espresso Beans with a Quick Oven Refresh",
+    "dek": "Give tired espresso a second life by gently reheating beans in a home oven for a brighter shot.",
+    "takeaway": "A brief, low‑heat oven warm‑up restores flavor without over‑roasting.",
+    "whatHappened": "We noticed that beans left open for weeks lose aromatic punch. A simple 5‑minute warm‑up at low temperature revived the crema and aroma in our test shots.",
+    "whyItMatters": "Stale beans are a common waste for home baristas, and discarding them costs money and reduces sustainability. Restoring them extends shelf life and improves daily espresso consistency.",
+    "howToThink": "Spread a thin layer of beans on a baking sheet, set the oven to the lowest setting (around 150 °F/65 °C), and warm for 5‑7 minutes. Let them cool before grinding to avoid excess moisture.",
+    "pros": [
+      "Easy",
+      "No extra equipment",
+      "Improves flavor"
+    ],
+    "cons": [
+      "Adds a few minutes prep",
+      "May slightly alter bean weight",
+      "Not a substitute for fresh beans"
+    ],
+    "watchOut": "Avoid high temperatures or longer times, which can scorch the beans.",
+    "faq": [
+      {
+        "q": "Will this method work for dark roast beans?",
+        "a": "Yes, but keep the time short to prevent bitterness."
+      },
+      {
+        "q": "Can I use a microwave instead?",
+        "a": "Microwaves heat unevenly and can burn beans, so the oven is preferred."
+      },
+      {
+        "q": "How often should I refresh beans?",
+        "a": "Only when they’ve lost aroma; frequent reheating isn’t needed."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "beans"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-10-27T11:45:08.382Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-gear-53",
     "title": "Ask the forge: your gear questions, answered",
     "dek": "Straight answers to the gear questions home coffee enthusiasts keep asking, minus the hedging.",

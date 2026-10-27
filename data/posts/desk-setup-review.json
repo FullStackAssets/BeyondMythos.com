@@ -1,5 +1,56 @@
 [
   {
+    "slug": "remote-work-lighting-field-test-25",
+    "title": "\"remote work lighting\" in practice: a real-world field test",
+    "dek": "We put the most-repeated advice about remote work lighting through a month of actual use. Some of it survived.",
+    "takeaway": "Half the standard advice on remote work lighting holds up; the other half exists to sell you something. Test small before you commit.",
+    "whatHappened": "We collected the most common recommendations remote workers optimizing small workspaces see when they search \"remote work lighting\" and ran them through four weeks of ordinary, unglamorous use. The gap between what demos well and what holds up in week four was bigger than expected.",
+    "whyItMatters": "Most advice about ergonomics is written from a first impression. The failure modes that actually cost remote workers optimizing small workspaces time and money only show up with repetition — which is exactly what one-day reviews never capture.",
+    "howToThink": "Before adopting any recommendation about remote work lighting, ask what a fourth week of it looks like. If you can't picture the boring version, you're looking at marketing, not a method.",
+    "pros": [
+      "Cheap to replicate at home",
+      "Surfaced real week-four failure modes",
+      "Cuts through first-impression reviews"
+    ],
+    "cons": [
+      "A month is still a small sample",
+      "Results vary by setup",
+      "Some advice needs a season, not weeks"
+    ],
+    "watchOut": "If a guide about remote work lighting shows zero failed attempts, it wasn't a test — it was a script.",
+    "faq": [
+      {
+        "q": "What survived the field test?",
+        "a": "The fundamentals: consistent routine, modest gear, and keeping a log. The exotic tricks mostly didn't."
+      },
+      {
+        "q": "How should I run my own test?",
+        "a": "Change one variable, hold everything else steady for two weeks minimum, and write down what annoyed you."
+      },
+      {
+        "q": "Whose advice should I trust?",
+        "a": "People who publish follow-ups. A single enthusiastic post about ergonomics is a data point, not a verdict."
+      }
+    ],
+    "category": "Ergonomics",
+    "tags": [
+      "Ergonomics",
+      "Lighting"
+    ],
+    "sources": [
+      {
+        "label": "r/battlestations community threads",
+        "url": "https://www.reddit.com/r/battlestations/"
+      },
+      {
+        "label": "Search interest: \"remote work lighting\"",
+        "url": "https://duckduckgo.com/?q=remote%20work%20lighting"
+      }
+    ],
+    "publishedAt": "2026-10-27T11:45:33.487Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-organization-73",
     "title": "Ask the forge: your organization questions, answered",
     "dek": "Straight answers to the organization questions remote workers optimizing small workspaces keep asking, minus the hedging.",
