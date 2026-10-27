@@ -1,5 +1,56 @@
 [
   {
+    "slug": "community-pulse-buildapcsales-29",
+    "title": "Community pulse: what r/buildapcsales is debating this week",
+    "dek": "The arguments, consensus shifts, and quietly useful threads from the benchmarks community this week.",
+    "takeaway": "The community's loudest argument is rarely its most useful thread. We pulled out both.",
+    "whatHappened": "This week's discussion among PC builders on a budget split between a recurring gear-versus-skill argument and a quieter thread of genuinely practical write-ups. As usual, the practical material got a fraction of the attention and most of the value.",
+    "whyItMatters": "Forums are the highest-signal source in benchmarks — but only if you know how to read them. The upvote curve rewards controversy; the archive rewards patience.",
+    "howToThink": "Read communities like a researcher, not a spectator: skip the drama threads, sort by top-of-month, and save anything with photos, numbers, and a follow-up edit.",
+    "pros": [
+      "Real practitioners, real failures",
+      "Searchable archive of past debates",
+      "Faster than trial and error"
+    ],
+    "cons": [
+      "Upvotes reward heat, not light",
+      "Survivorship bias in success posts",
+      "Same arguments recur monthly"
+    ],
+    "watchOut": "When a thread's top comment starts with \"everyone knows,\" verify it. Community consensus in benchmarks has a half-life.",
+    "faq": [
+      {
+        "q": "Which threads are worth saving?",
+        "a": "Anything with a methodology, a budget, photos, and a follow-up edit. That combination is rare and gold."
+      },
+      {
+        "q": "Should I post my own questions?",
+        "a": "Yes — after searching. A well-scoped question with context gets remarkable answers."
+      },
+      {
+        "q": "How do I avoid the drama?",
+        "a": "Sort by top-of-month instead of hot. The algorithm is the drama's delivery system."
+      }
+    ],
+    "category": "Benchmarks",
+    "tags": [
+      "Benchmarks",
+      "GPUs"
+    ],
+    "sources": [
+      {
+        "label": "r/buildapcsales community threads",
+        "url": "https://www.reddit.com/r/buildapcsales/"
+      },
+      {
+        "label": "Search interest: \"best budget gpu 2026\"",
+        "url": "https://duckduckgo.com/?q=best%20budget%20gpu%202026"
+      }
+    ],
+    "publishedAt": "2026-10-27T09:45:05.879Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "sneaky-savings-1080p-gaming-115-used-radeon-rx-5",
     "title": "Sneaky Savings: 1080p Gaming with a $115 Used Radeon RX 570",
     "dek": "We put a $115 Radeon RX 570 to the test to see if it can still deliver smooth 1080p gameplay on a tight budget.",

@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Recalibrating TurboGrafx‑16 CD Drive for Faster Loading</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/recalibrate-tg16-cd-drive.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/recalibrate-tg16-cd-drive.html</guid>
+      <pubDate>Tue, 27 Oct 2026 09:45:08 GMT</pubDate>
+      <description>Fix the TG‑16 CD drive’s latency and enjoy smoother loading on your classic titles.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Optimizing Game Boy Advance Link Port for Stable Multiplayer</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/optimizing-gba-link-port.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/optimizing-gba-link-port.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-swap-nes-zapper-lens.html</guid>
       <pubDate>Tue, 20 Oct 2026 04:45:08 GMT</pubDate>
       <description>Replace the cheap plastic lens in your NES Zapper with a clear acrylic one for crisper on‑screen targeting.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Optimizing NES Controller Wiring for Faster Input Response</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-optimizing-nes-controller-wiring.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-optimizing-nes-controller-wiring.html</guid>
-      <pubDate>Tue, 20 Oct 2026 03:45:09 GMT</pubDate>
-      <description>A quick guide to re-soldering NES controller wires for snappier button presses.</description>
     </item>
   </channel>
 </rss>

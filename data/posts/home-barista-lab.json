@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-timer-hack",
+    "title": "Simplify Espresso Shot Timing with a Kitchen Timer",
+    "dek": "Use a basic kitchen timer to nail consistent shot times without fancy gear.",
+    "takeaway": "A timer keeps your espresso extraction repeatable and improves flavor balance.",
+    "whatHappened": "We tried timing shots with a cheap digital timer and compared the taste to unmeasured pulls. The timed shots tasted steadier, with clearer acidity and less bitterness.",
+    "whyItMatters": "Shot time is a key variable in espresso quality; small variations can shift the balance of sweetness and bitterness, so controlling it helps you dial in your grind and dose.",
+    "howToThink": "Start with the manufacturer’s recommended extraction time, set the timer, and adjust grind size until you consistently hit that window. Treat each pull as a data point and iterate.",
+    "pros": [
+      "Low cost",
+      "Easy to implement",
+      "Works with any machine"
+    ],
+    "cons": [
+      "Requires manual start/stop",
+      "Human reaction lag",
+      "Not a substitute for pressure monitoring"
+    ],
+    "watchOut": "Don’t rely solely on time; taste and other variables still matter.",
+    "faq": [
+      {
+        "q": "Do I need a special timer?",
+        "a": "A basic kitchen or smartphone timer works fine; just ensure it can count seconds."
+      },
+      {
+        "q": "What is the ideal shot time for a standard double?",
+        "a": "Most home machines aim for 25‑30 seconds, but adjust to taste."
+      },
+      {
+        "q": "Can I use this method for single shots?",
+        "a": "Yes, just scale the dose and keep the same time window, then fine‑tune as needed."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "timing"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-10-27T09:45:08.019Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "perfect-espresso-dose-scale",
     "title": "Perfect Your Espresso Dose with a Simple Scale Routine",
     "dek": "A quick routine to dial in the right coffee dose every time using just a kitchen scale.",

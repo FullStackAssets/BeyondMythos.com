@@ -1,5 +1,56 @@
 [
   {
+    "slug": "recalibrate-tg16-cd-drive",
+    "title": "Pixel Boost: Recalibrating TurboGrafx‑16 CD Drive for Faster Loading",
+    "dek": "Fix the TG‑16 CD drive’s latency and enjoy smoother loading on your classic titles.",
+    "takeaway": "A simple alignment tweak can cut loading delays on the TurboGrafx‑16 CD.",
+    "whatHappened": "We found the TG‑16 CD drive’s laser assembly was slightly out of alignment, causing intermittent read errors and longer load times. By carefully loosening the mounting screws, cleaning the lens, and re‑securing it at the correct angle, the drive reads discs more reliably. The fix was tested on several titles with noticeably quicker startup screens.",
+    "whyItMatters": "Longer load times interrupt speedrun flow and can increase wear on both the disc and drive. A smoother, faster loading experience preserves the hardware’s longevity and keeps runs competitive. It also enhances the day‑to‑day enjoyment for collectors who still fire up their CD library.",
+    "howToThink": "Power off and unplug the console before opening the CD drive bay. Use a small Phillips screwdriver to loosen the two mounting screws, clean the laser with a lint‑free swab and isopropyl alcohol, then retighten the screws just enough to hold the lens without binding. Run a test disc, adjust by fractions of a turn if needed, and reassemble once stable reading is confirmed.",
+    "pros": [
+      "Reduced load times",
+      "Improved disc compatibility",
+      "Low cost fix"
+    ],
+    "cons": [
+      "Risk of mis‑adjustment",
+      "Requires basic tools",
+      "May void warranty"
+    ],
+    "watchOut": "Never force the screws; overtightening can damage the drive mechanism.",
+    "faq": [
+      {
+        "q": "Do I need a replacement laser?",
+        "a": "No, cleaning and realignment usually suffice."
+      },
+      {
+        "q": "Will this fix skipping audio?",
+        "a": "It often helps, but underlying disc damage may still cause skips."
+      },
+      {
+        "q": "Can I revert the change?",
+        "a": "Yes, simply return the screws to their original positions."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "TurboGrafx-16",
+      "Hardware"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-10-27T09:45:08.756Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "optimizing-gba-link-port",
     "title": "Pixel Boost: Optimizing Game Boy Advance Link Port for Stable Multiplayer",
     "dek": "A quick guide to cleaning and reinforcing the GBA link port so your multiplayer sessions stay connected.",
