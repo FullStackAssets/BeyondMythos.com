@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midday-platform-journaling",
+    "title": "Midday Platform Journaling: Low‑Impact Reflection on Rural Trains",
+    "dek": "A quick guide to turning train stops into mindful writing moments without leaving a trace.",
+    "takeaway": "Journaling on the rails deepens presence while keeping your footprint light.",
+    "whatHappened": "I pulled my notebook onto a quiet carriage as the train coasted through rolling fields. The rhythmic clack became a metronome for sentences about the passing landscape, and the hour slipped by without a single disposable item left behind.",
+    "whyItMatters": "Slow travel thrives on moments of awareness, and putting pen to paper anchors that awareness in concrete memory. It also reduces digital fatigue and the temptation to scroll, reinforcing a low‑impact mindset.",
+    "howToThink": "Treat each stop as a prompt: note the scent of the meadow, the hue of the sky, the murmur of fellow travelers. Keep your journal in a reusable cover and use a refillable pen. Write briefly, then let the words sit until the next station for reflection.",
+    "pros": [
+      "Zero waste – paper and pen can be reused",
+      "Boosts mindfulness on the move",
+      "Creates a tangible travel record"
+    ],
+    "cons": [
+      "Requires carrying a notebook",
+      "May distract from scenery if overdone",
+      "Limited space for long entries"
+    ],
+    "watchOut": "Be mindful of train etiquette—avoid blocking aisles or disturbing other passengers while you write.",
+    "faq": [
+      {
+        "q": "Do I need a special notebook for train journaling?",
+        "a": "A lightweight, reusable notebook with a refillable pen works best and stays low‑impact."
+      },
+      {
+        "q": "What if I’m on a crowded train?",
+        "a": "Use a compact journal and write in short bursts; you can continue when the carriage quiets."
+      },
+      {
+        "q": "Can I digitize my notes later without losing the low‑impact vibe?",
+        "a": "Transcribe them at home onto a digital file, then recycle the paper responsibly if you choose."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "Rail",
+      "Mindfulness"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-10-27T21:45:07.078Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "midday-platform-composting-2",
     "title": "Midday Platform Composting: Low-Impact Soil Building on Rural Trains",
     "dek": "Turn leftover snacks into seed-ready compost while the train rolls by, boosting countryside soil with zero waste.",

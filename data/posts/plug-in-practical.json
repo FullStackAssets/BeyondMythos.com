@@ -1,5 +1,56 @@
 [
   {
+    "slug": "ask-the-forge-deals-75",
+    "title": "Ask the forge: your deals questions, answered",
+    "dek": "Straight answers to the deals questions EV owners and prospective electric car buyers keep asking, minus the hedging.",
+    "takeaway": "Most deals questions have boring, reliable answers. Here they are, without the two thousand words of preamble.",
+    "whatHappened": "We gathered the questions that appear weekly wherever EV owners and prospective electric car buyers compare notes — the ones usually answered with \"it depends\" — and committed to actual answers with actual reasoning.",
+    "whyItMatters": "\"It depends\" is true and useless. Newcomers to deals don't need every caveat; they need a defensible default they can adjust later.",
+    "howToThink": "Take the default, use it for a month, then earn your deviations. Customization is a reward for data, not a starting requirement.",
+    "pros": [
+      "Defaults beat decision paralysis",
+      "Reasoning shown, not just verdicts",
+      "Adjustable once you have data"
+    ],
+    "cons": [
+      "Defaults fit most, not all",
+      "Experts will quibble — always",
+      "Questions evolve; answers date"
+    ],
+    "watchOut": "Any answer that can't say what would change its mind isn't an answer — it's an identity. Ours come with conditions attached.",
+    "faq": [
+      {
+        "q": "What's the most-asked question?",
+        "a": "\"What should I buy first?\" — and the answer is almost always: nothing yet. Run the routine for two weeks first."
+      },
+      {
+        "q": "Why give defaults instead of options?",
+        "a": "Because ten options produce paralysis and one default produces feedback. You can only iterate on something you started."
+      },
+      {
+        "q": "How often do these answers change?",
+        "a": "We revisit quarterly. The fundamentals drift slowly; the gear recommendations drift fast."
+      }
+    ],
+    "category": "Deals",
+    "tags": [
+      "Deals",
+      "Charging"
+    ],
+    "sources": [
+      {
+        "label": "r/evcharging community threads",
+        "url": "https://www.reddit.com/r/evcharging/"
+      },
+      {
+        "label": "Search interest: \"EV road trip planning\"",
+        "url": "https://duckduckgo.com/?q=EV%20road%20trip%20planning"
+      }
+    ],
+    "publishedAt": "2026-10-27T21:45:31.223Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-ownership-75",
     "title": "The quiet upgrade: small tweaks in ownership with outsized returns",
     "dek": "No purchases, no overhauls — the modest ownership adjustments that EV owners and prospective electric car buyers report mattering most.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "restoring-sega-genesis-controller-contacts",
+    "title": "Pixel Boost: Restoring Sega Genesis Controller Contacts for Reliable Play",
+    "dek": "A quick guide to cleaning and re‑tinning the Genesis controller's metal contacts for smoother inputs.",
+    "takeaway": "Clean contacts mean fewer missed inputs and longer controller life.",
+    "whatHappened": "Many collectors notice sticky or unresponsive buttons on aging Genesis controllers. Corrosion and grime build up on the contact plates inside the controller housing. A simple cleaning and re‑tinning routine restores crisp button action.",
+    "whyItMatters": "Reliable inputs are essential for both casual play and high‑level speedruns where every frame counts. Restoring hardware also preserves the original feel of the console era, avoiding the need for expensive replacements. Maintaining your gear extends its usable life and keeps the retro experience authentic.",
+    "howToThink": "Disassemble the controller carefully, remove the contact pads, and clean them with isopropyl alcohol. Apply a thin layer of solder flux and re‑tin using a low‑temperature soldering iron. Re‑assemble, test each button, and repeat if needed.",
+    "pros": [
+      "Restores original feel",
+      "Cheap DIY solution",
+      "Extends controller lifespan"
+    ],
+    "cons": [
+      "Requires basic soldering skill",
+      "Time‑consuming for many controllers",
+      "Risk of damage if rushed"
+    ],
+    "watchOut": "Avoid overheating the plastic housing; keep the soldering iron tip brief and low‑temperature.",
+    "faq": [
+      {
+        "q": "Do I need a special screwdriver?",
+        "a": "A small Phillips or tri‑wing driver is enough for most Genesis controllers."
+      },
+      {
+        "q": "Can I use regular solder?",
+        "a": "A fine‑grade rosin‑core solder works, but lead‑free is safer for hobbyists."
+      },
+      {
+        "q": "How often should I clean the contacts?",
+        "a": "Whenever you notice sticky buttons or after a few years of storage."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Hardware",
+      "Maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-10-27T21:45:11.718Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-boost-refreshing-atari-2600-power-switch",
     "title": "Pixel Boost: Refreshing Atari 2600 Power Switch for Reliable Play",
     "dek": "Swap out the flaky Atari 2600 power switch to stop dead‑on start‑ups and enjoy uninterrupted marathons.",
