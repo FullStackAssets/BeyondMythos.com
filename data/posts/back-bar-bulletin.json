@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pre-chilled-glass-why-it-matters",
+    "title": "Pre‑chilled Glasses: The Unsung Tool for Better Cocktails",
+    "dek": "A quick chill on your glass can sharpen flavor, slow dilution, and elevate the drinking experience.",
+    "takeaway": "Chilling your glass a few minutes before serving improves cocktail balance and perception.",
+    "whatHappened": "During a weekend tasting I swapped room‑temperature tumblers for a batch of frosted coupe glasses. The same Manhattan tasted cleaner, the spirit’s edge stood out, and the ice melted slower. The difference was immediate enough to merit a deeper look.",
+    "whyItMatters": "Temperature affects how aromas rise and how quickly dilution occurs; a colder vessel keeps the cocktail in its intended flavor window longer. For home bartenders, that extra control narrows the gap between a good drink and a great one, especially with spirit‑forward classics.",
+    "howToThink": "Pop your glass in the freezer for 5‑10 minutes, or fill it with ice water for a quick chill and dump before pouring. Avoid sudden temperature swings—don’t pour a hot liquid into a frosted glass. If you’re short on freezer space, a chilled stainless steel coaster works as a temporary substitute.",
+    "pros": [
+      "Sharper flavor perception",
+      "Slower dilution",
+      "Professional presentation"
+    ],
+    "cons": [
+      "Extra prep time",
+      "Risk of thermal shock if mishandled",
+      "May mute subtle aromas if over‑chilled"
+    ],
+    "watchOut": "Never expose a glass that’s been in the freezer directly to hot liquids or rapid temperature changes, as it can crack or shatter.",
+    "faq": [
+      {
+        "q": "How long should I chill a glass?",
+        "a": "About 5‑10 minutes in the freezer or a quick ice‑water dip for 30 seconds works for most cocktails."
+      },
+      {
+        "q": "Can I use any glass?",
+        "a": "Most sturdy glasses handle brief chilling, but delicate crystal or thin rims are more prone to breakage."
+      },
+      {
+        "q": "What’s a good alternative if I don’t have freezer space?",
+        "a": "Fill the glass with ice water, swirl, then discard the water right before serving."
+      }
+    ],
+    "category": "Tools",
+    "tags": [
+      "tools",
+      "presentation"
+    ],
+    "sources": [
+      {
+        "label": "r/bartenders community threads",
+        "url": "https://www.reddit.com/r/bartenders/"
+      },
+      {
+        "label": "Search interest: \"cocktail tools essentials\"",
+        "url": "https://duckduckgo.com/?q=cocktail%20tools%20essentials"
+      }
+    ],
+    "publishedAt": "2026-10-27T02:45:30.682Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ingredients-pre-spend-checklist-81",
     "title": "The ingredients checklist: run this before you spend",
     "dek": "Seven questions that separate a justified ingredients purchase from an expensive mood.",

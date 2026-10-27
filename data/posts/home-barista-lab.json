@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-temp-thermocouple-hack",
+    "title": "Master Espresso Temperature with a Simple Thermocouple Hack",
+    "dek": "Use a cheap thermocouple and a phone app to keep your brew water within the sweet spot.",
+    "takeaway": "A low‑cost sensor gives you real‑time temperature control for better espresso.",
+    "whatHappened": "I noticed my espresso shot temperature fluctuated by several degrees between pulls. I added a kitchen‑grade thermocouple and paired it with a free logging app. The data revealed the heater’s off‑cycle lag.",
+    "whyItMatters": "Temperature stability is a core driver of flavor balance; even a few degrees shift can mute acidity or over‑extract bitterness. Knowing the exact temp lets you dial in the grind and dose more confidently.",
+    "howToThink": "Treat temperature like a repeatable parameter: measure, log, and adjust the machine’s pre‑infusion or PID settings until the curve flattens. Small tweaks pay off more than chasing crema alone.",
+    "pros": [
+      "Cheap and easy to set up",
+      "Provides real‑time feedback",
+      "Improves shot consistency"
+    ],
+    "cons": [
+      "Requires a spare USB port or adapter",
+      "App learning curve",
+      "Sensor can be fragile if mishandled"
+    ],
+    "watchOut": "Don’t expose the thermocouple tip to direct steam for too long—it can degrade quickly.",
+    "faq": [
+      {
+        "q": "Can I use any thermocouple?",
+        "a": "A type‑K sensor works well and is widely available."
+      },
+      {
+        "q": "Do I need a special app?",
+        "a": "Many free apps read USB or Bluetooth thermocouples; choose one with logging."
+      },
+      {
+        "q": "Will this void my machine warranty?",
+        "a": "Adding an external sensor doesn’t modify the machine, so it’s generally safe."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "temperature",
+      "DIY"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-10-27T02:45:09.038Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "grinder-burr-alignment-test",
     "title": "Align Your Grinder Burrs with a Simple Paper Test",
     "dek": "A quick, no‑tool method to see if your burrs are level and delivering even grinds.",

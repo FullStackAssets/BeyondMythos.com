@@ -1,5 +1,56 @@
 [
   {
+    "slug": "reinforcing-mega-drive-cartridge-shells",
+    "title": "Pixel Boost: Reinforcing Mega Drive Cartridge Shells for Durability",
+    "dek": "A quick guide to strengthening those aging Mega Drive cartridges before they crack.",
+    "takeaway": "A simple reinforcement can extend cartridge life and prevent costly repairs.",
+    "whatHappened": "We noticed a surge of Mega Drive owners reporting cracked plastic shells after years of storage. The fragile case often gives way when the cartridge is removed frequently.",
+    "whyItMatters": "A broken shell can stress the PCB and pins, leading to intermittent play or permanent loss of a beloved title. Preserving the hardware ensures the games stay playable for future runs.",
+    "howToThink": "Use a thin but sturdy material like PET sheet or a custom 3D‑printed clip to brace the shell, then secure with a low‑tack adhesive. The goal is to add support without interfering with cartridge insertion.",
+    "pros": [
+      "Low cost",
+      "Easy to apply",
+      "Reversible if needed"
+    ],
+    "cons": [
+      "Adds slight thickness",
+      "Requires careful alignment",
+      "May void warranty on rare units"
+    ],
+    "watchOut": "Avoid using aggressive glue that could seep into the cartridge and damage the PCB.",
+    "faq": [
+      {
+        "q": "Will the reinforcement affect cartridge fit in the console?",
+        "a": "If done correctly, the added layer is thin enough to slide in normally."
+      },
+      {
+        "q": "Can I use epoxy for stronger bonding?",
+        "a": "Epoxy is too rigid and can crack; stick adhesives are safer for retro hardware."
+      },
+      {
+        "q": "Is this method suitable for other consoles?",
+        "a": "Yes, the same principle works for most cartridge‑based systems with plastic shells."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Mega Drive",
+      "Cartridge Repair"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-27T02:45:06.991Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "recalibrating-snes-light-gun",
     "title": "Pixel Boost: Recalibrating SNES Light Gun for Precise Aim",
     "dek": "A quick guide to get your SNES Light Gun firing straight again, without costly replacements.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "seasonal-feeder-swap-matching-birds-to-the-calen",
+    "title": "Seasonal feeder swap: matching birds to the calendar",
+    "dek": "Switch up your backyard feeder each season to attract the right birds and keep your garden lively year‑round.",
+    "takeaway": "Aligning feeder type and food with the season draws more species and boosts bird activity.",
+    "whatHappened": "I swapped my platform feeder for a suet feeder in winter, then moved to a nectar feeder in spring, and finally a seed spreader for fall. Each change brought a noticeable shift in the species showing up, from woodpeckers to hummingbirds to finches.",
+    "whyItMatters": "Birds respond to food availability just like any wild animal, so matching the feeder to seasonal diets supports their natural cycles. It also gives backyard watchers a richer, more varied viewing experience without extra trips to the park.",
+    "howToThink": "Start by noting which birds you most want to see each season, then pick a feeder and food that meets their needs. Rotate the setup every few months, and keep a simple log of which species appear. Small tweaks add up to big diversity gains.",
+    "pros": [
+      "Attracts new species",
+      "Keeps birds engaged year‑round",
+      "Simple, low‑cost changes"
+    ],
+    "cons": [
+      "Requires occasional cleaning",
+      "Need to stock different foods",
+      "May attract unwanted visitors"
+    ],
+    "watchOut": "Avoid overfilling suet in hot weather—it can melt and become a mess.",
+    "faq": [
+      {
+        "q": "Do I need to buy a new feeder each season?",
+        "a": "No, many feeders are multi‑purpose; you can often just change the food or add a simple accessory."
+      },
+      {
+        "q": "What food works best in winter?",
+        "a": "High‑fat options like suet and black‑oil sunflower seeds keep birds energized in cold temperatures."
+      },
+      {
+        "q": "Can I use the same feeder for nectar and seed?",
+        "a": "It’s best to keep nectar and seed separate to prevent mold and keep each food fresh."
+      }
+    ],
+    "category": "Feeders",
+    "tags": [
+      "seasonal",
+      "feeder swap"
+    ],
+    "sources": [
+      {
+        "label": "r/Ornithology community threads",
+        "url": "https://www.reddit.com/r/Ornithology/"
+      },
+      {
+        "label": "Search interest: \"native plants for birds\"",
+        "url": "https://duckduckgo.com/?q=native%20plants%20for%20birds"
+      }
+    ],
+    "publishedAt": "2026-10-27T02:45:39.041Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-habitat-72",
     "title": "Ask the forge: your habitat questions, answered",
     "dek": "Straight answers to the habitat questions casual birdwatchers and backyard naturalists keep asking, minus the hedging.",

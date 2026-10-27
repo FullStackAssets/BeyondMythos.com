@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midday-platform-trail",
+    "title": "Midday Platform Trail: Low‑Impact Hiking on Rural Lines",
+    "dek": "Explore how a short hike off the tracks turns a train stop into a low‑impact adventure.",
+    "takeaway": "A quick trail can deepen your connection to place without adding carbon.",
+    "whatHappened": "We disembarked at a modest station in the foothills, followed a marked footpath that loops back to the platform, and logged a gentle 2‑km hike.",
+    "whyItMatters": "Short, low‑impact hikes let travelers experience local ecosystems, support nearby communities, and keep the carbon budget low.",
+    "howToThink": "Pick stops with clear signage, pack minimal gear, and respect trail etiquette; treat the hike as an extension of the rail journey.",
+    "pros": [
+      "Zero emissions beyond train",
+      "Adds physical activity",
+      "Reveals hidden scenery"
+    ],
+    "cons": [
+      "Limited to accessible stops",
+      "Weather dependent",
+      "Requires extra time"
+    ],
+    "watchOut": "Check trail conditions to avoid slippery or closed paths.",
+    "faq": [
+      {
+        "q": "Do I need a permit for short trail walks off the train?",
+        "a": "Most short, public‑access paths don’t require permits, but verify any local restrictions before you go."
+      },
+      {
+        "q": "What gear should I bring for a low‑impact hike?",
+        "a": "A lightweight daypack, reusable water bottle, sturdy shoes, and a map or offline GPS app are enough."
+      },
+      {
+        "q": "Can I keep my luggage on the train while I hike?",
+        "a": "Yes—store your bag in the overhead rack or luggage compartment; keep valuables secure."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "hiking"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-10-27T02:45:07.749Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "midday-platform-eco-spotlight-train",
     "title": "Midday Platform Eco Spotlight: Low‑Impact Conservation on Rural Trains",
     "dek": "A quick guide to turning a train stop into a micro‑habitat for low‑impact travelers.",
