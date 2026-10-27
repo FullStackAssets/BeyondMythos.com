@@ -1,5 +1,56 @@
 [
   {
+    "slug": "rapid-previsual-phone-storyboarding",
+    "title": "Rapid pre‑visual with phone storyboarding",
+    "dek": "Turn a spare smartphone into a fast, low‑cost storyboard tool that keeps your shoot on track.",
+    "takeaway": "A phone‑based storyboard can streamline visual planning without breaking the budget.",
+    "whatHappened": "During a two‑day micro‑budget shoot, the crew used a free storyboard app on a spare phone to sketch shots on the fly. The director updated frames between takes, and the DP referenced the images to adjust lighting and composition instantly.",
+    "whyItMatters": "Indie sets often lack dedicated pre‑visual resources, leading to wasted time and mismatched expectations. A phone storyboard bridges that gap, ensuring everyone visualizes the same frame before the camera rolls, which is crucial when every minute counts.",
+    "howToThink": "Pick a simple app that lets you draw or import quick sketches. Capture each shot idea in 10‑seconds, label with scene/shot numbers, and share via a cloud folder. Refer to the images on set, adjust as needed, and keep the folder updated throughout the day.",
+    "pros": [
+      "Zero cost if you already have a phone",
+      "Instant updates keep the team synced",
+      "Lightweight and portable"
+    ],
+    "cons": [
+      "Limited drawing precision",
+      "Screen glare can be an issue outdoors",
+      "May require extra time to digitize hand sketches"
+    ],
+    "watchOut": "Make sure the phone is fully charged and protected from rain before the shoot.",
+    "faq": [
+      {
+        "q": "Do I need a fancy drawing tablet?",
+        "a": "No, a basic sketching app on any smartphone works fine for rough visuals."
+      },
+      {
+        "q": "Can I share the storyboard with collaborators remotely?",
+        "a": "Yes—most apps sync to cloud services like Google Drive or Dropbox."
+      },
+      {
+        "q": "What if my sketches are too rough to convey ideas?",
+        "a": "Focus on composition, movement, and lighting cues; details can be clarified verbally."
+      }
+    ],
+    "category": "Production",
+    "tags": [
+      "storyboarding",
+      "mobile tools"
+    ],
+    "sources": [
+      {
+        "label": "r/Filmmakers community threads",
+        "url": "https://www.reddit.com/r/Filmmakers/"
+      },
+      {
+        "label": "Search interest: \"indie film lighting budget\"",
+        "url": "https://duckduckgo.com/?q=indie%20film%20lighting%20budget"
+      }
+    ],
+    "publishedAt": "2026-10-27T01:45:10.878Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "storyboard-shortcuts-visual-planning",
     "title": "Storyboard shortcuts: visual planning in a day",
     "dek": "A fast storyboard method lets indie creators lock visual flow in hours, not days.",

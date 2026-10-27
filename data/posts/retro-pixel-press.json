@@ -1,5 +1,56 @@
 [
   {
+    "slug": "recalibrating-snes-light-gun",
+    "title": "Pixel Boost: Recalibrating SNES Light Gun for Precise Aim",
+    "dek": "A quick guide to get your SNES Light Gun firing straight again, without costly replacements.",
+    "takeaway": "A simple recalibration can restore accuracy and extend the life of your classic light gun.",
+    "whatHappened": "After a season of missed shots, a collector discovered the Light Gun's sensor had drifted due to age. A brief disassembly revealed a loose photodiode connector. Re‑securing it restored the original targeting precision.",
+    "whyItMatters": "Accurate input is essential for both nostalgic play and competitive Light Gun speedruns, where split‑second timing decides the leaderboard. Maintaining hardware reliability also preserves the original gaming experience for future collectors.",
+    "howToThink": "Start by unplugging the console and removing the gun's front panel. Locate the small connector near the sensor and gently reseat it, ensuring a snug fit. Reassemble, test with a calibration screen, and adjust the aim using the on‑screen controls if needed.",
+    "pros": [
+      "Restores accuracy without new parts",
+      "Low cost and quick to perform",
+      "Extends hardware lifespan"
+    ],
+    "cons": [
+      "Requires careful handling of tiny components",
+      "May need a tiny screwdriver",
+      "Potentially voids warranty if still applicable"
+    ],
+    "watchOut": "Avoid applying excess force to the connector; a broken pin is harder to fix than a loose one.",
+    "faq": [
+      {
+        "q": "Do I need any special tools?",
+        "a": "A small Phillips screwdriver and a steady hand are enough."
+      },
+      {
+        "q": "Can I recalibrate any SNES Light Gun model?",
+        "a": "The method works for most original SNES Light Guns, but variations may exist."
+      },
+      {
+        "q": "Will this fix all aiming issues?",
+        "a": "It resolves sensor drift; mechanical damage to the barrel still requires replacement."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "SNES",
+      "Light Gun"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-10-27T01:45:07.773Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "snes-controller-rubber-replacement",
     "title": "Pixel Boost: Swapping SNES Controller Rubber Pads for Better Grip",
     "dek": "Fresh rubber pads restore the classic SNES feel and prevent slip during marathon runs.",

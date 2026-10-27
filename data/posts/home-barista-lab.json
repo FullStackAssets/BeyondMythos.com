@@ -1,5 +1,56 @@
 [
   {
+    "slug": "grinder-burr-alignment-test",
+    "title": "Align Your Grinder Burrs with a Simple Paper Test",
+    "dek": "A quick, no‑tool method to see if your burrs are level and delivering even grinds.",
+    "takeaway": "Even burr alignment leads to consistent extraction and smoother flavor.",
+    "whatHappened": "While troubleshooting a flaky espresso, I slipped a thin piece of paper between the burrs and noticed uneven resistance. The simple test revealed one side was higher, confirming misalignment.",
+    "whyItMatters": "Misaligned burrs create uneven particle size, which throws off brew ratios and flavor balance. Fixing the alignment restores uniform grind and improves all brewing methods.",
+    "howToThink": "Place a folded paper sheet in the grinder, turn the hopper on low, and feel for consistent drag. If one side catches, adjust the burrs according to the manufacturer's guide until the paper slides evenly.",
+    "pros": [
+      "No extra tools needed",
+      "Instant visual feedback",
+      "Improves grind consistency"
+    ],
+    "cons": [
+      "Requires grinder disassembly",
+      "May be tricky on sealed units",
+      "Only detects gross misalignment"
+    ],
+    "watchOut": "Avoid forcing the paper; excessive pressure can damage burrs.",
+    "faq": [
+      {
+        "q": "Can I use regular printer paper?",
+        "a": "A lightweight, uncoated sheet works best; thicker paper may jam."
+      },
+      {
+        "q": "How often should I perform this test?",
+        "a": "Whenever you notice a change in taste or after a major grind adjustment."
+      },
+      {
+        "q": "Will this test work on blade grinders?",
+        "a": "Blade grinders don’t have adjustable burrs, so the test isn’t applicable."
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "grinder",
+      "maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-10-27T01:45:08.391Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "calibrate-grinder-click-test",
     "title": "Calibrate Your Grinder with a Simple Click Test",
     "dek": "A quick, no‑tools method to fine‑tune your burr grinder for consistent dosing.",

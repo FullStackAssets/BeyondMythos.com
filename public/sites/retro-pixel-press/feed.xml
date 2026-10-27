@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Recalibrating SNES Light Gun for Precise Aim</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/recalibrating-snes-light-gun.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/recalibrating-snes-light-gun.html</guid>
+      <pubDate>Tue, 27 Oct 2026 01:45:07 GMT</pubDate>
+      <description>A quick guide to get your SNES Light Gun firing straight again, without costly replacements.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Swapping SNES Controller Rubber Pads for Better Grip</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/snes-controller-rubber-replacement.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/snes-controller-rubber-replacement.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-recalibrating-game-boy-color-buttons.html</guid>
       <pubDate>Mon, 19 Oct 2026 20:45:11 GMT</pubDate>
       <description>Fine-tune your Game Boy Color&apos;s button feel to shave precious milliseconds off your runs.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Enhancing Game Boy Audio Output for Clearer Speedrun Audio</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-enhancing-game-boy-audio-output.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-enhancing-game-boy-audio-output.html</guid>
-      <pubDate>Mon, 19 Oct 2026 19:45:07 GMT</pubDate>
-      <description>Upgrade the Game Boy’s speaker circuit for louder, crisper sound without sacrificing battery life.</description>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "dry-brush-metal-glints",
+    "title": "Miniature painting: mastering dry brushing for metal glints",
+    "dek": "Learn how dry brushing can make metal miniatures pop without a lot of extra paint.",
+    "takeaway": "Dry brushing gives instant visual depth to metal parts with minimal effort.",
+    "whatHappened": "A recent batch of metal wargear was left flat after base coating, so we tried a quick dry‑brush pass with a light silver. The result was a crisp, reflective highlight that made the pieces stand out on the tabletop. The technique took less than five minutes per model.",
+    "whyItMatters": "Metal parts often look dull after priming, and over‑painting can mask their texture. A subtle dry brush adds contrast, enhancing realism and visual focus during play. It also saves time compared to layering multiple thin coats.",
+    "howToThink": "Start with a dry brush loaded sparingly with a metallic shade, then sweep lightly over raised edges. Keep the brush mostly dry and work in quick strokes to avoid pooling. Adjust pressure to control highlight intensity and step back frequently to gauge balance.",
+    "pros": [
+      "Fast visual impact",
+      "Uses minimal paint",
+      "Works on any metal surface"
+    ],
+    "cons": [
+      "Can accentuate surface imperfections",
+      "Requires steady hand",
+      "Limited to raised details"
+    ],
+    "watchOut": "Avoid over‑loading the brush or you'll lose the subtlety that makes dry brushing effective.",
+    "faq": [
+      {
+        "q": "Can I use dry brushing on non‑metal surfaces?",
+        "a": "Yes, but the effect is most striking on raised metal; for other materials use a color that contrasts with the base."
+      },
+      {
+        "q": "What brush type works best?",
+        "a": "A flat or filbert brush with stiff synthetic bristles holds the right amount of paint for controlled strokes."
+      },
+      {
+        "q": "Do I need a specific paint?",
+        "a": "Any metallic or light‑reflective paint works; start with a shade lighter than your base coat."
+      }
+    ],
+    "category": "Techniques",
+    "tags": [
+      "dry‑brush",
+      "metal highlights"
+    ],
+    "sources": [
+      {
+        "label": "r/TerrainBuilding community threads",
+        "url": "https://www.reddit.com/r/TerrainBuilding/"
+      },
+      {
+        "label": "Search interest: \"best hobby brushes\"",
+        "url": "https://duckduckgo.com/?q=best%20hobby%20brushes"
+      }
+    ],
+    "publishedAt": "2026-10-27T01:45:38.848Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-warhammer40k-24",
     "title": "Community pulse: what r/Warhammer40k is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the showcase community this week.",

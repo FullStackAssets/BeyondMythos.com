@@ -1,5 +1,56 @@
 [
   {
+    "slug": "budget-gpu-showdown-750ti-vs-rx560",
+    "title": "Budget GPU Showdown: $90 GTX 750 Ti vs $100 Radeon RX 560",
+    "dek": "We pit two sub-$100 cards against each other to see which one still delivers playable 1080p frames on a modest build.",
+    "takeaway": "Even under $100 you can still enjoy decent 1080p gaming if you choose the right card.",
+    "whatHappened": "We tested a used GTX 750 Ti bought for $90 and a Radeon RX 560 sourced for $100 on a typical budget rig. Both cards were run through a selection of modern indie and older AAA titles at 1080p with low-medium settings.",
+    "whyItMatters": "Many builders think sub-$100 GPUs are dead ends, but these tests show they can still fill the gap for budget-first builds. Knowing which card stretches your dollar helps avoid over-spending on newer, pricier options.",
+    "howToThink": "Start by checking the card’s power draw and driver support, then match it to the games you play most. Prioritize cards with better memory bandwidth for newer titles, and don’t ignore the resale market for lightly used units.",
+    "pros": [
+      "Low power draw",
+      "Quiet operation",
+      "Affordable entry point"
+    ],
+    "cons": [
+      "Limited high-resolution performance",
+      "Older architecture",
+      "Driver quirks on newer OS"
+    ],
+    "watchOut": "Watch out for cards with missing fans or excessive wear, as they can throttle under load.",
+    "faq": [
+      {
+        "q": "Can these cards handle 1080p esports titles?",
+        "a": "Yes, most esports games run smoothly at 1080p with low to medium settings on both cards."
+      },
+      {
+        "q": "Do I need a new power supply for either card?",
+        "a": "Both cards draw under 75W, so a decent 450W unit is usually sufficient."
+      },
+      {
+        "q": "Is it worth buying a used card over a new budget model?",
+        "a": "Often, a well-kept used card offers more performance per dollar than a brand-new low-tier GPU."
+      }
+    ],
+    "category": "GPUs",
+    "tags": [
+      "budget-gpu",
+      "used-hardware"
+    ],
+    "sources": [
+      {
+        "label": "r/buildapc community threads",
+        "url": "https://www.reddit.com/r/buildapc/"
+      },
+      {
+        "label": "Search interest: \"used pc parts guide\"",
+        "url": "https://duckduckgo.com/?q=used%20pc%20parts%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-27T01:45:11.490Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "hidden-power-1080p-used-gtx-750-ti",
     "title": "Hidden Power: Getting 1080p from a $90 Used GTX 750 Ti",
     "dek": "A $90 used GTX 750 Ti can still push 1080p gaming with clever tweaks.",

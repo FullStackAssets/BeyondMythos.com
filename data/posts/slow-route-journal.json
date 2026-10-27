@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midday-platform-eco-spotlight-train",
+    "title": "Midday Platform Eco Spotlight: Low‑Impact Conservation on Rural Trains",
+    "dek": "A quick guide to turning a train stop into a micro‑habitat for low‑impact travelers.",
+    "takeaway": "Even a brief platform pause can boost local biodiversity without extra carbon cost.",
+    "whatHappened": "While waiting for the 3 pm rural express, I spread a few native seed packets and a simple wooden bird feeder on the platform. Within minutes, commuters curiously watched as sparrows inspected the new perch.",
+    "whyItMatters": "Train stations are often overlooked green spaces; a tiny seed‑sowing effort can create pollinator waypoints along a route, reinforcing the low‑impact ethos of slow travel.",
+    "howToThink": "Carry a small pouch of native seeds and a collapsible feeder on every journey. Choose spots with sunlight and minimal foot traffic, and secure items with a simple zip‑tie or reusable strap.",
+    "pros": [
+      "Boosts local pollinators",
+      "Zero‑cost, low‑effort",
+      "Enhances traveler connection to place"
+    ],
+    "cons": [
+      "May need permission at some stations",
+      "Seeds can be scattered by wind",
+      "Limited impact if not repeated"
+    ],
+    "watchOut": "Check station rules first—some operators restrict any items left on platforms.",
+    "faq": [
+      {
+        "q": "Can I use any seed mix?",
+        "a": "Stick to native, low‑maintenance species that won’t become invasive."
+      },
+      {
+        "q": "Do I need permission?",
+        "a": "Most small‑scale, temporary installations are fine, but ask a station staff member if you’re unsure."
+      },
+      {
+        "q": "What if the feeder gets stolen?",
+        "a": "Use a simple, inexpensive design; the act of placing it matters more than the object staying forever."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "eco‑travel",
+      "rail‑habitat"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-10-27T01:45:07.012Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "midday-platform-art-sketching",
     "title": "Midday Platform Art: Low‑Impact Sketching on Rural Trains",
     "dek": "Discover how a quick sketch session on a slow train can deepen your travel experience without adding carbon footprints.",

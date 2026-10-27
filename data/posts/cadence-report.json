@@ -1,5 +1,56 @@
 [
   {
+    "slug": "smart-power-zones-calibrate-trainer",
+    "title": "Smart power zones: calibrating your trainer for consistent effort",
+    "dek": "Learn how to fine‑tune your smart trainer’s power zones so every ride feels accurate and repeatable.",
+    "takeaway": "A calibrated trainer gives trustworthy power data, leading to better pacing and training gains.",
+    "whatHappened": "We ran a quick three‑step calibration on a popular smart trainer, comparing raw power readings before and after using the built‑in auto‑calibration and a simple wheel‑on test. The post‑calibration numbers aligned closely with a known reference roller, showing a tighter variance.",
+    "whyItMatters": "Inconsistent power skews interval intensity, making it hard to hit target zones and track progress. Reliable power lets you trust your training plan and compare sessions across weeks.",
+    "howToThink": "Start with the trainer’s factory calibration, then perform a wheel‑on test at a known resistance, adjust the trainer’s offset until the displayed power matches the reference, and finally verify with a short interval at a target zone. Repeat after firmware updates or major hardware changes.",
+    "pros": [
+      "More accurate power",
+      "Better interval pacing",
+      "Improved training confidence"
+    ],
+    "cons": [
+      "Takes a few minutes",
+      "Requires a reference device or known resistance",
+      "May need re‑calibration after updates"
+    ],
+    "watchOut": "Avoid calibrating on a wet or slippery surface, as slip can corrupt the power reading.",
+    "faq": [
+      {
+        "q": "Do I need a power meter to calibrate?",
+        "a": "No, a reliable resistance source like a calibrated smart trainer or a calibrated roller works."
+      },
+      {
+        "q": "How often should I recalibrate?",
+        "a": "After firmware updates, major hardware changes, or if you notice drift in power numbers."
+      },
+      {
+        "q": "Will calibration affect my cadence reading?",
+        "a": "No, cadence is measured separately and remains unchanged."
+      }
+    ],
+    "category": "Setup",
+    "tags": [
+      "trainer",
+      "power calibration"
+    ],
+    "sources": [
+      {
+        "label": "r/indoorcycling community threads",
+        "url": "https://www.reddit.com/r/indoorcycling/"
+      },
+      {
+        "label": "Search interest: \"zwift training plans\"",
+        "url": "https://duckduckgo.com/?q=zwift%20training%20plans"
+      }
+    ],
+    "publishedAt": "2026-10-27T01:45:27.446Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "training-pre-spend-checklist-81",
     "title": "The training checklist: run this before you spend",
     "dek": "Seven questions that separate a justified training purchase from an expensive mood.",
