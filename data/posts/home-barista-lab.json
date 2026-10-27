@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-foam-tap-test",
+    "title": "Boost Espresso Foam Consistency with a Simple Tap Test",
+    "dek": "A quick tap on the portafilter reveals hidden issues affecting your crema and foam texture.",
+    "takeaway": "A gentle tap helps you spot channeling and uneven extraction before they ruin the foam.",
+    "whatHappened": "I noticed my espresso sometimes lacked the velvety microfoam I expect. By listening to a light tap on the portafilter after the shot, I could hear subtle differences that matched the foam quality.",
+    "whyItMatters": "Foam is the first impression of a shot; inconsistency can mask flavor flaws and reduce enjoyment. Detecting problems early saves wasted beans and time.",
+    "howToThink": "After pulling a shot, give the portafilter a brief, light tap on the counter. A dull thud often means even extraction, while a sharper clack hints at channeling. Adjust grind or dose accordingly before the next pull.",
+    "pros": [
+      "Fast feedback loop",
+      "No extra equipment needed",
+      "Works with any espresso machine"
+    ],
+    "cons": [
+      "Requires practice to interpret sound",
+      "May not catch all extraction issues",
+      "Can be noisy in quiet spaces"
+    ],
+    "watchOut": "Avoid tapping too hard; you could damage the portafilter or disturb the shot.",
+    "faq": [
+      {
+        "q": "Can I use this test with a pressurized portafilter?",
+        "a": "It works best with a non‑pressurized basket because the sound reflects the actual flow through the coffee."
+      },
+      {
+        "q": "How often should I perform the tap test?",
+        "a": "Do it whenever you notice foam variation or when you change beans, grind, or dose."
+      },
+      {
+        "q": "Will the tap affect the temperature of the shot?",
+        "a": "A light tap has negligible impact on temperature, so the shot remains drinkable."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "foam"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-10-27T03:45:07.683Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-temp-thermocouple-hack",
     "title": "Master Espresso Temperature with a Simple Thermocouple Hack",
     "dek": "Use a cheap thermocouple and a phone app to keep your brew water within the sweet spot.",

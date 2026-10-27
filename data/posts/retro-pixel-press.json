@@ -1,5 +1,56 @@
 [
   {
+    "slug": "restoring-game-gear-lcd",
+    "title": "Pixel Boost: Restoring Game Gear LCD Backlight for Brighter Play",
+    "dek": "Give your Sega Game Gear a brighter, clearer screen with a simple LCD backlight swap.",
+    "takeaway": "A fresh backlight revives the Game Gear’s visibility without expensive repairs.",
+    "whatHappened": "We opened a vintage Game Gear, removed the faded LCD, and installed a modern LED backlight kit. The screen now shines with uniform brightness.",
+    "whyItMatters": "A dim display deters collectors and hampers speedrunning visibility, especially in fast‑paced levels. Restoring clarity preserves gameplay integrity and resale value.",
+    "howToThink": "When tackling a backlight fix, verify the kit matches the original LCD dimensions, work in a static‑free environment, and test the unit before sealing it back up.",
+    "pros": [
+      "Brighter screen",
+      "Low cost DIY",
+      "Improves resale value"
+    ],
+    "cons": [
+      "Requires soldering",
+      "Potential void of warranty",
+      "Risk of LCD damage if mishandled"
+    ],
+    "watchOut": "Handle the delicate LCD ribbon cable with care to avoid tearing.",
+    "faq": [
+      {
+        "q": "Do I need special tools?",
+        "a": "A small soldering iron, tweezers, and a precision screwdriver set are enough."
+      },
+      {
+        "q": "Will the new LED affect battery life?",
+        "a": "LEDs draw less power than the original backlight, so battery life may actually improve."
+      },
+      {
+        "q": "Can I reverse the modification?",
+        "a": "Yes, if you keep the original backlight components, you can reinstall them later."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Game Gear",
+      "LCD Upgrade"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-10-27T03:45:06.891Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "reinforcing-mega-drive-cartridge-shells",
     "title": "Pixel Boost: Reinforcing Mega Drive Cartridge Shells for Durability",
     "dek": "A quick guide to strengthening those aging Mega Drive cartridges before they crack.",

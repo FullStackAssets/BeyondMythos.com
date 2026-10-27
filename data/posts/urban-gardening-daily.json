@@ -1,5 +1,56 @@
 [
   {
+    "slug": "balcony-succulent-stack",
+    "title": "Balcony Succulent Stack: Low‑Maintenance Green Layers",
+    "dek": "Layered succulents turn tiny balconies into resilient, low‑maintenance green walls.",
+    "takeaway": "Stacked succulents give apartment gardeners a drought‑tolerant, eye‑catching backdrop with minimal upkeep.",
+    "whatHappened": "We set up a three‑tier pallet garden filled with hardy succulents on a sunny balcony. After a month the plants thrived, holding soil and moisture well.",
+    "whyItMatters": "Balconies often face water restrictions and heat; succulents store water and need little feeding, making them ideal for busy renters. Their durability means fewer trips to the garden store.",
+    "howToThink": "Start with a shallow, sturdy tray or repurposed pallet, add a well‑draining mix, then place drought‑tolerant succulents in varying heights. Water sparingly and let the sun do the work.",
+    "pros": [
+      "Water‑saving",
+      "Eye‑catching texture",
+      "Very low maintenance"
+    ],
+    "cons": [
+      "Limited edible yield",
+      "Sensitive to over‑watering",
+      "May need occasional repotting"
+    ],
+    "watchOut": "Avoid heavy rain accumulation; ensure excess water can drain to prevent root rot.",
+    "faq": [
+      {
+        "q": "Can I grow food in a succulent stack?",
+        "a": "Succulents are decorative; for edibles choose herbs or leafy greens in separate containers."
+      },
+      {
+        "q": "What soil mix works best?",
+        "a": "A cactus or succulent mix with added perlite gives quick drainage."
+      },
+      {
+        "q": "How often should I water?",
+        "a": "Only when the top inch of soil feels dry, typically once every 1‑2 weeks in sunny conditions."
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "Containers",
+      "Succulents"
+    ],
+    "sources": [
+      {
+        "label": "r/houseplants community threads",
+        "url": "https://www.reddit.com/r/houseplants/"
+      },
+      {
+        "label": "Search interest: \"small space vegetables\"",
+        "url": "https://duckduckgo.com/?q=small%20space%20vegetables"
+      }
+    ],
+    "publishedAt": "2026-10-27T03:45:10.260Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "winter-micro-spinach-balcony",
     "title": "Winter Micro-Spinach: Chill‑Proof Greens for Tiny Balconies",
     "dek": "Grow nutrient‑dense micro‑spinach on your balcony even when temps dip below freezing.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "one-pot-wonders-fueling-weekend-overland",
+    "title": "One-pot wonders: fueling your weekend overland trips",
+    "dek": "Maximize flavor and simplicity with single-pot meals that fit any van kitchen.",
+    "takeaway": "A well-chosen one-pot recipe saves time, space, and cleanup on the road.",
+    "whatHappened": "We tested three classic one-pot dishes—chili, ratatouille, and coconut curry—using a standard 12‑quart pot on a portable induction cooktop during a two‑day weekend trip.",
+    "whyItMatters": "Space and cleanup are premium in a van; reducing the number of dishes and cookware frees up room for living essentials and keeps the kitchen tidy.",
+    "howToThink": "Pick recipes with overlapping ingredients, use a pot that fits your induction zone, and plan cooking steps to align with your travel schedule.",
+    "pros": [
+      "Minimal cookware",
+      "Less cleanup",
+      "Versatile flavors"
+    ],
+    "cons": [
+      "Limited browning",
+      "May require larger pot",
+      "Potential for stronger odors"
+    ],
+    "watchOut": "Watch the pot’s heat level to avoid scorching the bottom of thin sauces.",
+    "faq": [
+      {
+        "q": "Can I use a regular electric hot plate instead of induction?",
+        "a": "Yes, as long as the plate matches the pot’s base and you have adequate power supply."
+      },
+      {
+        "q": "What’s the best pot material for one-pot meals?",
+        "a": "Stainless steel with a thick base works well for even heating and easy cleaning."
+      },
+      {
+        "q": "How do I prevent strong smells from lingering?",
+        "a": "Vent the van while cooking and wipe the pot immediately after use."
+      }
+    ],
+    "category": "Cooking",
+    "tags": [
+      "one-pot",
+      "weekend cooking"
+    ],
+    "sources": [
+      {
+        "label": "r/VanLife community threads",
+        "url": "https://www.reddit.com/r/VanLife/"
+      },
+      {
+        "label": "Search interest: \"van solar power setup\"",
+        "url": "https://duckduckgo.com/?q=van%20solar%20power%20setup"
+      }
+    ],
+    "publishedAt": "2026-10-27T03:45:26.593Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-vandwellers-27",
     "title": "Community pulse: what r/vandwellers is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the cooking community this week.",

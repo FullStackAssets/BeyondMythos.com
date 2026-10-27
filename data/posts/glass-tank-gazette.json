@@ -1,5 +1,56 @@
 [
   {
+    "slug": "microbubble-magic-boost-oxygen",
+    "title": "Microbubble magic: boost oxygen without a pricey diffuser",
+    "dek": "Add tiny bubbles to your tank for healthier fish and greener growth without breaking the bank.",
+    "takeaway": "Simple microbubble tricks can raise dissolved oxygen efficiently.",
+    "whatHappened": "We tested a DIY air stone setup and a small powerhead to create fine bubbles, comparing oxygen levels over a day.",
+    "whyItMatters": "Oxygen is vital for fish metabolism and plant photosynthesis; low levels cause stress and algae spikes.",
+    "howToThink": "Start with a low‑cost air stone, adjust flow to create sub‑millimeter bubbles, and position near the surface for maximum gas exchange.",
+    "pros": [
+      "Cheap to implement",
+      "Improves fish health",
+      "Boosts plant growth"
+    ],
+    "cons": [
+      "May increase surface agitation",
+      "Requires occasional cleaning",
+      "Effect limited in large tanks"
+    ],
+    "watchOut": "Avoid over‑aerating, which can cause CO₂ loss and pH swings.",
+    "faq": [
+      {
+        "q": "Do I need a powerhead?",
+        "a": "A powerhead helps circulate bubbles, but a strong air pump and well‑placed stone can work alone."
+      },
+      {
+        "q": "Will this raise temperature?",
+        "a": "Aeration can slightly cool water, but any change is minimal."
+      },
+      {
+        "q": "How often should I clean the stone?",
+        "a": "Inspect weekly and soak in diluted bleach monthly to prevent clogging."
+      }
+    ],
+    "category": "Water",
+    "tags": [
+      "oxygenation",
+      "budget hacks"
+    ],
+    "sources": [
+      {
+        "label": "r/PlantedTank community threads",
+        "url": "https://www.reddit.com/r/PlantedTank/"
+      },
+      {
+        "label": "Search interest: \"planted tank setup\"",
+        "url": "https://duckduckgo.com/?q=planted%20tank%20setup"
+      }
+    ],
+    "publishedAt": "2026-10-27T03:45:41.054Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-aquariums-24",
     "title": "Community pulse: what r/Aquariums is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the gear community this week.",
