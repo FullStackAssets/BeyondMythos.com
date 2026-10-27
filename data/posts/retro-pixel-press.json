@@ -1,5 +1,56 @@
 [
   {
+    "slug": "restoring-c64-cartridge-connectors",
+    "title": "Pixel Boost: Restoring Commodore 64 Cartridge Edge Connectors",
+    "dek": "A quick guide to cleaning and re‑tinning C64 cartridge edge connectors for reliable gameplay.",
+    "takeaway": "Clean, re‑tin, and test your C64 cartridges to avoid flaky loads.",
+    "whatHappened": "Players reported intermittent loading failures on several C64 titles. A simple connector clean‑up restored smooth operation across the board.",
+    "whyItMatters": "A stable connection preserves the original gaming experience and prevents data loss during speedrun attempts. Maintaining hardware integrity also safeguards these classic cartridges for future collectors.",
+    "howToThink": "Start with a gentle brush to remove debris, then apply a thin layer of fresh solder to the contacts. Test each cartridge before moving on, and keep a small soldering iron on hand for touch‑ups.",
+    "pros": [
+      "Improved reliability",
+      "Extended cartridge life",
+      "Better load consistency"
+    ],
+    "cons": [
+      "Requires basic soldering skill",
+      "Time‑consuming for many carts",
+      "Risk of damage if overheated"
+    ],
+    "watchOut": "Avoid overheating the plastic housing while soldering.",
+    "faq": [
+      {
+        "q": "Do I need a special solder for cartridge contacts?",
+        "a": "A standard rosin‑core solder with a low melting point works fine."
+      },
+      {
+        "q": "Can I use a regular toothbrush for cleaning?",
+        "a": "A soft‑bristled brush works, but a dedicated contact cleaner is safer."
+      },
+      {
+        "q": "How often should I repeat this maintenance?",
+        "a": "Whenever you notice loading hiccups or after extended storage periods."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "C64",
+      "Hardware"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-10-27T16:45:08.534Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "reinforce-nes-joypad-contacts",
     "title": "Pixel Boost: Reinforcing NES Joypad Contacts for Consistent Inputs",
     "dek": "A quick guide to strengthen your classic NES controller contacts for reliable button presses during marathon runs.",

@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Restoring Commodore 64 Cartridge Edge Connectors</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/restoring-c64-cartridge-connectors.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/restoring-c64-cartridge-connectors.html</guid>
+      <pubDate>Tue, 27 Oct 2026 16:45:08 GMT</pubDate>
+      <description>A quick guide to cleaning and re‑tinning C64 cartridge edge connectors for reliable gameplay.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Reinforcing NES Joypad Contacts for Consistent Inputs</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/reinforce-nes-joypad-contacts.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/reinforce-nes-joypad-contacts.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/restoring-atari-2600-audio.html</guid>
       <pubDate>Tue, 20 Oct 2026 11:45:04 GMT</pubDate>
       <description>Give your classic Atari 2600 a clean, crisp sound without swapping the whole board.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Recalibrating Game Boy Pocket LCD for Crisper Text</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-recalibrating-game-boy-pocket-lcd.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-recalibrating-game-boy-pocket-lcd.html</guid>
-      <pubDate>Tue, 20 Oct 2026 10:45:08 GMT</pubDate>
-      <description>A quick tweak to the Game Boy Pocket&apos;s LCD bias can make on‑screen text noticeably sharper without any soldering.</description>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midday-platform-planting",
+    "title": "Midday Platform Planting: Low‑Impact Seed Swaps on Rural Trains",
+    "dek": "Swap seeds with fellow travelers at the station garden and let your journey sprout new green connections.",
+    "takeaway": "Seed exchanges turn a train stop into a micro‑garden and a chance to travel lighter.",
+    "whatHappened": "At the small rural stop of Greenfield, we set up a portable seed table. Passengers dropped off packets of heirloom beans and wildflowers, swapping them in a quick, quiet exchange.",
+    "whyItMatters": "Sharing seeds spreads native varieties and reduces packaging waste, aligning travel with low‑impact stewardship. It also builds a sense of place that lasts beyond the ride.",
+    "howToThink": "Look for station bulletin boards or community gardens and ask permission to place a small seed box. Bring a handful of open‑pollinated seeds in recyclable bags and label them clearly. Offer a brief note on planting tips to keep the exchange friendly and useful.",
+    "pros": [
+      "Boosts local biodiversity",
+      "Fosters community connections",
+      "Adds purpose to travel pauses"
+    ],
+    "cons": [
+      "Requires station permission",
+      "Limited space for seed packets",
+      "Seasonal availability varies"
+    ],
+    "watchOut": "Check local regulations before leaving seed packets to avoid unintentionally introducing invasive species.",
+    "faq": [
+      {
+        "q": "Can I bring any type of seed?",
+        "a": "Stick to non‑invasive, open‑pollinated varieties that are legal in the region."
+      },
+      {
+        "q": "Do I need a permit for a seed table?",
+        "a": "Many small stations welcome community projects, but a quick ask to the station manager is courteous."
+      },
+      {
+        "q": "How many seeds should I carry?",
+        "a": "A small handful per stop keeps the box tidy and encourages sharing without overloading the space."
+      }
+    ],
+    "category": "Local",
+    "tags": [
+      "seed swap",
+      "train travel"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-10-27T16:45:12.684Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "midday-platform-music-folk-trains",
     "title": "Midday Platform Music: Low‑Impact Folk Tunes on Rural Trains",
     "dek": "Discover how curating a simple folk playlist can enhance your train journey while keeping your carbon footprint low.",

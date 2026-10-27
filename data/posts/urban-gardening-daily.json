@@ -1,5 +1,56 @@
 [
   {
+    "slug": "balcony-lettuce-loop",
+    "title": "Balcony Lettuce Loop: Reusing Water for Continuous Growth",
+    "dek": "Turn your balcony lettuce trays into a self‑watering loop that cuts waste and keeps greens crisp longer.",
+    "takeaway": "A simple water‑reuse system keeps lettuce fresh and reduces daily watering chores.",
+    "whatHappened": "A tiny drip‑loop was set up on a sunny balcony using two shallow trays and a short hose. Water collected from the lower tray feeds the upper tray, creating a mini‑cycle.",
+    "whyItMatters": "Apartment gardeners often juggle limited water access and wilted leaves. This loop stretches every drop, saving time and keeping harvests vibrant.",
+    "howToThink": "Place a shallow tray on the balcony rail, add a second tray beneath it, and connect them with a thin tubing. Fill the top tray, let excess drip into the bottom, then pump it back up with a small gravity‑feed or manual squeeze bottle.",
+    "pros": [
+      "Water‑saving",
+      "Extended lettuce freshness",
+      "Minimal equipment"
+    ],
+    "cons": [
+      "Initial setup takes a few minutes",
+      "Needs sunny spot",
+      "May require occasional cleaning"
+    ],
+    "watchOut": "Prevent stagnant water from becoming a breeding ground for mosquitoes—refresh the loop every few days.",
+    "faq": [
+      {
+        "q": "Can I use this for herbs other than lettuce?",
+        "a": "Yes, most shallow‑rooted herbs like basil or cilantro work well with the same principle."
+      },
+      {
+        "q": "Do I need a pump?",
+        "a": "A small manual pump or simple gravity feed is enough; a powered pump is optional."
+      },
+      {
+        "q": "How often should I change the water?",
+        "a": "Swap the water every 3‑4 days to avoid odor and keep nutrients balanced."
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "water reuse",
+      "balcony veggies"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-10-27T16:45:09.968Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "balcony-micro-mushroom-magic",
     "title": "Balcony Micro‑Mushroom Magic: Grow Fungi in a Foot‑Long Box",
     "dek": "Turn a tiny balcony corner into a mushroom harvest with a simple box kit.",

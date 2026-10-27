@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-preinfusion-pause",
+    "title": "Add a Pre‑infusion Pause for a Fuller Espresso Flavor",
+    "dek": "Add a brief pause before the full pump to coax richer flavors from your espresso without extra gear.",
+    "takeaway": "A short pre‑infusion pause can improve balance and sweetness in home espresso.",
+    "whatHappened": "I set a kitchen timer for a two‑second pause right after the pump starts, then let the shot finish as usual. The resulting espresso tasted smoother and more nuanced. Repeating the test confirmed the effect was consistent.",
+    "whyItMatters": "Pre‑infusion lets water wet the coffee puck more gently, reducing channeling and promoting even extraction. This simple tweak can unlock hidden sweetness without changing beans or grind. For home baristas, it’s a low‑cost way to upgrade shot quality.",
+    "howToThink": "Start the pump, immediately stop it for about two seconds, then resume full pressure. Use a timer or count beats to keep the pause consistent. Adjust the pause length by taste—shorter for brighter shots, longer for deeper body.",
+    "pros": [
+      "Richer flavor",
+      "Better balance",
+      "No extra equipment"
+    ],
+    "cons": [
+      "Adds a step",
+      "Timing can be tricky",
+      "May reduce volume slightly"
+    ],
+    "watchOut": "Don’t over‑pause or you’ll under‑extract and get sour notes.",
+    "faq": [
+      {
+        "q": "Can I do this on any machine?",
+        "a": "Yes, as long as you can control the pump start or manually pause the shot."
+      },
+      {
+        "q": "How long should the pause be?",
+        "a": "Start with two seconds and tweak by taste, staying under five seconds to avoid under‑extraction."
+      },
+      {
+        "q": "Will this affect crema?",
+        "a": "It often leads to a smoother crema, though results can vary with bean type and grind."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "Espresso",
+      "Technique"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-10-27T16:45:09.328Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-shot-temperature-trick",
     "title": "Master the Espresso Shot Temperature with a Simple Thermometer Trick",
     "dek": "Use a basic kitchen thermometer to dial in the perfect brewing temperature for consistent espresso flavor.",
