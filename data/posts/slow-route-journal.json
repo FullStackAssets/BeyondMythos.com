@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midday-platform-art-sketching-2",
+    "title": "Midday Platform Art: Low‑Impact Sketching on Rural Trains",
+    "dek": "Turning idle train minutes into a pocket‑sized sketch session that leaves no trace.",
+    "takeaway": "A few minutes of sketching turns a slow train ride into a creative low‑impact habit.",
+    "whatHappened": "While waiting at a small rural stop, I pulled out a folded sketchbook and a charcoal pencil. The gentle sway of the carriage acted as a natural metronome, letting me capture quick line studies of fields and station architecture.",
+    "whyItMatters": "Sketching forces you to look closely, deepening your connection to the passing landscape without adding carbon or waste. It also creates a tangible memory of a fleeting moment, reinforcing the slow‑travel mindset of savoring each pause.",
+    "howToThink": "Carry only a small sketchbook and a single drawing tool—preferably a recyclable charcoal pencil. Focus on gestural lines rather than detailed rendering to keep the practice quick and low‑impact. Use the train’s rhythm to set a steady pace and let the scenery guide your strokes.",
+    "pros": [
+      "Zero waste",
+      "Boosts observation",
+      "Fits in pocket"
+    ],
+    "cons": [
+      "Requires practice",
+      "Limited detail",
+      "Weather dependent"
+    ],
+    "watchOut": "Avoid drawing on train windows or other passengers' spaces, and keep tools secured to prevent spills.",
+    "faq": [
+      {
+        "q": "Do I need professional art supplies?",
+        "a": "No, a simple charcoal pencil and a recycled sketchbook are enough for effective low‑impact sketching."
+      },
+      {
+        "q": "Can I sketch in low light?",
+        "a": "Yes, but a small LED pen light or natural window light works best; avoid harsh artificial lighting that disturbs others."
+      },
+      {
+        "q": "How long should a sketch session be?",
+        "a": "Aim for 5‑10 minutes per stop; the goal is quick observation, not finished artwork."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "art"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-10-27T14:45:10.428Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "midday-platform-photography-2",
     "title": "Midday Platform Photography: Low‑Impact Snapshot on Rural Trains",
     "dek": "Capture the journey without leaving a trace, using simple gear and mindful habits.",

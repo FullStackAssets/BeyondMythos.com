@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Refreshing SNES Controller Contacts for Snappy Inputs</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/refreshing-snes-controller-contacts.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/refreshing-snes-controller-contacts.html</guid>
+      <pubDate>Tue, 27 Oct 2026 14:45:11 GMT</pubDate>
+      <description>A quick guide to clean and lubricate SNES controller contacts, restoring that crisp click for collectors and speedrunners.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Tuning Neo‑Geo CD Laser for Consistent Playback</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-tuning-neo-geo-cd-laser.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-tuning-neo-geo-cd-laser.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-recalibrating-game-boy-camera-sensor.html</guid>
       <pubDate>Tue, 20 Oct 2026 09:45:10 GMT</pubDate>
       <description>A quick guide to tweaking the Game Boy Camera&apos;s sensor for sharper images without breaking the device.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Overclocking Game Boy Color for Faster Load Times</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/overclocking-game-boy-color.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/overclocking-game-boy-color.html</guid>
-      <pubDate>Tue, 20 Oct 2026 08:45:09 GMT</pubDate>
-      <description>Push your classic Game Boy Color to new speeds without breaking the hardware.</description>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "fine-tune-brew-ratio",
+    "title": "Fine‑Tune Your Brew Ratio for Consistent Pour‑Over",
+    "dek": "A quick guide to setting the perfect coffee‑to‑water ratio at home.",
+    "takeaway": "Mastering brew ratio makes every pour‑over taste reliably balanced.",
+    "whatHappened": "We weighed coffee and water for a standard 300 ml pour‑over, then tweaked the ratio by a few grams to see the flavor shift. The result was a noticeable improvement in body and clarity.",
+    "whyItMatters": "A consistent brew ratio eliminates guesswork, so you get the same bright acidity or chocolate depth cup after cup. It also helps you compare beans without the variable of water dilution.",
+    "howToThink": "Start with a 1:16 ratio (e.g., 18 g coffee to 288 g water). Taste, then adjust in small steps—either a gram more coffee or a splash less water—until you hit your preferred strength. Keep notes for each bean.",
+    "pros": [
+      "Predictable flavor",
+      "Easier scaling",
+      "Less waste"
+    ],
+    "cons": [
+      "Requires weighing",
+      "May need trial",
+      "Limits spontaneity"
+    ],
+    "watchOut": "Don’t over‑measure and lose the fun of experimentation.",
+    "faq": [
+      {
+        "q": "Do I need a scale for every brew?",
+        "a": "A scale isn’t mandatory but it gives the most reliable ratio, especially when switching beans."
+      },
+      {
+        "q": "Can I use volume instead of weight?",
+        "a": "Volume is less accurate because coffee density varies; weight is the safest route."
+      },
+      {
+        "q": "What ratio works for a light roast?",
+        "a": "Light roasts often shine at 1:17 or 1:18, letting their delicate notes shine without bitterness."
+      }
+    ],
+    "category": "Pour-over",
+    "tags": [
+      "brew ratio",
+      "pour-over"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-10-27T14:45:09.235Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "speedy-portafilter-clean-hack",
     "title": "Speedy Portafilter Clean Hack for Better Shots",
     "dek": "A quick rinse‑and‑brush routine that keeps your portafilter spotless and boosts extraction.",

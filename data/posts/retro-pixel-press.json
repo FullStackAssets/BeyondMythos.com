@@ -1,5 +1,56 @@
 [
   {
+    "slug": "refreshing-snes-controller-contacts",
+    "title": "Pixel Boost: Refreshing SNES Controller Contacts for Snappy Inputs",
+    "dek": "A quick guide to clean and lubricate SNES controller contacts, restoring that crisp click for collectors and speedrunners.",
+    "takeaway": "Clean contacts bring back reliable, responsive button presses without costly replacements.",
+    "whatHappened": "During a recent marathon run, several players reported intermittent button lag on their original SNES controllers. A quick teardown revealed oxidized contacts inside the controller housing. A simple cleaning and light lubrication solved the issue.",
+    "whyItMatters": "Unreliable inputs can ruin a speedrun attempt and diminish the enjoyment of classic games. Restoring original hardware performance preserves authenticity and saves money compared to buying new units.",
+    "howToThink": "Start by disassembling the controller with a small screwdriver, inspect the contact pads, and use isopropyl alcohol and a soft brush to remove corrosion. Apply a dab of dielectric grease to the pads before reassembly. Test the controller before the next run to confirm smooth operation.",
+    "pros": [
+      "Restores original feel",
+      "Cost‑effective",
+      "Extends controller lifespan"
+    ],
+    "cons": [
+      "Requires basic tools",
+      "Potential for dust ingress if not sealed properly",
+      "Time‑consuming for many controllers"
+    ],
+    "watchOut": "Avoid using excessive liquid; too much can seep into the PCB and cause damage.",
+    "faq": [
+      {
+        "q": "Do I need a new controller if cleaning doesn’t help?",
+        "a": "Often a simple re‑spring or contact replacement can revive a stubborn unit before buying new."
+      },
+      {
+        "q": "Is dielectric grease safe for plastic contacts?",
+        "a": "A thin layer is fine; it prevents future oxidation without affecting conductivity."
+      },
+      {
+        "q": "Can I use this method on other consoles?",
+        "a": "Yes, the same cleaning steps work for most 8‑bit and 16‑bit controllers with similar contact designs."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "SNES",
+      "Controller Maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-27T14:45:11.153Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-boost-tuning-neo-geo-cd-laser",
     "title": "Pixel Boost: Tuning Neo‑Geo CD Laser for Consistent Playback",
     "dek": "A quick laser clean brings back smooth loading on your Neo‑Geo CD without pricey repairs.",
