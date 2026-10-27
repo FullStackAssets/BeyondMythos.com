@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Fine‑Tuning TurboTap for Competitive Speedruns</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/fine-tuning-turbotap.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/fine-tuning-turbotap.html</guid>
+      <pubDate>Tue, 27 Oct 2026 05:45:10 GMT</pubDate>
+      <description>A quick guide to adjusting TurboTap’s response for razor‑sharp inputs in classic speedrun titles.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Upgrading Game Gear Battery for Longer Sessions</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/upgrading-game-gear-battery.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/upgrading-game-gear-battery.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/rewiring-snes-power.html</guid>
       <pubDate>Tue, 20 Oct 2026 00:45:07 GMT</pubDate>
       <description>A quick guide to rewiring your SNES power supply for rock‑steady voltage during marathon runs.</description>
-    </item>
-    <item>
-      <title>&quot;crt setup guide&quot; in practice: a real-world field test</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/crt-setup-guide-field-test-18.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/crt-setup-guide-field-test-18.html</guid>
-      <pubDate>Mon, 19 Oct 2026 23:45:05 GMT</pubDate>
-      <description>We put the most-repeated advice about crt setup guide through a month of actual use. Some of it survived.</description>
     </item>
   </channel>
 </rss>

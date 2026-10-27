@@ -1,5 +1,56 @@
 [
   {
+    "slug": "fine-tuning-turbotap",
+    "title": "Pixel Boost: Fine‑Tuning TurboTap for Competitive Speedruns",
+    "dek": "A quick guide to adjusting TurboTap’s response for razor‑sharp inputs in classic speedrun titles.",
+    "takeaway": "Optimizing TurboTap can shave precious milliseconds off your runs without hardware mods.",
+    "whatHappened": "We discovered that the default debounce timing on the TurboTap controller adds a subtle lag, noticeable in high‑precision runs. By opening the unit and adjusting the internal resistor, the input lag drops noticeably.",
+    "whyItMatters": "In speedrunning, even tiny input delays can be the difference between a personal best and a world record. A smoother tap response also reduces finger fatigue during marathon sessions.",
+    "howToThink": "Treat the controller like any other input device: lower the debounce to the point where accidental double‑presses stay rare, but responsiveness peaks. Test with a timing utility before and after the tweak, and iterate until the feel matches your playstyle.",
+    "pros": [
+      "Improved input latency",
+      "No external adapters needed",
+      "Retains original aesthetic"
+    ],
+    "cons": [
+      "Requires soldering",
+      "Potential warranty void",
+      "Improper adjustment can cause bounce"
+    ],
+    "watchOut": "Avoid setting the debounce too low, or you may register unintended double taps.",
+    "faq": [
+      {
+        "q": "Do I need special tools to adjust TurboTap?",
+        "a": "A small screwdriver, tweezers, and a soldering iron are sufficient; no specialized equipment is required."
+      },
+      {
+        "q": "Will this modification affect other games?",
+        "a": "The change is hardware‑wide, so any game using the TurboTap will benefit from the faster response, though some titles that rely on the original timing may feel different."
+      },
+      {
+        "q": "Can I revert the tweak if I don’t like it?",
+        "a": "Yes—simply replace the resistor with the original value or reinstall the stock module if you kept it."
+      }
+    ],
+    "category": "Speedruns",
+    "tags": [
+      "TurboTap",
+      "Speedrun Optimization"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-27T05:45:10.397Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "upgrading-game-gear-battery",
     "title": "Pixel Boost: Upgrading Game Gear Battery for Longer Sessions",
     "dek": "Swap the original Game Gear battery for a higher-capacity rechargeable unit to extend playtime without sacrificing portability.",

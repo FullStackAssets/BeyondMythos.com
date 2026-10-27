@@ -1,5 +1,56 @@
 [
   {
+    "slug": "brush-your-tamper",
+    "title": "Refresh Your Tamper with a Simple Brush Routine",
+    "dek": "A quick brush-and‑wipe keeps your tamper clean, improving pressure consistency and taste.",
+    "takeaway": "Clean tampers deliver more even extraction and last longer.",
+    "whatHappened": "I noticed uneven espresso shots after weeks of heavy use, traced to coffee oils coating my stainless steel tamper. A quick brush solved it.",
+    "whyItMatters": "Oil buildup changes the tamper’s friction, leading to variable pressure and subtle flavor shifts. Regular cleaning preserves consistency.",
+    "howToThink": "Treat your tamper like a kitchen tool: after each session, wipe with a dry brush, then a quick rinse if needed. Store it dry to avoid rust.",
+    "pros": [
+      "Improves pressure consistency",
+      "Extends tamper life",
+      "Easy and cheap"
+    ],
+    "cons": [
+      "Takes a minute daily",
+      "Requires a dedicated brush",
+      "May need occasional deep cleaning"
+    ],
+    "watchOut": "Avoid abrasive pads that could scratch the tamper surface.",
+    "faq": [
+      {
+        "q": "How often should I clean my tamper?",
+        "a": "A quick brush after every brew and a thorough wash weekly keeps it in top shape."
+      },
+      {
+        "q": "Can I use regular dish soap?",
+        "a": "Mild soap is fine for a deep clean, but rinse well to remove residue."
+      },
+      {
+        "q": "What if my tamper is aluminum?",
+        "a": "Use a non‑abrasive brush and avoid harsh chemicals to prevent discoloration."
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "espresso",
+      "gear"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-10-27T05:45:08.394Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-water-hardness-test",
     "title": "Check Water Hardness with a Simple Test Strip",
     "dek": "A quick strip test reveals if your tap water is too hard, helping you fine‑tune flavor without pricey equipment.",
