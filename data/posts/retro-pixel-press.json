@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-boost-tg16-audio-tuning",
+    "title": "Pixel Boost: Tuning TurboGrafx‑16 Audio Output for Clear Retro Sound",
+    "dek": "Boost your TurboGrafx‑16 audio clarity with a simple capacitor swap and connector cleaning.",
+    "takeaway": "A quick capacitor replace and cleaning restores crisp sound without costly repairs.",
+    "whatHappened": "Long‑time owners report muffled or tinny audio on their TurboGrafx‑16 consoles after years of use. The culprit is often dried electrolytic capacitors and oxidised connector pins. A brief teardown reveals the aging parts causing the distortion.",
+    "whyItMatters": "Clear audio enhances both casual play and competitive speedrun commentary, preserving the original experience. Restoring sound without replacing the whole board keeps the console authentic and affordable for collectors.",
+    "howToThink": "Swap the electrolytic capacitor on the audio output board with a low‑ESR modern equivalent, then gently clean the audio jack and PCB contacts with isopropyl alcohol. Re‑assemble, test with a known‑good cartridge, and adjust if needed. This routine can extend the console’s life for years.",
+    "pros": [
+      "Low cost solution",
+      "Minimal tools required",
+      "Preserves original hardware"
+    ],
+    "cons": [
+      "Requires opening the console",
+      "Capacitor selection must match voltage rating",
+      "Potential void of warranty"
+    ],
+    "watchOut": "Ensure the replacement capacitor’s voltage rating meets or exceeds the original to avoid overheating.",
+    "faq": [
+      {
+        "q": "Do I need a soldering iron for this fix?",
+        "a": "A basic soldering iron and desoldering wick are enough; a hot‑air station is not required."
+      },
+      {
+        "q": "Will this affect the video output?",
+        "a": "No, the audio capacitor swap is isolated from the video circuitry, so video remains unchanged."
+      },
+      {
+        "q": "Can I use any electrolytic capacitor?",
+        "a": "Choose a capacitor with the same capacitance value and an equal or higher voltage rating, preferably low‑ESR."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "audio",
+      "turbo-grfx-16"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-10-27T22:45:07.096Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "restoring-sega-genesis-controller-contacts",
     "title": "Pixel Boost: Restoring Sega Genesis Controller Contacts for Reliable Play",
     "dek": "A quick guide to cleaning and re‑tinning the Genesis controller's metal contacts for smoother inputs.",
