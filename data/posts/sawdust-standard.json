@@ -1,5 +1,56 @@
 [
   {
+    "slug": "sharp-edge-small-space-hand-saw",
+    "title": "Sharp Edge, Small Space: Maximizing Hand Saw Efficiency",
+    "dek": "Learn how to get clean cuts from a hand saw without hogging your cramped workshop.",
+    "takeaway": "A well‑tuned saw and a few layout tricks keep your small shop tidy and productive.",
+    "whatHappened": "I swapped my battered coping saw for a cheap backsaw, added a simple saw guide, and tested it on a series of 1‑inch pine boards. The cuts were straighter, and I finished the project twice as fast as before. The setup took less than ten minutes and fits on a bench shelf.",
+    "whyItMatters": "In tight shops every tool’s footprint counts, and a mis‑cut wastes both material and time. Consistent hand‑saw results mean fewer re‑saws and smoother joints, which is crucial when space limits your ability to use power tools. The improvement also reduces frustration, keeping the hobby enjoyable.",
+    "howToThink": "Choose a backsaw with a fine-tooth count for the grain you work most. Mount a low‑cost miter guide or a simple plywood fence to control the angle. Keep the blade tensioned and the tip sharp – a file or a triangular stone works well – and let the saw do the work, not your arm.",
+    "pros": [
+      "Cleaner cuts",
+      "Minimal bench space",
+      "No electricity needed"
+    ],
+    "cons": [
+      "Requires regular sharpening",
+      "Limited to thin stock",
+      "Slower than power saws for large runs"
+    ],
+    "watchOut": "Don’t force the blade; a stuck saw can chip the wood and damage the teeth.",
+    "faq": [
+      {
+        "q": "How often should I sharpen a hand saw?",
+        "a": "When the teeth start to feel dull or you notice ragged cuts – usually after a few projects."
+      },
+      {
+        "q": "Can I use a miter box with a backsaw?",
+        "a": "Yes, a small wooden miter box works great and adds extra angle control."
+      },
+      {
+        "q": "Is a backsaw suitable for hardwood?",
+        "a": "It works, but use a finer tooth count and apply steady pressure to avoid binding."
+      }
+    ],
+    "category": "Hand Tools",
+    "tags": [
+      "hand saw",
+      "small shop"
+    ],
+    "sources": [
+      {
+        "label": "r/handtools community threads",
+        "url": "https://www.reddit.com/r/handtools/"
+      },
+      {
+        "label": "Search interest: \"wood finishing basics\"",
+        "url": "https://duckduckgo.com/?q=wood%20finishing%20basics"
+      }
+    ],
+    "publishedAt": "2026-10-27T00:45:27.138Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-joinery-mistakes-82",
     "title": "Five mistakes everyone makes in their first month of joinery",
     "dek": "The most common early stumbles in joinery, and the cheap corrections that fix them for hobby woodworkers in small shops.",

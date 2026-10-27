@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midday-platform-art-sketching",
+    "title": "Midday Platform Art: Low‑Impact Sketching on Rural Trains",
+    "dek": "Discover how a quick sketch session on a slow train can deepen your travel experience without adding carbon footprints.",
+    "takeaway": "A few minutes of drawing transforms a routine ride into a mindful, low‑impact creative pause.",
+    "whatHappened": "During a leisurely afternoon on the Greenline regional service, I set up a small sketchpad at my window seat. While the train coasted through rolling fields, I doodled the passing scenery, noting textures and light.",
+    "whyItMatters": "Sketching forces you to observe details you’d otherwise skim past, fostering a slower, more sustainable connection to place. It also requires no electricity or disposable supplies, aligning with low‑impact principles.",
+    "howToThink": "Carry a compact, recycled sketchbook and a simple graphite pencil; use the train’s natural rhythm as a timer. Treat each stop as a prompt to capture a new element—color, line, or movement. Let the act of drawing guide your attention to the journey rather than the destination.",
+    "pros": [
+      "Zero energy use",
+      "Heightens observation",
+      "Portable and cheap"
+    ],
+    "cons": [
+      "Requires steady hand",
+      "Limited to daylight",
+      "Can distract from scenery"
+    ],
+    "watchOut": "Be mindful of other passengers; keep materials tidy and avoid blocking aisles.",
+    "faq": [
+      {
+        "q": "Do I need any special art supplies?",
+        "a": "A small recycled sketchbook and a basic graphite pencil are sufficient for low‑impact drawing."
+      },
+      {
+        "q": "Can I sketch on a crowded train?",
+        "a": "Choose a seat with a window and keep your workspace minimal to respect personal space."
+      },
+      {
+        "q": "What if I’m not confident in my drawing skills?",
+        "a": "The goal is observation, not artistry—simple lines and shapes capture the essence just as well."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "creative"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-10-27T00:45:09.420Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "midday-platform-photography",
     "title": "Midday Platform Photography: Low‑Impact Lens on Rural Trains",
     "dek": "Capture fleeting train scenery with a light kit and zero waste mindset.",

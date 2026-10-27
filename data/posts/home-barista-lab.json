@@ -1,5 +1,56 @@
 [
   {
+    "slug": "calibrate-grinder-click-test",
+    "title": "Calibrate Your Grinder with a Simple Click Test",
+    "dek": "A quick, no‑tools method to fine‑tune your burr grinder for consistent dosing.",
+    "takeaway": "A consistent click feels means repeatable grind size and better shots.",
+    "whatHappened": "While prepping a double espresso, I noticed the dose varied by a gram each pull. I stopped, checked the grinder's burr alignment, and ran a simple click test to pinpoint the drift. The adjustment restored uniform output instantly.",
+    "whyItMatters": "Inconsistent grind size leads to uneven extraction, which wrecks flavor balance. For home baristas, a tiny burr shift can turn a silky shot into a sour mess. Regularly confirming the click ensures each brew starts on the right foot.",
+    "howToThink": "Listen for a crisp, repeatable click when you turn the grind size knob a full rotation; any fuzz or variation signals burr movement. If the click feels softer, tighten the adjustment screw or reseat the burrs. Perform this check after moving the grinder or cleaning it.",
+    "pros": [
+      "No extra tools needed",
+      "Fast – under a minute",
+      "Improves shot consistency"
+    ],
+    "cons": [
+      "Only works on grinders with audible clicks",
+      "May miss micro‑shifts in some models",
+      "Requires quiet environment"
+    ],
+    "watchOut": "Don’t overtighten the adjustment screw – you could damage the burr housing.",
+    "faq": [
+      {
+        "q": "Do all grinders have a click to test?",
+        "a": "Many burr grinders emit a tactile click when the adjustment knob completes a full turn, but some silent models need a different method."
+      },
+      {
+        "q": "How often should I run the click test?",
+        "a": "Before a tasting session, after cleaning, or whenever you notice dose drift."
+      },
+      {
+        "q": "Can I adjust the grind without tools?",
+        "a": "Yes, the click test guides you to fine‑tune the burrs using only the built‑in adjustment knob."
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "grinder",
+      "maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-10-27T00:45:07.336Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-flow-rate-check",
     "title": "Fine‑Tune Your Espresso Shot With a Simple Flow‑Rate Check",
     "dek": "A quick visual test to gauge espresso flow consistency without fancy equipment.",

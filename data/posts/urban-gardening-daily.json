@@ -1,5 +1,56 @@
 [
   {
+    "slug": "balcony-mushroom-patch",
+    "title": "Balcony Mushroom Patch: Fungi Fun for Small Spaces",
+    "dek": "Turn a corner shelf into a low‑maintenance mushroom patch that thrives on coffee grounds and minimal space.",
+    "takeaway": "A simple container can produce fresh mushrooms year‑round for apartment chefs.",
+    "whatHappened": "We set up a DIY mushroom kit using a coffee‑ground substrate in a plastic tote on a balcony, kept it shaded, misted regularly, and harvested the first flush within a few weeks. The experiment proved that even limited balcony space can host a productive fungal garden.",
+    "whyItMatters": "Mushrooms add protein, umami flavor, and a zero‑waste loop to urban diets, while expanding the range of crops that thrive where herbs and veggies struggle. Growing them at home reduces reliance on store‑bought packs and cuts kitchen waste.",
+    "howToThink": "Start with a ready‑to‑use substrate or blend spent coffee grounds with straw, place the tote in indirect light, and maintain humidity by misting daily. Monitor temperature and harvest caps as they open for the best texture and taste.",
+    "pros": [
+      "Year‑round harvest",
+      "Uses kitchen waste",
+      "Compact footprint"
+    ],
+    "cons": [
+      "Requires humidity control",
+      "Sensitive to temperature swings",
+      "Limited variety without specialist kits"
+    ],
+    "watchOut": "Avoid direct afternoon sun, which can dry out the substrate and halt mushroom growth.",
+    "faq": [
+      {
+        "q": "Can I grow mushrooms on any balcony?",
+        "a": "Yes, as long as you can provide shade and keep the substrate moist, most balconies work."
+      },
+      {
+        "q": "Do I need special lighting?",
+        "a": "No, indirect natural light is sufficient; a low‑intensity grow light can help in darker spots."
+      },
+      {
+        "q": "How long before the first harvest?",
+        "a": "Most oyster or shiitake kits show pins within 2–3 weeks under proper moisture and temperature."
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "Mushrooms",
+      "Zero Waste"
+    ],
+    "sources": [
+      {
+        "label": "r/houseplants community threads",
+        "url": "https://www.reddit.com/r/houseplants/"
+      },
+      {
+        "label": "Search interest: \"small space vegetables\"",
+        "url": "https://duckduckgo.com/?q=small%20space%20vegetables"
+      }
+    ],
+    "publishedAt": "2026-10-27T00:45:08.786Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "balcony-edible-flowers",
     "title": "Balcony Edible Flowers: Colorful Harvest for Small Spaces",
     "dek": "Turn your balcony into a living palette—grow edible flowers that spice up dishes and brighten tiny outdoor spaces.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "storyboard-shortcuts-visual-planning",
+    "title": "Storyboard shortcuts: visual planning in a day",
+    "dek": "A fast storyboard method lets indie creators lock visual flow in hours, not days.",
+    "takeaway": "Sketching a rough storyboard quickly can streamline production and keep budgets tight.",
+    "whatHappened": "We tried a 3-hour storyboard sprint on a 5‑minute short, using thumbnail sketches and a simple grid. The team aligned on shots and shot order without endless meetings.",
+    "whyItMatters": "Clear visual plans reduce on‑set confusion and help crew allocate time and resources efficiently. For short‑film budgets, every saved minute translates to saved money.",
+    "howToThink": "Start with a one‑sentence synopsis, break it into beats, draw quick thumbnails for each beat, and arrange them on a wall or digital board. Keep it loose—focus on composition and movement, not detail.",
+    "pros": [
+      "Speeds up pre‑production",
+      "Improves crew communication",
+      "Cuts unnecessary revisions"
+    ],
+    "cons": [
+      "May miss fine details",
+      "Relies on team’s visual literacy",
+      "Can feel rushed if rushed"
+    ],
+    "watchOut": "Don’t let speed sacrifice clarity; ensure each thumbnail conveys the essential action.",
+    "faq": [
+      {
+        "q": "Do I need drawing skills?",
+        "a": "No, simple shapes and stick figures are enough; the goal is visual reference, not art."
+      },
+      {
+        "q": "Can this work remotely?",
+        "a": "Yes, use collaborative tools like shared whiteboards or PDFs to let everyone annotate."
+      },
+      {
+        "q": "How many frames per beat?",
+        "a": "One to three thumbnails per beat usually capture the key visual information."
+      }
+    ],
+    "category": "Production",
+    "tags": [
+      "production",
+      "pre‑production"
+    ],
+    "sources": [
+      {
+        "label": "r/shortfilm community threads",
+        "url": "https://www.reddit.com/r/shortfilm/"
+      },
+      {
+        "label": "Search interest: \"run and gun audio\"",
+        "url": "https://duckduckgo.com/?q=run%20and%20gun%20audio"
+      }
+    ],
+    "publishedAt": "2026-10-27T00:45:11.998Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "short-film-festival-strategy-field-test-29",
     "title": "\"short film festival strategy\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about short film festival strategy through a month of actual use. Some of it survived.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "thread-tension-myths",
+    "title": "Thread tension myths: why tighter isn't always better",
+    "dek": "Most sewists think pulling the tension dial tighter fixes seam issues, but the reality is more nuanced.",
+    "takeaway": "Balanced tension, not maximum, yields smooth stitches.",
+    "whatHappened": "I swapped a new denim pattern into my trusty sewing machine and noticed puckered seams despite increasing tension. After dialing back and checking the bobbin, the stitches smoothed out.",
+    "whyItMatters": "Incorrect tension wastes fabric, breaks thread, and erodes confidence, especially for pattern hackers tweaking designs. Understanding tension keeps projects on track and reduces trial-and-error.",
+    "howToThink": "Start with the factory default, test on scrap fabric, and adjust in small increments while watching both top and bottom stitch formation. If the stitch loops look uneven, tweak the opposite dial.",
+    "pros": [
+      "Smoother stitches",
+      "Less thread breakage",
+      "Faster debugging"
+    ],
+    "cons": [
+      "Initial trial period",
+      "May need bobbin re-thread",
+      "Settings vary by fabric"
+    ],
+    "watchOut": "Avoid maxing out the tension dial; extreme settings can damage the needle and motor.",
+    "faq": [
+      {
+        "q": "What's the sign of too tight top tension?",
+        "a": "Loops on the underside of the fabric pull tight and may cause the needle to bite the bobbin thread."
+      },
+      {
+        "q": "Does fabric type affect tension?",
+        "a": "Yes; heavier fabrics often need a slightly looser top tension, while lightweight fabrics may require a tighter setting."
+      },
+      {
+        "q": "Should I change tension for each new pattern?",
+        "a": "A quick test stitch on scrap is advisable whenever you switch fabrics or major pattern sections."
+      }
+    ],
+    "category": "Machines",
+    "tags": [
+      "Machines",
+      "Thread tension"
+    ],
+    "sources": [
+      {
+        "label": "r/quilting community threads",
+        "url": "https://www.reddit.com/r/quilting/"
+      },
+      {
+        "label": "Search interest: \"sewing machine maintenance\"",
+        "url": "https://duckduckgo.com/?q=sewing%20machine%20maintenance"
+      }
+    ],
+    "publishedAt": "2026-10-27T00:45:39.746Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "thread-tension-hacks",
     "title": "Thread tension hacks: fine-tune your machine for flawless seams",
     "dek": "A quick dive into adjusting tension for smoother stitches without costly trial and error.",

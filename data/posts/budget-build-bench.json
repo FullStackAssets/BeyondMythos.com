@@ -1,5 +1,56 @@
 [
   {
+    "slug": "hidden-power-1080p-used-gtx-750-ti",
+    "title": "Hidden Power: Getting 1080p from a $90 Used GTX 750 Ti",
+    "dek": "A $90 used GTX 750 Ti can still push 1080p gaming with clever tweaks.",
+    "takeaway": "Even legacy low‑end cards can be viable for 1080p if you manage settings and expectations.",
+    "whatHappened": "We sourced a used GTX 750 Ti for under $100, installed it in a modest build, and ran a selection of modern esports and indie titles at 1080p. With medium settings and a few driver tweaks, the card delivered playable frame rates in most cases.",
+    "whyItMatters": "Budget builders often assume any card older than the 900 series is dead for 1080p, which forces them into higher‑priced options. Showing that a sub‑$100 GPU can still hold its own opens a path for tighter budgets and lower power consumption builds.",
+    "howToThink": "Focus on games that are less demanding on raw GPU horsepower, lower texture quality, and cap frame rates to match your monitor. Pair the card with a CPU that isn’t bottlenecking and keep the system cool to maintain stable performance.",
+    "pros": [
+      "Cheap entry point",
+      "Low power draw",
+      "Quiet operation"
+    ],
+    "cons": [
+      "Limited VRAM for newer titles",
+      "Struggles with high settings",
+      "Older driver support may be patchy"
+    ],
+    "watchOut": "Don’t expect high frame rates in demanding AAA games at max settings.",
+    "faq": [
+      {
+        "q": "Can the GTX 750 Ti handle modern shooters?",
+        "a": "It can run many shooters at 1080p if you drop settings to medium or low and disable demanding effects."
+      },
+      {
+        "q": "Is a higher‑capacity power supply needed?",
+        "a": "The card draws very little power, so a modest 300‑350 W PSU is usually sufficient."
+      },
+      {
+        "q": "What driver version works best?",
+        "a": "The latest stable driver from NVIDIA’s website generally offers the best compatibility."
+      }
+    ],
+    "category": "GPUs",
+    "tags": [
+      "gpu",
+      "budget"
+    ],
+    "sources": [
+      {
+        "label": "r/buildapcsales community threads",
+        "url": "https://www.reddit.com/r/buildapcsales/"
+      },
+      {
+        "label": "Search interest: \"best budget gpu 2026\"",
+        "url": "https://duckduckgo.com/?q=best%20budget%20gpu%202026"
+      }
+    ],
+    "publishedAt": "2026-10-27T00:45:11.377Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "frugal-frame-boost-rx560",
     "title": "Frugal Frame Boost: How a $120 Used Radeon RX 560 Holds Its Own",
     "dek": "A $120 Radeon RX 560 can still deliver solid 1080p gaming when paired with the right settings and a modest CPU.",

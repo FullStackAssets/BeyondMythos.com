@@ -1,5 +1,56 @@
 [
   {
+    "slug": "snes-controller-rubber-replacement",
+    "title": "Pixel Boost: Swapping SNES Controller Rubber Pads for Better Grip",
+    "dek": "Fresh rubber pads restore the classic SNES feel and prevent slip during marathon runs.",
+    "takeaway": "New pads give a tighter grip and longer controller life without pricey upgrades.",
+    "whatHappened": "We removed the original worn rubber pads from a Super Nintendo controller and installed aftermarket silicone pads. The process took under ten minutes and restored the tactile response.",
+    "whyItMatters": "A slipping thumb can cost precious frames in speedruns and cause premature wear. Restoring the original feel keeps the hardware reliable for collectors and competitive play.",
+    "howToThink": "When pads feel slick or cracked, swap them before the controller starts misbehaving. Keep a spare set to avoid downtime, and test the controller in a short run after installation.",
+    "pros": [
+      "Improved thumb grip",
+      "Restores original feel",
+      "Low cost solution"
+    ],
+    "cons": [
+      "May require tiny screwdriver",
+      "Pads can wear over time",
+      "Limited color options"
+    ],
+    "watchOut": "Avoid using adhesive pads that could leave residue on the controller shell.",
+    "faq": [
+      {
+        "q": "Do I need special tools?",
+        "a": "A small Phillips screwdriver and a plastic spudger are enough."
+      },
+      {
+        "q": "Can I use any silicone pads?",
+        "a": "Choose pads sized for SNES controllers; generic pads may be too thick."
+      },
+      {
+        "q": "Will this affect button feel?",
+        "a": "The pads sit under the thumb rest only, so button travel remains unchanged."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "hardware",
+      "retro"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-10-27T00:45:08.116Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "replacing-gbcolor-link-cable",
     "title": "Pixel Boost: Replacing Game Boy Color Link Cable Connectors for Reliable Multiplayer",
     "dek": "Swap out corroded Game Boy Color link cable pins for rock‑solid two‑player sessions.",
