@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Stabilizing SNES Power Supply for Consistent Frame Rates</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-stabilizing-snes-power-supply.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-stabilizing-snes-power-supply.html</guid>
+      <pubDate>Wed, 28 Oct 2026 03:45:10 GMT</pubDate>
+      <description>A quick fix to keep your SNES humming steady, preventing power dips that can ruin marathon runs.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Upgrading SNES Cartridge PCB for Better Heat Dissipation</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/snes-cartridge-pcb-upgrade.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/snes-cartridge-pcb-upgrade.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-upgrading-atari-5200-controller-cont.html</guid>
       <pubDate>Mon, 26 Oct 2026 22:45:08 GMT</pubDate>
       <description>A quick guide to cleaning and improving the Atari 5200 controller&apos;s internal contacts, keeping your inputs crisp for marathon runs.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Upgrading Sega Master System Power Supply for Stable Voltage</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-upgrading-sega-master-system-power-s.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-upgrading-sega-master-system-power-s.html</guid>
-      <pubDate>Mon, 26 Oct 2026 21:45:07 GMT</pubDate>
-      <description>Swap the original brick for a modern regulator to keep your Master System humming without random resets.</description>
     </item>
   </channel>
 </rss>

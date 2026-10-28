@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-shot-timing-stopwatch-hack",
+    "title": "Nail Espresso Shot Timing with a Simple Stopwatch Hack",
+    "dek": "A kitchen stopwatch can turn inconsistent shots into repeatable gold, no fancy gear required.",
+    "takeaway": "Timing your extraction with a basic stopwatch makes espresso consistency easy to achieve.",
+    "whatHappened": "During a routine home brew session I noticed my espresso shots varied in flavor and body. A quick glance at the timer on my phone showed the extraction times were all over the place. I grabbed an old kitchen stopwatch and started timing each shot, discovering a sweet spot around 25‑30 seconds.",
+    "whyItMatters": "Espresso flavor hinges on precise extraction; too short yields sour, too long yields bitter. By locking in a consistent time window you remove one major variable, leading to steadier taste and easier dialing in other parameters like grind and dose.",
+    "howToThink": "Treat the stopwatch as a simple feedback loop. Pull a shot, watch the seconds, and note the taste. Adjust grind size or dose until the shot lands in the target window, then stick to it. Over time you’ll develop an intuitive sense of how your grinder and beans behave.",
+    "pros": [
+      "Zero cost",
+      "Instant visual cue",
+      "Works with any machine"
+    ],
+    "cons": [
+      "Requires manual start/stop",
+      "Human reaction lag",
+      "Doesn't replace proper pressure monitoring"
+    ],
+    "watchOut": "Remember that reaction time adds a second or two; aim for the middle of the window rather than the exact number you see on the display.",
+    "faq": [
+      {
+        "q": "Do I need a digital timer?",
+        "a": "A mechanical kitchen stopwatch works fine; the key is consistency, not precision to the millisecond."
+      },
+      {
+        "q": "What if my machine’s pump is inconsistent?",
+        "a": "Timing will highlight pump variability, prompting you to service or replace the machine if the spread is large."
+      },
+      {
+        "q": "Can I use this for pour‑over?",
+        "a": "Yes, the same principle applies—track bloom and total brew time to improve consistency."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "timing",
+      "consistency"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-10-28T03:45:07.652Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "upgrade-espresso-consistency-dosing-funnel",
     "title": "Upgrade Espresso Consistency with a Simple Dosing Funnel Trick",
     "dek": "A cheap dosing funnel can smooth out tamping variations and keep your basket clean.",

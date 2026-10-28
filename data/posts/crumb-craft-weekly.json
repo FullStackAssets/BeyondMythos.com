@@ -1,5 +1,56 @@
 [
   {
+    "slug": "weekend-project-bread-73",
+    "title": "A weekend project: level up your bread in two hours",
+    "dek": "One contained, satisfying bread project for home bakers — start Saturday morning, done by lunch.",
+    "takeaway": "Two focused hours on fundamentals beats two months of accumulating tabs. This project is deliberately small enough to finish.",
+    "whatHappened": "We designed a two-hour bread project around the single highest-leverage fundamental — the one that experienced home bakers and sourdough beginners consistently say they wish they'd done sooner. No purchases required, no prerequisites beyond what you already have.",
+    "whyItMatters": "Unfinished projects are the silent killer of hobbies. A project scoped to one sitting produces the thing rarer than skill: a completed feedback loop you can build on next weekend.",
+    "howToThink": "Pick the smallest version of the project that still counts as done. Momentum compounds; scope creep compounds faster.",
+    "pros": [
+      "Fits in one honest morning",
+      "Zero new purchases required",
+      "Produces a reusable baseline"
+    ],
+    "cons": [
+      "Less exciting than new gear",
+      "Requires protecting two hours",
+      "Results are quiet, not flashy"
+    ],
+    "watchOut": "If the project sprouts a shopping list, you've left the project. Write the list down for later and keep going with what you have.",
+    "faq": [
+      {
+        "q": "What if I only have one hour?",
+        "a": "Do the first half. A half-finished small project still beats a never-started big one."
+      },
+      {
+        "q": "Can I do this with zero experience?",
+        "a": "Yes — it's designed as an on-ramp. The fundamentals of bread don't care about your resume."
+      },
+      {
+        "q": "What's next weekend's project?",
+        "a": "The same one, refined with what the log told you. Iteration is the curriculum."
+      }
+    ],
+    "category": "Bread",
+    "tags": [
+      "Bread",
+      "Pastry"
+    ],
+    "sources": [
+      {
+        "label": "r/Sourdough community threads",
+        "url": "https://www.reddit.com/r/Sourdough/"
+      },
+      {
+        "label": "Search interest: \"home baking tools\"",
+        "url": "https://duckduckgo.com/?q=home%20baking%20tools"
+      }
+    ],
+    "publishedAt": "2026-10-28T03:45:36.714Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-breadit-25",
     "title": "Community pulse: what r/Breadit is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the troubleshooting community this week.",

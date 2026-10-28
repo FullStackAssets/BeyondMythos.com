@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-boost-stabilizing-snes-power-supply",
+    "title": "Pixel Boost: Stabilizing SNES Power Supply for Consistent Frame Rates",
+    "dek": "A quick fix to keep your SNES humming steady, preventing power dips that can ruin marathon runs.",
+    "takeaway": "A stable power rail means fewer resets and smoother speedrun attempts.",
+    "whatHappened": "Older SNES units often develop flaky power regulation as electrolytic capacitors age, leading to occasional voltage drops. Those drops can cause the console to reset or drop frames during long play sessions. A simple capacitor swap restores a clean, steady supply.",
+    "whyItMatters": "Speedrunners need every frame to count, and a sudden reset wipes a run in seconds. Collectors also value reliability to preserve cartridges and avoid wear from power cycling. Fixing the power supply extends the console’s usable life for both communities.",
+    "howToThink": "First, measure the 5V rail with a multimeter to confirm fluctuations. Then, locate the main filter capacitor on the motherboard and replace it with a fresh low‑ESR part of the same voltage rating. Reassemble, test, and you’ll notice a steadier power draw and fewer hiccups.",
+    "pros": [
+      "Improved stability",
+      "Low cost",
+      "Easy DIY"
+    ],
+    "cons": [
+      "Requires soldering",
+      "May void warranty",
+      "Needs proper tools"
+    ],
+    "watchOut": "Always unplug the console and discharge static before opening the chassis to avoid shock or component damage.",
+    "faq": [
+      {
+        "q": "Do I need a specific capacitor brand?",
+        "a": "Any reputable electrolytic capacitor with the same voltage rating and equal or higher microfarad rating will work."
+      },
+      {
+        "q": "Will this affect the console's original sound quality?",
+        "a": "No, the power fix does not alter audio circuits, but a cleaner supply can actually reduce noise."
+      },
+      {
+        "q": "Can I use this fix on a Super Nintendo Mini?",
+        "a": "The Mini uses a different power architecture; this guide applies only to the original SNES hardware."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "SNES",
+      "Power Mods"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-10-28T03:45:10.987Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "snes-cartridge-pcb-upgrade",
     "title": "Pixel Boost: Upgrading SNES Cartridge PCB for Better Heat Dissipation",
     "dek": "A simple PCB upgrade can keep your SNES carts cool, preventing hiccups during marathon runs.",
