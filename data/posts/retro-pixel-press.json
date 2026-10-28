@@ -1,5 +1,56 @@
 [
   {
+    "slug": "optimizing-nes-zapper-wiring",
+    "title": "Pixel Boost: Optimizing NES Zapper Wiring for Precise Aim",
+    "dek": "Rewire your NES Zapper for tighter lag and sharper on-screen targeting, keeping the classic feel while boosting accuracy.",
+    "takeaway": "A clean Zapper wiring job reduces input lag and improves hit consistency for retro shooters.",
+    "whatHappened": "A collector reported erratic Zapper response during a marathon of Duck Hunt and Contra runs. After inspecting the cable, a broken solder joint and corroded shield were identified as the culprits.",
+    "whyItMatters": "Unreliable Zapper input can ruin high‑score attempts and speedrun splits, turning a nostalgic experience into frustration. Fixing the wiring restores confidence and preserves the authenticity of the original hardware.",
+    "howToThink": "Start by desoldering the connector, trim any frayed wires, and re‑tin the contacts. Use a thin gauge, insulated wire for the shield and keep the signal wire as short as practical. Double‑check continuity before re‑assembling the housing.",
+    "pros": [
+      "Reduced input lag",
+      "More reliable shot registration",
+      "Preserves original hardware feel"
+    ],
+    "cons": [
+      "Requires basic soldering skills",
+      "May void warranty on rare units",
+      "Time‑consuming for multiple zapper sets"
+    ],
+    "watchOut": "Avoid shorting the shield to the signal wire, which would re‑introduce noise and lag.",
+    "faq": [
+      {
+        "q": "Do I need a special soldering iron for this job?",
+        "a": "A standard 15‑30 W tip works fine; just keep the heat low enough to avoid melting the plastic housing."
+      },
+      {
+        "q": "Can I use any wire gauge?",
+        "a": "22‑24 AWG stranded wire is ideal—it’s flexible enough for the tight bends inside the Zapper."
+      },
+      {
+        "q": "Will this mod affect the Zapper’s compatibility with other consoles?",
+        "a": "No, the wiring changes are internal and maintain the same pinout, so the Zapper will still work on any NES‑compatible system."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "NES",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-10-28T04:45:07.329Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-boost-stabilizing-snes-power-supply",
     "title": "Pixel Boost: Stabilizing SNES Power Supply for Consistent Frame Rates",
     "dek": "A quick fix to keep your SNES humming steady, preventing power dips that can ruin marathon runs.",

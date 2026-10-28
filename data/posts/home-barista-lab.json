@@ -1,5 +1,56 @@
 [
   {
+    "slug": "brew-ratio-kitchen-scale",
+    "title": "Dial in Your Brew Ratio with a Simple Kitchen Scale Trick",
+    "dek": "Use your kitchen scale to nail the perfect coffee‑to‑water ratio and keep every cup tasting consistent.",
+    "takeaway": "A quick weight‑based ratio check eliminates guesswork and steadies flavor.",
+    "whatHappened": "I noticed my pour‑over cups varied wildly despite using the same beans. By weighing coffee and water before brewing, the inconsistency vanished.",
+    "whyItMatters": "Consistent ratios control extraction, which directly impacts clarity and sweetness. Without them you’re left guessing whether a cup is under‑ or over‑extracted.",
+    "howToThink": "Start with a 1:15 coffee‑to‑water ratio, weigh your beans, then add water in one go or in stages while tracking the weight. Adjust up or down in small steps until the flavor hits your target.",
+    "pros": [
+      "Instant feedback",
+      "No need for fancy flow meters",
+      "Easy to repeat"
+    ],
+    "cons": [
+      "Requires a precise scale",
+      "Adds a weighing step",
+      "May feel mechanical for some"
+    ],
+    "watchOut": "Make sure your scale is zeroed and placed on a stable surface to avoid drift.",
+    "faq": [
+      {
+        "q": "Do I need a calibrated scale?",
+        "a": "A scale that reads to at least 1 gram is sufficient; calibration once a month keeps it accurate."
+      },
+      {
+        "q": "Can I use the 1:16 ratio instead?",
+        "a": "Yes, the ratio is a starting point—adjust up or down based on bean density and taste."
+      },
+      {
+        "q": "What if I don’t have a scale?",
+        "a": "You can estimate with a scoop, but the consistency will suffer compared to weighing."
+      }
+    ],
+    "category": "Pour-over",
+    "tags": [
+      "brew ratio",
+      "scale hack"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-10-28T04:45:11.991Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-shot-timing-stopwatch-hack",
     "title": "Nail Espresso Shot Timing with a Simple Stopwatch Hack",
     "dek": "A kitchen stopwatch can turn inconsistent shots into repeatable gold, no fancy gear required.",

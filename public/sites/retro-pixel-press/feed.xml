@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Optimizing NES Zapper Wiring for Precise Aim</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/optimizing-nes-zapper-wiring.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/optimizing-nes-zapper-wiring.html</guid>
+      <pubDate>Wed, 28 Oct 2026 04:45:07 GMT</pubDate>
+      <description>Rewire your NES Zapper for tighter lag and sharper on-screen targeting, keeping the classic feel while boosting accuracy.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Stabilizing SNES Power Supply for Consistent Frame Rates</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-stabilizing-snes-power-supply.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-stabilizing-snes-power-supply.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/replacing-gbcolor-link-cable.html</guid>
       <pubDate>Mon, 26 Oct 2026 23:45:09 GMT</pubDate>
       <description>Swap out corroded Game Boy Color link cable pins for rock‑solid two‑player sessions.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Upgrading Atari 5200 Controller Contacts for Consistent Input</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-upgrading-atari-5200-controller-cont.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-upgrading-atari-5200-controller-cont.html</guid>
-      <pubDate>Mon, 26 Oct 2026 22:45:08 GMT</pubDate>
-      <description>A quick guide to cleaning and improving the Atari 5200 controller&apos;s internal contacts, keeping your inputs crisp for marathon runs.</description>
     </item>
   </channel>
 </rss>

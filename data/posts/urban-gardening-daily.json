@@ -1,5 +1,56 @@
 [
   {
+    "slug": "balcony-mint-magic",
+    "title": "Balcony Mint Magic: Refreshing Flavors for Small Spaces",
+    "dek": "Discover how mint thrives on a balcony, delivering fresh flavor and aroma with minimal fuss.",
+    "takeaway": "Mint is a low‑maintenance, fast‑growing herb perfect for tight balcony spots.",
+    "whatHappened": "We set up a modest 8‑inch pot on a south‑facing balcony and planted a few mint cuttings. Within weeks the foliage filled the container, sending a fragrant breeze across the patio. The plant kept producing fresh leaves even on cooler evenings.",
+    "whyItMatters": "Balcony dwellers often lack space for culinary herbs, yet fresh mint can transform drinks, salads, and desserts. A thriving mint plant also adds a pleasant scent that masks urban odors, making the balcony feel more like a garden oasis.",
+    "howToThink": "Choose a wide, shallow container to accommodate mint’s spreading roots, and use a light, well‑draining potting mix. Keep the soil consistently moist but not soggy, and place the pot where it receives at least four hours of indirect sun. Prune regularly to prevent legginess and to encourage bushier growth.",
+    "pros": [
+      "Fast growth",
+      "Aromatic boost",
+      "Easy to propagate"
+    ],
+    "cons": [
+      "Can become invasive",
+      "Needs regular watering",
+      "Sensitive to extreme heat"
+    ],
+    "watchOut": "Avoid letting mint take over neighboring pots; contain its runners with a barrier or regular trimming.",
+    "faq": [
+      {
+        "q": "How often should I water balcony mint?",
+        "a": "Water when the top inch of soil feels dry, aiming for consistently moist but not waterlogged conditions."
+      },
+      {
+        "q": "Can I grow mint in a hanging basket?",
+        "a": "Yes, as long as the basket is wide enough for the roots and receives adequate water and light."
+      },
+      {
+        "q": "Will mint survive winter on a balcony?",
+        "a": "In mild climates it can overwinter outdoors; otherwise, bring the pot indoors before the first frost and keep it bright."
+      }
+    ],
+    "category": "Herbs",
+    "tags": [
+      "herbs",
+      "balcony"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-10-28T04:45:06.432Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "balcony-radish-rush",
     "title": "Balcony Radish Rush: Quick Spring Harvest in Small Spaces",
     "dek": "Harvest crisp radishes in weeks on any sunny balcony or windowsill.",
