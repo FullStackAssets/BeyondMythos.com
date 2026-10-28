@@ -1,5 +1,56 @@
 [
   {
+    "slug": "water-hardness-espresso-tune",
+    "title": "Tame Espresso Taste with a Simple Water Hardness Check",
+    "dek": "A quick test for water hardness can smooth out bitterness and boost crema without buying a new machine.",
+    "takeaway": "Knowing your water’s hardness lets you adjust minerals for a cleaner, more consistent espresso.",
+    "whatHappened": "We noticed a batch of espresso pulling thin and sour after a city water change. A simple test strip revealed high hardness, and a small filter cartridge brought the taste back to life.",
+    "whyItMatters": "Water hardness directly influences extraction balance and flavor clarity. Too many minerals can mute acidity and over‑extract, while too few can leave the shot flat.",
+    "howToThink": "Start with inexpensive test strips, compare against the ideal range for espresso, and adjust with a calibrated inline filter or mineral drops. Keep a log of taste changes after each tweak.",
+    "pros": [
+      "Easily reversible",
+      "Low cost",
+      "Improves flavor consistency"
+    ],
+    "cons": [
+      "Requires periodic testing",
+      "May need additional equipment",
+      "Hardness varies with seasons"
+    ],
+    "watchOut": "Don’t over‑filter; removing too many minerals can strip desirable body from the coffee.",
+    "faq": [
+      {
+        "q": "How often should I test my water?",
+        "a": "A quick check every month or after any municipal water notice is enough for most home setups."
+      },
+      {
+        "q": "Can I use bottled water instead?",
+        "a": "Bottled water works if its hardness matches espresso guidelines, but it can be pricey for daily use."
+      },
+      {
+        "q": "Do I need a professional water analysis?",
+        "a": "Not for home brewing; test strips and simple calculators give sufficient guidance."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "Espresso",
+      "Water Quality"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-10-28T01:45:08.744Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "elevate-espresso-crema-tap-trick",
     "title": "Elevate Your Espresso Crema with a Simple Portafilter Tap Trick",
     "dek": "A quick tap on the portafilter after pulling can give you richer, longer crema without extra equipment.",

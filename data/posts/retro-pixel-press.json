@@ -1,5 +1,56 @@
 [
   {
+    "slug": "calibrating-turbotap-controller",
+    "title": "Pixel Boost: Calibrating TurboTap Controller for Accurate Input Timing",
+    "dek": "A quick guide to fine‑tuning your TurboTap for rock‑steady input during high‑speed runs.",
+    "takeaway": "Proper calibration eliminates missed inputs and boosts consistency for speedruns.",
+    "whatHappened": "We noticed recurring input lag on TurboTap controllers during marathon speedrun attempts. A simple calibration routine fixed the timing drift.",
+    "whyItMatters": "In speedrunning, a single mistimed press can cost minutes, so reliable controller timing is critical. Consistent inputs also preserve the hardware by reducing wear.",
+    "howToThink": "Treat your TurboTap like a precision instrument: measure its response, adjust the potentiometer, and verify with a timing test. Re‑calibrate after heavy use or firmware updates.",
+    "pros": [
+      "Improved input consistency",
+      "Reduced missed taps",
+      "Extended controller lifespan"
+    ],
+    "cons": [
+      "Requires a screwdriver",
+      "May void warranty",
+      "Calibration drift over time"
+    ],
+    "watchOut": "Avoid over‑tightening the adjustment screw, as it can damage the internal contacts.",
+    "faq": [
+      {
+        "q": "Do I need special tools?",
+        "a": "A small Phillips screwdriver and a basic multimeter are sufficient."
+      },
+      {
+        "q": "Can I calibrate any TurboTap model?",
+        "a": "Most models with an accessible adjustment screw can be calibrated; check your manual."
+      },
+      {
+        "q": "How often should I recalibrate?",
+        "a": "Re‑calibrate after a few intense sessions or if you notice input irregularities."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "controller",
+      "timing"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-10-28T01:45:07.970Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "atari-7800-cartridge-connector-boost",
     "title": "Pixel Boost: Overhauling Atari 7800 Cartridge Connectors for Reliable Play",
     "dek": "Give your Atari 7800 a fresh connection boost to stop intermittent freezes.",

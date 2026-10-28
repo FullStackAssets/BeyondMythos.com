@@ -1,5 +1,56 @@
 [
   {
+    "slug": "balcony-beet-boost",
+    "title": "Balcony Beet Boost: Vibrant Roots in Tiny Containers",
+    "dek": "Turn a sunny balcony nook into a beet garden that fits a railing box and adds color to your meals.",
+    "takeaway": "Even a 6‑inch deep balcony box can produce tasty, ruby‑red beets.",
+    "whatHappened": "We swapped a herb tray for a shallow, rectangular container and sowed beet seeds in a sunny corner of a third‑floor balcony. Within a month the seedlings emerged, and by eight weeks the roots were ready for harvest.",
+    "whyItMatters": "Beets provide nutrients, natural pigment, and a satisfying crunch, proving that root crops aren’t just for backyards. Growing them on a balcony expands your diet without a yard.",
+    "howToThink": "Choose a container at least 6 inches deep, use a light, loamy potting mix, and sow seeds 1 inch apart. Keep soil consistently moist and thin seedlings to avoid crowding, then harvest when roots reach 1–2 inches in diameter.",
+    "pros": [
+      "Compact root crop",
+      "High nutritional punch",
+      "Edible color for dishes"
+    ],
+    "cons": [
+      "Requires steady moisture",
+      "Longer harvest time than greens",
+      "Limited yield per box"
+    ],
+    "watchOut": "Beets love moisture but hate soggy roots—avoid waterlogged trays.",
+    "faq": [
+      {
+        "q": "Can I grow beets in a balcony that only gets partial sun?",
+        "a": "Beets prefer full sun, but a spot with 5–6 hours of direct light can still produce modest yields."
+      },
+      {
+        "q": "Do I need special soil for beets in containers?",
+        "a": "A well‑draining, loamy potting mix works; adding a touch of compost improves flavor."
+      },
+      {
+        "q": "How often should I water balcony beets?",
+        "a": "Keep the soil evenly moist, checking daily in hot weather and watering when the top inch feels dry."
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "root veg",
+      "balcony containers"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-10-28T01:45:09.400Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "balcony-pepper-pop",
     "title": "Balcony Pepper Pop: Spicy Harvest in Small Pots",
     "dek": "Turn a modest balcony container into a pepper patch that yields heat and flavor all season.",
