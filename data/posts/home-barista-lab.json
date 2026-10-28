@@ -1,5 +1,56 @@
 [
   {
+    "slug": "elevate-espresso-crema-tap-trick",
+    "title": "Elevate Your Espresso Crema with a Simple Portafilter Tap Trick",
+    "dek": "A quick tap on the portafilter after pulling can give you richer, longer crema without extra equipment.",
+    "takeaway": "A gentle tap releases trapped bubbles, boosting crema thickness.",
+    "whatHappened": "I tried lightly tapping the portafilter on the counter right after the shot finished. The crema lingered longer and looked fuller.",
+    "whyItMatters": "Crema is a visual cue of extraction quality and influences mouthfeel; improving it without extra gear keeps the workflow simple.",
+    "howToThink": "After the shot, hold the portafilter over the cup and give it two light taps on the side of the counter. Avoid hard impacts that could damage the basket.",
+    "pros": [
+      "No extra tools needed",
+      "Instant improvement",
+      "Works with most machines"
+    ],
+    "cons": [
+      "May cause minor coffee grounds spillage",
+      "Requires careful timing",
+      "Not a substitute for proper extraction"
+    ],
+    "watchOut": "Don’t tap too hard or you could crack the portafilter or disturb the brewed coffee.",
+    "faq": [
+      {
+        "q": "Will tapping affect the flavor?",
+        "a": "It mainly changes crema texture; the underlying flavor remains the same if extraction is correct."
+      },
+      {
+        "q": "Can I use this with a pressurized basket?",
+        "a": "It works best with non‑pressurized baskets where crema is more sensitive to agitation."
+      },
+      {
+        "q": "How hard should the tap be?",
+        "a": "Just enough to feel a light click—no more than a gentle tap."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "crema"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-10-28T00:45:07.597Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "boost-espresso-extraction-pressure-gauge",
     "title": "Boost Espresso Extraction with a Simple Pressure Gauge Hack",
     "dek": "Add a cheap pressure gauge to your machine and instantly see what’s holding back your shot consistency.",

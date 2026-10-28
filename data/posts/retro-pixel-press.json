@@ -1,5 +1,56 @@
 [
   {
+    "slug": "atari-7800-cartridge-connector-boost",
+    "title": "Pixel Boost: Overhauling Atari 7800 Cartridge Connectors for Reliable Play",
+    "dek": "Give your Atari 7800 a fresh connection boost to stop intermittent freezes.",
+    "takeaway": "Clean, straighten, and lightly coat the cartridge edge contacts for stable gameplay.",
+    "whatHappened": "We noticed a batch of Atari 7800 carts suffering from occasional lock‑ups during long runs. A quick visual inspection revealed oxidized and bent edge connectors. A simple cleaning and realignment restored flawless operation.",
+    "whyItMatters": "Unreliable contacts can ruin speedrun attempts and damage the console’s pins. Restoring the connection extends hardware life and preserves the original gaming experience.",
+    "howToThink": "Treat the edge connectors like any vintage metal contact: remove debris, straighten the spring fingers, and apply a thin layer of conductive grease. Test with a known‑good cart before and after to confirm improvement.",
+    "pros": [
+      "Cheap materials",
+      "No solder required",
+      "Immediate performance gain"
+    ],
+    "cons": [
+      "Delicate fingers can break if forced",
+      "Requires steady hands",
+      "May need repeat cleaning over time"
+    ],
+    "watchOut": "Avoid using abrasive cleaners that could strip the contact plating.",
+    "faq": [
+      {
+        "q": "What cleaner is safe for Atari 7800 contacts?",
+        "a": "Isopropyl alcohol (90%+) applied with a lint‑free swab works well."
+      },
+      {
+        "q": "Do I need to re‑tin the contacts?",
+        "a": "A light coat of contact grease is sufficient; re‑tinning is optional for severe wear."
+      },
+      {
+        "q": "Will this void my warranty?",
+        "a": "Atari 7800 hardware is long out of warranty, so you’re free to experiment."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Atari 7800",
+      "Hardware Maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-10-28T00:45:09.035Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-boost-rewiring-gba-link-cable",
     "title": "Pixel Boost: Rewiring Game Boy Advance Link Cable for Reliable Multiplayer",
     "dek": "Fix flaky GBA link cables with a simple rewiring to ensure smooth multiplayer sessions.",

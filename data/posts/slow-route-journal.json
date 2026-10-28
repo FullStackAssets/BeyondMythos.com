@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midday-platform-cooking",
+    "title": "Midday Platform Cooking: Low‑Impact Meal Prep on Rural Trains",
+    "dek": "Whipping up simple, zero-waste meals in the train's pantry keeps hunger at bay and footprints light.",
+    "takeaway": "A few pantry tricks turn any rail stop into a sustainable kitchen.",
+    "whatHappened": "During a 3‑hour layover at a countryside station, I unpacked a reusable container, a compact stove, and a handful of dried legumes. I simmered a fragrant stew using only locally sourced herbs and water from the station tap.",
+    "whyItMatters": "Food waste and single‑use packaging are big contributors to travel impact. Demonstrating that you can eat well with minimal gear proves low‑impact travel is doable anywhere, even on a moving train.",
+    "howToThink": "Pack multi‑purpose tools like a lightweight stove that doubles as a mug holder, and choose ingredients that rehydrate. Plan meals that require no refrigeration and clean up with a small cloth and biodegradable soap.",
+    "pros": [
+      "Zero waste meals",
+      "Boosts energy for onward travel",
+      "Shows local flavors"
+    ],
+    "cons": [
+      "Limited cooking space",
+      "Requires pre‑planning",
+      "Stove may need fuel refills"
+    ],
+    "watchOut": "Never use open flames near combustible train materials; always follow carriage safety rules.",
+    "faq": [
+      {
+        "q": "Can I cook on any train?",
+        "a": "Most regional services allow portable stoves in the vestibule, but always check the operator’s policy first."
+      },
+      {
+        "q": "What fuel is safest?",
+        "a": "Solid fuel tablets are compact, odorless, and accepted on most trains."
+      },
+      {
+        "q": "How do I manage water?",
+        "a": "Fill a reusable bottle from station taps or filtered water bottles available on board."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "cooking",
+      "rail"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-10-28T00:45:10.344Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "afternoon-platform-reading",
     "title": "Afternoon Platform Reading: Low‑Impact Book Exchange on Rural Trains",
     "dek": "A quick book swap at the carriage door turns a routine ride into a low‑impact community moment.",

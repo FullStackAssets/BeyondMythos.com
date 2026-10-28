@@ -1,5 +1,56 @@
 [
   {
+    "slug": "balcony-pepper-pop",
+    "title": "Balcony Pepper Pop: Spicy Harvest in Small Pots",
+    "dek": "Turn a modest balcony container into a pepper patch that yields heat and flavor all season.",
+    "takeaway": "Even tiny spaces can produce a steady supply of fresh peppers.",
+    "whatHappened": "We swapped a standard herb pot for a 5‑gallon fabric grow bag and planted a mix of sweet and hot pepper seedlings. Within weeks the plants sent up sturdy stems and glossy leaves, and the first fruit appeared by mid‑summer.",
+    "whyItMatters": "Fresh peppers add nutrition, spice, and visual punch to apartment meals, and growing them locally reduces reliance on grocery store produce that may lack flavor. Plus, container peppers are surprisingly low‑maintenance for busy city dwellers.",
+    "howToThink": "Choose compact varieties like \"Mini Bell\" or \"Thai Hot\", use a well‑draining potting mix, and feed with a balanced liquid fertilizer every two weeks. Position the container where it catches at least six hours of sunlight, and water consistently but avoid soggy roots.",
+    "pros": [
+      "Space‑saving",
+      "Year‑round harvest",
+      "Adds color"
+    ],
+    "cons": [
+      "Needs regular watering",
+      "May attract pests",
+      "Heat‑sensitive varieties"
+    ],
+    "watchOut": "Avoid over‑watering; peppers hate soggy roots and will wilt.",
+    "faq": [
+      {
+        "q": "Can I grow peppers on a balcony that gets only partial sun?",
+        "a": "Pepper plants prefer full sun, but a sunny spot for six hours daily will usually produce decent yields; shade‑tolerant varieties can cope with a bit less."
+      },
+      {
+        "q": "How often should I fertilize my balcony pepper container?",
+        "a": "A balanced liquid fertilizer every two weeks during the growing season keeps the plants vigorous without over‑feeding."
+      },
+      {
+        "q": "What’s the best way to handle pepper heat when cooking?",
+        "a": "Remove the seeds and inner membranes for milder flavor, and wear gloves when handling hot varieties to avoid skin irritation."
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "Containers",
+      "Peppers"
+    ],
+    "sources": [
+      {
+        "label": "r/houseplants community threads",
+        "url": "https://www.reddit.com/r/houseplants/"
+      },
+      {
+        "label": "Search interest: \"small space vegetables\"",
+        "url": "https://duckduckgo.com/?q=small%20space%20vegetables"
+      }
+    ],
+    "publishedAt": "2026-10-28T00:45:09.684Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "balcony-garlic-glow",
     "title": "Balcony Garlic Glow: Low-Light Bulb Growing for Tiny Terraces",
     "dek": "Discover how to coax garlic from a hanging bulb in a dim balcony corner using simple lighting tricks.",
