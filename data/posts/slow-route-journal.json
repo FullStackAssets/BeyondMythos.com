@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midday-platform-planting-2",
+    "title": "Midday Platform Planting: Low‑Impact Seed Swaps on Rural Trains",
+    "dek": "Swap seeds with fellow travelers at the platform and let the countryside travel with you.",
+    "takeaway": "A simple seed exchange turns a train stop into a mobile greenhouse.",
+    "whatHappened": "During a layover on a regional line, we set up a modest seed‑swap table. Passengers dropped packets of heirloom beans, native wildflowers, and hardy herbs into a communal basket. Within minutes, conversations sprouted as quickly as the seeds.",
+    "whyItMatters": "Seed swapping spreads biodiversity without adding carbon footprints. It also builds community on the rails, turning strangers into co‑gardeners and reinforcing the low‑impact ethos of slow travel.",
+    "howToThink": "Carry a small resealable bag of locally sourced seeds, a label, and a brief note on planting tips. Set up a low‑key table or simply a tray on the platform bench. Invite anyone curious and keep the swap open for the whole stop.",
+    "pros": [
+      "Boosts local plant diversity",
+      "Fosters spontaneous social ties",
+      "Zero waste, minimal cost"
+    ],
+    "cons": [
+      "Requires a brief platform stop",
+      "May need permission at some stations",
+      "Limited space for large packets"
+    ],
+    "watchOut": "Check station rules; some platforms restrict unattended items.",
+    "faq": [
+      {
+        "q": "Do I need a permit to run a seed swap?",
+        "a": "Most small stations allow informal exchanges, but ask a staff member if you’re unsure."
+      },
+      {
+        "q": "What seeds are best for a mobile swap?",
+        "a": "Choose compact, non‑invasive varieties like beans, herbs, and native wildflowers."
+      },
+      {
+        "q": "How can I keep the seeds dry on a rainy day?",
+        "a": "Use a waterproof tray or zip‑lock bag to protect the seeds from moisture."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "seed-swap",
+      "rail-community"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-10-28T05:45:04.396Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "midday-platform-photography-3",
     "title": "Midday Platform Photography: Low‑Impact Snapshots on Rural Trains",
     "dek": "Capture the fleeting scenery from a moving carriage while keeping your carbon footprint light.",

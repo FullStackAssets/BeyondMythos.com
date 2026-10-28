@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/budget-build-bench/</link>
     <description>Fresh takes for PC builders on a budget.</description>
     <item>
+      <title>Ask the forge: your benchmarks questions, answered</title>
+      <link>https://www.beyondmythos.com/sites/budget-build-bench/posts/ask-the-forge-benchmarks-87.html</link>
+      <guid>https://www.beyondmythos.com/sites/budget-build-bench/posts/ask-the-forge-benchmarks-87.html</guid>
+      <pubDate>Wed, 28 Oct 2026 05:45:02 GMT</pubDate>
+      <description>Straight answers to the benchmarks questions PC builders on a budget keep asking, minus the hedging.</description>
+    </item>
+    <item>
       <title>Hidden gems: scoring a used GPU under $200</title>
       <link>https://www.beyondmythos.com/sites/budget-build-bench/posts/hidden-gems-used-gpu-under-200.html</link>
       <guid>https://www.beyondmythos.com/sites/budget-build-bench/posts/hidden-gems-used-gpu-under-200.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/budget-build-bench/posts/hidden-power-1080p-used-gtx-750-ti.html</guid>
       <pubDate>Tue, 27 Oct 2026 00:45:11 GMT</pubDate>
       <description>A $90 used GTX 750 Ti can still push 1080p gaming with clever tweaks.</description>
-    </item>
-    <item>
-      <title>Frugal Frame Boost: How a $120 Used Radeon RX 560 Holds Its Own</title>
-      <link>https://www.beyondmythos.com/sites/budget-build-bench/posts/frugal-frame-boost-rx560.html</link>
-      <guid>https://www.beyondmythos.com/sites/budget-build-bench/posts/frugal-frame-boost-rx560.html</guid>
-      <pubDate>Mon, 26 Oct 2026 23:45:12 GMT</pubDate>
-      <description>A $120 Radeon RX 560 can still deliver solid 1080p gaming when paired with the right settings and a modest CPU.</description>
     </item>
   </channel>
 </rss>

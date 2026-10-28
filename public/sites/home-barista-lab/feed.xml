@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/home-barista-lab/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Fine‑Tune Espresso Shot Temperature with a Simple Thermocouple Hack</title>
+      <link>https://www.beyondmythos.com/sites/home-barista-lab/posts/espresso-temperature-hack.html</link>
+      <guid>https://www.beyondmythos.com/sites/home-barista-lab/posts/espresso-temperature-hack.html</guid>
+      <pubDate>Wed, 28 Oct 2026 05:45:07 GMT</pubDate>
+      <description>A quick way to monitor brew temperature with a cheap thermocouple and Arduino for tighter espresso control.</description>
+    </item>
+    <item>
       <title>Dial in Your Brew Ratio with a Simple Kitchen Scale Trick</title>
       <link>https://www.beyondmythos.com/sites/home-barista-lab/posts/brew-ratio-kitchen-scale.html</link>
       <guid>https://www.beyondmythos.com/sites/home-barista-lab/posts/brew-ratio-kitchen-scale.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/home-barista-lab/posts/calibrate-grinder-click-test.html</guid>
       <pubDate>Tue, 27 Oct 2026 00:45:07 GMT</pubDate>
       <description>A quick, no‑tools method to fine‑tune your burr grinder for consistent dosing.</description>
-    </item>
-    <item>
-      <title>Fine‑Tune Your Espresso Shot With a Simple Flow‑Rate Check</title>
-      <link>https://www.beyondmythos.com/sites/home-barista-lab/posts/espresso-flow-rate-check.html</link>
-      <guid>https://www.beyondmythos.com/sites/home-barista-lab/posts/espresso-flow-rate-check.html</guid>
-      <pubDate>Mon, 26 Oct 2026 23:45:09 GMT</pubDate>
-      <description>A quick visual test to gauge espresso flow consistency without fancy equipment.</description>
     </item>
   </channel>
 </rss>

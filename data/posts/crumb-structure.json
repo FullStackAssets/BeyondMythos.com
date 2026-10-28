@@ -1,5 +1,56 @@
 [
   {
+    "slug": "quiet-upgrade-scoring-88",
+    "title": "The quiet upgrade: small tweaks in scoring with outsized returns",
+    "dek": "No purchases, no overhauls — the modest scoring adjustments that home sourdough bakers report mattering most.",
+    "takeaway": "The best upgrades in scoring are adjustments, not acquisitions. Most cost nothing but attention.",
+    "whatHappened": "Ask experienced home sourdough bakers what changed their results and the answers are strikingly modest: a tweak to routine, a default swapped, a habit moved earlier in the day. We collected the small changes that keep appearing in those answers.",
+    "whyItMatters": "The upgrade path everyone markets requires spending. The one that works requires noticing. Small adjustments compound daily, which is a rate no purchase matches.",
+    "howToThink": "Once a month, change one default in your scoring routine and watch for a week. Keep what helps, revert what doesn't, and write down which was which.",
+    "pros": [
+      "Free or nearly free",
+      "Compounds with repetition",
+      "Reversible in minutes"
+    ],
+    "cons": [
+      "Invisible on social media",
+      "Requires actually paying attention",
+      "No unboxing dopamine"
+    ],
+    "watchOut": "Don't stack five changes at once — you'll never know which one worked, and you'll revert the good one with the bad.",
+    "faq": [
+      {
+        "q": "What's the highest-leverage small change?",
+        "a": "Moving your session to the time of day you're least likely to skip. Adherence beats optimization."
+      },
+      {
+        "q": "How do I find my own quiet upgrades?",
+        "a": "Your log. The pattern you're annoyed by weekly is the upgrade waiting to happen."
+      },
+      {
+        "q": "When is buying actually the answer?",
+        "a": "When the same friction survives three free fixes. Then spend without guilt."
+      }
+    ],
+    "category": "Scoring",
+    "tags": [
+      "Scoring",
+      "Whole Grain"
+    ],
+    "sources": [
+      {
+        "label": "r/AskBaking community threads",
+        "url": "https://www.reddit.com/r/AskBaking/"
+      },
+      {
+        "label": "Search interest: \"sourdough schedule for workers\"",
+        "url": "https://duckduckgo.com/?q=sourdough%20schedule%20for%20workers"
+      }
+    ],
+    "publishedAt": "2026-10-28T05:45:10.331Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-open-crumb-hydration-30",
     "title": "Myth vs. reality: open crumb hydration",
     "dek": "The persistent myths around open crumb hydration, stress-tested against what home sourdough bakers actually report.",

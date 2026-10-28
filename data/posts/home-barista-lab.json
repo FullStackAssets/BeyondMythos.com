@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-temperature-hack",
+    "title": "Fine‑Tune Espresso Shot Temperature with a Simple Thermocouple Hack",
+    "dek": "A quick way to monitor brew temperature with a cheap thermocouple and Arduino for tighter espresso control.",
+    "takeaway": "Monitoring shot temperature lets you spot fluctuations and keep flavor consistent.",
+    "whatHappened": "I rigged a low‑cost thermocouple to my espresso machine’s group head and logged temps across several pulls. The data showed subtle swings that were invisible to the eye.",
+    "whyItMatters": "Temperature is a key variable in extraction; even a few degrees can shift sweetness or bitterness, so catching drift helps maintain taste.",
+    "howToThink": "Treat temperature like a hidden dial: measure it, note patterns, and adjust your machine’s PID or pre‑infusion time to compensate.",
+    "pros": [
+      "Low cost",
+      "Real‑time data",
+      "Improves consistency"
+    ],
+    "cons": [
+      "Requires basic wiring",
+      "Needs Arduino or similar",
+      "Adds a sensor to machine"
+    ],
+    "watchOut": "Make sure the sensor’s insulation can handle steam heat to avoid short circuits.",
+    "faq": [
+      {
+        "q": "Do I need a calibrated thermocouple?",
+        "a": "A decent kitchen‑grade thermocouple is fine; just verify it reads accurately against a known reference."
+      },
+      {
+        "q": "Can I use this with any espresso machine?",
+        "a": "Most machines allow a sensor near the group head; check clearance and avoid interfering with pressure valves."
+      },
+      {
+        "q": "Will this void my warranty?",
+        "a": "If you attach it externally and don’t modify internal components, it typically won’t affect the warranty, but check your maker’s policy."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "temperature"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-10-28T05:45:07.032Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "brew-ratio-kitchen-scale",
     "title": "Dial in Your Brew Ratio with a Simple Kitchen Scale Trick",
     "dek": "Use your kitchen scale to nail the perfect coffee‑to‑water ratio and keep every cup tasting consistent.",
