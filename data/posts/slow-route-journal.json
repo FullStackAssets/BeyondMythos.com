@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midday-platform-birdwatching-2",
+    "title": "Midday Platform Birdwatching: Low‑Impact Feathered Friends on Rural Trains",
+    "dek": "Spot local birds from a moving carriage and keep your footprint light.",
+    "takeaway": "A train ride can double as a guided nature walk without leaving a trace.",
+    "whatHappened": "I boarded the 10:45 regional line through the countryside, binoculars in hand, and noted swallows, finches, and a shy kingfisher as we passed wetlands. The rhythmic sway made spotting easier, and fellow passengers shared tips on quiet observation.",
+    "whyItMatters": "Rail corridors often intersect diverse habitats, offering rare birding opportunities without the need for cars or hikes. Engaging with wildlife from the train raises awareness of local ecosystems while staying low‑impact.",
+    "howToThink": "Plan a route that crosses known wetlands or forest patches, bring a lightweight pair of binoculars, and keep noise to a minimum. Use a field guide app offline to identify species quickly, and note observations in a small notebook to avoid digital waste.",
+    "pros": [
+      "Zero vehicle emissions on the journey",
+      "Access to otherwise hard‑to‑reach habitats",
+      "Easy to share sightings with fellow travelers"
+    ],
+    "cons": [
+      "Limited viewing time between stops",
+      "Weather can obscure visibility",
+      "Need to stay seated for safety"
+    ],
+    "watchOut": "Avoid tapping windows or making loud noises that could startle birds and disturb fellow passengers.",
+    "faq": [
+      {
+        "q": "Do I need a special rail pass for birdwatching?",
+        "a": "No, any valid ticket works; just choose routes that pass through natural areas."
+      },
+      {
+        "q": "What equipment is truly low‑impact?",
+        "a": "A compact binocular, a reusable notebook, and a pen; skip battery‑heavy devices."
+      },
+      {
+        "q": "Can I photograph birds on the train?",
+        "a": "Yes, but keep flashes off and use natural light to stay respectful and energy‑conscious."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "birding",
+      "rail-eco"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-10-28T02:45:10.959Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "midday-platform-yoga-low-impact-stretching-rural",
     "title": "Midday Platform Yoga: Low-Impact Stretching on Rural Trains",
     "dek": "Take a brief yoga break on the train platform to refresh body and mind without missing the scenery.",

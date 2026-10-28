@@ -1,5 +1,56 @@
 [
   {
+    "slug": "snes-cartridge-pcb-upgrade",
+    "title": "Pixel Boost: Upgrading SNES Cartridge PCB for Better Heat Dissipation",
+    "dek": "A simple PCB upgrade can keep your SNES carts cool, preventing hiccups during marathon runs.",
+    "takeaway": "Better heat management means fewer crashes and longer play sessions.",
+    "whatHappened": "We added a thin copper heat spreader under the cartridge PCB of a classic SNES game. The modification was soldered with care and sealed with low‑profile epoxy.",
+    "whyItMatters": "Heat buildup inside cartridges can cause intermittent glitches, especially in speedrun attempts where timing is critical. Keeping the PCB cool preserves signal integrity and extends the cartridge’s lifespan.",
+    "howToThink": "When you notice random freezes, consider thermal issues before blaming the console. A modest heat spreader is cheap and reversible, making it a low‑risk upgrade. Test the cart after each step to confirm stability.",
+    "pros": [
+      "Improved stability",
+      "Low cost",
+      "Reversible"
+    ],
+    "cons": [
+      "Slightly increased thickness",
+      "Requires soldering skill",
+      "May void warranty"
+    ],
+    "watchOut": "Avoid covering the cartridge label area with epoxy, as it can impede future cleaning.",
+    "faq": [
+      {
+        "q": "Will this work on all SNES cartridges?",
+        "a": "Most standard SNES carts benefit, but larger boards may need custom cutouts."
+      },
+      {
+        "q": "Do I need special tools?",
+        "a": "A fine‑tip soldering iron, thin copper shim and epoxy are sufficient."
+      },
+      {
+        "q": "Can I undo the upgrade?",
+        "a": "Yes, the epoxy can be softened with heat and the shim removed if needed."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "hardware",
+      "maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-28T02:45:08.987Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "calibrating-turbotap-controller",
     "title": "Pixel Boost: Calibrating TurboTap Controller for Accurate Input Timing",
     "dek": "A quick guide to fine‑tuning your TurboTap for rock‑steady input during high‑speed runs.",

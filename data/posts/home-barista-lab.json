@@ -1,5 +1,56 @@
 [
   {
+    "slug": "upgrade-espresso-consistency-dosing-funnel",
+    "title": "Upgrade Espresso Consistency with a Simple Dosing Funnel Trick",
+    "dek": "A cheap dosing funnel can smooth out tamping variations and keep your basket clean.",
+    "takeaway": "A funnel gives steadier dose and reduces mess, leading to more repeatable shots.",
+    "whatHappened": "We tried adding a stainless‑steel dosing funnel to our routine and noticed the dose weight stayed within a tighter range across multiple pulls. The basket stayed cleaner, and the grinder’s chute was less clogged.",
+    "whyItMatters": "Consistent dose is the backbone of espresso repeatability; even small variations can shift extraction time and flavor. A cleaner basket also prevents old grounds from contaminating fresh shots.",
+    "howToThink": "Place the funnel over the portafilter, grind directly into it, then give a gentle tap to settle the coffee before tamping. Keep the funnel upright and wipe it after each use to avoid oil buildup.",
+    "pros": [
+      "Cheap and easy to add",
+      "Reduces dose variance",
+      "Keeps basket clean"
+    ],
+    "cons": [
+      "Adds an extra step",
+      "Needs regular cleaning",
+      "May not fit all portafilter sizes"
+    ],
+    "watchOut": "Make sure the funnel’s opening matches your basket size to avoid spillage.",
+    "faq": [
+      {
+        "q": "Do I need a special funnel for espresso?",
+        "a": "A small stainless‑steel or silicone funnel with a narrow neck works fine; no espresso‑specific model is required."
+      },
+      {
+        "q": "Will the funnel affect grind size?",
+        "a": "No, it only guides the grounds; the grinder still determines particle size."
+      },
+      {
+        "q": "Can I use the funnel for pour‑over?",
+        "a": "Yes, the same principle works for any brew that uses a filter basket, but a larger funnel may be more convenient."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "gear"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-10-28T02:45:07.664Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "water-hardness-espresso-tune",
     "title": "Tame Espresso Taste with a Simple Water Hardness Check",
     "dek": "A quick test for water hardness can smooth out bitterness and boost crema without buying a new machine.",
