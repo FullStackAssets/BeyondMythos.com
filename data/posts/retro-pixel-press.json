@@ -1,5 +1,81 @@
 [
   {
+    "slug": "pixel-boost-rewiring-game-gear-power-switch",
+    "title": "Pixel Boost: Rewiring Your Game Gear Power Switch for Faster Respawns",
+    "dek": "Swap the Game Gear’s power switch to cut lag and keep your runs smooth.",
+    "takeaway": "A simple switch replacement can shave off annoying input delays.",
+    "whatHappened": "During a weekend marathon, the Game Gear’s power button started feeling mushy, causing missed inputs at critical moments. A quick teardown revealed a worn contacts spring. Replacing it with a fresh tactile switch restored crisp control.",
+    "whyItMatters": "Speedrunners rely on every millisecond of input fidelity; a flaky switch can ruin a run and waste practice time. Fixing the hardware ensures consistent performance across long sessions, preserving both the device and your leaderboard chances.",
+    "howToThink": "Identify the switch board, note the solder points, and use a fine‑tip soldering iron to desolder the old component. Match the new switch’s polarity, solder it in, and test the feel before reassembly. Keep a spare switch on hand for future swaps.",
+    "pros": [
+      "Improved responsiveness",
+      "Low cost fix",
+      "Easy DIY"
+    ],
+    "cons": [
+      "Requires soldering",
+      "Potential void warranty",
+      "Need proper tools",
+      "watchOut",
+      ":",
+      "Avoid static discharge and double‑check solder joints to prevent shorts.",
+      "faq",
+      ":",
+      [
+        {
+          "q": "Do I need a specific type of switch?",
+          "a": "A standard tactile push‑button of similar size works fine; most electronics hobby shops carry them."
+        },
+        {
+          "q": "Can I replace the switch without desoldering?",
+          "a": "Without soldering the connection will be unreliable; a proper solder joint ensures durability."
+        },
+        {
+          "q": "Will this void my Game Gear warranty?",
+          "a": "If your device is still under warranty, any internal modification may affect it, so weigh the risk."
+        }
+      ],
+      "tags",
+      ":",
+      [
+        "hardware",
+        "game gear"
+      ]
+    ],
+    "watchOut": "The most expensive version of every month-one mistake is the one you rationalize as \"investing in the hobby.\"",
+    "faq": [
+      {
+        "q": "Which mistake costs the most?",
+        "a": "Buying before learning — it converts enthusiasm into clutter and guilt instead of skill."
+      },
+      {
+        "q": "I already made all five. Now what?",
+        "a": "Good news: so did everyone else. Pick the one currently costing you the most and fix only that."
+      },
+      {
+        "q": "How do I avoid new mistakes?",
+        "a": "Keep the log. Most errors are invisible until they're written down."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Speedruns",
+      "Preservation"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-29T19:45:11.033Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-boost-refresh-game-gear-battery",
     "title": "Pixel Boost: Refreshing Your Game Gear Battery for Marathon Runs",
     "dek": "Swap out your aging Game Gear battery with a fresh rechargeable cell to keep your handheld running through endless marathons.",

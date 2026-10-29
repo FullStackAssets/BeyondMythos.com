@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Rewiring Your Game Gear Power Switch for Faster Respawns</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-rewiring-game-gear-power-switch.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-rewiring-game-gear-power-switch.html</guid>
+      <pubDate>Thu, 29 Oct 2026 19:45:11 GMT</pubDate>
+      <description>Swap the Game Gear’s power switch to cut lag and keep your runs smooth.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Refreshing Your Game Gear Battery for Marathon Runs</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-refresh-game-gear-battery.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-refresh-game-gear-battery.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-stabilizing-snes-power-supply.html</guid>
       <pubDate>Wed, 28 Oct 2026 03:45:10 GMT</pubDate>
       <description>A quick fix to keep your SNES humming steady, preventing power dips that can ruin marathon runs.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Upgrading SNES Cartridge PCB for Better Heat Dissipation</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/snes-cartridge-pcb-upgrade.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/snes-cartridge-pcb-upgrade.html</guid>
-      <pubDate>Wed, 28 Oct 2026 02:45:08 GMT</pubDate>
-      <description>A simple PCB upgrade can keep your SNES carts cool, preventing hiccups during marathon runs.</description>
     </item>
   </channel>
 </rss>

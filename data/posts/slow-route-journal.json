@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midday-platform-artistry",
+    "title": "Midday Platform Artistry: Low‑Impact Sketching on Rural Trains",
+    "dek": "Turn a train ride into a moving sketchpad and leave a minimal carbon trace.",
+    "takeaway": "A notebook and pencil can turn idle travel time into creative, low‑impact exploration.",
+    "whatHappened": "During a week-long scenic rail loop through the countryside, I set aside fifteen minutes each stop to sketch passing fields, bridges, and stations. The rhythm of the train gave a natural tempo for quick line work, and the sketches became a visual diary of the journey.",
+    "whyItMatters": "Slow‑travel thrives on mindful observation, and sketching forces you to notice details you’d otherwise miss. It also replaces screen time with a tactile, low‑energy activity, aligning with low‑impact goals.",
+    "howToThink": "Carry a small sketchbook that fits in your lap, choose a lightweight graphite pencil, and set a timer for each stop. Focus on broad shapes rather than perfection, and let the movement of the train guide your strokes.",
+    "pros": [
+      "Boosts mindfulness",
+      "Zero electricity needed",
+      "Creates a lasting visual record"
+    ],
+    "cons": [
+      "Requires steady hand on moving train",
+      "Limited detail in short time",
+      "Weather can affect visibility"
+    ],
+    "watchOut": "Be careful not to distract the conductor or block aisles while sketching.",
+    "faq": [
+      {
+        "q": "Do I need special art supplies?",
+        "a": "A small sketchbook and a simple pencil are enough; avoid heavy inks that can leak."
+      },
+      {
+        "q": "What if the train is too noisy?",
+        "a": "Focus on quick gestural lines; you don’t need silence to capture the scene."
+      },
+      {
+        "q": "Can I share my sketches without harming the low‑impact ethos?",
+        "a": "Digital photos of your drawings are fine, just keep the original creation analog."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "art"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-10-29T19:45:14.332Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-train-travel-europe-tips-20",
     "title": "Myth vs. reality: train travel europe tips",
     "dek": "The persistent myths around train travel europe tips, stress-tested against what slow-travel and low-impact explorers actually report.",
