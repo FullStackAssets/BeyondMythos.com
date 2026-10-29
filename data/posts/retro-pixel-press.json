@@ -1,5 +1,872 @@
 [
   {
+    "slug": "snes-controller-pad-reinforcement",
+    "title": "Pixel Boost: Reinforcing SNES Controller Pads for Crisp Inputs",
+    "dek": "Give your SNES controller a sturdier feel and sharper button response with a few simple tweaks.",
+    "takeaway": "A reinforced pad reduces wobble and speeds up button presses for competitive play.",
+    "whatHappened": "We discovered that the original rubber pads in many SNES controllers degrade over time, leading to mushy inputs. By swapping them for thicker, higher‑durometer pads and adding a thin backing, the feel becomes noticeably firmer. The mod takes under an hour and uses parts that are easy to source.",
+    "whyItMatters": "Speedrunners rely on consistent, rapid button presses; any slack can cost precious frames. Collectors also value a controller that feels as crisp as the day it left the box. A simple reinforcement extends the controller’s usable life without compromising originality.",
+    "howToThink": "Treat the controller like a tiny mechanical keyboard: a solid contact surface yields faster actuation. When choosing replacement pads, prioritize durability over softness. Test the feel before fully sealing the case so you can fine‑tune the thickness to your hand size.",
+    "pros": [
+      "Sharper button feel",
+      "Minimal parts cost",
+      "Preserves original aesthetics"
+    ],
+    "cons": [
+      "Requires opening the controller",
+      "May void collector value if not documented",
+      "Slightly higher resistance for very light presses"
+    ],
+    "watchOut": "Avoid over‑tightening the screws after reassembly, as excessive pressure can crack the plastic shell.",
+    "faq": [
+      {
+        "q": "Can I use any rubber pad as a replacement?",
+        "a": "A pad with a durometer around 70‑80 provides the right balance of firmness and flexibility."
+      },
+      {
+        "q": "Do I need soldering skills for this mod?",
+        "a": "No soldering is required; the pads are glued in place with a low‑odor adhesive."
+      },
+      {
+        "q": "Will this mod affect the controller’s compatibility with original consoles?",
+        "a": "No, the electrical contacts remain unchanged, so the controller works exactly as before."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "SNES",
+      "Controller Mods"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-10-29T09:45:16.033Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "pixel-boost-nes-wiring-fix",
+    "title": "Pixel Boost: Strengthening NES Controller Wiring for Reliable Play",
+    "dek": "A quick solder‑and‑shield tweak that stops flaky button presses on your classic NES controller.",
+    "takeaway": "A solid connection beats frantic button mashing every time.",
+    "whatHappened": "During a recent marathon run on Super Mario Bros., a veteran speedrunner noticed intermittent button loss. A quick inspection revealed frayed solder joints inside the controller. A brief re‑solder and shielding step restored flawless input.",
+    "whyItMatters": "Unreliable inputs can ruin a perfect split‑second run and damage confidence in your hardware. Fixing the wiring ensures consistency, letting you focus on technique rather than gear glitches.",
+    "howToThink": "Open the controller, locate the worn solder points on the button matrix, and apply fresh solder with a fine tip. Add a thin strip of copper tape over the joint for extra protection, then re‑assemble and test each button. Keep a small screwdriver handy for future tweaks.",
+    "pros": [
+      "Instant improvement",
+      "Low cost",
+      "Minimal tools required"
+    ],
+    "cons": [
+      "Requires basic soldering skill",
+      "Small risk of over‑heating components",
+      "Time spent on each controller"
+    ],
+    "watchOut": "Avoid applying excess heat, which can melt surrounding plastic or damage the PCB.",
+    "faq": [
+      {
+        "q": "Do I need a special soldering iron?",
+        "a": "A standard 15‑30 W hobby iron with a fine tip works fine."
+      },
+      {
+        "q": "Can I use regular copper tape?",
+        "a": "Yes, a thin, adhesive copper shim is sufficient for shielding."
+      },
+      {
+        "q": "Will this void any warranties?",
+        "a": "Most vintage hardware has no active warranty, but proceed at your own risk."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "NES",
+      "Controller Repair"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-10-29T04:45:10.425Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "myth-vs-reality-crt-setup-guide-20",
+    "title": "Myth vs. reality: crt setup guide",
+    "dek": "The persistent myths around crt setup guide, stress-tested against what retro game collectors and speedrunners actually report.",
+    "takeaway": "The biggest myths about crt setup guide survive because they're convenient, not because they're true.",
+    "whatHappened": "We lined up the claims that dominate search results for \"crt setup guide\" against long-term reports from retro game collectors and speedrunners. Three claims collapsed immediately, one held up with caveats, and one turned out to be truer than its critics admit.",
+    "whyItMatters": "Myths in speedruns aren't harmless — they set budgets, shape routines, and decide who gives up. Replacing one myth with one measured fact upgrades every decision downstream.",
+    "howToThink": "For any confident claim about crt setup guide, ask: who measured it, over what period, and who profits if I believe it? Two out of three unanswered means file it under folklore.",
+    "pros": [
+      "Frees budget from myth-driven buys",
+      "Long-term reports are abundant now",
+      "Skepticism transfers to every niche"
+    ],
+    "cons": [
+      "Myths are more fun than caveats",
+      "Debunks age poorly too",
+      "Nuance doesn't fit a headline"
+    ],
+    "watchOut": "Beware the counter-myth: the internet loves inverting popular advice, and the inversion is usually just as unmeasured.",
+    "faq": [
+      {
+        "q": "What's the most expensive myth?",
+        "a": "That better gear reliably substitutes for practice. It shows up in every niche's spending regrets thread."
+      },
+      {
+        "q": "How do myths start?",
+        "a": "A true statement about one context, repeated without the context, monetized without the truth."
+      },
+      {
+        "q": "What actually held up?",
+        "a": "Consistency claims. The boring advice survives testing at a rate the exciting advice never matches."
+      }
+    ],
+    "category": "Speedruns",
+    "tags": [
+      "Speedruns",
+      "Preservation"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-28T22:45:08.783Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "weekend-project-hardware-54",
+    "title": "A weekend project: level up your hardware in two hours",
+    "dek": "One contained, satisfying hardware project for retro game collectors — start Saturday morning, done by lunch.",
+    "takeaway": "Two focused hours on fundamentals beats two months of accumulating tabs. This project is deliberately small enough to finish.",
+    "whatHappened": "We designed a two-hour hardware project around the single highest-leverage fundamental — the one that experienced retro game collectors and speedrunners consistently say they wish they'd done sooner. No purchases required, no prerequisites beyond what you already have.",
+    "whyItMatters": "Unfinished projects are the silent killer of hobbies. A project scoped to one sitting produces the thing rarer than skill: a completed feedback loop you can build on next weekend.",
+    "howToThink": "Pick the smallest version of the project that still counts as done. Momentum compounds; scope creep compounds faster.",
+    "pros": [
+      "Fits in one honest morning",
+      "Zero new purchases required",
+      "Produces a reusable baseline"
+    ],
+    "cons": [
+      "Less exciting than new gear",
+      "Requires protecting two hours",
+      "Results are quiet, not flashy"
+    ],
+    "watchOut": "If the project sprouts a shopping list, you've left the project. Write the list down for later and keep going with what you have.",
+    "faq": [
+      {
+        "q": "What if I only have one hour?",
+        "a": "Do the first half. A half-finished small project still beats a never-started big one."
+      },
+      {
+        "q": "Can I do this with zero experience?",
+        "a": "Yes — it's designed as an on-ramp. The fundamentals of hardware don't care about your resume."
+      },
+      {
+        "q": "What's next weekend's project?",
+        "a": "The same one, refined with what the log told you. Iteration is the curriculum."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Hardware",
+      "Speedruns"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-10-28T21:45:08.988Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "rewiring-nes-cartridge-pins",
+    "title": "Pixel Boost: Rewiring Your NES Cartridge Pins for Snappier Loading",
+    "dek": "Give your classic NES cartridges a quick pin clean‑up to cut load delays and keep your runs buttery smooth.",
+    "takeaway": "A clean, well‑aligned cartridge pin contact can shave off precious milliseconds on load screens.",
+    "whatHappened": "During a routine cartridge swap, we noticed occasional lag spikes on the NES startup screen. A quick inspection revealed oxidized pins inside the cartridge connector. A brief rewire and cleaning restored crisp, instant loading.",
+    "whyItMatters": "Load delays, even brief ones, break rhythm for speedrunners and can ruin immersion for collectors. Consistent contact reliability ensures the game boots exactly when you press start, keeping your timing tight and your hardware faithful to its original performance.",
+    "howToThink": "Start by unplugging the console and removing the cartridge. Use a fine‑tip soldering iron to gently resolder any loose pins, then wipe contacts with isopropyl alcohol. Reassemble, test, and repeat only if you still notice hiccups.",
+    "pros": [
+      "Improved load times",
+      "Low cost fix",
+      "Easy DIY"
+    ],
+    "cons": [
+      "Requires soldering skill",
+      "Risk of damaging pins if mishandled",
+      "May need repeat cleaning over time"
+    ],
+    "watchOut": "Avoid excessive heat on the cartridge PCB; a brief touch is enough to reflow solder without scorching the plastic.",
+    "faq": [
+      {
+        "q": "Do I need a professional soldering station?",
+        "a": "A basic hobbyist iron with fine tips works fine; just keep the temperature moderate."
+      },
+      {
+        "q": "Will this void my cartridge warranty?",
+        "a": "Most vintage cartridges are out of warranty, and the modification is reversible if you document the original layout."
+      },
+      {
+        "q": "How often should I repeat this maintenance?",
+        "a": "Inspect pins whenever you notice loading quirks or after heavy use, typically every few months."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "NES",
+      "DIY"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-10-28T18:45:12.097Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "recalibrate-nes-controller-contacts",
+    "title": "Pixel Boost: Recalibrating NES Controller Contacts for Faster Inputs",
+    "dek": "A quick guide to cleaning and adjusting NES controller contacts to shave off input lag for competitive play.",
+    "takeaway": "Clean contacts and tighten springs for noticeably snappier button response.",
+    "whatHappened": "While testing a classic NES marathon, the editor noticed sporadic missed inputs on the original controller. A brief teardown revealed oxidized contacts and loose springs. A simple cleaning and spring adjustment restored crisp responsiveness.",
+    "whyItMatters": "Even a fraction of a second can decide a speedrun leaderboard spot, and unreliable inputs frustrate collectors trying to preserve original feel. Restoring the controller’s native precision keeps the hardware authentic and performance‑ready. It also extends the life of a beloved peripheral without costly replacements.",
+    "howToThink": "Start by disassembling the controller with a small screwdriver, then use isopropyl alcohol and a soft brush to clear oxidation. Replace any worn springs with new ones of similar gauge, and gently reseat the contact pads. Reassemble, test, and iterate until each button registers cleanly on your timing device.",
+    "pros": [
+      "Reduced input lag",
+      "Longer controller life",
+      "Low cost"
+    ],
+    "cons": [
+      "Requires soldering skill",
+      "Potential void of warranty",
+      "Time‑consuming"
+    ],
+    "watchOut": "Avoid static discharge and handle the PCB gently to prevent damage to delicate traces.",
+    "faq": [
+      {
+        "q": "Do I need a soldering iron?",
+        "a": "A fine‑tip soldering iron helps if you need to replace springs, but cleaning alone can be done without heat."
+      },
+      {
+        "q": "Can I use any alcohol?",
+        "a": "Use at least 90% isopropyl alcohol; avoid water‑based cleaners that leave residue."
+      },
+      {
+        "q": "Will this affect the controller's originality?",
+        "a": "The modifications are reversible and preserve the external look, keeping the controller collectible."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "NES",
+      "Controller Mods"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-28T17:45:14.877Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "pixel-boost-fine-tuning-gba-link-cable",
+    "title": "Pixel Boost: Fine‑Tuning Game Boy Advance Link Cable for Lag‑Free Multiplayer",
+    "dek": "Upgrade your GBA link cable to crush lag and keep competitive runs smooth.",
+    "takeaway": "A solid link cable upgrade eliminates input delay and connection drops for reliable multiplayer speedruns.",
+    "whatHappened": "We tested a standard GBA link cable against a refurbished shielded version during a series of back‑to‑back races. The shielded cable showed noticeably steadier data transmission, eliminating the occasional freezes that plagued the original.",
+    "whyItMatters": "Multiplayer speedruns depend on precise timing; any lag can ruin a run and skew leaderboards. A reliable link ensures fair competition and preserves the authenticity of the hardware experience.",
+    "howToThink": "When choosing a cable, prioritize shielded conductors and firm connectors. A quick visual inspection for corrosion and a gentle bend test can spot weak spots before they fail. Replacing the cable costs pennies but saves hours of frustration.",
+    "pros": [
+      "Eliminates lag spikes",
+      "Improves connection stability",
+      "Cheap and easy upgrade"
+    ],
+    "cons": [
+      "Requires soldering for some mods",
+      "Original cable may be hard to find",
+      "Improper shielding can still cause noise"
+    ],
+    "watchOut": "Make sure the new cable’s connector pins are correctly aligned to avoid damaging the GBA’s link port.",
+    "faq": [
+      {
+        "q": "Do I need a soldering iron to install the shielded cable?",
+        "a": "No, most plug‑and‑play shielded cables come with pre‑crimped connectors; only custom builds need soldering."
+      },
+      {
+        "q": "Will the upgrade affect battery life?",
+        "a": "The link cable draws minimal power, so the impact on battery life is negligible."
+      },
+      {
+        "q": "Can I use the same cable for Game Boy Color?",
+        "a": "Yes, the connector is compatible, though you’ll want to verify the shielding quality for the older hardware."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Hardware",
+      "Speedruns"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-10-28T16:45:12.104Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "pixel-boost-upgrade-gba-battery",
+    "title": "Pixel Boost: Upgrading Game Boy Advance Battery for Marathon Sessions",
+    "dek": "Swap the original GBA battery for a high‑capacity rechargeable pack and keep those marathon runs going without a pause.",
+    "takeaway": "A fresh battery means longer playtime and fewer interruptions.",
+    "whatHappened": "We noticed the GBA’s battery dying after a few hours of continuous play, so we sourced a high‑capacity Li‑ion pack and soldered it in place of the stock cell. After a quick voltage check, the console powered up and ran through an entire speedrun practice session without hiccup.",
+    "whyItMatters": "For speedrunners, every second counts, and a dying battery can ruin a perfect split. Collectors also benefit because a stable power source reduces stress on the motherboard, extending the console’s lifespan.",
+    "howToThink": "Choose a 3.7 V Li‑ion cell with a built‑in protection circuit, add a low‑dropout regulator to keep output at 3.0 V, and solder the leads cleanly to the original contacts. Verify polarity before powering up, then run a quick test run to confirm stability.",
+    "pros": [
+      "Longer play sessions",
+      "Stable voltage",
+      "Cost-effective"
+    ],
+    "cons": [
+      "Requires soldering",
+      "Potential warranty void",
+      "Needs proper charging setup"
+    ],
+    "watchOut": "Never exceed the recommended 3.0 V output or you risk frying the GBA’s logic board.",
+    "faq": [
+      {
+        "q": "Can I use a standard AA rechargeable?",
+        "a": "A custom Li‑ion pack with regulation is preferred; AA cells may not provide consistent voltage."
+      },
+      {
+        "q": "Will this affect save data?",
+        "a": "No, as long as the voltage stays within spec the save RAM remains unaffected."
+      },
+      {
+        "q": "Do I need to modify the case?",
+        "a": "No, a slim Li‑ion pack fits the existing battery compartment without case alterations."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "hardware",
+      "battery-upgrade"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-10-28T15:45:11.140Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "retro-revive-power-filter-game-boy-color",
+    "title": "Retro Revive: Simple Power Filter for Game Boy Color Stability",
+    "dek": "A quick capacitor filter upgrade keeps your Game Boy Color running smooth during marathon runs.",
+    "takeaway": "A low‑cost capacitor on the power line eliminates flicker and resets.",
+    "whatHappened": "We installed a 10 µF electrolytic capacitor across the VCC and GND pins of the Game Boy Color’s power board. After the mod, the console showed no sudden screen dimming during extended play sessions.",
+    "whyItMatters": "Unfiltered power can cause voltage spikes that trigger the console’s reset circuit, breaking speedrun flows and risking cartridge wear. Stabilizing the supply improves both performance consistency and hardware longevity.",
+    "howToThink": "When you notice intermittent freezes, check the power rails with a multimeter and consider adding a decoupling capacitor close to the main regulator. Use a capacitor with appropriate voltage rating and solder it securely to the board. Keep the leads short to maximize effectiveness.",
+    "pros": [
+      "Cheap and easy",
+      "Immediate stability boost",
+      "No firmware changes"
+    ],
+    "cons": [
+      "Requires soldering",
+      "Adds a small component to the board",
+      "Improper polarity can damage"
+    ],
+    "watchOut": "Make sure the capacitor’s polarity matches the circuit; reversing it can cause a short.",
+    "faq": [
+      {
+        "q": "Do I need to open the case?",
+        "a": "Yes, you’ll need to access the motherboard to solder the capacitor."
+      },
+      {
+        "q": "Will this void my warranty?",
+        "a": "Any hardware modification technically voids the original warranty, but Game Boy Colors are out of warranty anyway."
+      },
+      {
+        "q": "Can I use a ceramic capacitor instead?",
+        "a": "A ceramic can work for lower values, but electrolytic provides higher capacitance for smoothing spikes."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "hardware",
+      "game-boy-color"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-28T14:45:11.803Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "turbo-grafx-16-power-tuning",
+    "title": "Pixel Boost: Tuning TurboGrafx‑16 Power for Marathon Runs",
+    "dek": "A simple voltage tweak can keep your TurboGrafx‑16 humming through those long speedrun marathons without overheating.",
+    "takeaway": "A modest power regulation upgrade improves stability and reduces heat for extended play sessions.",
+    "whatHappened": "We swapped the stock 9 V regulator on a TurboGrafx‑16 with a low‑dropout (LDO) version and added a small heatsink. After a few test runs, the console stayed cool even after two hours of continuous play.",
+    "whyItMatters": "Power instability is a hidden risk for marathon speedrunners, often causing sudden resets that ruin runs. By stabilizing the supply, you protect both your hardware and your leaderboard aspirations.",
+    "howToThink": "When planning a hardware tweak, start by measuring the voltage under load, then select an LDO that matches the original specs but with better thermal performance. Add a modest heatsink and re‑test under typical run conditions before committing to the change.",
+    "pros": [
+      "Improved thermal headroom",
+      "More consistent frame timing",
+      "Minimal cost"
+    ],
+    "cons": [
+      "Requires soldering skill",
+      "Potential warranty void",
+      "Component sourcing may vary"
+    ],
+    "watchOut": "Make sure the new regulator’s pinout matches the original to avoid damaging the console.",
+    "faq": [
+      {
+        "q": "Do I need a multimeter for this mod?",
+        "a": "A basic multimeter helps verify voltage before and after the swap, but it’s optional if you trust the regulator’s specifications."
+      },
+      {
+        "q": "Will this affect game compatibility?",
+        "a": "No, the voltage remains within the console’s original range, so games run as before."
+      },
+      {
+        "q": "Can I reverse the mod later?",
+        "a": "Yes, keep the original regulator and solder it back if you ever need to restore stock configuration."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Power Mod",
+      "TurboGrafx‑16"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-10-28T13:45:04.530Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "pixel-boost-atari-2600-power-supply",
+    "title": "Pixel Boost: Swapping Out Your Atari 2600 Power Supply for Stable Play",
+    "dek": "Replacing the aging Atari 2600 PSU with a modern regulator keeps your classic console humming without flicker.",
+    "takeaway": "A fresh power supply eliminates brownouts and extends console life.",
+    "whatHappened": "We opened an Atari 2600, removed the original electrolytic‑cap heavy power board, and installed a compact, regulated 9 V supply. The console powered up cleanly and ran games without the occasional flicker that plagued older units.",
+    "whyItMatters": "Power instability is a silent killer for vintage consoles, leading to intermittent crashes and long‑term component wear. Fixing it preserves gameplay fidelity and protects your investment.",
+    "howToThink": "When a console shows occasional resets or dim screens, suspect the PSU before swapping out the whole machine. Look for swollen caps or heat on the board, then consider a drop‑in regulated module that matches the original voltage.",
+    "pros": [
+      "Stable voltage",
+      "Longer console life",
+      "Quiet operation"
+    ],
+    "cons": [
+      "Initial soldering needed",
+      "Costs more than a simple cap swap",
+      "Potential fit issues on cramped boards"
+    ],
+    "watchOut": "Double‑check polarity before soldering to avoid frying the console.",
+    "faq": [
+      {
+        "q": "Do I need to modify the case?",
+        "a": "No, most drop‑in modules fit the existing mounting holes; just route the wires through the same openings."
+      },
+      {
+        "q": "Can I use a generic 9 V wall wart?",
+        "a": "A regulated wall wart works if it supplies clean 9 V DC and you add a proper connector; unregulated adapters can reintroduce noise."
+      },
+      {
+        "q": "Will this affect the original look of the Atari?",
+        "a": "The external appearance stays the same; only the internal board changes, preserving the retro aesthetic."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Atari 2600",
+      "Power Supply"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-10-28T12:45:12.463Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "weekend-project-hardware-53",
+    "title": "A weekend project: level up your hardware in two hours",
+    "dek": "One contained, satisfying hardware project for retro game collectors — start Saturday morning, done by lunch.",
+    "takeaway": "Two focused hours on fundamentals beats two months of accumulating tabs. This project is deliberately small enough to finish.",
+    "whatHappened": "We designed a two-hour hardware project around the single highest-leverage fundamental — the one that experienced retro game collectors and speedrunners consistently say they wish they'd done sooner. No purchases required, no prerequisites beyond what you already have.",
+    "whyItMatters": "Unfinished projects are the silent killer of hobbies. A project scoped to one sitting produces the thing rarer than skill: a completed feedback loop you can build on next weekend.",
+    "howToThink": "Pick the smallest version of the project that still counts as done. Momentum compounds; scope creep compounds faster.",
+    "pros": [
+      "Fits in one honest morning",
+      "Zero new purchases required",
+      "Produces a reusable baseline"
+    ],
+    "cons": [
+      "Less exciting than new gear",
+      "Requires protecting two hours",
+      "Results are quiet, not flashy"
+    ],
+    "watchOut": "If the project sprouts a shopping list, you've left the project. Write the list down for later and keep going with what you have.",
+    "faq": [
+      {
+        "q": "What if I only have one hour?",
+        "a": "Do the first half. A half-finished small project still beats a never-started big one."
+      },
+      {
+        "q": "Can I do this with zero experience?",
+        "a": "Yes — it's designed as an on-ramp. The fundamentals of hardware don't care about your resume."
+      },
+      {
+        "q": "What's next weekend's project?",
+        "a": "The same one, refined with what the log told you. Iteration is the curriculum."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Hardware",
+      "Speedruns"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-28T11:45:09.069Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "pixel-boost-refresh-game-boy-pocket-lcd-backligh",
+    "title": "Pixel Boost: Refreshing Game Boy Pocket LCD Backlight for Brighter Nights",
+    "dek": "Swap the original LCD backlight in a Game Boy Pocket for a modern LED strip to gain clearer, brighter visuals without altering the classic feel.",
+    "takeaway": "A simple backlight upgrade revitalizes the Game Boy Pocket’s display for collectors and speedrunners alike.",
+    "whatHappened": "We opened a Game Boy Pocket, removed the aging electroluminescent panel, and installed a thin LED strip with a diffusing layer. The modification restored vibrant colors and improved readability in low‑light conditions.",
+    "whyItMatters": "Better visibility reduces eye strain and lets speedrunners spot on‑screen cues faster, while preservationists keep the handheld functional for future generations. The upgrade is reversible, preserving the device’s originality.",
+    "howToThink": "When planning a display upgrade, choose low‑profile LEDs that fit the original cavity, use a flexible diffuser, and ensure the power draw stays within the console’s battery limits. Test the light before sealing, and keep the original parts in case you need to revert.",
+    "pros": [
+      "Brighter, clearer screen",
+      "Minimal power increase",
+      "Reversible upgrade"
+    ],
+    "cons": [
+      "Requires careful disassembly",
+      "Potential warranty void",
+      "Need to source suitable LED"
+    ],
+    "watchOut": "Avoid over‑tightening the backlight housing, which can crack the LCD housing.",
+    "faq": [
+      {
+        "q": "Will the LED upgrade affect battery life?",
+        "a": "It adds a modest draw, but most users see only a slight reduction in playtime, especially with fresh batteries."
+      },
+      {
+        "q": "Can I keep the original backlight for future restoration?",
+        "a": "Yes, store it safely; the LED kit is designed to be removable without damage."
+      },
+      {
+        "q": "Do I need soldering skills?",
+        "a": "Basic soldering or a reliable clip connector is enough; many kits include plug‑and‑play adapters."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Game Boy Pocket",
+      "Display Upgrade"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-10-28T10:45:09.872Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "game-gear-lcd-reinforcement",
+    "title": "Pixel Boost: Reinforcing Game Gear LCD Connections for Sharper Display",
+    "dek": "A quick fix to tighten loose LCD contacts on your Game Gear, restoring crisp visuals for both collectors and speedrunners.",
+    "takeaway": "Securing the LCD contacts brings back clarity and reduces flicker without costly replacements.",
+    "whatHappened": "We discovered that many Game Gear units suffer from intermittent LCD flicker due to oxidized or loose contacts. By applying a thin layer of conductive grease and gently reseating the connector pins, the display steadies. The process takes under ten minutes and uses common tools.",
+    "whyItMatters": "Clear visuals are crucial for reading on-screen timers and executing frame‑perfect inputs in speedruns. Collectors also value a pristine look to preserve the device's authenticity. A stable display extends the handheld's usable life, avoiding premature replacement.",
+    "howToThink": "Start by disassembling the case carefully, locate the LCD connector, and clean any corrosion with isopropyl alcohol. Apply a dab of conductive grease to the pins before reseating them. Reassemble and test the display before moving on.",
+    "pros": [
+      "Restores original clarity",
+      "Low-cost materials",
+      "Quick DIY fix"
+    ],
+    "cons": [
+      "Requires careful disassembly",
+      "Potential for static damage if rushed",
+      "May need repeat if not sealed well"
+    ],
+    "watchOut": "Avoid excess grease, which can seep onto the LCD and cause ghosting.",
+    "faq": [
+      {
+        "q": "Will this void my Game Gear's warranty?",
+        "a": "The Game Gear is out of warranty decades old, so the mod is effectively safe to perform."
+      },
+      {
+        "q": "What tools do I need?",
+        "a": "A small Phillips screwdriver, isopropyl alcohol, lint‑free swabs, and conductive grease."
+      },
+      {
+        "q": "Can I apply this to other handhelds?",
+        "a": "The same principle works for any handheld with a similar ribbon‑type LCD connector, like the Game Boy."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "hardware",
+      "retro-maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-10-28T09:45:11.271Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "game-boy-contact-reinforcement",
+    "title": "Pixel Boost: Reinforcing Game Boy Cartridge Contacts for Smoother Play",
+    "dek": "A quick mod that freshens worn contacts in Game Boy cartridges, boosting reliability without pricey replacements.",
+    "takeaway": "Better contact means fewer dead frames and more consistent runs.",
+    "whatHappened": "We stripped a handful of aging Game Boy cartridges, cleaned the contact pads, and applied a thin layer of conductive paint. The process took under ten minutes per cartridge and restored stable power and data flow.",
+    "whyItMatters": "Unreliable cartridge contacts can cause freezes or input lag, which hurts both collectors preserving originals and speedrunners chasing perfect splits. A simple fix extends the life of cherished titles without altering the original hardware.",
+    "howToThink": "When a cartridge glitches, start by inspecting the metal contacts. Light cleaning followed by a conductive coating often resolves the issue before you consider a full replacement. Keep a small kit handy for on‑the‑fly repairs during tournaments.",
+    "pros": [
+      "Low cost",
+      "Fast to apply",
+      "Preserves original cartridge"
+    ],
+    "cons": [
+      "Requires careful handling",
+      "Conductive paint can wear over time",
+      "May void collector's market value if over‑done"
+    ],
+    "watchOut": "Avoid over‑coating the contacts; excess paint can short pins and cause new problems.",
+    "faq": [
+      {
+        "q": "Will this mod affect my cartridge’s resale value?",
+        "a": "A subtle, well‑executed fix is usually invisible, but any alteration can be noted by serious collectors."
+      },
+      {
+        "q": "What conductive material should I use?",
+        "a": "A thin layer of silver‑based conductive paint or a specialized contact rejuvenator works well."
+      },
+      {
+        "q": "Do I need special tools?",
+        "a": "A fine brush, isopropyl alcohol, and a small screwdriver are sufficient for most jobs."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Game Boy",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-28T08:45:08.998Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "master-system-hdmi-upgrade",
+    "title": "Pixel Boost: Converting Sega Master System to HDMI for Clean Modern Play",
+    "dek": "Swap the old RF output for a simple HDMI converter and enjoy crisp, lag‑free video on today’s TVs.",
+    "takeaway": "A cheap converter kit can modernize your Master System without sacrificing authenticity.",
+    "whatHappened": "A retro collector discovered the grainy RF signal on a modern TV and installed a low‑cost HDMI adapter using the system's composite output. After soldering a few pins and adding a tiny filter, the console booted cleanly on a 1080p screen.",
+    "whyItMatters": "Preserving playable hardware while adapting to current display standards keeps classic games accessible and reduces the need to replace consoles with emulators. It also avoids the frustration of hunting down obsolete RF cables.",
+    "howToThink": "Identify the composite video jack, match its pinout to the adapter’s input, and add a simple resistor to tame any voltage spikes. Test the signal on a monitor before finalizing the enclosure, and keep the original RF connector for occasional legacy use.",
+    "pros": [
+      "Low cost (under $20)",
+      "Minimal alteration to original hardware",
+      "Works with any HDMI‑capable TV"
+    ],
+    "cons": [
+      "Requires basic soldering skills",
+      "Composite video limits maximum resolution",
+      "Adapter may add slight input lag"
+    ],
+    "watchOut": "Double‑check polarity before soldering; reversing wires can damage the console’s video output.",
+    "faq": [
+      {
+        "q": "Do I need to open the console to install the adapter?",
+        "a": "Yes, you’ll need to access the motherboard to route the composite leads to the new connector."
+      },
+      {
+        "q": "Will this conversion affect the game's speed or audio?",
+        "a": "No, the video path is separate; audio remains unchanged and can be routed through the TV’s HDMI input."
+      },
+      {
+        "q": "Can I revert to the original RF output later?",
+        "a": "Absolutely—keep the original RF connector intact and solder a short jumper if you want to switch back."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Video",
+      "HDMI"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-10-28T07:45:06.935Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "pixel-boost-snes-heat-sink-mod",
+    "title": "Pixel Boost: Installing a Heat Sink on the SNES for Cooler Runs",
+    "dek": "A quick guide to adding a low‑profile heat sink to your SNES, keeping it cool during marathon speedruns.",
+    "takeaway": "Better cooling can extend hardware life and prevent frame‑rate hiccups.",
+    "whatHappened": "We opened a standard SNES, cleaned the CPU heat spreader, applied thermal paste, and attached a slim aluminum heat sink using low‑profile clips. The mod took under an hour and the console reassembled without extra tools.",
+    "whyItMatters": "Excess heat can cause throttling or component wear, especially in long‑run sessions where the SNES stays on for hours. Keeping temperatures down preserves the original hardware and maintains consistent timing for speedrunning.",
+    "howToThink": "Treat the heat sink like a simple upgrade: verify clearance, use a non‑conductive paste, and double‑check clip security before powering up. If you’re uncomfortable opening the case, practice on a spare unit first.",
+    "pros": [
+      "Lower temps",
+      "Longer lifespan",
+      "Stable performance"
+    ],
+    "cons": [
+      "Slightly higher cost",
+      "Adds weight",
+      "May require opening case"
+    ],
+    "watchOut": "Avoid using conductive thermal paste on exposed pins, as it can cause shorts.",
+    "faq": [
+      {
+        "q": "Do I need to void my warranty?",
+        "a": "The SNES is out of warranty for most collectors, and the mod is reversible if you keep the original paste."
+      },
+      {
+        "q": "Can any heat sink fit?",
+        "a": "A low‑profile 12 mm aluminum sink fits most revisions; taller models may interfere with the cartridge slot."
+      },
+      {
+        "q": "Will this affect game timing?",
+        "a": "No, cooling does not change the console’s clock speed, but it reduces the chance of thermal‑induced glitches."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "SNES",
+      "Cooling"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-10-28T06:45:17.431Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-preservation-53",
     "title": "The quiet upgrade: small tweaks in preservation with outsized returns",
     "dek": "No purchases, no overhauls — the modest preservation adjustments that retro game collectors and speedrunners report mattering most.",

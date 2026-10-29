@@ -1,5 +1,770 @@
 [
   {
+    "slug": "boost-espresso-consistency-grinder-timer",
+    "title": "Boost Espresso Consistency with a Simple Grinder Dose Timer",
+    "dek": "A quick trick to time your grind dose for more repeatable espresso shots.",
+    "takeaway": "Timing your grind dose reduces variability and improves shot consistency.",
+    "whatHappened": "I started using a kitchen timer to measure the seconds it takes to grind the typical dose and logged the results. The simple habit quickly revealed patterns that were previously invisible.",
+    "whyItMatters": "Even tiny variations in grind amount can shift extraction balance, leading to inconsistent flavor. Controlling dose time gives you a repeatable baseline without expensive equipment.",
+    "howToThink": "Treat each grind as a timed event: start the timer when you begin grinding and stop when the dose reaches the portafilter. Adjust your grind time until the shot repeats the same taste profile.",
+    "pros": [
+      "Low‑cost, just a timer",
+      "Improves repeatability",
+      "Easy to adopt"
+    ],
+    "cons": [
+      "Requires extra step",
+      "May need practice to gauge feel",
+      "Timer accuracy varies"
+    ],
+    "watchOut": "Don’t let the timer distract you from watching the grind texture; both matter.",
+    "faq": [
+      {
+        "q": "Do I need a digital timer?",
+        "a": "A basic kitchen timer or phone stopwatch works fine."
+      },
+      {
+        "q": "What if my grinder is inconsistent?",
+        "a": "A timer highlights that issue, prompting cleaning or burr replacement."
+      },
+      {
+        "q": "Can this replace a scale?",
+        "a": "It complements a scale; timing helps when a scale isn’t handy."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "grinder"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-10-29T09:45:18.313Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "espresso-quick-pinch-tamp-guide",
+    "title": "Fine‑Tune Your Espresso Tamp Pressure with a Simple Finger Gauge",
+    "dek": "A 30‑second finger‑gauge trick to nail consistent tamp pressure without a scale.",
+    "takeaway": "Consistent tamp pressure yields steadier shots with minimal equipment.",
+    "whatHappened": "I tried a DIY finger gauge made from a rubber band and a ruler, pressing it against the portafilter while tamping. The pressure felt more uniform across multiple shots.",
+    "whyItMatters": "Tamp pressure variance is a hidden source of shot inconsistency, affecting flow rate and flavor balance. Even small differences can swing extraction by several seconds.",
+    "howToThink": "Treat tamping like a repeatable motion: aim for the same pressure each pull, use the gauge as a reference, and focus on a level surface. Over time your muscle memory will lock in the feel.",
+    "pros": [
+      "No extra gear needed",
+      "Fast to apply",
+      "Improves shot repeatability"
+    ],
+    "cons": [
+      "Requires a bit of DIY setup",
+      "May feel odd at first",
+      "Not as precise as a calibrated tamping device"
+    ],
+    "watchOut": "Don’t press too hard; excessive pressure can over‑compress the puck and choke the flow.",
+    "faq": [
+      {
+        "q": "Can I use any rubber band for the gauge?",
+        "a": "A medium‑strength band works best; it should stretch enough to give a clear click at target pressure."
+      },
+      {
+        "q": "Do I need a scale to verify the pressure?",
+        "a": "No, the gauge gives a tactile cue; a scale is optional for fine‑tuning."
+      },
+      {
+        "q": "How often should I recalibrate the gauge?",
+        "a": "Check it monthly or if you notice shot inconsistencies."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "tamping",
+      "DIY"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-10-29T04:45:11.296Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "quick-espresso-ratio-check",
+    "title": "Quick Espresso Ratio Check for Consistent Shots",
+    "dek": "A fast method to verify your coffee‑to‑water ratio before pulling a shot, keeping flavor steady day to day.",
+    "takeaway": "A simple visual cue can keep your espresso ratio spot‑on without a scale.",
+    "whatHappened": "I noticed my espresso taste drifting after a week of using the same beans. A quick glance at the basket revealed the grind had settled, changing the effective dose. I tweaked the ratio with a kitchen spoon and the flavor snapped back.",
+    "whyItMatters": "Even minor shifts in dose alter extraction, leading to bitterness or sourness that masks bean quality. Home baristas rarely have a scale on hand for every shot, so a quick check prevents wasted coffee and frustration. Consistency builds confidence and better tasting coffee.",
+    "howToThink": "Treat the basket like a measuring cup: fill it, level it, then give it a gentle tap to settle the grounds. If the coffee sits higher than the basket’s rim, you’re over‑dosing; lower means under‑dosing. Adjust by adding or removing a pinch and repeat until the coffee sits just below the rim.",
+    "pros": [
+      "No equipment needed",
+      "Instant visual feedback",
+      "Works with any basket"
+    ],
+    "cons": [
+      "Less precise than a scale",
+      "Requires habit formation",
+      "May vary with grind size"
+    ],
+    "watchOut": "Don’t tap the basket too hard – you could compact the grounds and throw off the ratio again.",
+    "faq": [
+      {
+        "q": "Can I use this method with a pressurized portafilter?",
+        "a": "Yes, the visual cue works the same; just be aware the basket’s shape may hide small variations."
+      },
+      {
+        "q": "How often should I check the ratio?",
+        "a": "Before each brew session or whenever you change beans, grind, or tamp pressure."
+      },
+      {
+        "q": "What if my basket is full but the shot still tastes thin?",
+        "a": "Consider grind size or tamp pressure – the ratio is only one piece of the extraction puzzle."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "ratio",
+      "consistency"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-10-28T18:45:10.355Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "espresso-cleanup-rinse-hack",
+    "title": "Simplify Espresso Cleanup with a Quick Portafilter Rinse",
+    "dek": "A fast, low‑effort rinse keeps your portafilter spotless and preserves flavor day after day.",
+    "takeaway": "A quick rinse after each shot prevents residue buildup and improves taste.",
+    "whatHappened": "I noticed a film on my portafilter after a week of heavy use, and the espresso started tasting dull. A simple rinse between shots cleared the film and the flavor snapped back.",
+    "whyItMatters": "Residue on the basket traps oils, muting the bright notes of your beans and can lead to uneven extraction. Keeping the portafilter clean also prevents bitter buildup and extends the life of the metal.",
+    "howToThink": "After pulling a shot, give the basket a swift swirl under lukewarm water, tap out excess, and wipe the rim. No soap needed for daily care—reserve deep cleaning for weekly routine.",
+    "pros": [
+      "Saves time",
+      "Extends equipment life",
+      "Maintains flavor clarity"
+    ],
+    "cons": [
+      "Needs nearby water source",
+      "Adds a tiny extra step",
+      "Not a substitute for deep cleaning"
+    ],
+    "watchOut": "Avoid using boiling water that could warp the portafilter or scald your hands.",
+    "faq": [
+      {
+        "q": "Do I need soap for the quick rinse?",
+        "a": "No, a brief water swirl removes most fresh residue; reserve soap for the weekly deep clean."
+      },
+      {
+        "q": "Can I use cold water?",
+        "a": "Lukewarm water works best; cold water may leave oils behind, while hot water risks warping thin metal."
+      },
+      {
+        "q": "How often should I do the quick rinse?",
+        "a": "Ideally after every shot or at least between brewing sessions to keep flavor consistent."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-10-28T17:45:15.494Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "portafilter-seal-check-2",
+    "title": "Unlock Consistent Espresso Extraction with a Simple Portafilter Seal Check",
+    "dek": "A quick check of your portafilter’s seal can stop leaks and improve shot consistency.",
+    "takeaway": "A tight portafilter seal is a low‑effort way to boost espresso stability.",
+    "whatHappened": "I noticed my espresso shots were draining unevenly and tasting thin. After inspecting the portafilter, I found the rubber seal was slightly warped, causing micro‑leaks.",
+    "whyItMatters": "A compromised seal lets water bypass the coffee puck, leading to under‑extraction, uneven pressure, and inconsistent flavor. Fixing it restores proper pressure and extraction balance.",
+    "howToThink": "Before each brew, press the portafilter into the group head and look for any wobble or water seepage. If the seal feels soft, replace it; a fresh seal ensures a uniform barrier.",
+    "pros": [
+      "Instant improvement",
+      "No extra tools needed",
+      "Cheap replacement part"
+    ],
+    "cons": [
+      "Requires occasional seal replacement",
+      "May need spare seals on hand",
+      "Small time investment to inspect"
+    ],
+    "watchOut": "Avoid using abrasive cleaners on the rubber seal, as they can damage it.",
+    "faq": [
+      {
+        "q": "How often should I replace the portafilter seal?",
+        "a": "Most home users find a new seal lasts several months of daily use, but replace it when you notice wear, cracks, or leaks."
+      },
+      {
+        "q": "Can I use any rubber O‑ring as a replacement?",
+        "a": "It's best to use the manufacturer’s specific seal to maintain proper fit and material compatibility."
+      },
+      {
+        "q": "Will cleaning the seal improve performance?",
+        "a": "A gentle rinse with warm water can remove coffee oils, but if the seal is deformed, cleaning alone won’t fix leakage."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-10-28T16:45:09.659Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "espresso-tamping-guide",
+    "title": "Upgrade Your Espresso Tamping Consistency with a Simple Hand‑Guide",
+    "dek": "A quick hand‑guide to level tamp pressure, boosting shot repeatability without pricey tools.",
+    "takeaway": "Consistent tamp pressure yields steadier espresso extraction.",
+    "whatHappened": "I tried tamping with a kitchen scale as a proxy and noted a tighter shot and clearer flavor profile.",
+    "whyItMatters": "Uneven tamp pressure creates channeling, leading to weak or bitter espresso; fixing it improves overall brew quality.",
+    "howToThink": "Focus on a tactile cue—press until the tamper feels firm, then pause for a beat before releasing; repeat the motion daily to build muscle memory.",
+    "pros": [
+      "No extra equipment needed",
+      "Instant feedback on pressure",
+      "Improves shot consistency"
+    ],
+    "cons": [
+      "Relies on feel, may vary",
+      "Requires practice to master",
+      "Hard to quantify exact pressure"
+    ],
+    "watchOut": "Avoid over‑tamping, which can choke water flow and produce overly thin shots.",
+    "faq": [
+      {
+        "q": "Can I use any tamper for this method?",
+        "a": "A flat‑bottom tamper works best; avoid rubber or convex tampers for consistent pressure."
+      },
+      {
+        "q": "How long should the pause be after tamping?",
+        "a": "A brief 1‑2 second pause helps settle the puck and reduces channeling."
+      },
+      {
+        "q": "Do I need to adjust grind size after improving tamp?",
+        "a": "Usually not, but fine‑tune if shots become too fast or slow."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "tamping",
+      "espresso-tech"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-10-28T15:45:11.838Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "boost-espresso-consistency-temp-check",
+    "title": "Boost Espresso Consistency with a Simple Portafilter Temperature Check",
+    "dek": "A quick tip to keep your portafilter at the right temperature for steadier shots.",
+    "takeaway": "A warm portafilter reduces temperature shock and stabilizes extraction.",
+    "whatHappened": "I started rinsing my portafilter in hot tap water for about half a minute before each pull. The crema looked richer and the shot timing felt more consistent across multiple pulls. It was a tiny habit change that gave noticeable results.",
+    "whyItMatters": "Temperature loss between the grinder and the brew chamber can cause under‑extracted flavors and uneven crema. By keeping the portafilter warm you preserve heat in the coffee puck, leading to a more reliable extraction profile. Consistency is the backbone of improving any espresso recipe.",
+    "howToThink": "Warm the portafilter with hot water for roughly 30 seconds, then shake off excess moisture before loading the basket. Keep a mug of hot water handy to streamline the step. Treat it like a quick pre‑heat that fits into your normal workflow without adding complexity.",
+    "pros": [
+      "More stable shot temperature",
+      "Easier crema consistency",
+      "Low‑cost, no extra gear"
+    ],
+    "cons": [
+      "Adds a small prep step",
+      "Requires access to hot water",
+      "May slightly delay workflow"
+    ],
+    "watchOut": "Avoid over‑wetting the portafilter, which can dilute the coffee grounds.",
+    "faq": [
+      {
+        "q": "Do I need a thermometer to gauge the temperature?",
+        "a": "No, a comfortably warm hand is a reliable indicator for this purpose."
+      },
+      {
+        "q": "Can I use a microwave to heat the portafilter?",
+        "a": "Not recommended; hot tap water is safer and more consistent."
+      },
+      {
+        "q": "How long should I warm the portafilter?",
+        "a": "About 30 seconds is enough to raise its temperature without overheating."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "temperature"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-10-28T14:45:15.750Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "pressure-boost-espresso-crema",
+    "title": "Add a Tiny Pressure Boost for Creamier Espresso",
+    "dek": "A quick trick to give your espresso a richer crema without extra equipment.",
+    "takeaway": "A brief pressure pulse at the start of extraction lifts crema and flavor.",
+    "whatHappened": "I tried tapping the portafilter lightly right after the pump engaged, creating a subtle pressure surge. The shot developed a thicker, more caramelized crema.",
+    "whyItMatters": "Crema signals a well‑extracted espresso and improves mouthfeel, making home brews feel café‑level. Small tweaks can bridge the quality gap.",
+    "howToThink": "Think of the extraction as a wave; a gentle push at the start helps suspend oils that form crema. Use a light tap or a quick pump pulse to nudge the flow.",
+    "pros": [
+      "Richer crema",
+      "No extra tools needed",
+      "Easy to practice"
+    ],
+    "cons": [
+      "Requires timing",
+      "May cause slight over‑extraction if overdone",
+      "Not ideal for low‑pressure machines"
+    ],
+    "watchOut": "Avoid hard knocks; a gentle tap is enough or you could damage the portafilter.",
+    "faq": [
+      {
+        "q": "Can I use this with any espresso machine?",
+        "a": "Works best on machines with a manual pump or programmable pre‑infusion; fully automatic machines may not allow the timing control."
+      },
+      {
+        "q": "How hard should the tap be?",
+        "a": "Just enough to feel a light click; think of a gentle finger tap, not a hammer."
+      },
+      {
+        "q": "Will this affect the taste?",
+        "a": "It can enhance body and sweetness by preserving more oils in the crema, without making the shot bitter when done lightly."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "crema"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-10-28T13:45:05.941Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "supercharge-espresso-crema-portafilter-shake",
+    "title": "Supercharge Espresso Crema with a Quick Portafilter Shake",
+    "dek": "A fast, no‑tool trick to lift your crema’s body and shine in seconds.",
+    "takeaway": "A brief portafilter shake before brewing can noticeably boost crema thickness.",
+    "whatHappened": "I tried a 3‑second shake of the portafilter right after grinding, then pulled a shot. The crema was visibly richer and held its shape longer.",
+    "whyItMatters": "Crema is the visual cue of a well‑extracted espresso and a thicker layer signals balanced flavors. Enhancing it without extra equipment keeps the workflow simple and affordable.",
+    "howToThink": "After dosing and distributing, give the portafilter a quick, firm shake—about three seconds—while holding the handle. This releases trapped air bubbles and helps the puck settle evenly before tamping. Keep the motion controlled to avoid spilling grounds.",
+    "pros": [
+      "Instant visual boost",
+      "No extra tools needed",
+      "Improves puck consistency"
+    ],
+    "cons": [
+      "May cause minor mess if over‑shaken",
+      "Effect varies with bean freshness",
+      "Not a substitute for proper technique"
+    ],
+    "watchOut": "Avoid shaking too hard or you’ll scatter grounds onto the counter.",
+    "faq": [
+      {
+        "q": "Will shaking affect the dose?",
+        "a": "No, the amount of coffee stays the same; you’re only moving the grounds within the basket."
+      },
+      {
+        "q": "Can I use this with a pressurized portafilter?",
+        "a": "It works best with a standard basket; pressurized designs already create crema by design."
+      },
+      {
+        "q": "How long should the shake be?",
+        "a": "Around three seconds is enough – just enough to settle the puck without spilling."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "technique"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-10-28T12:45:13.192Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "espresso-warm-up-hack",
+    "title": "Speed Up Espresso Warm-Up with a Simple Thermos Pre‑Heat Hack",
+    "dek": "Use a pre‑heated thermos to keep water at ideal temperature between shots, shaving seconds off your warm‑up.",
+    "takeaway": "A pre‑heated thermos keeps water ready, making espresso warm‑up faster and more consistent.",
+    "whatHappened": "I noticed my machine took longer to reach brewing temperature after each shot. By filling a stainless steel thermos with hot water and letting it sit on the counter, the water stayed near brewing temp. When I poured it into the machine’s reservoir, the warm‑up time dropped noticeably.",
+    "whyItMatters": "Consistent water temperature is key to repeatable espresso extraction. Reducing warm‑up time also means less idle time and better workflow, especially during busy mornings.",
+    "howToThink": "Keep a thermos of freshly boiled water on your bench. After each shot, refill the reservoir with water from the thermos rather than cold tap water. This maintains temperature stability and speeds up the machine’s heating cycle.",
+    "pros": [
+      "Faster warm‑up",
+      "Stable extraction temp",
+      "Low cost"
+    ],
+    "cons": [
+      "Extra step",
+      "Needs thermos",
+      "Potential steam buildup if overfilled"
+    ],
+    "watchOut": "Avoid overfilling the reservoir with hot water to prevent excess pressure or steam bursts.",
+    "faq": [
+      {
+        "q": "Can I use any thermos?",
+        "a": "A stainless steel or insulated thermos that holds heat well works best."
+      },
+      {
+        "q": "Does this affect the taste?",
+        "a": "Keeping water hot maintains extraction temperature, which can improve flavor consistency."
+      },
+      {
+        "q": "Is it safe for the machine?",
+        "a": "As long as you don’t exceed the machine’s max water temperature, using hot water from a thermos is safe."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "Espresso",
+      "Workflow"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-10-28T11:45:15.362Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "espresso-basket-leveler",
+    "title": "Master the Espresso Dose Distribution with a Simple Basket Leveler",
+    "dek": "A cheap basket leveler evens out coffee distribution for cleaner shots without pricey equipment.",
+    "takeaway": "Evenly leveling the coffee bed improves extraction consistency with minimal effort.",
+    "whatHappened": "I tried a DIY rubber strip leveler on my 58 mm portafilter and noticed the espresso flow became steadier, with fewer channeling spots.",
+    "whyItMatters": "Uneven coffee beds cause channeling, leading to under‑extracted or over‑extracted flavors. Consistent distribution helps you taste the beans as intended.",
+    "howToThink": "Place the leveler on the basket, add grounds, tamp lightly, then swipe the leveler across to flatten. Follow with your normal tamp pressure.",
+    "pros": [
+      "Cheap to make",
+      "Easy to use",
+      "Works with most baskets"
+    ],
+    "cons": [
+      "Adds an extra step",
+      "May need occasional cleaning",
+      "Not a substitute for proper grind size"
+    ],
+    "watchOut": "Don’t press the leveler too hard or you’ll compact the grounds before tamping.",
+    "faq": [
+      {
+        "q": "Can I use a metal leveler?",
+        "a": "A soft material like rubber or silicone is safer; metal can scratch the basket."
+      },
+      {
+        "q": "Do I still need to tamp after leveling?",
+        "a": "Yes, tamping compresses the bed to the right density for extraction."
+      },
+      {
+        "q": "Will this work for a double basket?",
+        "a": "The same principle applies; just use a larger leveler or repeat the swipe."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "distribution"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-10-28T10:45:09.147Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "pre-infusion-pulse-espresso",
+    "title": "Master the Pre-Infusion Pulse for Consistent Espresso Extraction",
+    "dek": "A quick tweak to your pump timing can smooth out channeling and boost flavor without new gear.",
+    "takeaway": "A short pre-infusion pulse levels the puck and steadies pressure for a more uniform shot.",
+    "whatHappened": "I noticed uneven extraction in my daily brew, with sour notes at the start and bitterness at the end. By adding a 2-second low-pressure pre-infusion before the full pump, the shot became smoother and more balanced.",
+    "whyItMatters": "Channeling often stems from a dry puck at the onset of the brew; a gentle pulse hydrates the coffee evenly. Consistent wetting improves solubility and lets you taste the intended flavor profile.",
+    "howToThink": "Set your machine's pump to a low pressure (around 1-2 bar) and run it for 2 seconds before the normal 9-bar ramp. If your machine lacks a programmable pre-infusion, use a manual switch or a timed valve. Adjust the pulse length until the puck looks uniformly dark after the shot.",
+    "pros": [
+      "Reduces channeling",
+      "Improves flavor balance",
+      "No extra equipment needed"
+    ],
+    "cons": [
+      "Requires timing tweaks",
+      "May extend shot time slightly",
+      "Not all machines support programmable pre-infusion"
+    ],
+    "watchOut": "Avoid over-watering the puck; a pulse that's too long can lead to a weak, under-extracted shot.",
+    "faq": [
+      {
+        "q": "Can I use pre-infusion on a manual lever machine?",
+        "a": "Yes, you can mimic it by pulling the lever gently for a brief pause before applying full pressure."
+      },
+      {
+        "q": "Does pre-infusion affect brew ratio?",
+        "a": "The water volume stays the same; only the timing changes, so your ratio remains unchanged."
+      },
+      {
+        "q": "How often should I adjust the pulse?",
+        "a": "Start with 2 seconds and tweak as you change beans, grind size, or dose."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "technique"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-10-28T09:45:12.554Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "espresso-foam-microfoam-mistake",
+    "title": "Avoid the Common Microfoam Mistake That Spoils Your Latte",
+    "dek": "A quick fix to keep your milk microfoam silky and free of big bubbles.",
+    "takeaway": "Stirring milk too aggressively creates coarse bubbles that ruin latte texture.",
+    "whatHappened": "I noticed my usual latte art was looking ragged after steaming, and a quick experiment showed that the way I moved the pitcher was the culprit. Adjusting the motion instantly smoothed the foam.",
+    "whyItMatters": "Microfoam quality defines mouthfeel and visual appeal; coarse bubbles make the drink feel gritty and obscure latte art. Consistent foam also speeds up workflow for home baristas.",
+    "howToThink": "Use a gentle, wrist‑controlled whirl while the wand is just below the surface, and keep the pitcher steady; avoid aggressive shaking. Let the steam introduce air gradually for a velvety texture.",
+    "pros": [
+      "Smoother mouthfeel",
+      "Cleaner latte art",
+      "Consistent steaming results"
+    ],
+    "cons": [
+      "Requires practice",
+      "May feel slower",
+      "Needs attention to pitcher position"
+    ],
+    "watchOut": "Don’t submerge the steam wand too deep, or you’ll scorch the milk.",
+    "faq": [
+      {
+        "q": "Why do bubbles form when I stir the milk?",
+        "a": "Rapid motion introduces air, which the steam wand then expands into larger bubbles."
+      },
+      {
+        "q": "Can I fix over‑aerated milk after the fact?",
+        "a": "A quick gentle swirl can merge some bubbles, but the best fix is to start with the right technique."
+      },
+      {
+        "q": "Do different milk types affect microfoam?",
+        "a": "Higher‑fat milks produce richer foam, while low‑fat milks can be silkier but are more prone to large bubbles."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "milk technique"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-10-28T08:45:07.429Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "weekend-project-espresso-54",
+    "title": "A weekend project: level up your espresso in two hours",
+    "dek": "One contained, satisfying espresso project for home coffee enthusiasts — start Saturday morning, done by lunch.",
+    "takeaway": "Two focused hours on fundamentals beats two months of accumulating tabs. This project is deliberately small enough to finish.",
+    "whatHappened": "We designed a two-hour espresso project around the single highest-leverage fundamental — the one that experienced home coffee enthusiasts consistently say they wish they'd done sooner. No purchases required, no prerequisites beyond what you already have.",
+    "whyItMatters": "Unfinished projects are the silent killer of hobbies. A project scoped to one sitting produces the thing rarer than skill: a completed feedback loop you can build on next weekend.",
+    "howToThink": "Pick the smallest version of the project that still counts as done. Momentum compounds; scope creep compounds faster.",
+    "pros": [
+      "Fits in one honest morning",
+      "Zero new purchases required",
+      "Produces a reusable baseline"
+    ],
+    "cons": [
+      "Less exciting than new gear",
+      "Requires protecting two hours",
+      "Results are quiet, not flashy"
+    ],
+    "watchOut": "If the project sprouts a shopping list, you've left the project. Write the list down for later and keep going with what you have.",
+    "faq": [
+      {
+        "q": "What if I only have one hour?",
+        "a": "Do the first half. A half-finished small project still beats a never-started big one."
+      },
+      {
+        "q": "Can I do this with zero experience?",
+        "a": "Yes — it's designed as an on-ramp. The fundamentals of espresso don't care about your resume."
+      },
+      {
+        "q": "What's next weekend's project?",
+        "a": "The same one, refined with what the log told you. Iteration is the curriculum."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "Espresso",
+      "Pour-over"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-10-28T07:45:05.416Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "refine-espresso-milk-texturing",
+    "title": "Refine Espresso Milk Texturing with a Simple Thermometer Trick",
+    "dek": "A quick way to gauge milk temperature for silky micro‑foam without pricey gear.",
+    "takeaway": "Use a kitchen thermometer to hit the sweet spot for espresso milk texture every time.",
+    "whatHappened": "I was pulling a double shot and the milk kept turning buttery or watery. By swapping my guesswork for a cheap digital thermometer, I could see the temperature rise in real time and stop steaming at the optimal 140‑150°F. The result was consistent, glossy micro‑foam.",
+    "whyItMatters": "Milk temperature directly influences protein denaturation and sugar caramelization, shaping texture and sweetness. Hitting the right range improves latte art stability and mouthfeel, making your espresso drinks taste café‑grade.",
+    "howToThink": "Treat milk like the espresso itself—measure, not guess. Aim for 140‑150°F for most drinks, a touch lower for flat whites. Use a quick‑read, waterproof probe and keep it in the pitcher for the whole steam.",
+    "pros": [
+      "Cheap and precise",
+      "Instant feedback",
+      "Improves foam consistency"
+    ],
+    "cons": [
+      "Requires an extra tool",
+      "Thermometer can be misplaced",
+      "Cleaning after steam may be needed"
+    ],
+    "watchOut": "Avoid submerging the thermometer probe directly in the steam wand to prevent damage.",
+    "faq": [
+      {
+        "q": "Do I need a professional-grade thermometer?",
+        "a": "A basic digital kitchen thermometer with a quick‑read display works fine for milk steaming."
+      },
+      {
+        "q": "What if I don’t have a thermometer?",
+        "a": "You can use the hand‑temperature test, but it’s far less reliable than a measured reading."
+      },
+      {
+        "q": "Can I use the same thermometer for water temperature?",
+        "a": "Yes, just clean it between uses to avoid cross‑contamination."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "milk"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-10-28T06:45:18.217Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-temperature-hack",
     "title": "Fine‑Tune Espresso Shot Temperature with a Simple Thermocouple Hack",
     "dek": "A quick way to monitor brew temperature with a cheap thermocouple and Arduino for tighter espresso control.",

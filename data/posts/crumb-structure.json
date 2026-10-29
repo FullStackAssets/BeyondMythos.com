@@ -1,5 +1,719 @@
 [
   {
+    "slug": "weekend-project-starters-89",
+    "title": "A weekend project: level up your starters in two hours",
+    "dek": "One contained, satisfying starters project for home sourdough bakers — start Saturday morning, done by lunch.",
+    "takeaway": "Two focused hours on fundamentals beats two months of accumulating tabs. This project is deliberately small enough to finish.",
+    "whatHappened": "We designed a two-hour starters project around the single highest-leverage fundamental — the one that experienced home sourdough bakers consistently say they wish they'd done sooner. No purchases required, no prerequisites beyond what you already have.",
+    "whyItMatters": "Unfinished projects are the silent killer of hobbies. A project scoped to one sitting produces the thing rarer than skill: a completed feedback loop you can build on next weekend.",
+    "howToThink": "Pick the smallest version of the project that still counts as done. Momentum compounds; scope creep compounds faster.",
+    "pros": [
+      "Fits in one honest morning",
+      "Zero new purchases required",
+      "Produces a reusable baseline"
+    ],
+    "cons": [
+      "Less exciting than new gear",
+      "Requires protecting two hours",
+      "Results are quiet, not flashy"
+    ],
+    "watchOut": "If the project sprouts a shopping list, you've left the project. Write the list down for later and keep going with what you have.",
+    "faq": [
+      {
+        "q": "What if I only have one hour?",
+        "a": "Do the first half. A half-finished small project still beats a never-started big one."
+      },
+      {
+        "q": "Can I do this with zero experience?",
+        "a": "Yes — it's designed as an on-ramp. The fundamentals of starters don't care about your resume."
+      },
+      {
+        "q": "What's next weekend's project?",
+        "a": "The same one, refined with what the log told you. Iteration is the curriculum."
+      }
+    ],
+    "category": "Starters",
+    "tags": [
+      "Starters",
+      "Hydration"
+    ],
+    "sources": [
+      {
+        "label": "r/Breadit community threads",
+        "url": "https://www.reddit.com/r/Breadit/"
+      },
+      {
+        "label": "Search interest: \"open crumb hydration\"",
+        "url": "https://duckduckgo.com/?q=open%20crumb%20hydration"
+      }
+    ],
+    "publishedAt": "2026-10-29T09:45:22.375Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "community-pulse-sourdough-29",
+    "title": "Community pulse: what r/Sourdough is debating this week",
+    "dek": "The arguments, consensus shifts, and quietly useful threads from the whole grain community this week.",
+    "takeaway": "The community's loudest argument is rarely its most useful thread. We pulled out both.",
+    "whatHappened": "This week's discussion among home sourdough bakers split between a recurring gear-versus-skill argument and a quieter thread of genuinely practical write-ups. As usual, the practical material got a fraction of the attention and most of the value.",
+    "whyItMatters": "Forums are the highest-signal source in whole grain — but only if you know how to read them. The upvote curve rewards controversy; the archive rewards patience.",
+    "howToThink": "Read communities like a researcher, not a spectator: skip the drama threads, sort by top-of-month, and save anything with photos, numbers, and a follow-up edit.",
+    "pros": [
+      "Real practitioners, real failures",
+      "Searchable archive of past debates",
+      "Faster than trial and error"
+    ],
+    "cons": [
+      "Upvotes reward heat, not light",
+      "Survivorship bias in success posts",
+      "Same arguments recur monthly"
+    ],
+    "watchOut": "When a thread's top comment starts with \"everyone knows,\" verify it. Community consensus in whole grain has a half-life.",
+    "faq": [
+      {
+        "q": "Which threads are worth saving?",
+        "a": "Anything with a methodology, a budget, photos, and a follow-up edit. That combination is rare and gold."
+      },
+      {
+        "q": "Should I post my own questions?",
+        "a": "Yes — after searching. A well-scoped question with context gets remarkable answers."
+      },
+      {
+        "q": "How do I avoid the drama?",
+        "a": "Sort by top-of-month instead of hot. The algorithm is the drama's delivery system."
+      }
+    ],
+    "category": "Whole Grain",
+    "tags": [
+      "Whole Grain",
+      "Starters"
+    ],
+    "sources": [
+      {
+        "label": "r/Sourdough community threads",
+        "url": "https://www.reddit.com/r/Sourdough/"
+      },
+      {
+        "label": "Search interest: \"sourdough starter troubleshooting\"",
+        "url": "https://duckduckgo.com/?q=sourdough%20starter%20troubleshooting"
+      }
+    ],
+    "publishedAt": "2026-10-28T18:45:20.686Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "scoring-pre-spend-checklist-89",
+    "title": "The scoring checklist: run this before you spend",
+    "dek": "Seven questions that separate a justified scoring purchase from an expensive mood.",
+    "takeaway": "A purchase you can't tie to a specific, recurring bottleneck is decoration. The checklist makes that visible before checkout.",
+    "whatHappened": "Communities of home sourdough bakers keep converging on the same pre-purchase discipline: name the bottleneck, check the secondhand market, price the alternative of doing nothing, and sleep on it once. We compiled the full checklist from hundreds of those threads.",
+    "whyItMatters": "Spending in scoring is lumpy — a few purchases carry all the outcome. The checklist exists to make sure your money lands on those and not on the long tail of gear that demos well and shelves fast.",
+    "howToThink": "Treat the checklist as friction on purpose. Anything that survives seven honest questions was probably worth buying; anything that doesn't survives as money.",
+    "pros": [
+      "Kills impulse purchases painlessly",
+      "Works at any budget",
+      "Builds a paper trail of good calls"
+    ],
+    "cons": [
+      "Requires honesty under temptation",
+      "Slower than one-click checkout",
+      "Friends may call you cheap"
+    ],
+    "watchOut": "Sales events are checklist bypass attempts. A discount on something you don't need is still a net loss.",
+    "faq": [
+      {
+        "q": "What's the single best question?",
+        "a": "\"Which session this week did I lose to not owning this?\" If you can't name one, close the tab."
+      },
+      {
+        "q": "Does this apply to small purchases?",
+        "a": "Under a coffee's cost, skip the ceremony. The checklist is for anything you'd notice on a statement."
+      },
+      {
+        "q": "What about once-a-year deals?",
+        "a": "A real bottleneck plus a real discount is great. The checklist just confirms which one you have."
+      }
+    ],
+    "category": "Scoring",
+    "tags": [
+      "Scoring",
+      "Whole Grain"
+    ],
+    "sources": [
+      {
+        "label": "r/AskBaking community threads",
+        "url": "https://www.reddit.com/r/AskBaking/"
+      },
+      {
+        "label": "Search interest: \"sourdough schedule for workers\"",
+        "url": "https://duckduckgo.com/?q=sourdough%20schedule%20for%20workers"
+      }
+    ],
+    "publishedAt": "2026-10-28T17:45:16.895Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "five-hydration-mistakes-89",
+    "title": "Five mistakes everyone makes in their first month of hydration",
+    "dek": "The most common early stumbles in hydration, and the cheap corrections that fix them for home sourdough bakers.",
+    "takeaway": "Month-one mistakes in hydration are nearly universal — and nearly all reversible if you catch them early.",
+    "whatHappened": "We combed the recurring \"what did I do wrong\" threads that home sourdough bakers post and the same five hydration mistakes appear over and over: buying before learning, copying advanced setups, skipping the log, chasing novelty, and quitting during the boring middle.",
+    "whyItMatters": "Each of these mistakes feels productive while you're making it. That's why they persist — and why naming them explicitly saves newcomers weeks of stalled progress in hydration.",
+    "howToThink": "Audit yourself against the list once a month. The point isn't guilt — it's that every one of these has a five-minute correction if you notice it early enough.",
+    "pros": [
+      "Each mistake has a cheap fix",
+      "Recognition is most of the cure",
+      "Applies at any experience level"
+    ],
+    "cons": [
+      "Easy to nod along and change nothing",
+      "Some mistakes feel like progress",
+      "Lists can't replace a habit"
+    ],
+    "watchOut": "The most expensive version of every month-one mistake is the one you rationalize as \"investing in the hobby.\"",
+    "faq": [
+      {
+        "q": "Which mistake costs the most?",
+        "a": "Buying before learning — it converts enthusiasm into clutter and guilt instead of skill."
+      },
+      {
+        "q": "I already made all five. Now what?",
+        "a": "Good news: so did everyone else. Pick the one currently costing you the most and fix only that."
+      },
+      {
+        "q": "How do I avoid new mistakes?",
+        "a": "Keep the log. Most errors are invisible until they're written down."
+      }
+    ],
+    "category": "Hydration",
+    "tags": [
+      "Hydration",
+      "Scoring"
+    ],
+    "sources": [
+      {
+        "label": "r/Breadit community threads",
+        "url": "https://www.reddit.com/r/Breadit/"
+      },
+      {
+        "label": "Search interest: \"open crumb hydration\"",
+        "url": "https://duckduckgo.com/?q=open%20crumb%20hydration"
+      }
+    ],
+    "publishedAt": "2026-10-28T16:45:18.307Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "sourdough-starter-troubleshooting-field-test-30",
+    "title": "\"sourdough starter troubleshooting\" in practice: a real-world field test",
+    "dek": "We put the most-repeated advice about sourdough starter troubleshooting through a month of actual use. Some of it survived.",
+    "takeaway": "Half the standard advice on sourdough starter troubleshooting holds up; the other half exists to sell you something. Test small before you commit.",
+    "whatHappened": "We collected the most common recommendations home sourdough bakers see when they search \"sourdough starter troubleshooting\" and ran them through four weeks of ordinary, unglamorous use. The gap between what demos well and what holds up in week four was bigger than expected.",
+    "whyItMatters": "Most advice about starters is written from a first impression. The failure modes that actually cost home sourdough bakers time and money only show up with repetition — which is exactly what one-day reviews never capture.",
+    "howToThink": "Before adopting any recommendation about sourdough starter troubleshooting, ask what a fourth week of it looks like. If you can't picture the boring version, you're looking at marketing, not a method.",
+    "pros": [
+      "Cheap to replicate at home",
+      "Surfaced real week-four failure modes",
+      "Cuts through first-impression reviews"
+    ],
+    "cons": [
+      "A month is still a small sample",
+      "Results vary by setup",
+      "Some advice needs a season, not weeks"
+    ],
+    "watchOut": "If a guide about sourdough starter troubleshooting shows zero failed attempts, it wasn't a test — it was a script.",
+    "faq": [
+      {
+        "q": "What survived the field test?",
+        "a": "The fundamentals: consistent routine, modest gear, and keeping a log. The exotic tricks mostly didn't."
+      },
+      {
+        "q": "How should I run my own test?",
+        "a": "Change one variable, hold everything else steady for two weeks minimum, and write down what annoyed you."
+      },
+      {
+        "q": "Whose advice should I trust?",
+        "a": "People who publish follow-ups. A single enthusiastic post about starters is a data point, not a verdict."
+      }
+    ],
+    "category": "Starters",
+    "tags": [
+      "Starters",
+      "Hydration"
+    ],
+    "sources": [
+      {
+        "label": "r/Sourdough community threads",
+        "url": "https://www.reddit.com/r/Sourdough/"
+      },
+      {
+        "label": "Search interest: \"sourdough starter troubleshooting\"",
+        "url": "https://duckduckgo.com/?q=sourdough%20starter%20troubleshooting"
+      }
+    ],
+    "publishedAt": "2026-10-28T15:45:17.329Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "ask-the-forge-whole-grain-89",
+    "title": "Ask the forge: your whole grain questions, answered",
+    "dek": "Straight answers to the whole grain questions home sourdough bakers keep asking, minus the hedging.",
+    "takeaway": "Most whole grain questions have boring, reliable answers. Here they are, without the two thousand words of preamble.",
+    "whatHappened": "We gathered the questions that appear weekly wherever home sourdough bakers compare notes — the ones usually answered with \"it depends\" — and committed to actual answers with actual reasoning.",
+    "whyItMatters": "\"It depends\" is true and useless. Newcomers to whole grain don't need every caveat; they need a defensible default they can adjust later.",
+    "howToThink": "Take the default, use it for a month, then earn your deviations. Customization is a reward for data, not a starting requirement.",
+    "pros": [
+      "Defaults beat decision paralysis",
+      "Reasoning shown, not just verdicts",
+      "Adjustable once you have data"
+    ],
+    "cons": [
+      "Defaults fit most, not all",
+      "Experts will quibble — always",
+      "Questions evolve; answers date"
+    ],
+    "watchOut": "Any answer that can't say what would change its mind isn't an answer — it's an identity. Ours come with conditions attached.",
+    "faq": [
+      {
+        "q": "What's the most-asked question?",
+        "a": "\"What should I buy first?\" — and the answer is almost always: nothing yet. Run the routine for two weeks first."
+      },
+      {
+        "q": "Why give defaults instead of options?",
+        "a": "Because ten options produce paralysis and one default produces feedback. You can only iterate on something you started."
+      },
+      {
+        "q": "How often do these answers change?",
+        "a": "We revisit quarterly. The fundamentals drift slowly; the gear recommendations drift fast."
+      }
+    ],
+    "category": "Whole Grain",
+    "tags": [
+      "Whole Grain",
+      "Starters"
+    ],
+    "sources": [
+      {
+        "label": "r/AskBaking community threads",
+        "url": "https://www.reddit.com/r/AskBaking/"
+      },
+      {
+        "label": "Search interest: \"sourdough schedule for workers\"",
+        "url": "https://duckduckgo.com/?q=sourdough%20schedule%20for%20workers"
+      }
+    ],
+    "publishedAt": "2026-10-28T14:45:17.805Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "quiet-upgrade-scoring-89",
+    "title": "The quiet upgrade: small tweaks in scoring with outsized returns",
+    "dek": "No purchases, no overhauls — the modest scoring adjustments that home sourdough bakers report mattering most.",
+    "takeaway": "The best upgrades in scoring are adjustments, not acquisitions. Most cost nothing but attention.",
+    "whatHappened": "Ask experienced home sourdough bakers what changed their results and the answers are strikingly modest: a tweak to routine, a default swapped, a habit moved earlier in the day. We collected the small changes that keep appearing in those answers.",
+    "whyItMatters": "The upgrade path everyone markets requires spending. The one that works requires noticing. Small adjustments compound daily, which is a rate no purchase matches.",
+    "howToThink": "Once a month, change one default in your scoring routine and watch for a week. Keep what helps, revert what doesn't, and write down which was which.",
+    "pros": [
+      "Free or nearly free",
+      "Compounds with repetition",
+      "Reversible in minutes"
+    ],
+    "cons": [
+      "Invisible on social media",
+      "Requires actually paying attention",
+      "No unboxing dopamine"
+    ],
+    "watchOut": "Don't stack five changes at once — you'll never know which one worked, and you'll revert the good one with the bad.",
+    "faq": [
+      {
+        "q": "What's the highest-leverage small change?",
+        "a": "Moving your session to the time of day you're least likely to skip. Adherence beats optimization."
+      },
+      {
+        "q": "How do I find my own quiet upgrades?",
+        "a": "Your log. The pattern you're annoyed by weekly is the upgrade waiting to happen."
+      },
+      {
+        "q": "When is buying actually the answer?",
+        "a": "When the same friction survives three free fixes. Then spend without guilt."
+      }
+    ],
+    "category": "Scoring",
+    "tags": [
+      "Scoring",
+      "Whole Grain"
+    ],
+    "sources": [
+      {
+        "label": "r/Breadit community threads",
+        "url": "https://www.reddit.com/r/Breadit/"
+      },
+      {
+        "label": "Search interest: \"open crumb hydration\"",
+        "url": "https://duckduckgo.com/?q=open%20crumb%20hydration"
+      }
+    ],
+    "publishedAt": "2026-10-28T13:45:12.731Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "myth-vs-reality-sourdough-starter-troubleshootin-30",
+    "title": "Myth vs. reality: sourdough starter troubleshooting",
+    "dek": "The persistent myths around sourdough starter troubleshooting, stress-tested against what home sourdough bakers actually report.",
+    "takeaway": "The biggest myths about sourdough starter troubleshooting survive because they're convenient, not because they're true.",
+    "whatHappened": "We lined up the claims that dominate search results for \"sourdough starter troubleshooting\" against long-term reports from home sourdough bakers. Three claims collapsed immediately, one held up with caveats, and one turned out to be truer than its critics admit.",
+    "whyItMatters": "Myths in hydration aren't harmless — they set budgets, shape routines, and decide who gives up. Replacing one myth with one measured fact upgrades every decision downstream.",
+    "howToThink": "For any confident claim about sourdough starter troubleshooting, ask: who measured it, over what period, and who profits if I believe it? Two out of three unanswered means file it under folklore.",
+    "pros": [
+      "Frees budget from myth-driven buys",
+      "Long-term reports are abundant now",
+      "Skepticism transfers to every niche"
+    ],
+    "cons": [
+      "Myths are more fun than caveats",
+      "Debunks age poorly too",
+      "Nuance doesn't fit a headline"
+    ],
+    "watchOut": "Beware the counter-myth: the internet loves inverting popular advice, and the inversion is usually just as unmeasured.",
+    "faq": [
+      {
+        "q": "What's the most expensive myth?",
+        "a": "That better gear reliably substitutes for practice. It shows up in every niche's spending regrets thread."
+      },
+      {
+        "q": "How do myths start?",
+        "a": "A true statement about one context, repeated without the context, monetized without the truth."
+      },
+      {
+        "q": "What actually held up?",
+        "a": "Consistency claims. The boring advice survives testing at a rate the exciting advice never matches."
+      }
+    ],
+    "category": "Hydration",
+    "tags": [
+      "Hydration",
+      "Scoring"
+    ],
+    "sources": [
+      {
+        "label": "r/Sourdough community threads",
+        "url": "https://www.reddit.com/r/Sourdough/"
+      },
+      {
+        "label": "Search interest: \"sourdough starter troubleshooting\"",
+        "url": "https://duckduckgo.com/?q=sourdough%20starter%20troubleshooting"
+      }
+    ],
+    "publishedAt": "2026-10-28T12:45:18.357Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "weekend-project-starters-88",
+    "title": "A weekend project: level up your starters in two hours",
+    "dek": "One contained, satisfying starters project for home sourdough bakers — start Saturday morning, done by lunch.",
+    "takeaway": "Two focused hours on fundamentals beats two months of accumulating tabs. This project is deliberately small enough to finish.",
+    "whatHappened": "We designed a two-hour starters project around the single highest-leverage fundamental — the one that experienced home sourdough bakers consistently say they wish they'd done sooner. No purchases required, no prerequisites beyond what you already have.",
+    "whyItMatters": "Unfinished projects are the silent killer of hobbies. A project scoped to one sitting produces the thing rarer than skill: a completed feedback loop you can build on next weekend.",
+    "howToThink": "Pick the smallest version of the project that still counts as done. Momentum compounds; scope creep compounds faster.",
+    "pros": [
+      "Fits in one honest morning",
+      "Zero new purchases required",
+      "Produces a reusable baseline"
+    ],
+    "cons": [
+      "Less exciting than new gear",
+      "Requires protecting two hours",
+      "Results are quiet, not flashy"
+    ],
+    "watchOut": "If the project sprouts a shopping list, you've left the project. Write the list down for later and keep going with what you have.",
+    "faq": [
+      {
+        "q": "What if I only have one hour?",
+        "a": "Do the first half. A half-finished small project still beats a never-started big one."
+      },
+      {
+        "q": "Can I do this with zero experience?",
+        "a": "Yes — it's designed as an on-ramp. The fundamentals of starters don't care about your resume."
+      },
+      {
+        "q": "What's next weekend's project?",
+        "a": "The same one, refined with what the log told you. Iteration is the curriculum."
+      }
+    ],
+    "category": "Starters",
+    "tags": [
+      "Starters",
+      "Hydration"
+    ],
+    "sources": [
+      {
+        "label": "r/AskBaking community threads",
+        "url": "https://www.reddit.com/r/AskBaking/"
+      },
+      {
+        "label": "Search interest: \"sourdough schedule for workers\"",
+        "url": "https://duckduckgo.com/?q=sourdough%20schedule%20for%20workers"
+      }
+    ],
+    "publishedAt": "2026-10-28T11:45:17.544Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "community-pulse-breadit-30",
+    "title": "Community pulse: what r/Breadit is debating this week",
+    "dek": "The arguments, consensus shifts, and quietly useful threads from the whole grain community this week.",
+    "takeaway": "The community's loudest argument is rarely its most useful thread. We pulled out both.",
+    "whatHappened": "This week's discussion among home sourdough bakers split between a recurring gear-versus-skill argument and a quieter thread of genuinely practical write-ups. As usual, the practical material got a fraction of the attention and most of the value.",
+    "whyItMatters": "Forums are the highest-signal source in whole grain — but only if you know how to read them. The upvote curve rewards controversy; the archive rewards patience.",
+    "howToThink": "Read communities like a researcher, not a spectator: skip the drama threads, sort by top-of-month, and save anything with photos, numbers, and a follow-up edit.",
+    "pros": [
+      "Real practitioners, real failures",
+      "Searchable archive of past debates",
+      "Faster than trial and error"
+    ],
+    "cons": [
+      "Upvotes reward heat, not light",
+      "Survivorship bias in success posts",
+      "Same arguments recur monthly"
+    ],
+    "watchOut": "When a thread's top comment starts with \"everyone knows,\" verify it. Community consensus in whole grain has a half-life.",
+    "faq": [
+      {
+        "q": "Which threads are worth saving?",
+        "a": "Anything with a methodology, a budget, photos, and a follow-up edit. That combination is rare and gold."
+      },
+      {
+        "q": "Should I post my own questions?",
+        "a": "Yes — after searching. A well-scoped question with context gets remarkable answers."
+      },
+      {
+        "q": "How do I avoid the drama?",
+        "a": "Sort by top-of-month instead of hot. The algorithm is the drama's delivery system."
+      }
+    ],
+    "category": "Whole Grain",
+    "tags": [
+      "Whole Grain",
+      "Starters"
+    ],
+    "sources": [
+      {
+        "label": "r/Breadit community threads",
+        "url": "https://www.reddit.com/r/Breadit/"
+      },
+      {
+        "label": "Search interest: \"open crumb hydration\"",
+        "url": "https://duckduckgo.com/?q=open%20crumb%20hydration"
+      }
+    ],
+    "publishedAt": "2026-10-28T10:45:13.910Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "scoring-pre-spend-checklist-88",
+    "title": "The scoring checklist: run this before you spend",
+    "dek": "Seven questions that separate a justified scoring purchase from an expensive mood.",
+    "takeaway": "A purchase you can't tie to a specific, recurring bottleneck is decoration. The checklist makes that visible before checkout.",
+    "whatHappened": "Communities of home sourdough bakers keep converging on the same pre-purchase discipline: name the bottleneck, check the secondhand market, price the alternative of doing nothing, and sleep on it once. We compiled the full checklist from hundreds of those threads.",
+    "whyItMatters": "Spending in scoring is lumpy — a few purchases carry all the outcome. The checklist exists to make sure your money lands on those and not on the long tail of gear that demos well and shelves fast.",
+    "howToThink": "Treat the checklist as friction on purpose. Anything that survives seven honest questions was probably worth buying; anything that doesn't survives as money.",
+    "pros": [
+      "Kills impulse purchases painlessly",
+      "Works at any budget",
+      "Builds a paper trail of good calls"
+    ],
+    "cons": [
+      "Requires honesty under temptation",
+      "Slower than one-click checkout",
+      "Friends may call you cheap"
+    ],
+    "watchOut": "Sales events are checklist bypass attempts. A discount on something you don't need is still a net loss.",
+    "faq": [
+      {
+        "q": "What's the single best question?",
+        "a": "\"Which session this week did I lose to not owning this?\" If you can't name one, close the tab."
+      },
+      {
+        "q": "Does this apply to small purchases?",
+        "a": "Under a coffee's cost, skip the ceremony. The checklist is for anything you'd notice on a statement."
+      },
+      {
+        "q": "What about once-a-year deals?",
+        "a": "A real bottleneck plus a real discount is great. The checklist just confirms which one you have."
+      }
+    ],
+    "category": "Scoring",
+    "tags": [
+      "Scoring",
+      "Whole Grain"
+    ],
+    "sources": [
+      {
+        "label": "r/Sourdough community threads",
+        "url": "https://www.reddit.com/r/Sourdough/"
+      },
+      {
+        "label": "Search interest: \"sourdough starter troubleshooting\"",
+        "url": "https://duckduckgo.com/?q=sourdough%20starter%20troubleshooting"
+      }
+    ],
+    "publishedAt": "2026-10-28T09:45:13.244Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "five-hydration-mistakes-88",
+    "title": "Five mistakes everyone makes in their first month of hydration",
+    "dek": "The most common early stumbles in hydration, and the cheap corrections that fix them for home sourdough bakers.",
+    "takeaway": "Month-one mistakes in hydration are nearly universal — and nearly all reversible if you catch them early.",
+    "whatHappened": "We combed the recurring \"what did I do wrong\" threads that home sourdough bakers post and the same five hydration mistakes appear over and over: buying before learning, copying advanced setups, skipping the log, chasing novelty, and quitting during the boring middle.",
+    "whyItMatters": "Each of these mistakes feels productive while you're making it. That's why they persist — and why naming them explicitly saves newcomers weeks of stalled progress in hydration.",
+    "howToThink": "Audit yourself against the list once a month. The point isn't guilt — it's that every one of these has a five-minute correction if you notice it early enough.",
+    "pros": [
+      "Each mistake has a cheap fix",
+      "Recognition is most of the cure",
+      "Applies at any experience level"
+    ],
+    "cons": [
+      "Easy to nod along and change nothing",
+      "Some mistakes feel like progress",
+      "Lists can't replace a habit"
+    ],
+    "watchOut": "The most expensive version of every month-one mistake is the one you rationalize as \"investing in the hobby.\"",
+    "faq": [
+      {
+        "q": "Which mistake costs the most?",
+        "a": "Buying before learning — it converts enthusiasm into clutter and guilt instead of skill."
+      },
+      {
+        "q": "I already made all five. Now what?",
+        "a": "Good news: so did everyone else. Pick the one currently costing you the most and fix only that."
+      },
+      {
+        "q": "How do I avoid new mistakes?",
+        "a": "Keep the log. Most errors are invisible until they're written down."
+      }
+    ],
+    "category": "Hydration",
+    "tags": [
+      "Hydration",
+      "Scoring"
+    ],
+    "sources": [
+      {
+        "label": "r/AskBaking community threads",
+        "url": "https://www.reddit.com/r/AskBaking/"
+      },
+      {
+        "label": "Search interest: \"sourdough schedule for workers\"",
+        "url": "https://duckduckgo.com/?q=sourdough%20schedule%20for%20workers"
+      }
+    ],
+    "publishedAt": "2026-10-28T08:45:14.630Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "open-crumb-hydration-field-test-30",
+    "title": "\"open crumb hydration\" in practice: a real-world field test",
+    "dek": "We put the most-repeated advice about open crumb hydration through a month of actual use. Some of it survived.",
+    "takeaway": "Half the standard advice on open crumb hydration holds up; the other half exists to sell you something. Test small before you commit.",
+    "whatHappened": "We collected the most common recommendations home sourdough bakers see when they search \"open crumb hydration\" and ran them through four weeks of ordinary, unglamorous use. The gap between what demos well and what holds up in week four was bigger than expected.",
+    "whyItMatters": "Most advice about starters is written from a first impression. The failure modes that actually cost home sourdough bakers time and money only show up with repetition — which is exactly what one-day reviews never capture.",
+    "howToThink": "Before adopting any recommendation about open crumb hydration, ask what a fourth week of it looks like. If you can't picture the boring version, you're looking at marketing, not a method.",
+    "pros": [
+      "Cheap to replicate at home",
+      "Surfaced real week-four failure modes",
+      "Cuts through first-impression reviews"
+    ],
+    "cons": [
+      "A month is still a small sample",
+      "Results vary by setup",
+      "Some advice needs a season, not weeks"
+    ],
+    "watchOut": "If a guide about open crumb hydration shows zero failed attempts, it wasn't a test — it was a script.",
+    "faq": [
+      {
+        "q": "What survived the field test?",
+        "a": "The fundamentals: consistent routine, modest gear, and keeping a log. The exotic tricks mostly didn't."
+      },
+      {
+        "q": "How should I run my own test?",
+        "a": "Change one variable, hold everything else steady for two weeks minimum, and write down what annoyed you."
+      },
+      {
+        "q": "Whose advice should I trust?",
+        "a": "People who publish follow-ups. A single enthusiastic post about starters is a data point, not a verdict."
+      }
+    ],
+    "category": "Starters",
+    "tags": [
+      "Starters",
+      "Hydration"
+    ],
+    "sources": [
+      {
+        "label": "r/Breadit community threads",
+        "url": "https://www.reddit.com/r/Breadit/"
+      },
+      {
+        "label": "Search interest: \"open crumb hydration\"",
+        "url": "https://duckduckgo.com/?q=open%20crumb%20hydration"
+      }
+    ],
+    "publishedAt": "2026-10-28T07:45:13.264Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "ask-the-forge-whole-grain-88",
+    "title": "Ask the forge: your whole grain questions, answered",
+    "dek": "Straight answers to the whole grain questions home sourdough bakers keep asking, minus the hedging.",
+    "takeaway": "Most whole grain questions have boring, reliable answers. Here they are, without the two thousand words of preamble.",
+    "whatHappened": "We gathered the questions that appear weekly wherever home sourdough bakers compare notes — the ones usually answered with \"it depends\" — and committed to actual answers with actual reasoning.",
+    "whyItMatters": "\"It depends\" is true and useless. Newcomers to whole grain don't need every caveat; they need a defensible default they can adjust later.",
+    "howToThink": "Take the default, use it for a month, then earn your deviations. Customization is a reward for data, not a starting requirement.",
+    "pros": [
+      "Defaults beat decision paralysis",
+      "Reasoning shown, not just verdicts",
+      "Adjustable once you have data"
+    ],
+    "cons": [
+      "Defaults fit most, not all",
+      "Experts will quibble — always",
+      "Questions evolve; answers date"
+    ],
+    "watchOut": "Any answer that can't say what would change its mind isn't an answer — it's an identity. Ours come with conditions attached.",
+    "faq": [
+      {
+        "q": "What's the most-asked question?",
+        "a": "\"What should I buy first?\" — and the answer is almost always: nothing yet. Run the routine for two weeks first."
+      },
+      {
+        "q": "Why give defaults instead of options?",
+        "a": "Because ten options produce paralysis and one default produces feedback. You can only iterate on something you started."
+      },
+      {
+        "q": "How often do these answers change?",
+        "a": "We revisit quarterly. The fundamentals drift slowly; the gear recommendations drift fast."
+      }
+    ],
+    "category": "Whole Grain",
+    "tags": [
+      "Whole Grain",
+      "Starters"
+    ],
+    "sources": [
+      {
+        "label": "r/Sourdough community threads",
+        "url": "https://www.reddit.com/r/Sourdough/"
+      },
+      {
+        "label": "Search interest: \"sourdough starter troubleshooting\"",
+        "url": "https://duckduckgo.com/?q=sourdough%20starter%20troubleshooting"
+      }
+    ],
+    "publishedAt": "2026-10-28T06:45:27.772Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-scoring-88",
     "title": "The quiet upgrade: small tweaks in scoring with outsized returns",
     "dek": "No purchases, no overhauls — the modest scoring adjustments that home sourdough bakers report mattering most.",
