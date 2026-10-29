@@ -1,5 +1,56 @@
 [
   {
+    "slug": "quiet-upgrade-endgames-88",
+    "title": "The quiet upgrade: small tweaks in endgames with outsized returns",
+    "dek": "No purchases, no overhauls — the modest endgames adjustments that adult chess improvers report mattering most.",
+    "takeaway": "The best upgrades in endgames are adjustments, not acquisitions. Most cost nothing but attention.",
+    "whatHappened": "Ask experienced adult chess improvers what changed their results and the answers are strikingly modest: a tweak to routine, a default swapped, a habit moved earlier in the day. We collected the small changes that keep appearing in those answers.",
+    "whyItMatters": "The upgrade path everyone markets requires spending. The one that works requires noticing. Small adjustments compound daily, which is a rate no purchase matches.",
+    "howToThink": "Once a month, change one default in your endgames routine and watch for a week. Keep what helps, revert what doesn't, and write down which was which.",
+    "pros": [
+      "Free or nearly free",
+      "Compounds with repetition",
+      "Reversible in minutes"
+    ],
+    "cons": [
+      "Invisible on social media",
+      "Requires actually paying attention",
+      "No unboxing dopamine"
+    ],
+    "watchOut": "Don't stack five changes at once — you'll never know which one worked, and you'll revert the good one with the bad.",
+    "faq": [
+      {
+        "q": "What's the highest-leverage small change?",
+        "a": "Moving your session to the time of day you're least likely to skip. Adherence beats optimization."
+      },
+      {
+        "q": "How do I find my own quiet upgrades?",
+        "a": "Your log. The pattern you're annoyed by weekly is the upgrade waiting to happen."
+      },
+      {
+        "q": "When is buying actually the answer?",
+        "a": "When the same friction survives three free fixes. Then spend without guilt."
+      }
+    ],
+    "category": "Endgames",
+    "tags": [
+      "Endgames",
+      "Study Plans"
+    ],
+    "sources": [
+      {
+        "label": "r/TournamentChess community threads",
+        "url": "https://www.reddit.com/r/TournamentChess/"
+      },
+      {
+        "label": "Search interest: \"tactics training routine\"",
+        "url": "https://duckduckgo.com/?q=tactics%20training%20routine"
+      }
+    ],
+    "publishedAt": "2026-10-29T22:45:27.113Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-adult-chess-improvement-plan-29",
     "title": "Myth vs. reality: adult chess improvement plan",
     "dek": "The persistent myths around adult chess improvement plan, stress-tested against what adult chess improvers actually report.",

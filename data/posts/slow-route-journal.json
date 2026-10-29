@@ -1,5 +1,56 @@
 [
   {
+    "slug": "slow-boarding-rituals",
+    "title": "Slow Boarding Rituals: Low‑Impact Practices at Rural Train Stops",
+    "dek": "Master the gentle art of boarding rural trains without rushing or waste.",
+    "takeaway": "Taking time to board mindfully reduces stress and leaves a smaller footprint.",
+    "whatHappened": "On a recent weekend trip through the countryside, I arrived at a tiny halt fifteen minutes early and observed how a slow‑boarding routine transformed the experience for everyone on board.",
+    "whyItMatters": "Rushed boarding fuels anxiety, crowds, and unnecessary energy use; a calm approach fosters community, safety, and lower emissions from fewer hurried movements.",
+    "howToThink": "Plan to arrive early, pack only what you need, and treat the platform as a shared space. Use a reusable water bottle, step onto the train deliberately, and greet fellow passengers with a quiet smile.",
+    "pros": [
+      "Reduces stress for all travelers",
+      "Cuts down on hurried foot traffic",
+      "Encourages courteous interactions"
+    ],
+    "cons": [
+      "May require extra waiting time",
+      "Limited on high‑frequency urban services",
+      "Needs discipline to avoid lingering"
+    ],
+    "watchOut": "Don’t linger so long that you miss the train’s departure time.",
+    "faq": [
+      {
+        "q": "Do I need a special ticket for slow boarding?",
+        "a": "No, any valid ticket works; the practice is about mindset, not paperwork."
+      },
+      {
+        "q": "What if the train is already full?",
+        "a": "Boarding slowly helps you find a spot without crowding, and crew members appreciate the calm approach."
+      },
+      {
+        "q": "Is this suitable for families with kids?",
+        "a": "Absolutely—teaching children to board gently reinforces low‑impact habits early."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "slow-travel"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-10-29T22:45:11.061Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "train-travel-europe-tips-field-test-17",
     "title": "\"train travel europe tips\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about train travel europe tips through a month of actual use. Some of it survived.",

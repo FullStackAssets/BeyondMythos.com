@@ -1,5 +1,56 @@
 [
   {
+    "slug": "game-boy-camera-lens-replacement",
+    "title": "Pixel Boost: Replacing Your Game Boy Camera Lens for Crystal-Clear Shots",
+    "dek": "Swap the aging Game Boy Camera lens for a fresh one and get crisp, lag‑free screenshots for your runs.",
+    "takeaway": "A new lens restores image clarity without affecting gameplay performance.",
+    "whatHappened": "A collector noticed blurry, washed‑out photos from their Game Boy Camera during a speedrun showcase. After sourcing a replacement OEM lens and carefully swapping it, the images snapped instantly with sharp detail.",
+    "whyItMatters": "Clear visuals are essential for documenting runs, sharing footage, and preserving the original experience for future collectors. A degraded lens can obscure gameplay moments and reduce the archival value of recordings.",
+    "howToThink": "Start with a clean, static‑free workspace and use a pair of precision tweezers. Remove the old lens by gently prying the retaining clips, clean the contacts with isopropyl alcohol, and seat the new lens snugly. Power up and run a quick test shot before returning to your run.",
+    "pros": [
+      "Sharper images",
+      "No performance impact",
+      "Relatively inexpensive"
+    ],
+    "cons": [
+      "Delicate glass component",
+      "Requires steady hands",
+      "Potential warranty void"
+    ],
+    "watchOut": "Handle the glass element carefully; it shatters if dropped.",
+    "faq": [
+      {
+        "q": "Can I use a third‑party lens instead of the original?",
+        "a": "Third‑party lenses work but may introduce slight color shifts; OEM parts guarantee fidelity."
+      },
+      {
+        "q": "Do I need to recalibrate the camera after replacement?",
+        "a": "A quick test shot is enough; the camera auto‑focuses, so no formal recalibration is needed."
+      },
+      {
+        "q": "Will swapping the lens affect my Game Boy’s battery life?",
+        "a": "The lens draws negligible power, so battery life remains unchanged."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "hardware",
+      "game-boy"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-29T22:45:12.991Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "game-gear-capacitor-replacement",
     "title": "Pixel Boost: Replacing Game Gear Capacitors for Consistent Power",
     "dek": "Swap out aging capacitors in your Game Gear to keep voltage steady and avoid those dreaded mid‑run power dips.",

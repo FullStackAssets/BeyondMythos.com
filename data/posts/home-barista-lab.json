@@ -1,5 +1,56 @@
 [
   {
+    "slug": "spot-espresso-channeling-vibration-test",
+    "title": "Spot Espresso Channeling with a Simple Portafilter Vibration Test",
+    "dek": "A quick tap test reveals hidden channeling in your espresso shot, so you can fine‑tune your grind and tamp.",
+    "takeaway": "A brief vibration test helps you detect channeling before pulling a shot.",
+    "whatHappened": "After pulling a shot that tasted thin, I tapped the portafilter on the counter and felt an uneven buzz. The vibration pattern hinted at uneven water flow, prompting a grind adjustment that smoothed the extraction.",
+    "whyItMatters": "Channeling lets water rush through weak spots, producing under‑extracted flavors and inconsistent crema. Catching it early saves beans, time, and frustration, leading to a more reliable espresso routine.",
+    "howToThink": "After dosing, gently tap the filled portafilter on a solid surface and listen for a uniform thump. A steady vibration suggests even resistance; a rattling feel signals potential channeling. Use the feedback to tweak grind size or tamp pressure before the next pull.",
+    "pros": [
+      "Fast detection",
+      "No extra tools",
+      "Improves consistency"
+    ],
+    "cons": [
+      "Subjective feel",
+      "May miss subtle issues",
+      "Requires practice"
+    ],
+    "watchOut": "Don’t rely solely on the test; combine it with visual and taste checks for a complete assessment.",
+    "faq": [
+      {
+        "q": "How loud should the tap be?",
+        "a": "A light tap—just enough to make the portafilter vibrate without spilling grounds—is sufficient."
+      },
+      {
+        "q": "Can this replace a pressure gauge?",
+        "a": "It’s a complementary cue, not a replacement for precise pressure measurements."
+      },
+      {
+        "q": "Does the portafilter material affect the test?",
+        "a": "Metal ports transmit vibration better than plastic, so results are clearer with steel."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "extraction"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-10-29T22:45:11.718Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "fine-tune-espresso-brew-ratio-2",
     "title": "Fine‑Tune Your Espresso Shot with a Simple Brew Ratio Check",
     "dek": "A quick test to see if your coffee‑to‑water ratio is throwing off your espresso flavor.",
