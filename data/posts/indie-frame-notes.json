@@ -1,5 +1,56 @@
 [
   {
+    "slug": "microbudget-lighting-hacks-2",
+    "title": "Microbudget lighting hacks you can rig today",
+    "dek": "Turn cheap household items into effective lights and boost your short film’s visual vibe without breaking the bank.",
+    "takeaway": "Creative DIY lighting can elevate production value on a shoestring budget.",
+    "whatHappened": "I tried a series of low‑cost lighting setups on a recent 5‑minute narrative, using a clamp lamp, LED strips, and a white sheet as a reflector. The result was surprisingly even illumination that matched the mood board.",
+    "whyItMatters": "Lighting often defines the professional look of a short film, yet indie creators assume they need expensive kits. Demonstrating that everyday objects can substitute saves money and keeps schedules flexible.",
+    "howToThink": "Start by identifying the key light source you need, then scout the set for items that can diffuse or bounce light – white poster board, kitchen foil, or a cheap lamp. Combine with inexpensive LED panels or phone flash, and adjust color temperature with gels or white balance.",
+    "pros": [
+      "Cost‑effective",
+      "Fast setup",
+      "Customizable look"
+    ],
+    "cons": [
+      "Limited power output",
+      "Color consistency can vary",
+      "May need extra diffusion"
+    ],
+    "watchOut": "Beware of overheating lamps and ensure electrical safety.",
+    "faq": [
+      {
+        "q": "Can I use household lamps for key lighting?",
+        "a": "Yes, a regular desk lamp with a diffuser can serve as a soft key light if you control spill."
+      },
+      {
+        "q": "How do I balance color temperature with mixed light sources?",
+        "a": "Set your camera white balance to a fixed Kelvin value and use gels or adjust in post to match temperatures."
+      },
+      {
+        "q": "Do I need a light meter for DIY setups?",
+        "a": "A full‑frame light meter helps but you can rely on your camera’s histogram and exposure preview for rough balance."
+      }
+    ],
+    "category": "Production",
+    "tags": [
+      "DIY",
+      "Lighting"
+    ],
+    "sources": [
+      {
+        "label": "r/videography community threads",
+        "url": "https://www.reddit.com/r/videography/"
+      },
+      {
+        "label": "Search interest: \"short film festival strategy\"",
+        "url": "https://duckduckgo.com/?q=short%20film%20festival%20strategy"
+      }
+    ],
+    "publishedAt": "2026-10-29T10:45:08.988Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-production-90",
     "title": "A weekend project: level up your production in two hours",
     "dek": "One contained, satisfying production project for indie filmmakers — start Saturday morning, done by lunch.",

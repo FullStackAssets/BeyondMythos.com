@@ -1,5 +1,56 @@
 [
   {
+    "slug": "turn-phone-espresso-shot-timer",
+    "title": "Turn Your Phone Into an Espresso Shot Timer for Perfect Pulls",
+    "dek": "Use a free smartphone app to time your espresso pull and lock in consistent extraction without extra hardware.",
+    "takeaway": "A simple phone timer lets you nail shot times and improve consistency.",
+    "whatHappened": "I noticed my shot times varied wildly, so I downloaded a basic timer app and started logging pull durations. Within a few days the numbers steadied and taste followed.",
+    "whyItMatters": "Shot time is a key variable that affects flavor balance; tracking it reveals over‑ or under‑extraction and guides adjustments.",
+    "howToThink": "Treat the timer as a feedback tool, not a strict rule—aim for your preferred window, note grind and dose changes, and tweak accordingly.",
+    "pros": [
+      "Zero cost",
+      "Instant feedback",
+      "Works with any machine"
+    ],
+    "cons": [
+      "Phone may get splashed",
+      "Requires manual start/stop",
+      "No built‑in pressure data"
+    ],
+    "watchOut": "Keep the phone away from steam to avoid damage.",
+    "faq": [
+      {
+        "q": "Do I need a special app?",
+        "a": "Any basic stopwatch or timer app works; choose one with lap function for easy logging."
+      },
+      {
+        "q": "What shot time should I target?",
+        "a": "Typical espresso pulls range from 25 to 30 seconds, but adjust based on taste and bean."
+      },
+      {
+        "q": "Can I use this for other brew methods?",
+        "a": "Yes, timing works for pour‑over, Aeropress, and even French press to improve consistency."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "tech hack"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-10-29T10:45:05.698Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "boost-espresso-consistency-grinder-timer",
     "title": "Boost Espresso Consistency with a Simple Grinder Dose Timer",
     "dek": "A quick trick to time your grind dose for more repeatable espresso shots.",

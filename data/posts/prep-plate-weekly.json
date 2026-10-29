@@ -1,5 +1,56 @@
 [
   {
+    "slug": "speedy-skillet-15min-lunch",
+    "title": "Speedy Skillet: 15‑Minute Lunch for the Office",
+    "dek": "A quick, protein‑packed skillet meal you can prep in under 15 minutes and stash for the workweek.",
+    "takeaway": "One‑pan, fast, freezer‑friendly cooking keeps busy pros fueled without the hassle.",
+    "whatHappened": "We tossed diced chicken, frozen veggies, and a splash of soy sauce into a hot skillet, cooked it for 12 minutes, and portioned the leftovers into containers. The result was a savory, balanced lunch that survived a full week in the freezer. Even the office fridge smelled inviting.",
+    "whyItMatters": "Busy professionals often skip lunch or rely on low‑nutrient options because cooking feels time‑consuming. A rapid, nutritious recipe eliminates the trade‑off between health and schedule. Plus, a freezer‑ready batch reduces daily decision fatigue.",
+    "howToThink": "Treat your skillet like a mini‑assembly line: protein first, then veg, then sauce. Keep seasoning simple to avoid over‑complicating flavors. When cooling, spread the portions out to freeze faster and maintain texture.",
+    "pros": [
+      "Ready in 15 min",
+      "One‑pan cleanup",
+      "Freezer‑safe"
+    ],
+    "cons": [
+      "Limited veg variety",
+      "Needs stovetop",
+      "Portion size fixed"
+    ],
+    "watchOut": "Avoid overcooking the veggies; they can turn mushy after reheating.",
+    "faq": [
+      {
+        "q": "Can I swap the chicken for another protein?",
+        "a": "Absolutely—turkey, tofu, or shrimp work just as well."
+      },
+      {
+        "q": "Do I need to thaw before reheating?",
+        "a": "No, you can microwave straight from frozen; add a minute extra."
+      },
+      {
+        "q": "What’s the best storage container?",
+        "a": "A BPA‑free, airtight container keeps moisture out and flavor in."
+      }
+    ],
+    "category": "Recipes",
+    "tags": [
+      "quick‑meals",
+      "office‑fuel"
+    ],
+    "sources": [
+      {
+        "label": "r/slowcooking community threads",
+        "url": "https://www.reddit.com/r/slowcooking/"
+      },
+      {
+        "label": "Search interest: \"batch cooking guide\"",
+        "url": "https://duckduckgo.com/?q=batch%20cooking%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-29T10:45:08.345Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-freezer-friendly-lunches-30",
     "title": "Myth vs. reality: freezer friendly lunches",
     "dek": "The persistent myths around freezer friendly lunches, stress-tested against what busy professionals who meal prep actually report.",

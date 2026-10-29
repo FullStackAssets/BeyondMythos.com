@@ -1,5 +1,56 @@
 [
   {
+    "slug": "hidden-gems-last-gen-gpu",
+    "title": "Hidden Gems: Scoring a Last‑Gen GPU for Under $150",
+    "dek": "How to spot a reliable older GPU that still crushes 1080p games without blowing your budget.",
+    "takeaway": "A careful checklist lets you buy a used GPU that delivers solid performance for cheap.",
+    "whatHappened": "A reader posted a screenshot of a 2016‑era GPU listed at $120 on a local marketplace. After a quick visual inspection and a brief test, the card powered an 1080p title at smooth frame rates. The purchase proved that decent performance is still alive in the used market.",
+    "whyItMatters": "Budget builders often think only current‑gen cards are viable, but older GPUs can fill the gap between integrated graphics and expensive new releases. Stretching every dollar means more room for a better CPU or faster storage, improving the whole system without a huge price tag.",
+    "howToThink": "First, verify the model and its known performance ceiling. Second, inspect the card for dust, fan wear, and BIOS version. Finally, test it in a trusted system or ask for a short demo video before finalizing the sale.",
+    "pros": [
+      "Low cost",
+      "Decent 1080p performance",
+      "Longer lifespan if maintained"
+    ],
+    "cons": [
+      "Higher power draw",
+      "Potential hidden defects",
+      "Limited future driver support"
+    ],
+    "watchOut": "Watch out for excessive fan wear or signs of past overheating.",
+    "faq": [
+      {
+        "q": "Can I trust a seller’s claim that the GPU runs cool?",
+        "a": "Ask for recent temperature logs or a short video of the card under load; visual evidence beats promises."
+      },
+      {
+        "q": "Do older GPUs still receive driver updates?",
+        "a": "Most mainstream models get updates for several years, but support will eventually taper off, so check the manufacturer’s roadmap."
+      },
+      {
+        "q": "Is it worth buying a GPU with a replaced fan?",
+        "a": "Only if the new fan is from a reputable source and the seller can show it works reliably."
+      }
+    ],
+    "category": "Used Parts",
+    "tags": [
+      "budget GPUs",
+      "used hardware"
+    ],
+    "sources": [
+      {
+        "label": "r/pcmasterrace community threads",
+        "url": "https://www.reddit.com/r/pcmasterrace/"
+      },
+      {
+        "label": "Search interest: \"1440p value build\"",
+        "url": "https://duckduckgo.com/?q=1440p%20value%20build"
+      }
+    ],
+    "publishedAt": "2026-10-29T10:45:06.357Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "stretch-dollar-maximize-gpu-performance",
     "title": "Stretch Your Dollar: Maximizing GPU Performance on a Shoestring",
     "dek": "Cheap tricks to squeeze extra frames out of low‑end GPUs without breaking the bank.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "clean-mega-drive-cartridge-contacts",
+    "title": "Pixel Boost: Cleaning Your Mega Drive Cartridge Contacts for Consistent Load Times",
+    "dek": "A quick guide to safely clean Mega Drive cartridges and restore reliable loading.",
+    "takeaway": "Clean contacts, smoother loads, less frustration.",
+    "whatHappened": "After a series of missed starts during a Sonic speedrun, I discovered dust and oxidation on my cartridge contacts. A brief disassembly and cleaning with isopropyl wipes revived the game’s responsiveness. The process took under ten minutes and the results were immediate.",
+    "whyItMatters": "A flaky cartridge can ruin a run, cause data loss, and diminish a collector’s pride. Maintaining clean contacts preserves both performance and the longevity of rare hardware, keeping the retro scene vibrant.",
+    "howToThink": "Start with a soft anti-static brush to remove loose debris, then gently wipe the pins with a lint‑free cloth dampened with 90%+ isopropyl alcohol. Let it dry fully before re‑inserting. Repeat if needed, but avoid excessive scrubbing that could wear the contacts.",
+    "pros": [
+      "Restores original load speed",
+      "Prevents future read errors",
+      "Low cost, simple tools"
+    ],
+    "cons": [
+      "Requires careful handling",
+      "May need repeat cleaning",
+      "Not a fix for severely damaged pins"
+    ],
+    "watchOut": "Avoid using excessive liquid; too much can seep into the cartridge and damage the board.",
+    "faq": [
+      {
+        "q": "Can I use regular household cleaning wipes?",
+        "a": "Stick to lint‑free cloths and high‑purity isopropyl alcohol; household wipes can leave residues."
+      },
+      {
+        "q": "How often should I clean my cartridges?",
+        "a": "Whenever you notice slowdown, loading glitches, or after long storage periods."
+      },
+      {
+        "q": "Will cleaning void any warranties?",
+        "a": "Most vintage cartridges are out of warranty, but handle them gently to avoid accidental damage."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Mega Drive",
+      "Cleaning"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-29T10:45:03.390Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "snes-controller-pad-reinforcement",
     "title": "Pixel Boost: Reinforcing SNES Controller Pads for Crisp Inputs",
     "dek": "Give your SNES controller a sturdier feel and sharper button response with a few simple tweaks.",

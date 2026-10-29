@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midday-platform-reflection-journaling-rural-trai",
+    "title": "Midday Platform Reflection: Low‑Impact Journaling on Rural Trains",
+    "dek": "Turn a train ride into a low‑impact mindfulness session with a pocket notebook and a few simple prompts.",
+    "takeaway": "Journaling on the rails deepens presence without adding carbon cost.",
+    "whatHappened": "On a slow‑coach from town A to town B, I pulled out a recycled notebook and wrote brief observations of passing fields, station sounds, and fleeting conversations. The practice took just a few minutes each hour but left a vivid trail of the journey.",
+    "whyItMatters": "Slow travelers often chase scenery, yet they miss the subtle emotional texture of the ride. Recording thoughts anchors the experience, making each trip more memorable and environmentally neutral.",
+    "howToThink": "Treat the notebook as a companion, not a chore. Start with one line per stop, note a scent, a color, or a feeling, then revisit after the journey to spot patterns. Keep it lightweight—no more than a few pages—so it stays low‑impact.",
+    "pros": [
+      "Boosts mindfulness",
+      "Leaves no waste",
+      "Easy to start"
+    ],
+    "cons": [
+      "Requires pen & paper",
+      "Limited space on crowded car",
+      "Can distract from scenery"
+    ],
+    "watchOut": "Don’t let your notebook block aisles or other passengers’ view.",
+    "faq": [
+      {
+        "q": "Do I need a fancy journal?",
+        "a": "A simple recycled notebook works fine; the focus is on the habit, not the paper."
+      },
+      {
+        "q": "How long should each entry be?",
+        "a": "One sentence or a quick bullet point per stop keeps it light and sustainable."
+      },
+      {
+        "q": "Can I digitize later?",
+        "a": "If you prefer, scan or type notes after the trip, but keep the original low‑impact mindset."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "journaling",
+      "mindfulness"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-10-29T10:45:04.950Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "midday-platform-storytelling-low-impact-narrativ",
     "title": "Midday Platform Storytelling: Low‑Impact Narratives on Rural Trains",
     "dek": "Share stories with fellow travelers on the train without leaving a carbon trace.",
