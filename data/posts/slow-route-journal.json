@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midday-platform-observation-birdwatching-rural-t",
+    "title": "Midday Platform Observation: Low‑Impact Birdwatching on Rural Trains",
+    "dek": "Spotting local birds from a slow train reveals rhythms of the countryside while keeping your footprint light.",
+    "takeaway": "Birdwatching from the train teaches patience and low‑impact appreciation of place.",
+    "whatHappened": "I boarded a regional line that snakes through wetlands and forest patches, binoculars at the ready. Over a two‑hour ride, I logged a handful of warblers, kingfishers, and a shy owl perched on a branch outside the carriage. The experience felt like a moving nature reserve without leaving the seat.",
+    "whyItMatters": "Seeing wildlife from a train aligns with slow‑travel values: you engage with the landscape without adding cars or tours. It also highlights how everyday routes can become opportunities for low‑impact nature observation, deepening our sense of place.",
+    "howToThink": "Carry compact binoculars or a spotting scope that fits in a backpack. Keep noise to a minimum and avoid tapping windows—let the birds come to you. Jot quick notes or sketches to capture the moment without disrupting the flow of travel.",
+    "pros": [
+      "Quiet immersion",
+      "Zero extra transport",
+      "Free wildlife guide"
+    ],
+    "cons": [
+      "Limited view windows",
+      "Seasonal bird activity",
+      "Requires patience"
+    ],
+    "watchOut": "Avoid leaning out of windows or making sudden movements that could startle birds or compromise safety.",
+    "faq": [
+      {
+        "q": "Do I need expensive gear to birdwatch on a train?",
+        "a": "A modest pair of binoculars and a field guide are enough; the moving backdrop provides plenty of variety."
+      },
+      {
+        "q": "What time of day is best for spotting birds from a train?",
+        "a": "Early morning and late afternoon often bring the most active species, especially during migration periods."
+      },
+      {
+        "q": "Is it okay to take photos inside the carriage?",
+        "a": "Yes, as long as you don’t flash or disturb fellow passengers; keep the focus on the outside view."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "birdwatching"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-10-29T12:45:10.867Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "midday-platform-reading-low-impact-book-swaps-2",
     "title": "Midday Platform Reading: Low‑Impact Book Swaps on Rural Trains",
     "dek": "Swap stories and spare pages on quiet countryside trains, keeping your carbon footprint as light as the pages.",

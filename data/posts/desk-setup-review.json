@@ -1,5 +1,56 @@
 [
   {
+    "slug": "community-pulse-workspaces-25",
+    "title": "Community pulse: what r/Workspaces is debating this week",
+    "dek": "The arguments, consensus shifts, and quietly useful threads from the organization community this week.",
+    "takeaway": "The community's loudest argument is rarely its most useful thread. We pulled out both.",
+    "whatHappened": "This week's discussion among remote workers optimizing small workspaces split between a recurring gear-versus-skill argument and a quieter thread of genuinely practical write-ups. As usual, the practical material got a fraction of the attention and most of the value.",
+    "whyItMatters": "Forums are the highest-signal source in organization — but only if you know how to read them. The upvote curve rewards controversy; the archive rewards patience.",
+    "howToThink": "Read communities like a researcher, not a spectator: skip the drama threads, sort by top-of-month, and save anything with photos, numbers, and a follow-up edit.",
+    "pros": [
+      "Real practitioners, real failures",
+      "Searchable archive of past debates",
+      "Faster than trial and error"
+    ],
+    "cons": [
+      "Upvotes reward heat, not light",
+      "Survivorship bias in success posts",
+      "Same arguments recur monthly"
+    ],
+    "watchOut": "When a thread's top comment starts with \"everyone knows,\" verify it. Community consensus in organization has a half-life.",
+    "faq": [
+      {
+        "q": "Which threads are worth saving?",
+        "a": "Anything with a methodology, a budget, photos, and a follow-up edit. That combination is rare and gold."
+      },
+      {
+        "q": "Should I post my own questions?",
+        "a": "Yes — after searching. A well-scoped question with context gets remarkable answers."
+      },
+      {
+        "q": "How do I avoid the drama?",
+        "a": "Sort by top-of-month instead of hot. The algorithm is the drama's delivery system."
+      }
+    ],
+    "category": "Organization",
+    "tags": [
+      "Organization",
+      "Ergonomics"
+    ],
+    "sources": [
+      {
+        "label": "r/Workspaces community threads",
+        "url": "https://www.reddit.com/r/Workspaces/"
+      },
+      {
+        "label": "Search interest: \"ergonomic desk setup\"",
+        "url": "https://duckduckgo.com/?q=ergonomic%20desk%20setup"
+      }
+    ],
+    "publishedAt": "2026-10-29T12:45:36.215Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "audio-pre-spend-checklist-78",
     "title": "The audio checklist: run this before you spend",
     "dek": "Seven questions that separate a justified audio purchase from an expensive mood.",

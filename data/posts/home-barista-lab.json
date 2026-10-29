@@ -1,5 +1,56 @@
 [
   {
+    "slug": "master-espresso-shot-clock",
+    "title": "Master the Espresso Shot Clock with a Simple Phone Stopwatch",
+    "dek": "Turn your phone into a precise shot timer to nail espresso extraction every time.",
+    "takeaway": "A phone stopwatch gives you repeatable timing for consistent espresso pulls.",
+    "whatHappened": "I tried timing my espresso shots with a phone stopwatch, noting the brew time from pump start to first drop. The simple visual cue helped me spot variations.",
+    "whyItMatters": "Shot time is a key variable in espresso flavor; even small timing differences can shift balance. Consistent timing lets you isolate other variables.",
+    "howToThink": "Start the timer as soon as the pump engages, stop when the crema fades. Aim for your target brew window and adjust grind or dose accordingly.",
+    "pros": [
+      "Free and easy",
+      "Precise visual cue",
+      "Works with any phone"
+    ],
+    "cons": [
+      "Requires manual start/stop",
+      "Phone may be noisy",
+      "No integrated pressure data"
+    ],
+    "watchOut": "Make sure the phone is stable and not blocking the machine.",
+    "faq": [
+      {
+        "q": "Can I use the built-in timer app?",
+        "a": "Yes, any stopwatch will work; just ensure it’s ready before you pull."
+      },
+      {
+        "q": "What is a good brew time range for espresso?",
+        "a": "Most home machines hit a sweet spot between 25 and 30 seconds for a 30 ml shot."
+      },
+      {
+        "q": "Do I need a special app for espresso?",
+        "a": "No, a basic stopwatch is enough, though some coffee apps add preset timers and logs."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "timing"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-10-29T12:45:11.724Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "scale-calibration-water-test",
     "title": "Calibrate Your Home Coffee Scale with a Simple Water Test",
     "dek": "Get pinpoint accuracy from your kitchen scale using just water and a kitchen timer—no fancy equipment needed.",

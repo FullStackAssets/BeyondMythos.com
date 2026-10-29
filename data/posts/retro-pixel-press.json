@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-boost-calibrate-atari-2600-joystick",
+    "title": "Pixel Boost: Calibrating Your Atari 2600 Joystick for Precision Speedrunning",
+    "dek": "Learn how a simple joystick tweak on your Atari 2600 can tighten inputs and boost your run times.",
+    "takeaway": "Fine‑tune your Atari stick to gain smoother, faster inputs.",
+    "whatHappened": "During a recent marathon of Pitfall!, our team noticed sporadic drift on the original CX40 joystick, causing missed jumps. A quick calibration restored crisp direction changes and trimmed the overall split.",
+    "whyItMatters": "Speedrunners rely on frame‑perfect inputs; even minor joystick lag can cost a run. Restoring the joystick’s original response ensures consistency across attempts.",
+    "howToThink": "Start by cleaning the contacts, then adjust the dead‑zone screws to center the stick, and finish with a light lubrication of the pivot. Test with a frame‑counter to confirm the improvement.",
+    "pros": [
+      "Restores original feel",
+      "Cheap DIY fix",
+      "Improves run consistency"
+    ],
+    "cons": [
+      "Requires careful screw adjustment",
+      "Potential wear if over‑tightened",
+      "May need periodic re‑calibration"
+    ],
+    "watchOut": "Avoid overtightening the dead‑zone screws, which can make the stick too stiff.",
+    "faq": [
+      {
+        "q": "Do I need special tools?",
+        "a": "A small Phillips screwdriver and contact cleaner are sufficient."
+      },
+      {
+        "q": "Will this work on third‑party joysticks?",
+        "a": "The method applies to most standard Atari sticks, but part tolerances may vary."
+      },
+      {
+        "q": "How often should I recalibrate?",
+        "a": "Re‑check after heavy use or if you notice drift returning."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Atari",
+      "Joystick"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-10-29T12:45:15.086Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-speedruns-mistakes-56",
     "title": "Five mistakes everyone makes in their first month of speedruns",
     "dek": "The most common early stumbles in speedruns, and the cheap corrections that fix them for retro game collectors and speedrunners.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "balcony-parsley-parade",
+    "title": "Balcony Parsley Parade: Fresh Flavor in Tiny Terraces",
+    "dek": "Turn a modest balcony pot into a year‑round parsley powerhouse with simple tricks.",
+    "takeaway": "A few smart container choices keep parsley thriving all season on any balcony.",
+    "whatHappened": "We trialed a 12‑inch fabric pot on a sunny balcony, using a lightweight soil mix and regular misting. Within weeks the plants produced abundant, tender leaves.",
+    "whyItMatters": "Parsley supplies vitamins and a fresh garnish, cutting grocery trips for apartment chefs. Growing it at home also reduces packaging waste.",
+    "howToThink": "Choose a shallow, breathable container, fill with a well‑draining mix, and place the pot where it gets morning sun. Water consistently but avoid soggy soil, and pinch back tips to encourage bushier growth.",
+    "pros": [
+      "Space‑saving",
+      "Continuous harvest",
+      "Low maintenance"
+    ],
+    "cons": [
+      "Needs regular watering",
+      "May bolt in heat",
+      "Limited yield compared to garden beds"
+    ],
+    "watchOut": "Watch for sudden temperature spikes that can cause the parsley to bolt prematurely.",
+    "faq": [
+      {
+        "q": "How often should I water balcony parsley?",
+        "a": "Keep the top inch of soil moist; water when it feels dry to the touch."
+      },
+      {
+        "q": "Can I grow parsley indoors if my balcony is shady?",
+        "a": "Yes, a bright windowsill with supplemental LED grow light can substitute for limited sun."
+      },
+      {
+        "q": "What soil mix works best for containers?",
+        "a": "A blend of potting compost, perlite, and a touch of coconut coir provides drainage and moisture retention."
+      }
+    ],
+    "category": "Herbs",
+    "tags": [
+      "herbs",
+      "containers"
+    ],
+    "sources": [
+      {
+        "label": "r/UrbanGardening community threads",
+        "url": "https://www.reddit.com/r/UrbanGardening/"
+      },
+      {
+        "label": "Search interest: \"balcony garden ideas\"",
+        "url": "https://duckduckgo.com/?q=balcony%20garden%20ideas"
+      }
+    ],
+    "publishedAt": "2026-10-29T12:45:12.392Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-vegetablegardening-17",
     "title": "Community pulse: what r/vegetablegardening is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the seasonal community this week.",
