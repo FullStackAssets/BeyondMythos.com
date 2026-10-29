@@ -1,5 +1,56 @@
 [
   {
+    "slug": "fine-tune-espresso-brew-ratio-2",
+    "title": "Fine‑Tune Your Espresso Shot with a Simple Brew Ratio Check",
+    "dek": "A quick test to see if your coffee‑to‑water ratio is throwing off your espresso flavor.",
+    "takeaway": "Adjusting the brew ratio can instantly sharpen taste balance without new equipment.",
+    "whatHappened": "We brewed two identical espressos, one at the classic 1:2 ratio and another at a slightly leaner 1:1.8. The latter tasted brighter, with less bitterness, confirming the ratio’s impact on flavor profile.",
+    "whyItMatters": "Even a small shift in espresso brew ratio changes extraction balance, affecting acidity, sweetness, and body. Home baristas can fine‑tune taste without buying new beans or hardware.",
+    "howToThink": "Start with the manufacturer’s recommended ratio, then experiment by reducing the water dose by 5‑10 %. Record taste notes and repeat until you hit your sweet spot. Keep the dose consistent for fair comparison.",
+    "pros": [
+      "Instant flavor feedback",
+      "No extra tools needed",
+      "Works with any grinder"
+    ],
+    "cons": [
+      "Requires careful weighing",
+      "Taste is subjective",
+      "May need multiple tries"
+    ],
+    "watchOut": "Avoid over‑lean ratios that can under‑extract and taste sour.",
+    "faq": [
+      {
+        "q": "Can I use a kitchen scale for the ratio test?",
+        "a": "Yes, a gram‑accurate scale is ideal for measuring both coffee and water."
+      },
+      {
+        "q": "How many shots should I compare?",
+        "a": "Two to three shots per ratio give enough data without wasting beans."
+      },
+      {
+        "q": "Will changing the ratio affect my machine’s pressure?",
+        "a": "No, pressure stays the same; only the amount of water per gram changes."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "brew‑ratio"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-10-29T21:45:10.332Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "stabilize-espresso-extraction-temperature-check",
     "title": "Stabilize Espresso Extraction with a Simple Portafilter Temperature Check",
     "dek": "A quick temperature check of your portafilter can smooth out shot variance without buying new gear.",

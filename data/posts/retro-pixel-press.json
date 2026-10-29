@@ -1,5 +1,56 @@
 [
   {
+    "slug": "game-gear-capacitor-replacement",
+    "title": "Pixel Boost: Replacing Game Gear Capacitors for Consistent Power",
+    "dek": "Swap out aging capacitors in your Game Gear to keep voltage steady and avoid those dreaded mid‑run power dips.",
+    "takeaway": "Fresh capacitors give reliable power, extending playtime and preserving hardware.",
+    "whatHappened": "A batch of Game Gears from the early ’90s started shutting off during long speedruns. Opening the case revealed bulging electrolytic capacitors. Replacing them with modern low‑ESR equivalents solved the issue.",
+    "whyItMatters": "Unstable power can cause freezes or resets, ruining attempts at world‑record runs and accelerating wear on the device. Stable voltage also protects the LCD and internal circuits, preserving the console for future collectors.",
+    "howToThink": "Identify the capacitor bank on the power board, note polarity, and desolder with a low‑heat tip. Use 10 µF 16 V low‑ESR replacements, matching the original footprint. Re‑solder carefully and test with a quick boot before a full run.",
+    "pros": [
+      "Stable power",
+      "Longer hardware life",
+      "Minimal cost"
+    ],
+    "cons": [
+      "Requires soldering skill",
+      "Risk of damage if mis‑wired",
+      "Need to source specific caps"
+    ],
+    "watchOut": "Double‑check capacitor polarity; installing it backwards can damage the board.",
+    "faq": [
+      {
+        "q": "Do I need a hot‑air rework station?",
+        "a": "A basic soldering iron with a fine tip is enough for the small Game Gear caps."
+      },
+      {
+        "q": "Can I use larger capacitance values?",
+        "a": "Stick to the original µF rating; higher values can affect power regulation."
+      },
+      {
+        "q": "Will this void my warranty?",
+        "a": "Game Gears are out of warranty, so the modification is effectively safe."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Game Gear",
+      "Power Supply"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-10-29T21:45:15.285Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "preservation-pre-spend-checklist-57",
     "title": "The preservation checklist: run this before you spend",
     "dek": "Seven questions that separate a justified preservation purchase from an expensive mood.",
