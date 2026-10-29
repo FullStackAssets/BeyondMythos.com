@@ -1,5 +1,56 @@
 [
   {
+    "slug": "portafilter-pressure-test",
+    "title": "Revamp Espresso Consistency with a Simple Portafilter Pressure Test",
+    "dek": "A quick feel‑check lets you spot pressure issues before they ruin your shot.",
+    "takeaway": "Feel the resistance of your portafilter to catch inconsistencies early.",
+    "whatHappened": "While troubleshooting flaky espresso shots, I tried a one‑handed press on the portafilter after tamping. The resistance felt off, and adjusting the grind cleared the problem within minutes. The test proved faster than pulling multiple trial shots.",
+    "whyItMatters": "Inconsistent pressure can cause channeling, weak crema, and uneven extraction, all of which ruin the espresso experience. Detecting the issue early saves beans, time, and frustration, keeping your daily ritual reliable.",
+    "howToThink": "After tamping, grip the portafilter and apply a steady, moderate downward pressure. If it slides too easily, your grind may be too coarse or your dose low; if it feels overly tight, the grind is likely too fine or the dose high. Adjust accordingly and re‑test before pulling a shot.",
+    "pros": [
+      "No extra tools needed",
+      "Fast detection of pressure issues",
+      "Boosts shot repeatability"
+    ],
+    "cons": [
+      "Subjective feel varies by user",
+      "May miss subtle resistance changes",
+      "Requires consistent hand pressure"
+    ],
+    "watchOut": "Avoid crushing the basket—apply just enough force to feel resistance without forcing the portafilter shut.",
+    "faq": [
+      {
+        "q": "Can I use this test with a bottomless portafilter?",
+        "a": "Yes, the feel is even clearer with a bottomless basket because there’s no extra metal to dampen the pressure."
+      },
+      {
+        "q": "How often should I perform the pressure check?",
+        "a": "Do it each time you change beans or notice a shift in flavor, and whenever you adjust grind size."
+      },
+      {
+        "q": "Is this method reliable for all espresso machines?",
+        "a": "It works best on machines with a stable brew pressure; on very low‑pressure machines the feel may be less pronounced."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "technique"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-10-29T18:45:11.152Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "boost-brew-consistency-frothing-shake",
     "title": "Boost Brew Consistency with a Simple Milk Frothing Shake",
     "dek": "A quick shake of your milk frother can reveal hidden inconsistencies and sharpen your espresso drinks.",

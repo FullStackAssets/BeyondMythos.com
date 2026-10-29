@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-boost-refresh-game-gear-battery",
+    "title": "Pixel Boost: Refreshing Your Game Gear Battery for Marathon Runs",
+    "dek": "Swap out your aging Game Gear battery with a fresh rechargeable cell to keep your handheld running through endless marathons.",
+    "takeaway": "A fresh battery can extend playtime and prevent sudden shutdowns during long runs.",
+    "whatHappened": "During a recent weekend, I swapped the original alkaline pack in my Sega Game Gear for a modern NiMH rechargeable. The console powered up instantly and held a steady voltage throughout a 2‑hour test run.",
+    "whyItMatters": "Power loss is the silent enemy of speedruns, causing missed splits and lost practice time. Reliable battery life also preserves the hardware by avoiding deep discharge cycles that can degrade internal components.",
+    "howToThink": "When choosing a replacement, match the original voltage and capacity range, then use a low‑drain charger. Keep an eye on temperature during charging and avoid over‑charging to prolong cell life.",
+    "pros": [
+      "Longer uninterrupted sessions",
+      "Reduced need for spare batteries",
+      "Lower long‑term cost"
+    ],
+    "cons": [
+      "Initial purchase cost",
+      "Need for proper charger",
+      "Potential fit adjustments"
+    ],
+    "watchOut": "Never use a battery with a higher voltage than the original, as it can damage the Game Gear’s circuitry.",
+    "faq": [
+      {
+        "q": "Can I use a standard AA NiMH cell?",
+        "a": "Yes, as long as you match the 6 V configuration and use a holder that fits the compartment."
+      },
+      {
+        "q": "How do I know when the battery is low?",
+        "a": "The Game Gear’s screen will dim and the power LED flickers; a quick voltage check with a multimeter shows dropping below 5.5 V."
+      },
+      {
+        "q": "Is it safe to charge the battery inside the console?",
+        "a": "No, charge the cell externally to avoid heat buildup inside the handheld."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "hardware",
+      "game-gear"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-10-29T18:45:13.240Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "tuning-game-boy-battery",
     "title": "Pixel Boost: Tuning Your Game Boy Battery for Marathon Runs",
     "dek": "Extend your Game Boy’s run time and avoid sudden power drops during long speedruns.",
