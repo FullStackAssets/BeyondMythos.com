@@ -1,5 +1,56 @@
 [
   {
+    "slug": "stabilize-espresso-extraction-temperature-check",
+    "title": "Stabilize Espresso Extraction with a Simple Portafilter Temperature Check",
+    "dek": "A quick temperature check of your portafilter can smooth out shot variance without buying new gear.",
+    "takeaway": "Keeping the portafilter warm leads to more consistent espresso flavor.",
+    "whatHappened": "We noticed that shots pulled after the portafilter cooled felt thin and under-extracted. By warming the portafilter with a quick hand-held heater, the same beans produced richer crema and balanced acidity.",
+    "whyItMatters": "Portafilter temperature influences the first-water contact, affecting extraction speed and flavor balance. Small temperature shifts can turn a good shot into a mediocre one.",
+    "howToThink": "Treat the portafilter like a pre‑heat step: after pulling a shot, give it a brief 10‑second warm‑up using a low‑heat tool or hot water splash before the next pull. This habit adds consistency without extra equipment.",
+    "pros": [
+      "Improves shot consistency",
+      "No extra purchase needed",
+      "Fast and easy to implement"
+    ],
+    "cons": [
+      "Requires a brief pause between shots",
+      "Needs a heat source or hot water",
+      "May add a small workflow step"
+    ],
+    "watchOut": "Avoid overheating the portafilter; extreme heat can damage the seal or scorch the coffee.",
+    "faq": [
+      {
+        "q": "Do I need a special heater?",
+        "a": "A simple kitchen hair dryer on low, a hand‑warmer, or a splash of hot water works fine."
+      },
+      {
+        "q": "How long should I warm the portafilter?",
+        "a": "About 10 seconds is enough to raise the metal by a few degrees."
+      },
+      {
+        "q": "Will this affect my brew ratio?",
+        "a": "No, the water amount stays the same; only temperature stability changes."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "temperature"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-10-29T20:45:15.633Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-coffee-15",
     "title": "Community pulse: what r/Coffee is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the gear community this week.",

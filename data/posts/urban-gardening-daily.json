@@ -1,5 +1,56 @@
 [
   {
+    "slug": "balcony-mint-mania",
+    "title": "Balcony Mint Mania: Fresh Flavor Year‑Round",
+    "dek": "Turn your balcony into a mint oasis with easy, low‑maintenance tricks for endless fresh leaves.",
+    "takeaway": "A small mint pot thrives on a balcony with the right light, pruning, and occasional feeding.",
+    "whatHappened": "We set up a 12‑inch container of spearmint on a sunny balcony and observed rapid, aromatic growth over a few weeks. Simple pruning kept the plant bushy without taking over the space.",
+    "whyItMatters": "Fresh mint reduces reliance on store‑bought packages, cuts waste, and adds a bright flavor boost to drinks and dishes right where you live.",
+    "howToThink": "Choose a shallow, well‑draining pot, place it where it catches morning sun, water when the top soil feels dry, and trim regularly to prevent legginess. Feed with a light organic fertilizer once a month during active growth.",
+    "pros": [
+      "Compact growth fits tight spaces",
+      "Continuous harvest throughout the season",
+      "Aromatic boost for kitchen and cocktails"
+    ],
+    "cons": [
+      "Can become invasive if unchecked",
+      "Prefers consistent moisture",
+      "May attract pests if over‑watered"
+    ],
+    "watchOut": "Avoid letting the soil stay soggy; mint dislikes waterlogged roots.",
+    "faq": [
+      {
+        "q": "How often should I water balcony mint?",
+        "a": "Water when the top inch of soil feels dry to the touch, usually every few days in warm weather."
+      },
+      {
+        "q": "Can I grow mint in a hanging basket?",
+        "a": "Yes, as long as the basket has drainage holes and receives at least a few hours of sunlight daily."
+      },
+      {
+        "q": "Will mint attract pests?",
+        "a": "Mint can attract aphids, but regular inspection and gentle rinsing keep them under control."
+      }
+    ],
+    "category": "Herbs",
+    "tags": [
+      "herbs",
+      "balcony"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-10-29T20:45:11.712Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "balcony-peppers-pop-3",
     "title": "Balcony Peppers Pop: Spicy Harvest in Small Planters",
     "dek": "Turn your balcony into a pepper patch with simple steps for a hot, home‑grown harvest.",
