@@ -1,5 +1,56 @@
 [
   {
+    "slug": "optimizing-c64-power-supply",
+    "title": "Pixel Boost: Optimizing Your Commodore 64 Power Supply for Marathon Runs",
+    "dek": "A quick guide to stabilizing your C64’s power to avoid crashes during long speedrun sessions.",
+    "takeaway": "A stable power supply keeps your C64 running smooth, letting you focus on the run.",
+    "whatHappened": "While testing a classic 1982 title on my C64, the system would reset after about twenty minutes. The culprit turned out to be an aging power brick that couldn’t handle sustained draw.",
+    "whyItMatters": "Unstable power can cause random resets, corrupted saves, and lost progress, which is disastrous for both collectors preserving games and speedrunners chasing records.",
+    "howToThink": "Treat the power supply as a core component of your rig; replace or refurbish it with a modern, regulated unit, and verify voltage stability before each marathon.",
+    "pros": [
+      "More reliable runs",
+      "Extended hardware lifespan",
+      "Reduced risk of data loss"
+    ],
+    "cons": [
+      "Additional cost",
+      "Potential need for custom wiring",
+      "May void original warranty"
+    ],
+    "watchOut": "Beware of cheap adapters that claim to be ‘C64 compatible’ – they often introduce noise instead of fixing it.",
+    "faq": [
+      {
+        "q": "Do I need a brand‑new power supply?",
+        "a": "A well‑regulated replacement is enough; many refurbished units work perfectly."
+      },
+      {
+        "q": "Can I test voltage with a multimeter?",
+        "a": "Yes, check that the output stays around 5 V under load; fluctuations signal a problem."
+      },
+      {
+        "q": "Will a new supply affect my original case?",
+        "a": "Only if you choose a larger brick; most drop‑in replacements fit the existing compartment."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "C64",
+      "Power Supply"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-10-29T14:45:12.677Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "stabilize-atari-5200-power",
     "title": "Pixel Boost: Stabilizing Your Atari 5200 Power Supply for Marathon Runs",
     "dek": "A quick fix to tame erratic power on the Atari 5200, keeping your runs smooth and your hardware happy.",

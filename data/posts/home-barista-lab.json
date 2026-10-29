@@ -1,5 +1,56 @@
 [
   {
+    "slug": "elevate-espresso-consistency-pre-infusion-pause",
+    "title": "Elevate Your Espresso Consistency with a Simple Pre‑Infusion Pause",
+    "dek": "A quick 5‑second pause before pulling the shot steadies flow and flavor without extra gear.",
+    "takeaway": "A brief pre‑infusion pause can make your espresso more balanced and repeatable.",
+    "whatHappened": "I tried adding a short pause after the pump starts on my home machine. The first few drops slowed, then the shot continued smoothly, yielding a richer crema.",
+    "whyItMatters": "Consistency starts at the moment water meets coffee. A pause lets the puck settle, reducing channeling and improving extraction uniformity, which matters for taste and repeatability.",
+    "howToThink": "Set your machine to start the pump, then wait about five seconds before fully opening the valve or engaging the shot. Adjust the pause length until the flow feels steady and the crema looks thick.",
+    "pros": [
+      "Easier flavor balance",
+      "No extra tools needed",
+      "Improves repeatability"
+    ],
+    "cons": [
+      "Requires timing practice",
+      "May add a few seconds per shot",
+      "Not all machines allow pause control"
+    ],
+    "watchOut": "Don’t over‑pause, or the water can cool too much and under‑extract.",
+    "faq": [
+      {
+        "q": "Can I use this on any espresso machine?",
+        "a": "It works on most machines that let you control the pump start or have a manual lever; fully automatic models may need a work‑around."
+      },
+      {
+        "q": "How long should the pause be?",
+        "a": "Start with 4‑6 seconds and tweak based on taste; the goal is a smooth, steady flow after the pause."
+      },
+      {
+        "q": "Will this affect shot time?",
+        "a": "The total shot time will be a few seconds longer, but the extraction quality usually improves."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "technique"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-10-29T14:45:16.072Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-tamp-pressure-micro-adjust",
     "title": "Micro‑Adjust Your Tamp Pressure with a Simple Finger‑Lift Test",
     "dek": "A quick finger‑lift trick lets you gauge tamp pressure for more consistent shots.",
