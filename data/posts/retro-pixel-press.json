@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-pixel-press-quick-fix-nes-power",
+    "title": "Pixel Boost: Diagnosing NES Power Fluctuations for Smooth Runs",
+    "dek": "Learn to spot and fix NES power issues that can ruin a speedrun without breaking the console.",
+    "takeaway": "A stable power supply keeps your NES running cleanly, preventing unexpected resets mid‑run.",
+    "whatHappened": "During a recent marathon run, the NES console intermittently reset, causing a loss of progress. The culprit turned out to be a loose AC adapter connection and aged electrolytic caps. A quick inspection and replacement restored stability.",
+    "whyItMatters": "Power instability introduces random lag and resets, breaking the precision timing essential for speedruns. For collectors, unstable power can accelerate wear on the console’s internals. Fixing it preserves both performance and hardware longevity.",
+    "howToThink": "Start by checking the adapter’s plug and cable for frayed wires, then measure voltage stability with a multimeter if possible. Replace aging caps inside the PSU or use a fresh, reputable replacement. Keep the console in a well‑ventilated area to avoid heat‑related power sag.",
+    "pros": [
+      "Easy visual inspection",
+      "Low‑cost parts",
+      "Immediate performance gain"
+    ],
+    "cons": [
+      "May require soldering",
+      "Finding exact replacement caps can be tricky",
+      "Risk of voiding warranty on rare units"
+    ],
+    "watchOut": "Never power the console while the PSU is open; always disconnect from AC before soldering.",
+    "faq": [
+      {
+        "q": "How can I tell if my NES power supply is the problem?",
+        "a": "Look for random resets, flickering screen, or a warm adapter; a multimeter will show voltage drops under load."
+      },
+      {
+        "q": "Do I need a specific type of replacement capacitor?",
+        "a": "Use electrolytic caps matching the original voltage rating and similar µF value; generic replacements work fine for most units."
+      },
+      {
+        "q": "Can I use a modern third‑party adapter?",
+        "a": "A well‑regulated 9 V DC adapter with the correct polarity is safe and often more reliable than aging originals."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "NES",
+      "Power Supply"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-29T16:45:13.094Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-boost-upgrading-sega-master-system-power-s-2",
     "title": "Pixel Boost: Upgrading Your Sega Master System Power Supply for Marathon Runs",
     "dek": "Swap the original SM System PSU for a modern 12V regulator to keep your console humming through endless speedrun marathons.",

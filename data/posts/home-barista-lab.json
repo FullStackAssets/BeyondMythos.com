@@ -1,5 +1,56 @@
 [
   {
+    "slug": "simplify-grind-consistency-shake-test",
+    "title": "Simplify Your Coffee Grind Consistency with a Simple Shake Test",
+    "dek": "A quick shake test tells you if your grind is uniform without a microscope.",
+    "takeaway": "A simple shake of your portafilter reveals uneven grind before you brew.",
+    "whatHappened": "While troubleshooting erratic espresso shots, I tossed the portafilter into a cup and gave it a quick shake. The larger particles clumped and fell faster, indicating inconsistency.",
+    "whyItMatters": "Uneven grind leads to channeling, off‑flavors, and wasted coffee. Spotting it early saves time and improves shot quality.",
+    "howToThink": "After dosing, give the portafilter a brief shake over a tray. If fine particles linger while bigger chunks settle quickly, adjust your grinder settings. Aim for a uniform tumble.",
+    "pros": [
+      "Fast detection",
+      "No extra tools",
+      "Improves shot consistency"
+    ],
+    "cons": [
+      "Subjective judgment",
+      "Less precise than lab analysis",
+      "May miss subtle variations"
+    ],
+    "watchOut": "Don’t confuse static cling with coarse particles; ensure the portafilter is empty of water.",
+    "faq": [
+      {
+        "q": "Can I use this test with a pressurized basket?",
+        "a": "Yes, but remove the basket so you can see the grounds directly."
+      },
+      {
+        "q": "How often should I perform the shake test?",
+        "a": "Before each significant change in grind size or after cleaning the grinder."
+      },
+      {
+        "q": "Does the test work for pour‑over grounds?",
+        "a": "It’s most useful for espresso; pour‑over grounds are coarser and the test is less revealing."
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "grind",
+      "espresso"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-10-29T16:45:11.628Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "dial-in-pour-over-water-temp",
     "title": "Dial In Your Pour‑Over with a Simple Water Temp Check",
     "dek": "A quick water‑temperature test can tighten flavor consistency without pricey gadgets.",

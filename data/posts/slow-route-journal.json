@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midday-platform-meditation-2",
+    "title": "Midday Platform Meditation: Low-Impact Mindfulness on Rural Trains",
+    "dek": "A quick guide to turning a train stop into a mindful pause without extra waste.",
+    "takeaway": "Even a few minutes of quiet on a platform can reset your travel rhythm sustainably.",
+    "whatHappened": "During a week-long slow-train journey, I tried a 5-minute breathing exercise each time the train halted. The routine felt surprisingly grounding amid the constant motion.",
+    "whyItMatters": "Mindful pauses reduce travel fatigue and keep the low-impact ethos alive by discouraging unnecessary stops for coffee or snacks. They also respect fellow passengers by keeping noise low.",
+    "howToThink": "Treat each stop as a micro-retreat: step off, find a spot away from the crowd, focus on breath for 4-7-8 counts, then resume. No gear needed beyond a calm mind.",
+    "pros": [
+      "Zero waste",
+      "Boosts alertness",
+      "Fits any schedule"
+    ],
+    "cons": [
+      "Requires discipline",
+      "Might feel odd to strangers",
+      "Limited if platform is crowded"
+    ],
+    "watchOut": "Avoid blocking aisles or stepping onto tracks while practicing.",
+    "faq": [
+      {
+        "q": "Do I need a mat?",
+        "a": "No, a clean spot on the platform is enough."
+      },
+      {
+        "q": "How long should the session be?",
+        "a": "Five minutes is sufficient for a reset."
+      },
+      {
+        "q": "Is it okay if others watch?",
+        "a": "Yes, keep movements subtle and respectful."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "mindfulness",
+      "rail"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-10-29T16:45:12.352Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "midday-platform-gardening",
     "title": "Midday Platform Gardening: Low‑Impact Seed Swaps on Rural Trains",
     "dek": "Swap seeds with fellow travelers on a quiet train stop, turning a brief pause into a growing network.",

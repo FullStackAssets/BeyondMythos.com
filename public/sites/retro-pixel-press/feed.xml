@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Diagnosing NES Power Fluctuations for Smooth Runs</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-pixel-press-quick-fix-nes-power.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-pixel-press-quick-fix-nes-power.html</guid>
+      <pubDate>Thu, 29 Oct 2026 16:45:13 GMT</pubDate>
+      <description>Learn to spot and fix NES power issues that can ruin a speedrun without breaking the console.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Upgrading Your Sega Master System Power Supply for Marathon Runs</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-upgrading-sega-master-system-power-s-2.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-upgrading-sega-master-system-power-s-2.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/atari-7800-cartridge-connector-boost.html</guid>
       <pubDate>Wed, 28 Oct 2026 00:45:09 GMT</pubDate>
       <description>Give your Atari 7800 a fresh connection boost to stop intermittent freezes.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Rewiring Game Boy Advance Link Cable for Reliable Multiplayer</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-rewiring-gba-link-cable.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-rewiring-gba-link-cable.html</guid>
-      <pubDate>Tue, 27 Oct 2026 23:45:08 GMT</pubDate>
-      <description>Fix flaky GBA link cables with a simple rewiring to ensure smooth multiplayer sessions.</description>
     </item>
   </channel>
 </rss>
