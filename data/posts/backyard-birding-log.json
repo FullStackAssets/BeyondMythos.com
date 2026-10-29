@@ -1,5 +1,56 @@
 [
   {
+    "slug": "ask-the-forge-habitat-78",
+    "title": "Ask the forge: your habitat questions, answered",
+    "dek": "Straight answers to the habitat questions casual birdwatchers and backyard naturalists keep asking, minus the hedging.",
+    "takeaway": "Most habitat questions have boring, reliable answers. Here they are, without the two thousand words of preamble.",
+    "whatHappened": "We gathered the questions that appear weekly wherever casual birdwatchers and backyard naturalists compare notes — the ones usually answered with \"it depends\" — and committed to actual answers with actual reasoning.",
+    "whyItMatters": "\"It depends\" is true and useless. Newcomers to habitat don't need every caveat; they need a defensible default they can adjust later.",
+    "howToThink": "Take the default, use it for a month, then earn your deviations. Customization is a reward for data, not a starting requirement.",
+    "pros": [
+      "Defaults beat decision paralysis",
+      "Reasoning shown, not just verdicts",
+      "Adjustable once you have data"
+    ],
+    "cons": [
+      "Defaults fit most, not all",
+      "Experts will quibble — always",
+      "Questions evolve; answers date"
+    ],
+    "watchOut": "Any answer that can't say what would change its mind isn't an answer — it's an identity. Ours come with conditions attached.",
+    "faq": [
+      {
+        "q": "What's the most-asked question?",
+        "a": "\"What should I buy first?\" — and the answer is almost always: nothing yet. Run the routine for two weeks first."
+      },
+      {
+        "q": "Why give defaults instead of options?",
+        "a": "Because ten options produce paralysis and one default produces feedback. You can only iterate on something you started."
+      },
+      {
+        "q": "How often do these answers change?",
+        "a": "We revisit quarterly. The fundamentals drift slowly; the gear recommendations drift fast."
+      }
+    ],
+    "category": "Habitat",
+    "tags": [
+      "Habitat",
+      "Feeders"
+    ],
+    "sources": [
+      {
+        "label": "r/whatsthisbird community threads",
+        "url": "https://www.reddit.com/r/whatsthisbird/"
+      },
+      {
+        "label": "Search interest: \"bird migration calendar\"",
+        "url": "https://duckduckgo.com/?q=bird%20migration%20calendar"
+      }
+    ],
+    "publishedAt": "2026-10-29T15:45:37.857Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-migration-78",
     "title": "The quiet upgrade: small tweaks in migration with outsized returns",
     "dek": "No purchases, no overhauls — the modest migration adjustments that casual birdwatchers and backyard naturalists report mattering most.",

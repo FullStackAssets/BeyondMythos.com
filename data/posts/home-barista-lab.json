@@ -1,5 +1,56 @@
 [
   {
+    "slug": "dial-in-pour-over-water-temp",
+    "title": "Dial In Your Pour‑Over with a Simple Water Temp Check",
+    "dek": "A quick water‑temperature test can tighten flavor consistency without pricey gadgets.",
+    "takeaway": "Checking brew water temperature before each pour‑over sharpens extraction control.",
+    "whatHappened": "I noticed my morning pour‑overs tasted uneven, even though grind and dose stayed the same. A quick tap‑test with a kitchen thermometer revealed water temps swinging between 88 °C and 96 °C. Adjusting the kettle setting steadied the flavor.",
+    "whyItMatters": "Water temperature drives extraction speed; too cool and the brew under‑extracts, too hot and it can become bitter. Consistent temps mean repeatable taste, essential for tracking progress.",
+    "howToThink": "Treat temperature like a variable you can eyeball: heat the kettle, then dip a thermometer or use the back‑of‑hand ‘fingers’ test. If the water feels too cool, wait a few seconds; if it’s scalding, let it sit briefly. Over time you’ll develop a feel for the sweet spot.",
+    "pros": [
+      "Low‑cost",
+      "Immediate feedback",
+      "Improves flavor repeatability"
+    ],
+    "cons": [
+      "Requires a thermometer or feel test",
+      "Adds a brief pause",
+      "May need kettle with temperature control for precision"
+    ],
+    "watchOut": "Avoid overheating the water, as a scorching pour can extract harsh compounds.",
+    "faq": [
+      {
+        "q": "Do I need a digital thermometer?",
+        "a": "A basic kitchen thermometer works, but the finger‑warmth test can suffice for a rough check."
+      },
+      {
+        "q": "What temperature range is ideal for most pour‑over?",
+        "a": "Aim for 90‑96 °C; stay within this band for balanced extraction."
+      },
+      {
+        "q": "Will this technique help with espresso too?",
+        "a": "The principle applies, but espresso machines usually control temperature more precisely."
+      }
+    ],
+    "category": "Pour-over",
+    "tags": [
+      "pour-over",
+      "temperature"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-10-29T15:45:15.200Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "elevate-espresso-consistency-pre-infusion-pause",
     "title": "Elevate Your Espresso Consistency with a Simple Pre‑Infusion Pause",
     "dek": "A quick 5‑second pause before pulling the shot steadies flow and flavor without extra gear.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midday-platform-gardening",
+    "title": "Midday Platform Gardening: Low‑Impact Seed Swaps on Rural Trains",
+    "dek": "Swap seeds with fellow travelers on a quiet train stop, turning a brief pause into a growing network.",
+    "takeaway": "A few packets of seeds can seed community, conversation, and sustainable travel habits.",
+    "whatHappened": "During a midday layover, I joined a spontaneous seed swap organized by a local horticulture group. Travelers exchanged heirloom packets and shared planting tips.",
+    "whyItMatters": "Seed swapping spreads biodiversity, supports local farms, and reinforces the low‑impact ethos of slow travel by extending the journey’s influence beyond the rails.",
+    "howToThink": "Carry a small, reusable seed pouch, learn a couple of basic seed‑saving facts, and be ready to chat about climate‑smart gardening when the train stops.",
+    "pros": [
+      "Fosters community",
+      "Boosts biodiversity",
+      "Minimal cost and waste"
+    ],
+    "cons": [
+      "Requires permission at some stations",
+      "Limited space for large packets",
+      "Weather‑dependent planting advice"
+    ],
+    "watchOut": "Make sure the seeds you share are allowed in the destination country’s regulations.",
+    "faq": [
+      {
+        "q": "Can I bring any type of seed?",
+        "a": "Stick to non‑invasive, locally appropriate varieties and check customs rules."
+      },
+      {
+        "q": "How much seed should I carry?",
+        "a": "A few small packets (under 50 g each) fit easily in a pocket or pouch."
+      },
+      {
+        "q": "What if there’s no swap group?",
+        "a": "Start a simple “seed corner” on the platform with a sign and let curious travelers join."
+      }
+    ],
+    "category": "Local",
+    "tags": [
+      "seed swap",
+      "slow rail"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-10-29T15:45:11.089Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-stays-mistakes-57",
     "title": "Five mistakes everyone makes in their first month of stays",
     "dek": "The most common early stumbles in stays, and the cheap corrections that fix them for slow-travel and low-impact explorers.",

@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Upgrading Your Sega Master System Power Supply for Marathon Runs</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-upgrading-sega-master-system-power-s-2.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-upgrading-sega-master-system-power-s-2.html</guid>
+      <pubDate>Thu, 29 Oct 2026 15:45:14 GMT</pubDate>
+      <description>Swap the original SM System PSU for a modern 12V regulator to keep your console humming through endless speedrun marathons.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Optimizing Your Commodore 64 Power Supply for Marathon Runs</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/optimizing-c64-power-supply.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/optimizing-c64-power-supply.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-rewiring-gba-link-cable.html</guid>
       <pubDate>Tue, 27 Oct 2026 23:45:08 GMT</pubDate>
       <description>Fix flaky GBA link cables with a simple rewiring to ensure smooth multiplayer sessions.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Tuning TurboGrafx‑16 Audio Output for Clear Retro Sound</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-tg16-audio-tuning.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-tg16-audio-tuning.html</guid>
-      <pubDate>Tue, 27 Oct 2026 22:45:07 GMT</pubDate>
-      <description>Boost your TurboGrafx‑16 audio clarity with a simple capacitor swap and connector cleaning.</description>
     </item>
   </channel>
 </rss>

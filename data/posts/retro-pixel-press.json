@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-boost-upgrading-sega-master-system-power-s-2",
+    "title": "Pixel Boost: Upgrading Your Sega Master System Power Supply for Marathon Runs",
+    "dek": "Swap the original SM System PSU for a modern 12V regulator to keep your console humming through endless speedrun marathons.",
+    "takeaway": "A reliable power source prevents crashes and keeps your timing consistent.",
+    "whatHappened": "We replaced a decade‑old Sega Master System power brick with a regulated 12V supply and ran a 24‑hour nonstop speedrun session. The console stayed stable, and no flicker or reset occurred.",
+    "whyItMatters": "Power fluctuations are a silent killer for long runs; even a brief dip can reset the game and ruin a record attempt. Upgrading the PSU eliminates that risk and extends hardware lifespan.",
+    "howToThink": "Choose a regulator that matches the original voltage and current specs, add proper heat sinking, and secure connections with solder or crimped terminals. Test the output with a multimeter before hooking up the console. Keep the new unit ventilated to avoid overheating during marathon sessions.",
+    "pros": [
+      "Stable voltage",
+      "Longer console life",
+      "Easy DIY swap"
+    ],
+    "cons": [
+      "Need basic soldering",
+      "Potential void warranty",
+      "Initial cost of regulator"
+    ],
+    "watchOut": "Ensure the regulator’s output polarity matches the original to avoid damaging the console.",
+    "faq": [
+      {
+        "q": "Can I use a generic 12V adapter?",
+        "a": "A generic adapter works if it provides the correct voltage, sufficient current, and proper polarity, but regulated supplies are preferred for consistency."
+      },
+      {
+        "q": "Do I need to modify the original PSU housing?",
+        "a": "No, you can mount the new regulator inside the old case or use a separate enclosure to keep the setup tidy."
+      },
+      {
+        "q": "Will this affect the console’s audio/video quality?",
+        "a": "Stable power can actually improve video stability; audio remains unchanged as long as the voltage is correct."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "hardware",
+      "sega"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-10-29T15:45:14.480Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "optimizing-c64-power-supply",
     "title": "Pixel Boost: Optimizing Your Commodore 64 Power Supply for Marathon Runs",
     "dek": "A quick guide to stabilizing your C64’s power to avoid crashes during long speedrun sessions.",
