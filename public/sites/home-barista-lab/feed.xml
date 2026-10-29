@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/home-barista-lab/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Fine‑Tune Your Espresso Crema with a Simple Portafilter Tilt Test</title>
+      <link>https://www.beyondmythos.com/sites/home-barista-lab/posts/fine-tune-espresso-crema-tilt-test.html</link>
+      <guid>https://www.beyondmythos.com/sites/home-barista-lab/posts/fine-tune-espresso-crema-tilt-test.html</guid>
+      <pubDate>Thu, 29 Oct 2026 23:45:06 GMT</pubDate>
+      <description>A quick tilt test helps you spot uneven crema and improve shot consistency without pricey equipment.</description>
+    </item>
+    <item>
       <title>Spot Espresso Channeling with a Simple Portafilter Vibration Test</title>
       <link>https://www.beyondmythos.com/sites/home-barista-lab/posts/spot-espresso-channeling-vibration-test.html</link>
       <guid>https://www.beyondmythos.com/sites/home-barista-lab/posts/spot-espresso-channeling-vibration-test.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/home-barista-lab/posts/espresso-temperature-hack.html</guid>
       <pubDate>Wed, 28 Oct 2026 05:45:07 GMT</pubDate>
       <description>A quick way to monitor brew temperature with a cheap thermocouple and Arduino for tighter espresso control.</description>
-    </item>
-    <item>
-      <title>Dial in Your Brew Ratio with a Simple Kitchen Scale Trick</title>
-      <link>https://www.beyondmythos.com/sites/home-barista-lab/posts/brew-ratio-kitchen-scale.html</link>
-      <guid>https://www.beyondmythos.com/sites/home-barista-lab/posts/brew-ratio-kitchen-scale.html</guid>
-      <pubDate>Wed, 28 Oct 2026 04:45:11 GMT</pubDate>
-      <description>Use your kitchen scale to nail the perfect coffee‑to‑water ratio and keep every cup tasting consistent.</description>
     </item>
   </channel>
 </rss>

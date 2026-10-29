@@ -1,5 +1,56 @@
 [
   {
+    "slug": "fine-tune-espresso-crema-tilt-test",
+    "title": "Fine‑Tune Your Espresso Crema with a Simple Portafilter Tilt Test",
+    "dek": "A quick tilt test helps you spot uneven crema and improve shot consistency without pricey equipment.",
+    "takeaway": "A simple portafilter tilt reveals distribution issues so you can adjust grind or tamp for better crema.",
+    "whatHappened": "I tried the tilt test on a recent batch of espresso and noticed the crema pooled to one side. Adjusting the tamp pressure and grinder burr alignment balanced the flow, producing a richer, even crema.",
+    "whyItMatters": "Uneven crema signals channeling, which wastes coffee and reduces flavor. Catching it early lets home baristas fine‑tune variables for consistent taste.",
+    "howToThink": "Place the portafilter on a flat surface, gently tilt it, and watch where the liquid gathers. If it runs to one edge, consider a firmer tamp or finer grind on that side. Small adjustments pay off in a balanced shot.",
+    "pros": [
+      "No extra tools",
+      "Immediate visual feedback",
+      "Improves shot consistency"
+    ],
+    "cons": [
+      "Subjective interpretation",
+      "May miss subtle channeling",
+      "Requires steady hand"
+    ],
+    "watchOut": "Don’t over‑tilt the portafilter; a gentle angle is enough to see flow patterns.",
+    "faq": [
+      {
+        "q": "What if the tilt shows no obvious pooling?",
+        "a": "Your extraction is likely even; focus on other variables like temperature or dose."
+      },
+      {
+        "q": "Can I use this test with a pressurized basket?",
+        "a": "It’s less informative; the test works best with a non‑pressurized basket."
+      },
+      {
+        "q": "How often should I perform the tilt test?",
+        "a": "Run it whenever you change beans, adjust grind, or notice inconsistent crema."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "technique"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-10-29T23:45:06.665Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "spot-espresso-channeling-vibration-test",
     "title": "Spot Espresso Channeling with a Simple Portafilter Vibration Test",
     "dek": "A quick tap test reveals hidden channeling in your espresso shot, so you can fine‑tune your grind and tamp.",

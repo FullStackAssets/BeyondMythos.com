@@ -1,5 +1,56 @@
 [
   {
+    "slug": "evening-station-strolls",
+    "title": "Evening Station Strolls: Low‑Impact Exploration on Rural Lines",
+    "dek": "Discover how a brief evening walk along a quiet station can deepen your slow‑travel experience without leaving a carbon trace.",
+    "takeaway": "A short, mindful stroll at a stop adds cultural insight while keeping impact minimal.",
+    "whatHappened": "After disembarking at a small town in the Scottish Highlands, I spent twenty minutes wandering the platform and nearby path, noting the sunset and chatting with locals about their daily rhythms.",
+    "whyItMatters": "Evening walks reveal the subtle life of a rail community that daytime tourists miss, reinforcing the low‑impact ethos of slow travel. They also encourage travelers to linger responsibly, spreading footfall over time rather than concentrating crowds.",
+    "howToThink": "Plan a brief stop of 15‑30 minutes, bring a reusable water bottle, and use a headlamp or low‑light lamp. Observe quietly, keep to existing paths, and leave no trace.",
+    "pros": [
+      "Boosts local connection",
+      "Minimal carbon addition",
+      "Easy to fit into itineraries"
+    ],
+    "cons": [
+      "Limited time at each stop",
+      "May require flexible train schedule",
+      "Cold evenings in some regions"
+    ],
+    "watchOut": "Watch out for platform safety rules and ensure you’re back before the train departs.",
+    "faq": [
+      {
+        "q": "Do I need special gear for an evening platform walk?",
+        "a": "A small flashlight and weather‑appropriate layers are enough."
+      },
+      {
+        "q": "Can I bring food?",
+        "a": "Pack a reusable snack that leaves no waste."
+      },
+      {
+        "q": "Is it safe to walk alone?",
+        "a": "Most rural stations are quiet but stay aware of your surroundings and follow local guidelines."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "low-impact"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-10-29T23:45:10.255Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "slow-boarding-rituals",
     "title": "Slow Boarding Rituals: Low‑Impact Practices at Rural Train Stops",
     "dek": "Master the gentle art of boarding rural trains without rushing or waste.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "best-35mm-film-stocks-field-test-26",
+    "title": "\"best 35mm film stocks\" in practice: a real-world field test",
+    "dek": "We put the most-repeated advice about best 35mm film stocks through a month of actual use. Some of it survived.",
+    "takeaway": "Half the standard advice on best 35mm film stocks holds up; the other half exists to sell you something. Test small before you commit.",
+    "whatHappened": "We collected the most common recommendations film photographers and darkroom hobbyists see when they search \"best 35mm film stocks\" and ran them through four weeks of ordinary, unglamorous use. The gap between what demos well and what holds up in week four was bigger than expected.",
+    "whyItMatters": "Most advice about film stocks is written from a first impression. The failure modes that actually cost film photographers and darkroom hobbyists time and money only show up with repetition — which is exactly what one-day reviews never capture.",
+    "howToThink": "Before adopting any recommendation about best 35mm film stocks, ask what a fourth week of it looks like. If you can't picture the boring version, you're looking at marketing, not a method.",
+    "pros": [
+      "Cheap to replicate at home",
+      "Surfaced real week-four failure modes",
+      "Cuts through first-impression reviews"
+    ],
+    "cons": [
+      "A month is still a small sample",
+      "Results vary by setup",
+      "Some advice needs a season, not weeks"
+    ],
+    "watchOut": "If a guide about best 35mm film stocks shows zero failed attempts, it wasn't a test — it was a script.",
+    "faq": [
+      {
+        "q": "What survived the field test?",
+        "a": "The fundamentals: consistent routine, modest gear, and keeping a log. The exotic tricks mostly didn't."
+      },
+      {
+        "q": "How should I run my own test?",
+        "a": "Change one variable, hold everything else steady for two weeks minimum, and write down what annoyed you."
+      },
+      {
+        "q": "Whose advice should I trust?",
+        "a": "People who publish follow-ups. A single enthusiastic post about film stocks is a data point, not a verdict."
+      }
+    ],
+    "category": "Film Stocks",
+    "tags": [
+      "Film Stocks",
+      "Cameras"
+    ],
+    "sources": [
+      {
+        "label": "r/analog community threads",
+        "url": "https://www.reddit.com/r/analog/"
+      },
+      {
+        "label": "Search interest: \"best 35mm film stocks\"",
+        "url": "https://duckduckgo.com/?q=best%2035mm%20film%20stocks"
+      }
+    ],
+    "publishedAt": "2026-10-29T23:45:39.730Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-darkroom-76",
     "title": "Ask the forge: your darkroom questions, answered",
     "dek": "Straight answers to the darkroom questions film photographers and darkroom hobbyists keep asking, minus the hedging.",

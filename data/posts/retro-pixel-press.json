@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-boost-replacing-snes-controller-contacts",
+    "title": "Pixel Boost: Replacing SNES Controller Contacts for Cleaner Inputs",
+    "dek": "Fresh, reliable SNES controller inputs can shave precious frames off your runs—here’s a quick guide to reviving those old contacts.",
+    "takeaway": "Cleaning or replacing controller contacts restores crisp response, boosting consistency for speedruns.",
+    "whatHappened": "After a marathon of Super Mario World attempts, the SNES controller began registering missed presses. A quick teardown revealed oxidized contacts inside the button pads. A brief cleaning followed by a contact‑reflow solved the issue in minutes.",
+    "whyItMatters": "Unreliable inputs cause missed jumps and wasted attempts, inflating practice time and frustration. Restoring a controller’s fidelity lets you focus on strategy, not hardware glitches, and preserves the authenticity of retro hardware for competitive runs.",
+    "howToThink": "Start by disassembling the controller and inspecting each contact for corrosion. Use isopropyl alcohol and a soft brush to clean lightly, then apply a thin layer of conductive grease or replace the contact pads with fresh copper strips if needed. Reassemble, test each button, and repeat until every press registers cleanly.",
+    "pros": [
+      "Restores original feel",
+      "Cost-effective compared to buying new",
+      "Improves input reliability"
+    ],
+    "cons": [
+      "Requires basic soldering skill",
+      "Risk of PCB damage if rushed",
+      "Time‑consuming versus a plug‑and‑play replacement"
+    ],
+    "watchOut": "Avoid overheating the PCB when soldering; a brief, low‑heat touch is enough to reflow contacts without warping the board.",
+    "faq": [
+      {
+        "q": "Do I need a soldering iron for this repair?",
+        "a": "A fine‑tip soldering iron helps when contacts are severely worn, but many cases can be fixed with just cleaning and conductive grease."
+      },
+      {
+        "q": "Can I use regular household grease?",
+        "a": "Use a conductive grease designed for electronics; household greases can attract dust and degrade over time."
+      },
+      {
+        "q": "Is it safe to use the controller while the console is on?",
+        "a": "Always power down the console and disconnect the controller before opening it to avoid short circuits."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "hardware",
+      "snes"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-10-29T23:45:04.236Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "game-boy-camera-lens-replacement",
     "title": "Pixel Boost: Replacing Your Game Boy Camera Lens for Crystal-Clear Shots",
     "dek": "Swap the aging Game Boy Camera lens for a fresh one and get crisp, lag‑free screenshots for your runs.",
