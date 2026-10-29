@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midday-platform-crafts-2",
+    "title": "Midday Platform Crafts: Low‑Impact Handmaking on Rural Trains",
+    "dek": "Turn idle train minutes into a mini craft workshop, keeping creativity low‑impact and travel-friendly.",
+    "takeaway": "Creative low‑impact crafting can enrich slow‑travel journeys without extra waste.",
+    "whatHappened": "I arrived at a quiet countryside stop, set up a small knitting kit in the carriage, and spent the next hour stitching a simple scarf while the train rumbled past fields. Fellow passengers noticed and shared tips, turning the ride into a collaborative studio.",
+    "whyItMatters": "Crafting on board uses minimal resources, encourages mindfulness, and deepens the sense of place by turning movement into making. It also demonstrates that slow travel can be productive without sacrificing low‑impact values.",
+    "howToThink": "Pack lightweight, multi‑use tools (needle, yarn, small sketchpad) in a zip‑pouch. Choose projects that require no electricity and produce no waste beyond the finished piece. Treat each stop as a chance to pause, reflect, and add a handmade souvenir to your journey.",
+    "pros": [
+      "Zero‑waste activity",
+      "Boosts mindfulness",
+      "Creates tangible travel mementos"
+    ],
+    "cons": [
+      "Limited space in tight carriages",
+      "May require quiet environment",
+      "Materials add slight weight"
+    ],
+    "watchOut": "Avoid loose yarn that can tangle with seat belts or other passengers' belongings.",
+    "faq": [
+      {
+        "q": "Can I craft on a crowded train?",
+        "a": "Yes, choose compact projects like crochet or sketching that don’t require much space."
+      },
+      {
+        "q": "What materials are best for low‑impact crafting?",
+        "a": "Natural fibers, recycled yarn, and reusable sketch pads keep the footprint small."
+      },
+      {
+        "q": "Do I need permission to craft on public transport?",
+        "a": "Generally no, as long as you’re not obstructing aisles or disturbing others."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "crafts",
+      "rail"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-10-29T17:45:11.874Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "midday-platform-meditation-2",
     "title": "Midday Platform Meditation: Low-Impact Mindfulness on Rural Trains",
     "dek": "A quick guide to turning a train stop into a mindful pause without extra waste.",

@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Tuning Your Game Boy Battery for Marathon Runs</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/tuning-game-boy-battery.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/tuning-game-boy-battery.html</guid>
+      <pubDate>Thu, 29 Oct 2026 17:45:11 GMT</pubDate>
+      <description>Extend your Game Boy’s run time and avoid sudden power drops during long speedruns.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Diagnosing NES Power Fluctuations for Smooth Runs</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-pixel-press-quick-fix-nes-power.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-pixel-press-quick-fix-nes-power.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/calibrating-turbotap-controller.html</guid>
       <pubDate>Wed, 28 Oct 2026 01:45:07 GMT</pubDate>
       <description>A quick guide to fine‑tuning your TurboTap for rock‑steady input during high‑speed runs.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Overhauling Atari 7800 Cartridge Connectors for Reliable Play</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/atari-7800-cartridge-connector-boost.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/atari-7800-cartridge-connector-boost.html</guid>
-      <pubDate>Wed, 28 Oct 2026 00:45:09 GMT</pubDate>
-      <description>Give your Atari 7800 a fresh connection boost to stop intermittent freezes.</description>
     </item>
   </channel>
 </rss>

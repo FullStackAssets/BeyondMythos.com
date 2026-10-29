@@ -1,5 +1,56 @@
 [
   {
+    "slug": "boost-brew-consistency-frothing-shake",
+    "title": "Boost Brew Consistency with a Simple Milk Frothing Shake",
+    "dek": "A quick shake of your milk frother can reveal hidden inconsistencies and sharpen your espresso drinks.",
+    "takeaway": "A brief frother shake helps you catch texture issues before they affect your espresso.",
+    "whatHappened": "I noticed my latte foam was uneven despite using the same technique. A quick shake of the frothing pitcher revealed air pockets that were throwing off the texture.",
+    "whyItMatters": "Inconsistent foam changes mouthfeel and can mask underlying extraction problems. Spotting the issue early lets you adjust grind or tamp before pulling another shot, saving beans and time.",
+    "howToThink": "Treat the frother like a quick diagnostic tool: give the pitcher a gentle shake, watch the milk settle, and note any lingering bubbles. If the milk steadies quickly, your frothing process is stable; if not, tweak temperature or steam wand technique.",
+    "pros": [
+      "Fast diagnostic",
+      "No extra tools",
+      "Improves foam texture"
+    ],
+    "cons": [
+      "Requires extra step",
+      "May disturb milk temperature",
+      "Not useful for cold drinks"
+    ],
+    "watchOut": "Avoid shaking too vigorously, which can create large bubbles and ruin crema.",
+    "faq": [
+      {
+        "q": "Will shaking affect the temperature of my milk?",
+        "a": "A brief, gentle shake has minimal impact, but excessive shaking can cool the milk slightly."
+      },
+      {
+        "q": "Can I use this trick with alternative milks?",
+        "a": "Yes, the principle works with any milk that foams, though texture may vary."
+      },
+      {
+        "q": "How often should I perform the shake test?",
+        "a": "Whenever you notice a change in foam quality or after adjusting your steam settings."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "milk-frothing"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-10-29T17:45:13.214Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "simplify-grind-consistency-shake-test",
     "title": "Simplify Your Coffee Grind Consistency with a Simple Shake Test",
     "dek": "A quick shake test tells you if your grind is uniform without a microscope.",

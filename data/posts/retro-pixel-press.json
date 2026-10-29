@@ -1,5 +1,56 @@
 [
   {
+    "slug": "tuning-game-boy-battery",
+    "title": "Pixel Boost: Tuning Your Game Boy Battery for Marathon Runs",
+    "dek": "Extend your Game Boy’s run time and avoid sudden power drops during long speedruns.",
+    "takeaway": "A fresh battery and proper contacts keep your handheld alive for marathon sessions.",
+    "whatHappened": "After a weekend of chasing 100% in a classic Game Boy title, the player’s battery died mid‑run, forcing a reset and costing precious seconds. The issue sparked a quick dive into the handheld’s power supply to find a lasting fix.",
+    "whyItMatters": "A dying battery not only stalls a run but can corrupt save data and damage the cartridge’s contacts. Reliable power is essential for both record‑breaking attempts and preserving the hardware for future generations.",
+    "howToThink": "Swap the original 2×AA pack for high‑capacity rechargeable cells, clean the battery contacts with isopropyl alcohol, and secure the new cells with proper polarity. Test the voltage with a multimeter before the next marathon session.",
+    "pros": [
+      "Longer playtime",
+      "Stable voltage",
+      "Easy DIY"
+    ],
+    "cons": [
+      "Requires soldering",
+      "Potential void warranty",
+      "Battery cost"
+    ],
+    "watchOut": "Watch out for reversed polarity when installing the new cells to avoid short circuits.",
+    "faq": [
+      {
+        "q": "Do I need to open the case to replace the batteries?",
+        "a": "Yes, the Game Boy’s back panel unscrews, giving access to the battery compartment and contacts."
+      },
+      {
+        "q": "Can I use NiMH rechargeable cells instead of alkaline?",
+        "a": "NiMH works fine and offers more cycles, just ensure they’re the same size and match the voltage requirements."
+      },
+      {
+        "q": "Is it safe to solder directly onto the battery contacts?",
+        "a": "A quick spot‑solder with a low‑heat setting is safe; avoid overheating the plastic housing."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Game Boy",
+      "Battery"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-10-29T17:45:11.182Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "retro-pixel-press-quick-fix-nes-power",
     "title": "Pixel Boost: Diagnosing NES Power Fluctuations for Smooth Runs",
     "dek": "Learn to spot and fix NES power issues that can ruin a speedrun without breaking the console.",
