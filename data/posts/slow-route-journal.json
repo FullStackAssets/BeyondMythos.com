@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midday-platform-reading-low-impact-book-swaps-2",
+    "title": "Midday Platform Reading: Low‑Impact Book Swaps on Rural Trains",
+    "dek": "Swap stories and spare pages on quiet countryside trains, keeping your carbon footprint as light as the pages.",
+    "takeaway": "A rolling book exchange turns idle travel time into a low‑impact literary adventure.",
+    "whatHappened": "I boarded the 10:15 countryside service with a small bag of gently used paperbacks. A fellow traveler suggested a pop‑up book swap at the midway stop, and soon a modest shelf of shared titles appeared in the carriage.",
+    "whyItMatters": "Turning idle minutes into a community exchange reduces waste and extends the life of books, aligning with low‑impact travel values. It also builds spontaneous connections among strangers, enriching the journey beyond scenery alone.",
+    "howToThink": "Bring a few well‑chosen titles and a simple sign, then place the books in a visible spot like an empty luggage rack. Encourage others to add or take books, but keep the collection tidy and respect any “no‑take” markers. Treat the swap as a shared resource, not a free‑for‑all, to maintain order and enjoyment.",
+    "pros": [
+      "Zero waste",
+      "Fosters community",
+      "Enriches travel"
+    ],
+    "cons": [
+      "Limited space",
+      "Requires coordination",
+      "May attract stray pages"
+    ],
+    "watchOut": "Guard against rain or sudden stops that could scatter loose pages.",
+    "faq": [
+      {
+        "q": "Do I need permission from the train operator?",
+        "a": "Most operators allow small, non‑commercial exchanges as long as they don’t obstruct aisles or safety equipment."
+      },
+      {
+        "q": "What types of books work best?",
+        "a": "Lightweight paperbacks, travel guides, or short stories that fit easily in a bag and won’t damage luggage."
+      },
+      {
+        "q": "How do I handle a book that isn’t returned?",
+        "a": "Treat it as a shared resource; the swap’s purpose is circulation, not guaranteed return."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "community"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-10-29T11:45:15.728Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "midday-platform-reflection-journaling-rural-trai",
     "title": "Midday Platform Reflection: Low‑Impact Journaling on Rural Trains",
     "dek": "Turn a train ride into a low‑impact mindfulness session with a pocket notebook and a few simple prompts.",

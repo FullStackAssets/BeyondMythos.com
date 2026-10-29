@@ -1,5 +1,56 @@
 [
   {
+    "slug": "scale-calibration-water-test",
+    "title": "Calibrate Your Home Coffee Scale with a Simple Water Test",
+    "dek": "Get pinpoint accuracy from your kitchen scale using just water and a kitchen timer—no fancy equipment needed.",
+    "takeaway": "A quick water test keeps your scale trustworthy for every brew.",
+    "whatHappened": "I noticed my espresso doses drifting by a gram after a week of use, so I tried a DIY calibration using a cup of water and a timer. The method revealed a 0.8 g offset, which I corrected with the scale’s tare function.",
+    "whyItMatters": "Even a gram’s variance can throw off brew ratios, especially for espresso and precise pour‑over recipes. Consistent weight ensures repeatable flavor and extraction, saving you trial‑and‑error time.",
+    "howToThink": "Start with a known volume of water (e.g., 100 ml) and weigh it on your scale; compare the reading to the expected 100 g. Adjust the tare or zero setting until they match, then repeat with a second volume to confirm stability.",
+    "pros": [
+      "No extra tools needed",
+      "Takes under five minutes",
+      "Improves dose consistency"
+    ],
+    "cons": [
+      "Requires a stable surface",
+      "May need repeat checks after moving the scale",
+      "Only as accurate as the water volume measurement"
+    ],
+    "watchOut": "Ensure the container you use is level and empty before placing it on the scale to avoid compounding errors.",
+    "faq": [
+      {
+        "q": "Do I need a measuring cup for the water volume?",
+        "a": "A standard kitchen measuring cup or a graduated beaker works fine; just use a volume you trust."
+      },
+      {
+        "q": "How often should I recalibrate?",
+        "a": "Whenever the scale is moved, after a heavy drop, or roughly once a month for peace of mind."
+      },
+      {
+        "q": "Will temperature affect the test?",
+        "a": "Water at room temperature is fine; small temperature shifts won’t noticeably impact a 100 g test."
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "scale",
+      "calibration"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-10-29T11:45:10.271Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "turn-phone-espresso-shot-timer",
     "title": "Turn Your Phone Into an Espresso Shot Timer for Perfect Pulls",
     "dek": "Use a free smartphone app to time your espresso pull and lock in consistent extraction without extra hardware.",

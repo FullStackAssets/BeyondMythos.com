@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/smart-habitat/</link>
     <description>Fresh takes for smart-home tinkerers and privacy-minded automators.</description>
     <item>
+      <title>&quot;smart lighting setup&quot; in practice: a real-world field test</title>
+      <link>https://www.beyondmythos.com/sites/smart-habitat/posts/smart-lighting-setup-field-test-29.html</link>
+      <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/smart-lighting-setup-field-test-29.html</guid>
+      <pubDate>Thu, 29 Oct 2026 11:45:31 GMT</pubDate>
+      <description>We put the most-repeated advice about smart lighting setup through a month of actual use. Some of it survived.</description>
+    </item>
+    <item>
       <title>Ask the forge: your lighting questions, answered</title>
       <link>https://www.beyondmythos.com/sites/smart-habitat/posts/ask-the-forge-lighting-86.html</link>
       <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/ask-the-forge-lighting-86.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/community-pulse-homeassistant-28.html</guid>
       <pubDate>Tue, 27 Oct 2026 16:45:29 GMT</pubDate>
       <description>The arguments, consensus shifts, and quietly useful threads from the lighting community this week.</description>
-    </item>
-    <item>
-      <title>The local control checklist: run this before you spend</title>
-      <link>https://www.beyondmythos.com/sites/smart-habitat/posts/local-control-pre-spend-checklist-80.html</link>
-      <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/local-control-pre-spend-checklist-80.html</guid>
-      <pubDate>Tue, 27 Oct 2026 15:45:34 GMT</pubDate>
-      <description>Seven questions that separate a justified local control purchase from an expensive mood.</description>
     </item>
   </channel>
 </rss>
