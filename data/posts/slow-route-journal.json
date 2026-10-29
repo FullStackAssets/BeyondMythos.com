@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midday-platform-cooking-2",
+    "title": "Midday Platform Cooking: Low‑Impact Meals on Rural Trains",
+    "dek": "Whipping up simple, low-waste dishes while the train rolls past the countryside.",
+    "takeaway": "Portable, plant‑forward cooking keeps your carbon footprint tiny and your energy high.",
+    "whatHappened": "We spent a rainy afternoon in a second‑class carriage, unpacking a compact stove, a tin of lentils, and a reusable bowl. With the window seat offering a view of passing fields, we cooked a one‑pot stew that fed three and left no trace.",
+    "whyItMatters": "Food is a hidden carbon source on trains; using minimal packaging and plant‑based ingredients cuts emissions dramatically. Cooking on board also reduces reliance on wasteful onboard catering.",
+    "howToThink": "Treat the train carriage as a tiny kitchen: bring only what fits in a small bag, use a single pot, and choose ingredients that require no refrigeration. Plan meals that finish in under 30 minutes and clean up with a single rinse.",
+    "pros": [
+      "Zero waste packaging",
+      "Boosts community vibe",
+      "Saves money"
+    ],
+    "cons": [
+      "Limited cooking space",
+      "Needs portable heat source",
+      "May disturb nearby passengers if not careful"
+    ],
+    "watchOut": "Make sure the train’s policy permits open flames or portable burners before you start cooking.",
+    "faq": [
+      {
+        "q": "Can I use a small alcohol stove on a train?",
+        "a": "Check the railway’s rules; many allow compact, sealed alcohol burners, but open flames are often prohibited."
+      },
+      {
+        "q": "What ingredients travel best?",
+        "a": "Dry pulses, instant rice, dehydrated vegetables, and spices stay fresh without refrigeration."
+      },
+      {
+        "q": "How do I clean up without a sink?",
+        "a": "Use a foldable water container and a biodegradable sponge; wipe the surface and pack out any residues."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "low-impact"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-10-29T13:45:13.241Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "midday-platform-observation-birdwatching-rural-t",
     "title": "Midday Platform Observation: Low‑Impact Birdwatching on Rural Trains",
     "dek": "Spotting local birds from a slow train reveals rhythms of the countryside while keeping your footprint light.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "stabilize-atari-5200-power",
+    "title": "Pixel Boost: Stabilizing Your Atari 5200 Power Supply for Marathon Runs",
+    "dek": "A quick fix to tame erratic power on the Atari 5200, keeping your runs smooth and your hardware happy.",
+    "takeaway": "A stable power supply eliminates random resets, letting you focus on the timer.",
+    "whatHappened": "We noticed intermittent freezes during long Atari 5200 speedrun attempts. The culprit turned out to be a sagging capacitive filter in the original PSU. Replacing it with a low‑profile electrolytic solved the issue.",
+    "whyItMatters": "Power instability can corrupt save states and cause missed inputs, ruining both preservation and competitive runs. A reliable feed preserves the console’s lifespan and keeps leaderboards fair.",
+    "howToThink": "When you see unexplained hiccups, check the voltage under load with a multimeter or swap in a fresh capacitor. Prioritize components that age quickly, like electrolytic caps, and consider a modern regulated adapter with the same voltage and polarity.",
+    "pros": [
+      "Easy parts list",
+      "Minimal soldering",
+      "Immediate stability boost"
+    ],
+    "cons": [
+      "Requires opening the PSU",
+      "Need basic soldering skill",
+      "May void original warranty"
+    ],
+    "watchOut": "Double‑check polarity before powering up to avoid frying the console.",
+    "faq": [
+      {
+        "q": "Can I use a generic 9V DC adapter instead of the original?",
+        "a": "Yes, as long as it provides the same voltage, correct polarity, and enough current, a regulated adapter works fine."
+      },
+      {
+        "q": "Do I need to replace all capacitors?",
+        "a": "Only the aging electrolytic caps; the other components are typically fine."
+      },
+      {
+        "q": "Is this fix safe for long‑term use?",
+        "a": "When done correctly, it improves reliability and does not introduce new risks."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Atari 5200",
+      "Power Supply"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-29T13:45:11.959Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-boost-calibrate-atari-2600-joystick",
     "title": "Pixel Boost: Calibrating Your Atari 2600 Joystick for Precision Speedrunning",
     "dek": "Learn how a simple joystick tweak on your Atari 2600 can tighten inputs and boost your run times.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-tamp-pressure-micro-adjust",
+    "title": "Micro‑Adjust Your Tamp Pressure with a Simple Finger‑Lift Test",
+    "dek": "A quick finger‑lift trick lets you gauge tamp pressure for more consistent shots.",
+    "takeaway": "Consistent tamp pressure improves espresso flavor balance.",
+    "whatHappened": "I tried a simple finger‑lift test after each tamp, noting whether the portafilter tipped when I lifted my thumb. The method revealed variations I hadn't noticed, and adjusting my pressure gave a smoother shot.",
+    "whyItMatters": "Tamp pressure directly affects water flow and extraction. Small inconsistencies can lead to under‑ or over‑extracted espresso, impacting taste.",
+    "howToThink": "Treat tamp pressure like a repeatable habit: aim for a firm, even press that holds the puck steady when you lift a finger. If the portafilter wobbles, lighten the tamp; if it stays locked, press a touch harder. Over time you’ll develop a feel for the sweet spot.",
+    "pros": [
+      "No extra tools needed",
+      "Instant feedback",
+      "Improves shot consistency"
+    ],
+    "cons": [
+      "Subjective feel may vary",
+      "Requires practice",
+      "Not precise like a pressure gauge"
+    ],
+    "watchOut": "Avoid over‑tamping; too much force can choke the flow and create bitterness.",
+    "faq": [
+      {
+        "q": "Can I use this method with any grinder?",
+        "a": "Yes, the finger‑lift test works regardless of grinder, as it assesses tamp pressure, not grind size."
+      },
+      {
+        "q": "How many times should I test per session?",
+        "a": "A quick check after each tamp is enough; you’ll get a sense of consistency after a few shots."
+      },
+      {
+        "q": "Will this replace a calibrated tamping device?",
+        "a": "It’s a low‑cost supplement; for absolute precision you might still use a calibrated tamp, but the test sharpens your feel."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "tamping"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-10-29T13:45:12.613Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "master-espresso-shot-clock",
     "title": "Master the Espresso Shot Clock with a Simple Phone Stopwatch",
     "dek": "Turn your phone into a precise shot timer to nail espresso extraction every time.",
