@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Replacing Sega Master System Power Switch for Quicker Starts</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/replace-master-system-power-switch.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/replace-master-system-power-switch.html</guid>
+      <pubDate>Fri, 30 Oct 2026 17:45:14 GMT</pubDate>
+      <description>Swap the aging power switch on your Master System for a snappier, more reliable startup.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Replacing Mega Drive Cartridge Edge Connectors for Faster Loading</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-replace-mega-drive-cartridge-edges.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-replace-mega-drive-cartridge-edges.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/turbo-grafx-16-power-tuning.html</guid>
       <pubDate>Wed, 28 Oct 2026 13:45:04 GMT</pubDate>
       <description>A simple voltage tweak can keep your TurboGrafx‑16 humming through those long speedrun marathons without overheating.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Swapping Out Your Atari 2600 Power Supply for Stable Play</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-atari-2600-power-supply.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-atari-2600-power-supply.html</guid>
-      <pubDate>Wed, 28 Oct 2026 12:45:12 GMT</pubDate>
-      <description>Replacing the aging Atari 2600 PSU with a modern regulator keeps your classic console humming without flicker.</description>
     </item>
   </channel>
 </rss>

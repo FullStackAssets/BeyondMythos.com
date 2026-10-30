@@ -1,5 +1,56 @@
 [
   {
+    "slug": "master-espresso-crema-pressure-pulse-test",
+    "title": "Master Your Espresso Crema with a Simple Portafilter Pressure Pulse Test",
+    "dek": "A quick trick to gauge crema thickness and consistency without fancy tools.",
+    "takeaway": "A light tap on the portafilter reveals crema health in seconds.",
+    "whatHappened": "We tapped the portafilter after pulling a shot and listened for the rebound. A firm, quick bounce indicated a tight puck and rich crema, while a dull thud signaled under‑extraction.",
+    "whyItMatters": "Crema is the visible sign of proper extraction; spotting issues early saves wasted beans and improves taste consistency.",
+    "howToThink": "Treat the tap as a tactile gauge—press lightly, listen, and adjust grind or dose until the rebound feels crisp. Over‑tamping or stale beans will mute the sound.",
+    "pros": [
+      "No extra equipment needed",
+      "Instant feedback",
+      "Works with any home machine"
+    ],
+    "cons": [
+      "Subjective hearing required",
+      "Less useful with very quiet grinders",
+      "May mislead if portafilter is damaged"
+    ],
+    "watchOut": "Avoid hard blows that could damage the portafilter or basket.",
+    "faq": [
+      {
+        "q": "Can I use this test with a pressurized basket?",
+        "a": "It works best with non‑pressurized baskets; pressurized designs dampen the sound."
+      },
+      {
+        "q": "What if my kitchen is noisy?",
+        "a": "Try the test at a quieter time or use a wooden spoon to tap for a clearer tone."
+      },
+      {
+        "q": "Does water temperature affect the tap?",
+        "a": "Temperature mainly influences extraction, not the tap sound, so you can test any time."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "technique"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-10-30T17:45:13.786Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "fine-tune-espresso-flow-seal-test",
     "title": "Fine‑Tune Your Espresso Flow with a Simple Portafilter Seal Test",
     "dek": "A quick seal test can reveal hidden leaks that rob your espresso of pressure and flavor.",

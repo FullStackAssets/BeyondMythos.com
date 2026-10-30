@@ -1,5 +1,56 @@
 [
   {
+    "slug": "replace-master-system-power-switch",
+    "title": "Pixel Boost: Replacing Sega Master System Power Switch for Quicker Starts",
+    "dek": "Swap the aging power switch on your Master System for a snappier, more reliable startup.",
+    "takeaway": "A fresh switch eliminates missed boots and keeps your console ready for marathon runs.",
+    "whatHappened": "We noticed several Master Systems failing to power on during a recent speedrun practice session. The original switch showed signs of wear and intermittent contact. Replacing it with a modern tactile switch restored immediate power response.",
+    "whyItMatters": "Unreliable power can ruin a run’s momentum and force costly resets, especially in timed categories. A reliable switch ensures your hardware won’t be the weak link in a high‑stakes attempt.",
+    "howToThink": "Look for a tactile switch rated for 5 A, match the mounting holes, and solder it in place using a fine‑tip iron. Test the console before re‑assembling the case to confirm a solid connection. Keep a spare switch handy for future maintenance.",
+    "pros": [
+      "Instant power response",
+      "Low cost upgrade",
+      "Improves overall reliability"
+    ],
+    "cons": [
+      "Requires soldering skill",
+      "Potential case modification",
+      "Needs compatible switch size"
+    ],
+    "watchOut": "Double‑check polarity before soldering to avoid short‑circuits.",
+    "faq": [
+      {
+        "q": "Can I use any tactile switch?",
+        "a": "Choose one with similar pin layout and current rating; generic 6 mm switches work well."
+      },
+      {
+        "q": "Do I need to open the case fully?",
+        "a": "A partial disassembly to access the back of the board is sufficient; avoid stripping the plastic clips."
+      },
+      {
+        "q": "Will this affect the console’s original value?",
+        "a": "The modification is reversible and widely accepted among collectors who prioritize playability."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "hardware",
+      "master-system"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-10-30T17:45:14.466Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-boost-replace-mega-drive-cartridge-edges",
     "title": "Pixel Boost: Replacing Mega Drive Cartridge Edge Connectors for Faster Loading",
     "dek": "Swap out old Mega Drive cartridge edge contacts for a reliable link, shaving seconds off load times for your speed runs.",

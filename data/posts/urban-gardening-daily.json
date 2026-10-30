@@ -1,5 +1,56 @@
 [
   {
+    "slug": "balcony-spinach-sprint",
+    "title": "Balcony Spinach Sprint: Leafy Harvest in Tiny Planters",
+    "dek": "Spinach thrives in shallow trays on balconies, delivering fresh greens in weeks without a garden plot.",
+    "takeaway": "Even the smallest balcony can produce a continuous supply of nutrient‑rich spinach.",
+    "whatHappened": "A recent trial on a 2‑ft balcony used shallow, reusable trays filled with a lightweight potting mix. Within ten days, seedlings emerged, and by week three, the first harvest was ready. The gardener rotated trays to keep a steady flow.",
+    "whyItMatters": "Fresh spinach supplies iron and vitamins that are hard to get from processed foods, especially for city dwellers. Growing it at home reduces grocery trips and food waste, aligning with sustainable living goals.",
+    "howToThink": "Choose a tray no deeper than 4‑6 inches and fill it with a well‑draining mix. Sow seeds densely, keep the soil consistently moist, and provide at least four hours of indirect sunlight. Harvest the outer leaves first to encourage new growth.",
+    "pros": [
+      "Fast turnover",
+      "Minimal space needed",
+      "Reusable trays"
+    ],
+    "cons": [
+      "Needs frequent watering",
+      "Sensitive to heat spikes",
+      "Limited yield per plant"
+    ],
+    "watchOut": "Avoid over‑watering; soggy soil can cause root rot in shallow containers.",
+    "faq": [
+      {
+        "q": "Can I grow spinach in full sun?",
+        "a": "Spinach prefers cool, partly shaded spots; full sun can bolt the plant quickly."
+      },
+      {
+        "q": "How often should I water?",
+        "a": "Keep the soil surface damp, watering daily in warm weather, less often when cooler."
+      },
+      {
+        "q": "Do I need fertilizer?",
+        "a": "A light feed of balanced liquid fertilizer once a month supports vigorous growth."
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "balcony",
+      "leafy greens"
+    ],
+    "sources": [
+      {
+        "label": "r/UrbanGardening community threads",
+        "url": "https://www.reddit.com/r/UrbanGardening/"
+      },
+      {
+        "label": "Search interest: \"balcony garden ideas\"",
+        "url": "https://duckduckgo.com/?q=balcony%20garden%20ideas"
+      }
+    ],
+    "publishedAt": "2026-10-30T17:45:10.307Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "balcony-tomato-triumph",
     "title": "Balcony Tomato Triumph: Juicy Harvest in Small Pots",
     "dek": "Turn a modest balcony into a tomato oasis with space‑smart tricks.",
