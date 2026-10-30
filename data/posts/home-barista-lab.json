@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-tamping-precision-check",
+    "title": "Boost Espresso Consistency with a Simple Tamping Pressure Test",
+    "dek": "A quick tactile test to keep your tamp pressure steady and your shots repeatable.",
+    "takeaway": "Steady tamp pressure is the hidden key to shot uniformity.",
+    "whatHappened": "I noticed a wobble in my espresso shots after swapping a new portafilter. A quick hand‑press test on a kitchen scale revealed my tamp pressure was all over the place. Adjusting to a consistent feel instantly steadied the flow.",
+    "whyItMatters": "Inconsistent tamp pressure creates uneven bed density, leading to channeling and flavor swings. Home baristas chasing repeatable taste need a reliable pressure baseline, especially when dialing in a new bean or grinder setting.",
+    "howToThink": "Treat tamping like a repeatable muscle memory: press until the scale reads a consistent value, then lock that feel. When you switch beans or grind size, repeat the test to recalibrate. A simple “press‑and‑hold” for a couple of seconds helps embed the pressure pattern.",
+    "pros": [
+      "Easy to implement",
+      "No extra equipment beyond a scale",
+      "Immediate feedback"
+    ],
+    "cons": [
+      "Requires a scale with good resolution",
+      "Tactile feel still subjective",
+      "May need re‑checking after equipment changes"
+    ],
+    "watchOut": "Avoid over‑pressing; the goal is consistency, not maximum force.",
+    "faq": [
+      {
+        "q": "Do I need a calibrated scale?",
+        "a": "A kitchen scale with at least 0.1 g resolution works fine; precise calibration isn’t critical."
+      },
+      {
+        "q": "How long should I hold the tamp?",
+        "a": "Hold for a couple of seconds to let the pressure settle before releasing."
+      },
+      {
+        "q": "Can I use this test with a pressurized basket?",
+        "a": "Yes, consistent pressure still matters; the test helps you avoid over‑ or under‑compression."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "tamping",
+      "espresso consistency"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-10-30T21:45:10.275Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "boost-espresso-shot-stability-grip-test",
     "title": "Boost Your Espresso Shot Stability with a Simple Portafilter Grip Test",
     "dek": "A quick grip test reveals hidden pressure inconsistencies that can ruin espresso balance.",

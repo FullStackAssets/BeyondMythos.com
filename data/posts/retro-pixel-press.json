@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-nes-controller-mod-2",
+    "title": "Pixel Boost: Reinforcing NES Controller Springs for Snappy Inputs",
+    "dek": "A quick spring upgrade brings tighter, more reliable button feels to your classic NES controller.",
+    "takeaway": "Sturdier springs translate into sharper inputs without breaking the original feel.",
+    "whatHappened": "We swapped the stock NES controller springs with slightly stiffer aftermarket springs. The mod is simple, requiring only a screwdriver and a pair of tweezers. After reassembly, the buttons register more decisively.",
+    "whyItMatters": "For collectors, preserving playability extends a controller's lifespan. For speedrunners, consistent button actuation can shave off precious milliseconds. The upgrade respects the original aesthetic while boosting performance.",
+    "howToThink": "Start by sourcing compatible springs from reputable retro parts sellers. Test the tension before installing to avoid overly stiff feel. Keep the original springs as a backup in case you want to revert.",
+    "pros": [
+      "Tighter button response",
+      "Minimal visual change",
+      "Easy reversible install"
+    ],
+    "cons": [
+      "May feel too firm for some",
+      "Requires careful handling",
+      "Slight increase in wear on contacts"
+    ],
+    "watchOut": "Avoid over‑tightening the springs, which can stress the plastic housing.",
+    "faq": [
+      {
+        "q": "Do I need soldering for this mod?",
+        "a": "No, the spring swap is purely mechanical and uses the existing screw points."
+      },
+      {
+        "q": "Will the mod void any warranty?",
+        "a": "Most vintage NES controllers are out of warranty, so the change is effectively at your own risk."
+      },
+      {
+        "q": "Can I use the same springs on other consoles?",
+        "a": "The springs are sized for the NES, but similar designs work on many 8‑bit controllers with minor adjustments."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "NES",
+      "Controller Mods"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-10-30T21:45:16.852Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-boost-replace-gba-screen-flex",
     "title": "Pixel Boost: Replacing Game Boy Advance Screen Flex for Crisper Visuals",
     "dek": "Swap the GBA’s aging screen flex to regain sharp, flicker‑free graphics without breaking the bank.",

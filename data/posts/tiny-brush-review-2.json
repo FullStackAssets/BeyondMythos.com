@@ -1,5 +1,56 @@
 [
   {
+    "slug": "tools-pre-spend-checklist-16",
+    "title": "The tools checklist: run this before you spend",
+    "dek": "Seven questions that separate a justified tools purchase from an expensive mood.",
+    "takeaway": "A purchase you can't tie to a specific, recurring bottleneck is decoration. The checklist makes that visible before checkout.",
+    "whatHappened": "Communities of miniature painters and tabletop hobbyists keep converging on the same pre-purchase discipline: name the bottleneck, check the secondhand market, price the alternative of doing nothing, and sleep on it once. We compiled the full checklist from hundreds of those threads.",
+    "whyItMatters": "Spending in tools is lumpy — a few purchases carry all the outcome. The checklist exists to make sure your money lands on those and not on the long tail of gear that demos well and shelves fast.",
+    "howToThink": "Treat the checklist as friction on purpose. Anything that survives seven honest questions was probably worth buying; anything that doesn't survives as money.",
+    "pros": [
+      "Kills impulse purchases painlessly",
+      "Works at any budget",
+      "Builds a paper trail of good calls"
+    ],
+    "cons": [
+      "Requires honesty under temptation",
+      "Slower than one-click checkout",
+      "Friends may call you cheap"
+    ],
+    "watchOut": "Sales events are checklist bypass attempts. A discount on something you don't need is still a net loss.",
+    "faq": [
+      {
+        "q": "What's the single best question?",
+        "a": "\"Which session this week did I lose to not owning this?\" If you can't name one, close the tab."
+      },
+      {
+        "q": "Does this apply to small purchases?",
+        "a": "Under a coffee's cost, skip the ceremony. The checklist is for anything you'd notice on a statement."
+      },
+      {
+        "q": "What about once-a-year deals?",
+        "a": "A real bottleneck plus a real discount is great. The checklist just confirms which one you have."
+      }
+    ],
+    "category": "Tools",
+    "tags": [
+      "Tools",
+      "Showcase"
+    ],
+    "sources": [
+      {
+        "label": "r/Warhammer40k community threads",
+        "url": "https://www.reddit.com/r/Warhammer40k/"
+      },
+      {
+        "label": "Search interest: \"speed painting miniatures\"",
+        "url": "https://duckduckgo.com/?q=speed%20painting%20miniatures"
+      }
+    ],
+    "publishedAt": "2026-10-30T21:45:47.348Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-techniques-mistakes-16",
     "title": "Five mistakes everyone makes in their first month of techniques",
     "dek": "The most common early stumbles in techniques, and the cheap corrections that fix them for miniature painters and tabletop hobbyists.",

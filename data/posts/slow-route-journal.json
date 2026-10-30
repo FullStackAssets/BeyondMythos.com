@@ -1,5 +1,56 @@
 [
   {
+    "slug": "slow-morning-commute-rail",
+    "title": "Morning Glide: Low‑Impact Rail Rituals for the Awake Traveller",
+    "dek": "Start your day with a gentle rail ride that trims carbon and sets a calm tone for slow travel.",
+    "takeaway": "A mindful morning train ride can boost sustainability and wellbeing without rushing.",
+    "whatHappened": "I boarded the 6:15 regional service from a small town to the city, timing the journey to catch sunrise over the countryside. The quiet carriage and empty seats turned the commute into a moving meditation.",
+    "whyItMatters": "Early trains often run with lower passenger loads, reducing per‑person emissions. Beginning the day with slow travel also frames a more intentional pace for the hours ahead.",
+    "howToThink": "Plan your itinerary around off‑peak morning services, pack a reusable mug, and use the ride to journal or listen to ambient sounds. Treat the train as a mobile sanctuary rather than a transit hurdle.",
+    "pros": [
+      "Lower crowd density",
+      "Reduced carbon footprint",
+      "Scenic sunrise views"
+    ],
+    "cons": [
+      "Limited service frequency",
+      "Potentially colder cabins",
+      "Fewer onboard amenities"
+    ],
+    "watchOut": "Check seasonal timetable changes; early services can be cancelled or run on reduced routes.",
+    "faq": [
+      {
+        "q": "Do I need a reservation for early regional trains?",
+        "a": "Most regional services operate on a first‑come, first‑served basis, so a ticket is enough."
+      },
+      {
+        "q": "How can I stay warm on a chilly morning ride?",
+        "a": "Layer with a lightweight fleece and bring a reusable travel blanket."
+      },
+      {
+        "q": "Is it safe to travel alone at dawn?",
+        "a": "Early trains are generally quiet and staff‑present, making solo travel safe, but keep personal items in sight."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "morning"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-10-30T21:45:11.141Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-onebag-20",
     "title": "Community pulse: what r/onebag is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the local community this week.",
