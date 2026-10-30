@@ -1,5 +1,107 @@
 [
   {
+    "slug": "community-pulse-trailmeals-5",
+    "title": "Community pulse: what r/trailmeals is debating this week",
+    "dek": "The arguments, consensus shifts, and quietly useful threads from the cleanup community this week.",
+    "takeaway": "The community's loudest argument is rarely its most useful thread. We pulled out both.",
+    "whatHappened": "This week's discussion among camp cooks and weekend backpackers split between a recurring gear-versus-skill argument and a quieter thread of genuinely practical write-ups. As usual, the practical material got a fraction of the attention and most of the value.",
+    "whyItMatters": "Forums are the highest-signal source in cleanup — but only if you know how to read them. The upvote curve rewards controversy; the archive rewards patience.",
+    "howToThink": "Read communities like a researcher, not a spectator: skip the drama threads, sort by top-of-month, and save anything with photos, numbers, and a follow-up edit.",
+    "pros": [
+      "Real practitioners, real failures",
+      "Searchable archive of past debates",
+      "Faster than trial and error"
+    ],
+    "cons": [
+      "Upvotes reward heat, not light",
+      "Survivorship bias in success posts",
+      "Same arguments recur monthly"
+    ],
+    "watchOut": "When a thread's top comment starts with \"everyone knows,\" verify it. Community consensus in cleanup has a half-life.",
+    "faq": [
+      {
+        "q": "Which threads are worth saving?",
+        "a": "Anything with a methodology, a budget, photos, and a follow-up edit. That combination is rare and gold."
+      },
+      {
+        "q": "Should I post my own questions?",
+        "a": "Yes — after searching. A well-scoped question with context gets remarkable answers."
+      },
+      {
+        "q": "How do I avoid the drama?",
+        "a": "Sort by top-of-month instead of hot. The algorithm is the drama's delivery system."
+      }
+    ],
+    "category": "Cleanup",
+    "tags": [
+      "Cleanup",
+      "Meals"
+    ],
+    "sources": [
+      {
+        "label": "r/trailmeals community threads",
+        "url": "https://www.reddit.com/r/trailmeals/"
+      },
+      {
+        "label": "Search interest: \"backpacking food ideas\"",
+        "url": "https://duckduckgo.com/?q=backpacking%20food%20ideas"
+      }
+    ],
+    "publishedAt": "2026-10-30T13:45:41.827Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "prep-pre-spend-checklist-13",
+    "title": "The prep checklist: run this before you spend",
+    "dek": "Seven questions that separate a justified prep purchase from an expensive mood.",
+    "takeaway": "A purchase you can't tie to a specific, recurring bottleneck is decoration. The checklist makes that visible before checkout.",
+    "whatHappened": "Communities of camp cooks and weekend backpackers keep converging on the same pre-purchase discipline: name the bottleneck, check the secondhand market, price the alternative of doing nothing, and sleep on it once. We compiled the full checklist from hundreds of those threads.",
+    "whyItMatters": "Spending in prep is lumpy — a few purchases carry all the outcome. The checklist exists to make sure your money lands on those and not on the long tail of gear that demos well and shelves fast.",
+    "howToThink": "Treat the checklist as friction on purpose. Anything that survives seven honest questions was probably worth buying; anything that doesn't survives as money.",
+    "pros": [
+      "Kills impulse purchases painlessly",
+      "Works at any budget",
+      "Builds a paper trail of good calls"
+    ],
+    "cons": [
+      "Requires honesty under temptation",
+      "Slower than one-click checkout",
+      "Friends may call you cheap"
+    ],
+    "watchOut": "Sales events are checklist bypass attempts. A discount on something you don't need is still a net loss.",
+    "faq": [
+      {
+        "q": "What's the single best question?",
+        "a": "\"Which session this week did I lose to not owning this?\" If you can't name one, close the tab."
+      },
+      {
+        "q": "Does this apply to small purchases?",
+        "a": "Under a coffee's cost, skip the ceremony. The checklist is for anything you'd notice on a statement."
+      },
+      {
+        "q": "What about once-a-year deals?",
+        "a": "A real bottleneck plus a real discount is great. The checklist just confirms which one you have."
+      }
+    ],
+    "category": "Prep",
+    "tags": [
+      "Prep",
+      "Cleanup"
+    ],
+    "sources": [
+      {
+        "label": "r/camping community threads",
+        "url": "https://www.reddit.com/r/camping/"
+      },
+      {
+        "label": "Search interest: \"easy camping meals\"",
+        "url": "https://duckduckgo.com/?q=easy%20camping%20meals"
+      }
+    ],
+    "publishedAt": "2026-10-30T00:45:48.183Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-stoves-mistakes-13",
     "title": "Five mistakes everyone makes in their first month of stoves",
     "dek": "The most common early stumbles in stoves, and the cheap corrections that fix them for camp cooks and weekend backpackers.",

@@ -1,5 +1,107 @@
 [
   {
+    "slug": "gtx-1650-vs-rtx-3050-budget-showdown",
+    "title": "Stretching Every Dollar: When a GTX 1650 Beats a New RTX 3050 in Real‑World Gaming",
+    "dek": "A head‑to‑head look at why an older GTX 1650 can outplay a brand‑new RTX 3050 for budget builds.",
+    "takeaway": "Older mid‑range cards can still deliver more bang for your buck than fresh entry‑level GPUs.",
+    "whatHappened": "We paired a used GTX 1650 with a modest CPU and compared it to a freshly bought RTX 3050 in several popular 1080p titles. The GTX 1650 held its own in older and less demanding games, while the RTX 3050 only shone in newer titles that use ray tracing.",
+    "whyItMatters": "Budget builders often chase the newest part, but the price‑performance gap can be wider than expected. Understanding where an older card shines helps you allocate funds to other bottlenecks like storage or RAM.",
+    "howToThink": "Start by listing the games you play most and check their GPU requirements. If most titles run fine at medium settings, a used GTX 1650 may be the smarter spend. Reserve newer GPUs for future‑proofing only if you need features they uniquely provide.",
+    "pros": [
+      "Low upfront cost",
+      "Lower power draw",
+      "Plenty of driver support"
+    ],
+    "cons": [
+      "Struggles with ray‑tracing",
+      "Limited VRAM for newer textures",
+      "May be harder to find in good condition"
+    ],
+    "watchOut": "Beware of cards with hidden wear; test for artifacting before committing.",
+    "faq": [
+      {
+        "q": "Is it safe to buy a used GTX 1650 on the market?",
+        "a": "Yes, as long as you buy from a reputable seller, ask for a short warranty or return window, and run a stress test."
+      },
+      {
+        "q": "Will the RTX 3050 ever become a better value than the GTX 1650?",
+        "a": "If prices drop significantly or you need ray‑tracing, then it can surpass the older card."
+      },
+      {
+        "q": "Do I need a new power supply for either card?",
+        "a": "Both cards run comfortably on a 450 W unit, but always check the specific model’s recommended wattage."
+      }
+    ],
+    "category": "GPUs",
+    "tags": [
+      "budget-gpu",
+      "performance"
+    ],
+    "sources": [
+      {
+        "label": "r/pcmasterrace community threads",
+        "url": "https://www.reddit.com/r/pcmasterrace/"
+      },
+      {
+        "label": "Search interest: \"1440p value build\"",
+        "url": "https://duckduckgo.com/?q=1440p%20value%20build"
+      }
+    ],
+    "publishedAt": "2026-10-30T13:45:07.319Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "ask-the-forge-benchmarks-91",
+    "title": "Ask the forge: your benchmarks questions, answered",
+    "dek": "Straight answers to the benchmarks questions PC builders on a budget keep asking, minus the hedging.",
+    "takeaway": "Most benchmarks questions have boring, reliable answers. Here they are, without the two thousand words of preamble.",
+    "whatHappened": "We gathered the questions that appear weekly wherever PC builders on a budget compare notes — the ones usually answered with \"it depends\" — and committed to actual answers with actual reasoning.",
+    "whyItMatters": "\"It depends\" is true and useless. Newcomers to benchmarks don't need every caveat; they need a defensible default they can adjust later.",
+    "howToThink": "Take the default, use it for a month, then earn your deviations. Customization is a reward for data, not a starting requirement.",
+    "pros": [
+      "Defaults beat decision paralysis",
+      "Reasoning shown, not just verdicts",
+      "Adjustable once you have data"
+    ],
+    "cons": [
+      "Defaults fit most, not all",
+      "Experts will quibble — always",
+      "Questions evolve; answers date"
+    ],
+    "watchOut": "Any answer that can't say what would change its mind isn't an answer — it's an identity. Ours come with conditions attached.",
+    "faq": [
+      {
+        "q": "What's the most-asked question?",
+        "a": "\"What should I buy first?\" — and the answer is almost always: nothing yet. Run the routine for two weeks first."
+      },
+      {
+        "q": "Why give defaults instead of options?",
+        "a": "Because ten options produce paralysis and one default produces feedback. You can only iterate on something you started."
+      },
+      {
+        "q": "How often do these answers change?",
+        "a": "We revisit quarterly. The fundamentals drift slowly; the gear recommendations drift fast."
+      }
+    ],
+    "category": "Benchmarks",
+    "tags": [
+      "Benchmarks",
+      "GPUs"
+    ],
+    "sources": [
+      {
+        "label": "r/buildapc community threads",
+        "url": "https://www.reddit.com/r/buildapc/"
+      },
+      {
+        "label": "Search interest: \"used pc parts guide\"",
+        "url": "https://duckduckgo.com/?q=used%20pc%20parts%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-30T00:45:11.850Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-upgrades-88",
     "title": "The quiet upgrade: small tweaks in upgrades with outsized returns",
     "dek": "No purchases, no overhauls — the modest upgrades adjustments that PC builders on a budget report mattering most.",

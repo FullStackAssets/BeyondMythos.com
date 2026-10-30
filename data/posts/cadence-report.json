@@ -1,5 +1,107 @@
 [
   {
+    "slug": "boost-zwift-power-curve",
+    "title": "Boost your Zwift races with power curve insights",
+    "dek": "Leverage your power curve to target effort zones and shave seconds off every virtual race.",
+    "takeaway": "Understanding and using your power curve can make every ride more efficient and competitive.",
+    "whatHappened": "During a recent Zwift race weekend, riders who reviewed their power curve before each event reported smoother pacing and fewer spikes in effort. The community shared screenshots of their curve‑based race plans on the forum.",
+    "whyItMatters": "A clear picture of where you can sustain power helps avoid early burnout and maximises your FTP zones, directly influencing race outcomes. Consistent pacing also reduces fatigue over long sessions.",
+    "howToThink": "Plot your recent rides, identify the power you can hold for 5‑20 minutes, then set target zones in Zwift’s workout editor. Stick to those zones during races, adjusting only when terrain forces a change.",
+    "pros": [
+      "More accurate pacing",
+      "Improved race consistency",
+      "Easier to set realistic training targets"
+    ],
+    "cons": [
+      "Requires a recent power test",
+      "May feel restrictive at first",
+      "Needs regular curve updates"
+    ],
+    "watchOut": "Don’t ignore how fatigue accumulates across multiple back‑to‑back events; the curve reflects a single effort, not a full day of racing.",
+    "faq": [
+      {
+        "q": "How often should I update my power curve?",
+        "a": "Refresh it after a few weeks of consistent riding or whenever you feel your fitness has shifted."
+      },
+      {
+        "q": "Can I use the curve for interval training?",
+        "a": "Yes, match interval lengths to the power‑duration points that best reflect your current capability."
+      },
+      {
+        "q": "What if my trainer doesn’t display a curve?",
+        "a": "Export your ride data to a free analysis tool or app that can generate a power‑duration graph."
+      }
+    ],
+    "category": "Training",
+    "tags": [
+      "Power Curve",
+      "Zwift Racing"
+    ],
+    "sources": [
+      {
+        "label": "r/Velo community threads",
+        "url": "https://www.reddit.com/r/Velo/"
+      },
+      {
+        "label": "Search interest: \"pain cave setup\"",
+        "url": "https://duckduckgo.com/?q=pain%20cave%20setup"
+      }
+    ],
+    "publishedAt": "2026-10-30T13:45:24.772Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "weekend-project-trainers-87",
+    "title": "A weekend project: level up your trainers in two hours",
+    "dek": "One contained, satisfying trainers project for indoor cyclists — start Saturday morning, done by lunch.",
+    "takeaway": "Two focused hours on fundamentals beats two months of accumulating tabs. This project is deliberately small enough to finish.",
+    "whatHappened": "We designed a two-hour trainers project around the single highest-leverage fundamental — the one that experienced indoor cyclists and virtual racers consistently say they wish they'd done sooner. No purchases required, no prerequisites beyond what you already have.",
+    "whyItMatters": "Unfinished projects are the silent killer of hobbies. A project scoped to one sitting produces the thing rarer than skill: a completed feedback loop you can build on next weekend.",
+    "howToThink": "Pick the smallest version of the project that still counts as done. Momentum compounds; scope creep compounds faster.",
+    "pros": [
+      "Fits in one honest morning",
+      "Zero new purchases required",
+      "Produces a reusable baseline"
+    ],
+    "cons": [
+      "Less exciting than new gear",
+      "Requires protecting two hours",
+      "Results are quiet, not flashy"
+    ],
+    "watchOut": "If the project sprouts a shopping list, you've left the project. Write the list down for later and keep going with what you have.",
+    "faq": [
+      {
+        "q": "What if I only have one hour?",
+        "a": "Do the first half. A half-finished small project still beats a never-started big one."
+      },
+      {
+        "q": "Can I do this with zero experience?",
+        "a": "Yes — it's designed as an on-ramp. The fundamentals of trainers don't care about your resume."
+      },
+      {
+        "q": "What's next weekend's project?",
+        "a": "The same one, refined with what the log told you. Iteration is the curriculum."
+      }
+    ],
+    "category": "Trainers",
+    "tags": [
+      "Trainers",
+      "Platforms"
+    ],
+    "sources": [
+      {
+        "label": "r/indoorcycling community threads",
+        "url": "https://www.reddit.com/r/indoorcycling/"
+      },
+      {
+        "label": "Search interest: \"zwift training plans\"",
+        "url": "https://duckduckgo.com/?q=zwift%20training%20plans"
+      }
+    ],
+    "publishedAt": "2026-10-30T00:45:27.074Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-zwift-30",
     "title": "Community pulse: what r/Zwift is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the setup community this week.",

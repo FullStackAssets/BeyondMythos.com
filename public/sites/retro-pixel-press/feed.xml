@@ -5,6 +5,20 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Replacing NES Controller Rubber Pads for Smoother Presses</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/nes-controller-rubber-pads.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/nes-controller-rubber-pads.html</guid>
+      <pubDate>Fri, 30 Oct 2026 13:45:05 GMT</pubDate>
+      <description>Swap out worn NES controller pads for fresh rubber to regain crisp button feel without soldering.</description>
+    </item>
+    <item>
+      <title>The quiet upgrade: small tweaks in preservation with outsized returns</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/quiet-upgrade-preservation-54.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/quiet-upgrade-preservation-54.html</guid>
+      <pubDate>Fri, 30 Oct 2026 00:45:09 GMT</pubDate>
+      <description>No purchases, no overhauls — the modest preservation adjustments that retro game collectors and speedrunners report mattering most.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Replacing SNES Controller Contacts for Cleaner Inputs</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-replacing-snes-controller-contacts.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-replacing-snes-controller-contacts.html</guid>
@@ -199,20 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/game-gear-lcd-reinforcement.html</guid>
       <pubDate>Wed, 28 Oct 2026 09:45:11 GMT</pubDate>
       <description>A quick fix to tighten loose LCD contacts on your Game Gear, restoring crisp visuals for both collectors and speedrunners.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Reinforcing Game Boy Cartridge Contacts for Smoother Play</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/game-boy-contact-reinforcement.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/game-boy-contact-reinforcement.html</guid>
-      <pubDate>Wed, 28 Oct 2026 08:45:08 GMT</pubDate>
-      <description>A quick mod that freshens worn contacts in Game Boy cartridges, boosting reliability without pricey replacements.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Converting Sega Master System to HDMI for Clean Modern Play</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/master-system-hdmi-upgrade.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/master-system-hdmi-upgrade.html</guid>
-      <pubDate>Wed, 28 Oct 2026 07:45:06 GMT</pubDate>
-      <description>Swap the old RF output for a simple HDMI converter and enjoy crisp, lag‑free video on today’s TVs.</description>
     </item>
   </channel>
 </rss>

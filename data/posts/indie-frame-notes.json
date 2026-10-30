@@ -1,5 +1,107 @@
 [
   {
+    "slug": "micro-budget-grip-hacks",
+    "title": "Micro-budget grip hacks: get stable shots without breaking the bank",
+    "dek": "Learn cheap grip tricks that give your indie shoot professional stability without blowing your budget.",
+    "takeaway": "Simple, low-cost grip solutions can dramatically improve shot stability for indie filmmakers.",
+    "whatHappened": "During a recent 48‑hour short‑film sprint, the crew swapped out pricey rigs for homemade sand‑bag rigs, a PVC‑pipe dolly, and a DIY follow‑focus clamp. The results were surprisingly steady, and the budget stayed under $50.",
+    "whyItMatters": "Stability is essential for visual clarity, yet many indie teams overspend on gear they’ll only use once. Affordable alternatives keep cash for other production needs and keep the creative momentum alive.",
+    "howToThink": "Identify the biggest shake points in your shoot, then match them with everyday objects—sandbags for weight, PVC pipe for sliders, and clamps for mounts. Test each solution quickly before the day of shooting, and keep a small “grip kit” in your bag for on‑the‑fly adjustments.",
+    "pros": [
+      "Cost under $50",
+      "Easy to assemble",
+      "Works with most camera setups"
+    ],
+    "cons": [
+      "May not replace high‑speed rigs for extreme motion",
+      "Requires some DIY skill",
+      "Limited durability for heavy equipment"
+    ],
+    "watchOut": "Make sure DIY rigs are securely fastened to avoid accidental drops on set.",
+    "faq": [
+      {
+        "q": "Can I use household items like a broom handle for a dolly?",
+        "a": "Yes, a sturdy broom handle or PVC pipe can serve as a low‑tech dolly when paired with smooth flooring and proper wheels."
+      },
+      {
+        "q": "How do I create a sand‑bag weight without buying bags?",
+        "a": "Fill durable zip‑top bags with sand, rice, or beans and seal them tightly; they’re cheap and can be reshaped as needed."
+      },
+      {
+        "q": "What’s the best way to secure a clamp on a light stand?",
+        "a": "Use a small piece of rubber or a rubber band between the clamp and the stand to increase friction and prevent slipping."
+      }
+    ],
+    "category": "Production",
+    "tags": [
+      "budget production",
+      "DIY grip"
+    ],
+    "sources": [
+      {
+        "label": "r/videography community threads",
+        "url": "https://www.reddit.com/r/videography/"
+      },
+      {
+        "label": "Search interest: \"short film festival strategy\"",
+        "url": "https://duckduckgo.com/?q=short%20film%20festival%20strategy"
+      }
+    ],
+    "publishedAt": "2026-10-30T13:45:12.390Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "community-pulse-filmmakers-31",
+    "title": "Community pulse: what r/Filmmakers is debating this week",
+    "dek": "The arguments, consensus shifts, and quietly useful threads from the gear community this week.",
+    "takeaway": "The community's loudest argument is rarely its most useful thread. We pulled out both.",
+    "whatHappened": "This week's discussion among indie filmmakers and short-film creators split between a recurring gear-versus-skill argument and a quieter thread of genuinely practical write-ups. As usual, the practical material got a fraction of the attention and most of the value.",
+    "whyItMatters": "Forums are the highest-signal source in gear — but only if you know how to read them. The upvote curve rewards controversy; the archive rewards patience.",
+    "howToThink": "Read communities like a researcher, not a spectator: skip the drama threads, sort by top-of-month, and save anything with photos, numbers, and a follow-up edit.",
+    "pros": [
+      "Real practitioners, real failures",
+      "Searchable archive of past debates",
+      "Faster than trial and error"
+    ],
+    "cons": [
+      "Upvotes reward heat, not light",
+      "Survivorship bias in success posts",
+      "Same arguments recur monthly"
+    ],
+    "watchOut": "When a thread's top comment starts with \"everyone knows,\" verify it. Community consensus in gear has a half-life.",
+    "faq": [
+      {
+        "q": "Which threads are worth saving?",
+        "a": "Anything with a methodology, a budget, photos, and a follow-up edit. That combination is rare and gold."
+      },
+      {
+        "q": "Should I post my own questions?",
+        "a": "Yes — after searching. A well-scoped question with context gets remarkable answers."
+      },
+      {
+        "q": "How do I avoid the drama?",
+        "a": "Sort by top-of-month instead of hot. The algorithm is the drama's delivery system."
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "Gear",
+      "Production"
+    ],
+    "sources": [
+      {
+        "label": "r/Filmmakers community threads",
+        "url": "https://www.reddit.com/r/Filmmakers/"
+      },
+      {
+        "label": "Search interest: \"indie film lighting budget\"",
+        "url": "https://duckduckgo.com/?q=indie%20film%20lighting%20budget"
+      }
+    ],
+    "publishedAt": "2026-10-30T00:45:11.165Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "distribution-pre-spend-checklist-91",
     "title": "The distribution checklist: run this before you spend",
     "dek": "Seven questions that separate a justified distribution purchase from an expensive mood.",

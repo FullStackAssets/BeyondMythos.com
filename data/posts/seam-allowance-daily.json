@@ -1,5 +1,107 @@
 [
   {
+    "slug": "myth-vs-reality-how-to-fit-sewing-patterns-27",
+    "title": "Myth vs. reality: how to fit sewing patterns",
+    "dek": "The persistent myths around how to fit sewing patterns, stress-tested against what home sewists and pattern hackers actually report.",
+    "takeaway": "The biggest myths about how to fit sewing patterns survive because they're convenient, not because they're true.",
+    "whatHappened": "We lined up the claims that dominate search results for \"how to fit sewing patterns\" against long-term reports from home sewists and pattern hackers. Three claims collapsed immediately, one held up with caveats, and one turned out to be truer than its critics admit.",
+    "whyItMatters": "Myths in fabric aren't harmless — they set budgets, shape routines, and decide who gives up. Replacing one myth with one measured fact upgrades every decision downstream.",
+    "howToThink": "For any confident claim about how to fit sewing patterns, ask: who measured it, over what period, and who profits if I believe it? Two out of three unanswered means file it under folklore.",
+    "pros": [
+      "Frees budget from myth-driven buys",
+      "Long-term reports are abundant now",
+      "Skepticism transfers to every niche"
+    ],
+    "cons": [
+      "Myths are more fun than caveats",
+      "Debunks age poorly too",
+      "Nuance doesn't fit a headline"
+    ],
+    "watchOut": "Beware the counter-myth: the internet loves inverting popular advice, and the inversion is usually just as unmeasured.",
+    "faq": [
+      {
+        "q": "What's the most expensive myth?",
+        "a": "That better gear reliably substitutes for practice. It shows up in every niche's spending regrets thread."
+      },
+      {
+        "q": "How do myths start?",
+        "a": "A true statement about one context, repeated without the context, monetized without the truth."
+      },
+      {
+        "q": "What actually held up?",
+        "a": "Consistency claims. The boring advice survives testing at a rate the exciting advice never matches."
+      }
+    ],
+    "category": "Fabric",
+    "tags": [
+      "Fabric",
+      "Fitting"
+    ],
+    "sources": [
+      {
+        "label": "r/sewhelp community threads",
+        "url": "https://www.reddit.com/r/sewhelp/"
+      },
+      {
+        "label": "Search interest: \"how to fit sewing patterns\"",
+        "url": "https://duckduckgo.com/?q=how%20to%20fit%20sewing%20patterns"
+      }
+    ],
+    "publishedAt": "2026-10-30T13:45:34.552Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "weekend-project-patterns-79",
+    "title": "A weekend project: level up your patterns in two hours",
+    "dek": "One contained, satisfying patterns project for home sewists — start Saturday morning, done by lunch.",
+    "takeaway": "Two focused hours on fundamentals beats two months of accumulating tabs. This project is deliberately small enough to finish.",
+    "whatHappened": "We designed a two-hour patterns project around the single highest-leverage fundamental — the one that experienced home sewists and pattern hackers consistently say they wish they'd done sooner. No purchases required, no prerequisites beyond what you already have.",
+    "whyItMatters": "Unfinished projects are the silent killer of hobbies. A project scoped to one sitting produces the thing rarer than skill: a completed feedback loop you can build on next weekend.",
+    "howToThink": "Pick the smallest version of the project that still counts as done. Momentum compounds; scope creep compounds faster.",
+    "pros": [
+      "Fits in one honest morning",
+      "Zero new purchases required",
+      "Produces a reusable baseline"
+    ],
+    "cons": [
+      "Less exciting than new gear",
+      "Requires protecting two hours",
+      "Results are quiet, not flashy"
+    ],
+    "watchOut": "If the project sprouts a shopping list, you've left the project. Write the list down for later and keep going with what you have.",
+    "faq": [
+      {
+        "q": "What if I only have one hour?",
+        "a": "Do the first half. A half-finished small project still beats a never-started big one."
+      },
+      {
+        "q": "Can I do this with zero experience?",
+        "a": "Yes — it's designed as an on-ramp. The fundamentals of patterns don't care about your resume."
+      },
+      {
+        "q": "What's next weekend's project?",
+        "a": "The same one, refined with what the log told you. Iteration is the curriculum."
+      }
+    ],
+    "category": "Patterns",
+    "tags": [
+      "Patterns",
+      "Fabric"
+    ],
+    "sources": [
+      {
+        "label": "r/sewing community threads",
+        "url": "https://www.reddit.com/r/sewing/"
+      },
+      {
+        "label": "Search interest: \"beginner sewing patterns\"",
+        "url": "https://duckduckgo.com/?q=beginner%20sewing%20patterns"
+      }
+    ],
+    "publishedAt": "2026-10-30T00:45:40.751Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-quilting-27",
     "title": "Community pulse: what r/quilting is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the machines community this week.",

@@ -1,5 +1,107 @@
 [
   {
+    "slug": "quiet-commute-dawn-rail",
+    "title": "Quiet Commute: Embracing Low‑Impact Rail Journeys at Dawn",
+    "dek": "Start your day with a gentle, low‑impact train ride that lets you soak in scenery before the rush begins.",
+    "takeaway": "Early‑hour rail travel offers calm, carbon‑light moments that set a sustainable tone for the day.",
+    "whatHappened": "I boarded a regional service at 5:30 am from a small town station, watching mist lift over fields as the train rolled out. The carriage was nearly empty, allowing me to settle with a notebook and a reusable cup of tea. The journey lasted just under two hours, delivering a seamless blend of movement and stillness.",
+    "whyItMatters": "Traveling before peak hours reduces crowding, cuts noise pollution, and lowers the train’s overall energy demand per passenger. It also gives slow‑travelers a chance to engage with the landscape without competing with commuter urgency. Those quiet moments reinforce the low‑impact ethos of rail as a green transport mode.",
+    "howToThink": "Plan your route using regional timetables and aim for departures before 6 am. Pack light, bring a reusable mug, and consider a small sketchpad to capture fleeting views. Treat the ride as a moving meditation—observe, breathe, and let the rhythm of the rails set your pace for the day ahead.",
+    "pros": [
+      "Minimal crowding",
+      "Enhanced scenery appreciation",
+      "Lower per‑passenger emissions"
+    ],
+    "cons": [
+      "Limited onboard services",
+      "Potentially colder cabins",
+      "Fewer frequency options"
+    ],
+    "watchOut": "Early trains may run on older rolling stock, so bring extra layers and a portable charger.",
+    "faq": [
+      {
+        "q": "Do I need a reservation for early regional trains?",
+        "a": "Most regional services operate on a first‑come, first‑served basis, so a reservation isn’t required."
+      },
+      {
+        "q": "Is it safe to travel alone at that hour?",
+        "a": "Stations are typically staffed in the morning, and the low passenger count often feels safer than rush‑hour crowds."
+      },
+      {
+        "q": "Can I bring a bike on these early services?",
+        "a": "Yes, most regional trains allow bicycles, but space may be limited, so board early."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "Rail",
+      "Low‑Impact"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-10-30T13:45:03.635Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "community-pulse-solotravel-21",
+    "title": "Community pulse: what r/solotravel is debating this week",
+    "dek": "The arguments, consensus shifts, and quietly useful threads from the local community this week.",
+    "takeaway": "The community's loudest argument is rarely its most useful thread. We pulled out both.",
+    "whatHappened": "This week's discussion among slow-travel and low-impact explorers split between a recurring gear-versus-skill argument and a quieter thread of genuinely practical write-ups. As usual, the practical material got a fraction of the attention and most of the value.",
+    "whyItMatters": "Forums are the highest-signal source in local — but only if you know how to read them. The upvote curve rewards controversy; the archive rewards patience.",
+    "howToThink": "Read communities like a researcher, not a spectator: skip the drama threads, sort by top-of-month, and save anything with photos, numbers, and a follow-up edit.",
+    "pros": [
+      "Real practitioners, real failures",
+      "Searchable archive of past debates",
+      "Faster than trial and error"
+    ],
+    "cons": [
+      "Upvotes reward heat, not light",
+      "Survivorship bias in success posts",
+      "Same arguments recur monthly"
+    ],
+    "watchOut": "When a thread's top comment starts with \"everyone knows,\" verify it. Community consensus in local has a half-life.",
+    "faq": [
+      {
+        "q": "Which threads are worth saving?",
+        "a": "Anything with a methodology, a budget, photos, and a follow-up edit. That combination is rare and gold."
+      },
+      {
+        "q": "Should I post my own questions?",
+        "a": "Yes — after searching. A well-scoped question with context gets remarkable answers."
+      },
+      {
+        "q": "How do I avoid the drama?",
+        "a": "Sort by top-of-month instead of hot. The algorithm is the drama's delivery system."
+      }
+    ],
+    "category": "Local",
+    "tags": [
+      "Local",
+      "Rail"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-10-30T00:45:08.825Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "evening-station-strolls",
     "title": "Evening Station Strolls: Low‑Impact Exploration on Rural Lines",
     "dek": "Discover how a brief evening walk along a quiet station can deepen your slow‑travel experience without leaving a carbon trace.",

@@ -1,5 +1,107 @@
 [
   {
+    "slug": "weekend-project-templates-13",
+    "title": "A weekend project: level up your templates in two hours",
+    "dek": "One contained, satisfying templates project for home cooks systematizing weeknight dinners — start Saturday morning, done by lunch.",
+    "takeaway": "Two focused hours on fundamentals beats two months of accumulating tabs. This project is deliberately small enough to finish.",
+    "whatHappened": "We designed a two-hour templates project around the single highest-leverage fundamental — the one that experienced home cooks systematizing weeknight dinners consistently say they wish they'd done sooner. No purchases required, no prerequisites beyond what you already have.",
+    "whyItMatters": "Unfinished projects are the silent killer of hobbies. A project scoped to one sitting produces the thing rarer than skill: a completed feedback loop you can build on next weekend.",
+    "howToThink": "Pick the smallest version of the project that still counts as done. Momentum compounds; scope creep compounds faster.",
+    "pros": [
+      "Fits in one honest morning",
+      "Zero new purchases required",
+      "Produces a reusable baseline"
+    ],
+    "cons": [
+      "Less exciting than new gear",
+      "Requires protecting two hours",
+      "Results are quiet, not flashy"
+    ],
+    "watchOut": "If the project sprouts a shopping list, you've left the project. Write the list down for later and keep going with what you have.",
+    "faq": [
+      {
+        "q": "What if I only have one hour?",
+        "a": "Do the first half. A half-finished small project still beats a never-started big one."
+      },
+      {
+        "q": "Can I do this with zero experience?",
+        "a": "Yes — it's designed as an on-ramp. The fundamentals of templates don't care about your resume."
+      },
+      {
+        "q": "What's next weekend's project?",
+        "a": "The same one, refined with what the log told you. Iteration is the curriculum."
+      }
+    ],
+    "category": "Templates",
+    "tags": [
+      "Templates",
+      "Pantry"
+    ],
+    "sources": [
+      {
+        "label": "r/MealPrepSunday community threads",
+        "url": "https://www.reddit.com/r/MealPrepSunday/"
+      },
+      {
+        "label": "Search interest: \"pantry staples list\"",
+        "url": "https://duckduckgo.com/?q=pantry%20staples%20list"
+      }
+    ],
+    "publishedAt": "2026-10-30T13:45:40.723Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "community-pulse-cooking-5",
+    "title": "Community pulse: what r/Cooking is debating this week",
+    "dek": "The arguments, consensus shifts, and quietly useful threads from the sauces community this week.",
+    "takeaway": "The community's loudest argument is rarely its most useful thread. We pulled out both.",
+    "whatHappened": "This week's discussion among home cooks systematizing weeknight dinners split between a recurring gear-versus-skill argument and a quieter thread of genuinely practical write-ups. As usual, the practical material got a fraction of the attention and most of the value.",
+    "whyItMatters": "Forums are the highest-signal source in sauces — but only if you know how to read them. The upvote curve rewards controversy; the archive rewards patience.",
+    "howToThink": "Read communities like a researcher, not a spectator: skip the drama threads, sort by top-of-month, and save anything with photos, numbers, and a follow-up edit.",
+    "pros": [
+      "Real practitioners, real failures",
+      "Searchable archive of past debates",
+      "Faster than trial and error"
+    ],
+    "cons": [
+      "Upvotes reward heat, not light",
+      "Survivorship bias in success posts",
+      "Same arguments recur monthly"
+    ],
+    "watchOut": "When a thread's top comment starts with \"everyone knows,\" verify it. Community consensus in sauces has a half-life.",
+    "faq": [
+      {
+        "q": "Which threads are worth saving?",
+        "a": "Anything with a methodology, a budget, photos, and a follow-up edit. That combination is rare and gold."
+      },
+      {
+        "q": "Should I post my own questions?",
+        "a": "Yes — after searching. A well-scoped question with context gets remarkable answers."
+      },
+      {
+        "q": "How do I avoid the drama?",
+        "a": "Sort by top-of-month instead of hot. The algorithm is the drama's delivery system."
+      }
+    ],
+    "category": "Sauces",
+    "tags": [
+      "Sauces",
+      "Templates"
+    ],
+    "sources": [
+      {
+        "label": "r/Cooking community threads",
+        "url": "https://www.reddit.com/r/Cooking/"
+      },
+      {
+        "label": "Search interest: \"weeknight dinner formula\"",
+        "url": "https://duckduckgo.com/?q=weeknight%20dinner%20formula"
+      }
+    ],
+    "publishedAt": "2026-10-30T00:45:47.098Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "knife-skills-pre-spend-checklist-14",
     "title": "The knife skills checklist: run this before you spend",
     "dek": "Seven questions that separate a justified knife skills purchase from an expensive mood.",

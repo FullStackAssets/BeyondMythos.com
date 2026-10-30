@@ -1,5 +1,107 @@
 [
   {
+    "slug": "five-hardscape-mistakes-91",
+    "title": "Five mistakes everyone makes in their first month of hardscape",
+    "dek": "The most common early stumbles in hardscape, and the cheap corrections that fix them for planted-tank keepers and aquascapers.",
+    "takeaway": "Month-one mistakes in hardscape are nearly universal — and nearly all reversible if you catch them early.",
+    "whatHappened": "We combed the recurring \"what did I do wrong\" threads that planted-tank keepers and aquascapers post and the same five hardscape mistakes appear over and over: buying before learning, copying advanced setups, skipping the log, chasing novelty, and quitting during the boring middle.",
+    "whyItMatters": "Each of these mistakes feels productive while you're making it. That's why they persist — and why naming them explicitly saves newcomers weeks of stalled progress in hardscape.",
+    "howToThink": "Audit yourself against the list once a month. The point isn't guilt — it's that every one of these has a five-minute correction if you notice it early enough.",
+    "pros": [
+      "Each mistake has a cheap fix",
+      "Recognition is most of the cure",
+      "Applies at any experience level"
+    ],
+    "cons": [
+      "Easy to nod along and change nothing",
+      "Some mistakes feel like progress",
+      "Lists can't replace a habit"
+    ],
+    "watchOut": "The most expensive version of every month-one mistake is the one you rationalize as \"investing in the hobby.\"",
+    "faq": [
+      {
+        "q": "Which mistake costs the most?",
+        "a": "Buying before learning — it converts enthusiasm into clutter and guilt instead of skill."
+      },
+      {
+        "q": "I already made all five. Now what?",
+        "a": "Good news: so did everyone else. Pick the one currently costing you the most and fix only that."
+      },
+      {
+        "q": "How do I avoid new mistakes?",
+        "a": "Keep the log. Most errors are invisible until they're written down."
+      }
+    ],
+    "category": "Hardscape",
+    "tags": [
+      "Hardscape",
+      "CO2"
+    ],
+    "sources": [
+      {
+        "label": "r/shrimptank community threads",
+        "url": "https://www.reddit.com/r/shrimptank/"
+      },
+      {
+        "label": "Search interest: \"beginner aquarium plants\"",
+        "url": "https://duckduckgo.com/?q=beginner%20aquarium%20plants"
+      }
+    ],
+    "publishedAt": "2026-10-30T13:45:16.060Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "aquascape-hardscape-ideas-field-test-29",
+    "title": "\"aquascape hardscape ideas\" in practice: a real-world field test",
+    "dek": "We put the most-repeated advice about aquascape hardscape ideas through a month of actual use. Some of it survived.",
+    "takeaway": "Half the standard advice on aquascape hardscape ideas holds up; the other half exists to sell you something. Test small before you commit.",
+    "whatHappened": "We collected the most common recommendations planted-tank keepers and aquascapers see when they search \"aquascape hardscape ideas\" and ran them through four weeks of ordinary, unglamorous use. The gap between what demos well and what holds up in week four was bigger than expected.",
+    "whyItMatters": "Most advice about plants is written from a first impression. The failure modes that actually cost planted-tank keepers and aquascapers time and money only show up with repetition — which is exactly what one-day reviews never capture.",
+    "howToThink": "Before adopting any recommendation about aquascape hardscape ideas, ask what a fourth week of it looks like. If you can't picture the boring version, you're looking at marketing, not a method.",
+    "pros": [
+      "Cheap to replicate at home",
+      "Surfaced real week-four failure modes",
+      "Cuts through first-impression reviews"
+    ],
+    "cons": [
+      "A month is still a small sample",
+      "Results vary by setup",
+      "Some advice needs a season, not weeks"
+    ],
+    "watchOut": "If a guide about aquascape hardscape ideas shows zero failed attempts, it wasn't a test — it was a script.",
+    "faq": [
+      {
+        "q": "What survived the field test?",
+        "a": "The fundamentals: consistent routine, modest gear, and keeping a log. The exotic tricks mostly didn't."
+      },
+      {
+        "q": "How should I run my own test?",
+        "a": "Change one variable, hold everything else steady for two weeks minimum, and write down what annoyed you."
+      },
+      {
+        "q": "Whose advice should I trust?",
+        "a": "People who publish follow-ups. A single enthusiastic post about plants is a data point, not a verdict."
+      }
+    ],
+    "category": "Plants",
+    "tags": [
+      "Plants",
+      "Hardscape"
+    ],
+    "sources": [
+      {
+        "label": "r/Aquascape community threads",
+        "url": "https://www.reddit.com/r/Aquascape/"
+      },
+      {
+        "label": "Search interest: \"aquascape hardscape ideas\"",
+        "url": "https://duckduckgo.com/?q=aquascape%20hardscape%20ideas"
+      }
+    ],
+    "publishedAt": "2026-10-30T00:45:20.712Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-livestock-90",
     "title": "Ask the forge: your livestock questions, answered",
     "dek": "Straight answers to the livestock questions planted-tank keepers and aquascapers keep asking, minus the hedging.",

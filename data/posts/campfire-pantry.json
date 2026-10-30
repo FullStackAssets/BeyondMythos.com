@@ -1,5 +1,107 @@
 [
   {
+    "slug": "quick-fire-breakfast",
+    "title": "Quick fire‑ready breakfast for the trail",
+    "dek": "A 5‑minute stovetop breakfast that fuels early hikes without bulk.",
+    "takeaway": "A simple, high‑energy breakfast can be pre‑made and cooked in under five minutes.",
+    "whatHappened": "I tried a no‑mess oatmeal‑nut‑mix with dried fruit on a crisp Saturday sunrise. The mix cooked in a single pot on a lightweight canister stove, leaving the pan clean and the stomach satisfied.",
+    "whyItMatters": "Morning fuel sets the pace for the day, and a quick, nutritious start reduces time spent at camp and leaves more energy for the trail. Keeping the meal lightweight and low‑prep also frees up pack space for other essentials.",
+    "howToThink": "Pick a base like instant oats, add a handful of nuts and dried fruit, and pack a pinch of salt and powdered milk. Pre‑measure portions in zip‑top bags, then add boiling water, stir, and cover for a minute. Adjust water for desired thickness and enjoy.",
+    "pros": [
+      "Fast to prepare",
+      "Lightweight ingredients",
+      "Minimal cleanup"
+    ],
+    "cons": [
+      "Needs boiling water",
+      "Limited flavor variety",
+      "Can get soggy if over‑soaked"
+    ],
+    "watchOut": "Watch the water boil off quickly at altitude; keep a spare canister handy.",
+    "faq": [
+      {
+        "q": "Can I swap oats for other grains?",
+        "a": "Yes, instant quinoa or rice flakes work similarly and keep the cook time short."
+      },
+      {
+        "q": "Do I need a separate pot for this meal?",
+        "a": "A small 0.5‑liter pot works fine and doubles as your coffee kettle."
+      },
+      {
+        "q": "How long can I store the pre‑measured bags?",
+        "a": "Stored in a cool, dry place, they stay fresh for several months."
+      }
+    ],
+    "category": "Meals",
+    "tags": [
+      "breakfast",
+      "lightweight"
+    ],
+    "sources": [
+      {
+        "label": "r/camping community threads",
+        "url": "https://www.reddit.com/r/camping/"
+      },
+      {
+        "label": "Search interest: \"easy camping meals\"",
+        "url": "https://duckduckgo.com/?q=easy%20camping%20meals"
+      }
+    ],
+    "publishedAt": "2026-10-30T13:45:40.163Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "community-pulse-backpacking-25",
+    "title": "Community pulse: what r/backpacking is debating this week",
+    "dek": "The arguments, consensus shifts, and quietly useful threads from the cleanup community this week.",
+    "takeaway": "The community's loudest argument is rarely its most useful thread. We pulled out both.",
+    "whatHappened": "This week's discussion among camp cooks and weekend backpackers split between a recurring gear-versus-skill argument and a quieter thread of genuinely practical write-ups. As usual, the practical material got a fraction of the attention and most of the value.",
+    "whyItMatters": "Forums are the highest-signal source in cleanup — but only if you know how to read them. The upvote curve rewards controversy; the archive rewards patience.",
+    "howToThink": "Read communities like a researcher, not a spectator: skip the drama threads, sort by top-of-month, and save anything with photos, numbers, and a follow-up edit.",
+    "pros": [
+      "Real practitioners, real failures",
+      "Searchable archive of past debates",
+      "Faster than trial and error"
+    ],
+    "cons": [
+      "Upvotes reward heat, not light",
+      "Survivorship bias in success posts",
+      "Same arguments recur monthly"
+    ],
+    "watchOut": "When a thread's top comment starts with \"everyone knows,\" verify it. Community consensus in cleanup has a half-life.",
+    "faq": [
+      {
+        "q": "Which threads are worth saving?",
+        "a": "Anything with a methodology, a budget, photos, and a follow-up edit. That combination is rare and gold."
+      },
+      {
+        "q": "Should I post my own questions?",
+        "a": "Yes — after searching. A well-scoped question with context gets remarkable answers."
+      },
+      {
+        "q": "How do I avoid the drama?",
+        "a": "Sort by top-of-month instead of hot. The algorithm is the drama's delivery system."
+      }
+    ],
+    "category": "Cleanup",
+    "tags": [
+      "Cleanup",
+      "Meals"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"camp stove comparison\"",
+        "url": "https://duckduckgo.com/?q=camp%20stove%20comparison"
+      }
+    ],
+    "publishedAt": "2026-10-30T00:45:42.422Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "prep-pre-spend-checklist-77",
     "title": "The prep checklist: run this before you spend",
     "dek": "Seven questions that separate a justified prep purchase from an expensive mood.",

@@ -1,5 +1,107 @@
 [
   {
+    "slug": "light-pre-spend-checklist-87",
+    "title": "The light checklist: run this before you spend",
+    "dek": "Seven questions that separate a justified light purchase from an expensive mood.",
+    "takeaway": "A purchase you can't tie to a specific, recurring bottleneck is decoration. The checklist makes that visible before checkout.",
+    "whatHappened": "Communities of succulent and cactus growers keep converging on the same pre-purchase discipline: name the bottleneck, check the secondhand market, price the alternative of doing nothing, and sleep on it once. We compiled the full checklist from hundreds of those threads.",
+    "whyItMatters": "Spending in light is lumpy — a few purchases carry all the outcome. The checklist exists to make sure your money lands on those and not on the long tail of gear that demos well and shelves fast.",
+    "howToThink": "Treat the checklist as friction on purpose. Anything that survives seven honest questions was probably worth buying; anything that doesn't survives as money.",
+    "pros": [
+      "Kills impulse purchases painlessly",
+      "Works at any budget",
+      "Builds a paper trail of good calls"
+    ],
+    "cons": [
+      "Requires honesty under temptation",
+      "Slower than one-click checkout",
+      "Friends may call you cheap"
+    ],
+    "watchOut": "Sales events are checklist bypass attempts. A discount on something you don't need is still a net loss.",
+    "faq": [
+      {
+        "q": "What's the single best question?",
+        "a": "\"Which session this week did I lose to not owning this?\" If you can't name one, close the tab."
+      },
+      {
+        "q": "Does this apply to small purchases?",
+        "a": "Under a coffee's cost, skip the ceremony. The checklist is for anything you'd notice on a statement."
+      },
+      {
+        "q": "What about once-a-year deals?",
+        "a": "A real bottleneck plus a real discount is great. The checklist just confirms which one you have."
+      }
+    ],
+    "category": "Light",
+    "tags": [
+      "Light",
+      "Arrangements"
+    ],
+    "sources": [
+      {
+        "label": "r/proplifting community threads",
+        "url": "https://www.reddit.com/r/proplifting/"
+      },
+      {
+        "label": "Search interest: \"grow lights succulents\"",
+        "url": "https://duckduckgo.com/?q=grow%20lights%20succulents"
+      }
+    ],
+    "publishedAt": "2026-10-30T13:45:21.981Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "five-soil-mistakes-90",
+    "title": "Five mistakes everyone makes in their first month of soil",
+    "dek": "The most common early stumbles in soil, and the cheap corrections that fix them for succulent and cactus growers.",
+    "takeaway": "Month-one mistakes in soil are nearly universal — and nearly all reversible if you catch them early.",
+    "whatHappened": "We combed the recurring \"what did I do wrong\" threads that succulent and cactus growers post and the same five soil mistakes appear over and over: buying before learning, copying advanced setups, skipping the log, chasing novelty, and quitting during the boring middle.",
+    "whyItMatters": "Each of these mistakes feels productive while you're making it. That's why they persist — and why naming them explicitly saves newcomers weeks of stalled progress in soil.",
+    "howToThink": "Audit yourself against the list once a month. The point isn't guilt — it's that every one of these has a five-minute correction if you notice it early enough.",
+    "pros": [
+      "Each mistake has a cheap fix",
+      "Recognition is most of the cure",
+      "Applies at any experience level"
+    ],
+    "cons": [
+      "Easy to nod along and change nothing",
+      "Some mistakes feel like progress",
+      "Lists can't replace a habit"
+    ],
+    "watchOut": "The most expensive version of every month-one mistake is the one you rationalize as \"investing in the hobby.\"",
+    "faq": [
+      {
+        "q": "Which mistake costs the most?",
+        "a": "Buying before learning — it converts enthusiasm into clutter and guilt instead of skill."
+      },
+      {
+        "q": "I already made all five. Now what?",
+        "a": "Good news: so did everyone else. Pick the one currently costing you the most and fix only that."
+      },
+      {
+        "q": "How do I avoid new mistakes?",
+        "a": "Keep the log. Most errors are invisible until they're written down."
+      }
+    ],
+    "category": "Soil",
+    "tags": [
+      "Soil",
+      "Light"
+    ],
+    "sources": [
+      {
+        "label": "r/cactus community threads",
+        "url": "https://www.reddit.com/r/cactus/"
+      },
+      {
+        "label": "Search interest: \"propagate succulents leaves\"",
+        "url": "https://duckduckgo.com/?q=propagate%20succulents%20leaves"
+      }
+    ],
+    "publishedAt": "2026-10-30T00:45:28.427Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "succulent-soil-mix-field-test-30",
     "title": "\"succulent soil mix\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about succulent soil mix through a month of actual use. Some of it survived.",

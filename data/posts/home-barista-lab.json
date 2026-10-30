@@ -1,5 +1,107 @@
 [
   {
+    "slug": "upgrade-espresso-shot-consistency-pressure-check",
+    "title": "Upgrade Your Espresso Shot Consistency with a Simple Brew Pressure Check",
+    "dek": "A quick test to see if your machine’s pressure is stable, so every shot lands where you expect.",
+    "takeaway": "Stable brew pressure is the backbone of repeatable espresso quality.",
+    "whatHappened": "You noticed a day-to-day swing in shot volume and flavor despite using the same beans and grind. By attaching a pressure gauge to the portafilter and pulling a short pull, you captured the pressure curve. The reading revealed a noticeable dip during the middle of the extraction.",
+    "whyItMatters": "Pressure fluctuations alter the flow rate, which changes extraction time and solubility, leading to inconsistent taste. Home baristas rely on steady pressure to dial in dose, grind, and tamp. Spotting pressure issues early saves wasted beans and frustration.",
+    "howToThink": "Treat pressure like a heartbeat—steady and predictable. When you see a dip, check the pump, group head gasket, and water line for blockages or wear. Regularly repeat the gauge test after any maintenance to confirm the system is back to baseline.",
+    "pros": [
+      "Quick to perform",
+      "No expensive tools required",
+      "Immediate feedback"
+    ],
+    "cons": [
+      "Requires a compatible pressure gauge",
+      "May need to disassemble portafilter",
+      "Not a full diagnostic for pump health"
+    ],
+    "watchOut": "Never exceed the machine’s safe pressure limits while testing; follow the gauge manufacturer’s guidelines.",
+    "faq": [
+      {
+        "q": "Do I need a digital pressure gauge?",
+        "a": "A basic analog gauge that reads bar or psi works fine for a quick check."
+      },
+      {
+        "q": "How often should I run this test?",
+        "a": "Once a week or after any service that touches the pump or group head."
+      },
+      {
+        "q": "What pressure range indicates a healthy espresso machine?",
+        "a": "Most home machines aim for 9 bar steady pressure during the main extraction phase."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-10-30T13:45:02.842Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "simple-grinder-burr-alignment-check",
+    "title": "Fine‑Tune Your Grinder Burrs with a Simple Alignment Test",
+    "dek": "A quick visual and tactile check that keeps your grinder delivering consistent particle size.",
+    "takeaway": "Properly aligned burrs dramatically improve grind uniformity and flavor balance.",
+    "whatHappened": "While cleaning my home grinder I noticed uneven extraction and traced it to a subtle burr shift. A brief alignment test restored consistency within minutes.",
+    "whyItMatters": "Misaligned burrs produce mixed particle sizes, leading to over‑ or under‑extraction. Consistency is the backbone of reproducible espresso and pour‑over recipes.",
+    "howToThink": "Turn the grinder off, remove the hopper, and spin the burrs by hand. They should rotate smoothly without wobble. If you feel resistance or see a gap, gently loosen the mounting screws, realign, and retighten.",
+    "pros": [
+      "Quick and tool‑free",
+      "Prevents costly flavor swings",
+      "Extends burr life"
+    ],
+    "cons": [
+      "Requires occasional disassembly",
+      "May need a small screwdriver",
+      "Not a substitute for full cleaning"
+    ],
+    "watchOut": "Never force the burrs; excessive pressure can damage the shaft.",
+    "faq": [
+      {
+        "q": "How often should I perform the alignment check?",
+        "a": "Once a month or after any significant grind change."
+      },
+      {
+        "q": "Will this void my grinder warranty?",
+        "a": "No, as long as you follow the manufacturer’s disassembly guidelines."
+      },
+      {
+        "q": "Can I use this test on both flat and conical burrs?",
+        "a": "Yes, the principle applies to any burr type."
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "grinder maintenance",
+      "consistency"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-10-30T00:45:10.433Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "fine-tune-espresso-crema-tilt-test",
     "title": "Fine‑Tune Your Espresso Crema with a Simple Portafilter Tilt Test",
     "dek": "A quick tilt test helps you spot uneven crema and improve shot consistency without pricey equipment.",
