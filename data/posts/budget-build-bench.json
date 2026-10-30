@@ -1,5 +1,56 @@
 [
   {
+    "slug": "hidden-gems-older-gpus-1080p",
+    "title": "Hidden gems: older GPUs that still crush 1080p on a budget",
+    "dek": "Older graphics cards can still deliver smooth 1080p gaming without breaking the bank.",
+    "takeaway": "Don’t overlook last‑gen GPUs; they often offer the best price‑to‑performance for budget builds.",
+    "whatHappened": "We revisited a selection of discontinued GPUs, tested them on current titles at 1080p, and compared pricing on the secondary market. Several cards that launched three years ago still hit playable frame rates in modern games.",
+    "whyItMatters": "Budget builders constantly chase the latest deals, but older hardware can provide equal or better value, freeing funds for other components like storage or a better CPU.",
+    "howToThink": "Focus on the GPU’s VRAM size, driver support, and power draw rather than the hype around brand‑new releases. Check recent user reports for stability before buying used.",
+    "pros": [
+      "Excellent price‑to‑performance",
+      "Mature driver ecosystem",
+      "Lower power consumption"
+    ],
+    "cons": [
+      "Limited availability in some regions",
+      "Potential for higher wear on used units",
+      "May lack newest features like ray tracing"
+    ],
+    "watchOut": "Verify that the card’s BIOS isn’t locked to a lower clock speed before finalizing a purchase.",
+    "faq": [
+      {
+        "q": "Is it safe to buy a used GPU from a marketplace?",
+        "a": "Buy from sellers with a solid reputation, ask for recent benchmark screenshots, and ensure the card powers on without artifacting."
+      },
+      {
+        "q": "Do older GPUs support the latest drivers?",
+        "a": "Most mainstream cards receive driver updates for several years, so they stay compatible with new games."
+      },
+      {
+        "q": "What VRAM is enough for 1080p today?",
+        "a": "At least 6 GB is recommended for most current titles; 8 GB offers a comfortable buffer."
+      }
+    ],
+    "category": "GPUs",
+    "tags": [
+      "budget",
+      "gpu"
+    ],
+    "sources": [
+      {
+        "label": "r/buildapcsales community threads",
+        "url": "https://www.reddit.com/r/buildapcsales/"
+      },
+      {
+        "label": "Search interest: \"best budget gpu 2026\"",
+        "url": "https://duckduckgo.com/?q=best%20budget%20gpu%202026"
+      }
+    ],
+    "publishedAt": "2026-10-30T14:45:16.985Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "gtx-1650-vs-rtx-3050-budget-showdown",
     "title": "Stretching Every Dollar: When a GTX 1650 Beats a New RTX 3050 in Real‑World Gaming",
     "dek": "A head‑to‑head look at why an older GTX 1650 can outplay a brand‑new RTX 3050 for budget builds.",

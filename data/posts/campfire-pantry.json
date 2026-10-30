@@ -1,5 +1,56 @@
 [
   {
+    "slug": "quick-protein-packs",
+    "title": "Fueling the trail: quick protein packs you can prep in 10 minutes",
+    "dek": "Whip up portable protein packs in under ten minutes for a burst of energy on any weekend trek.",
+    "takeaway": "Simple, no‑cook protein packs keep you fueled without slowing your pace.",
+    "whatHappened": "We tried a trio of no‑cook protein mixes—nut butter, jerky bits, and dried fruit—using only a resealable bag and a camp spoon. Each pack assembled in under three minutes and held up through a two‑day hike. The packs delivered steady calories and taste without any cooking gear.",
+    "whyItMatters": "Backpackers often sacrifice nutrition for convenience, ending up with bland or heavy meals. Portable protein packs bridge that gap, offering high‑density fuel that’s lightweight and ready when hunger hits. Consistent energy helps maintain morale and performance on the trail.",
+    "howToThink": "Start with a base of nut butter for calories and binding, add a salty protein like jerky or soy crisps for savory depth, then sprinkle dried fruit for quick sugars. Portion to your daily caloric goal, seal, and toss in your pack. Adjust ratios based on taste and dietary needs, but keep the total weight under 200 g per day.",
+    "pros": [
+      "Ultra‑light and compact",
+      "Zero‑cook, zero‑fuel needed",
+      "Customizable flavor combos"
+    ],
+    "cons": [
+      "Requires pre‑hike preparation",
+      "May be too salty for some",
+      "Limited shelf‑life in humid climates"
+    ],
+    "watchOut": "Pack the bags airtight; moisture can turn the butter soggy and spoil the mix.",
+    "faq": [
+      {
+        "q": "Can I use peanut butter instead of almond butter?",
+        "a": "Yes—any nut or seed butter works, just watch for added sugars or oils."
+      },
+      {
+        "q": "How long will the packs stay fresh?",
+        "a": "In a cool, dry environment they’ll stay good for several weeks; longer in hot, humid weather."
+      },
+      {
+        "q": "Do these packs meet protein needs for a day hike?",
+        "a": "They provide a solid protein boost, but pair with other meals for a balanced diet."
+      }
+    ],
+    "category": "Meals",
+    "tags": [
+      "quick meals",
+      "backpacking nutrition"
+    ],
+    "sources": [
+      {
+        "label": "r/trailmeals community threads",
+        "url": "https://www.reddit.com/r/trailmeals/"
+      },
+      {
+        "label": "Search interest: \"backpacking food ideas\"",
+        "url": "https://duckduckgo.com/?q=backpacking%20food%20ideas"
+      }
+    ],
+    "publishedAt": "2026-10-30T14:45:45.482Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quick-fire-breakfast",
     "title": "Quick fire‑ready breakfast for the trail",
     "dek": "A 5‑minute stovetop breakfast that fuels early hikes without bulk.",

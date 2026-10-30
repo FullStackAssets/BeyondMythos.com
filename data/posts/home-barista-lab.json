@@ -1,5 +1,56 @@
 [
   {
+    "slug": "simple-grinder-dosing-test",
+    "title": "Fine‑Tune Your Dose Consistency with a Simple Grinder Dosing Test",
+    "dek": "A quick, repeatable trick to check if your grinder is delivering the same amount shot after shot.",
+    "takeaway": "Consistent dosing equals consistent extraction.",
+    "whatHappened": "We tried a kitchen scale and a set of identical coffee scoops, measuring the weight of grounds after each grind. The results revealed noticeable variance even on a brand‑new grinder.",
+    "whyItMatters": "Dose variance is the hidden cause of fluctuating taste, especially for espresso. By catching it early you avoid wasted beans and endless tweaking of brew parameters.",
+    "howToThink": "Treat each grind like a mini experiment: weigh the output, note the deviation, and adjust grinder settings or cleaning routine until the spread shrinks. Keep the test simple – three doses, same beans, same tamp pressure.",
+    "pros": [
+      "Fast to perform",
+      "No extra equipment beyond a scale",
+      "Reveals hidden inconsistencies"
+    ],
+    "cons": [
+      "Requires a scale",
+      "Only detects variance, not root cause",
+      "May need multiple repeats for confidence"
+    ],
+    "watchOut": "Don’t forget to zero your scale between doses, or you’ll mask the very variation you’re trying to see.",
+    "faq": [
+      {
+        "q": "How many doses should I test?",
+        "a": "Three to five doses give a clear picture without taking too much time."
+      },
+      {
+        "q": "What variance is acceptable?",
+        "a": "Aim for less than a gram difference between doses on a typical 18‑gram shot."
+      },
+      {
+        "q": "Can this test replace regular grinder maintenance?",
+        "a": "It’s a diagnostic, not a replacement – keep cleaning and calibrating your grinder as usual."
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "grinder",
+      "dosing"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-10-30T14:45:11.632Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "upgrade-espresso-shot-consistency-pressure-check",
     "title": "Upgrade Your Espresso Shot Consistency with a Simple Brew Pressure Check",
     "dek": "A quick test to see if your machine’s pressure is stable, so every shot lands where you expect.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-boost-replacing-atari-2600-joystick-contac",
+    "title": "Pixel Boost: Replacing Atari 2600 Joystick Contacts for Smoother Inputs",
+    "dek": "Swap out the worn contacts in your Atari 2600 joystick for tighter, more reliable directional control.",
+    "takeaway": "Fresh joystick contacts give you consistent input, shaving precious milliseconds off your runs.",
+    "whatHappened": "Long‑used Atari 2600 joysticks develop flaky contacts that cause jittery movement during fast runs. A quick disassembly reveals corroded metal pads. Replacing them with new contacts restores crisp directional response.",
+    "whyItMatters": "Even a minor input lag can break a speedrun’s timing window, especially on tight platform sections. Reliable joystick inputs also preserve the original feel that collectors cherish. The fix extends the life of a classic peripheral without buying a new one.",
+    "howToThink": "First, verify the joystick’s contact points are the issue by testing with a known‑good controller. Then, source compatible contact pads—many hobby stores stock generic replacements. Use a fine‑tip soldering iron and avoid excess heat to protect the PCB.",
+    "pros": [
+      "Improved input reliability",
+      "Low‑cost repair",
+      "Extended joystick lifespan"
+    ],
+    "cons": [
+      "Requires soldering skill",
+      "Potential PCB damage if rushed",
+      "Time‑consuming for multiple sticks"
+    ],
+    "watchOut": "Always unplug the console before opening the joystick housing to avoid electric shock.",
+    "faq": [
+      {
+        "q": "Can I use generic contact pads instead of original Atari parts?",
+        "a": "Yes, as long as they match the size and material, generic pads work fine for the repair."
+      },
+      {
+        "q": "Do I need a desoldering pump for this job?",
+        "a": "A small pump or wick helps remove old solder cleanly, but careful heat can also lift it without tools."
+      },
+      {
+        "q": "Will this repair affect the joystick’s original value?",
+        "a": "A well‑done restoration usually preserves or even enhances collector value compared to a broken unit."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "hardware",
+      "joystick"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-10-30T14:45:10.770Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "nes-controller-rubber-pads",
     "title": "Pixel Boost: Replacing NES Controller Rubber Pads for Smoother Presses",
     "dek": "Swap out worn NES controller pads for fresh rubber to regain crisp button feel without soldering.",

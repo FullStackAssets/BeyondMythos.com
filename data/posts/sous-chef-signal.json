@@ -1,5 +1,56 @@
 [
   {
+    "slug": "speedy-weeknight-sauces",
+    "title": "Speedy weeknight sauces: a 3-step framework",
+    "dek": "A quick, repeatable sauce system that turns pantry staples into weeknight winners in under ten minutes.",
+    "takeaway": "A simple three‑step method lets you craft versatile sauces without the guesswork.",
+    "whatHappened": "We stripped down our most popular weeknight sauce recipes to their core actions: pick, mix, finish. The result is a universal template that works with anything from soy‑based blends to tomato‑rich reductions.",
+    "whyItMatters": "Sauce is the hidden lever that can transform a bland stir‑fry or roasted veg into a memorable meal. By systematizing it, you cut prep time and boost flavor consistency, keeping the dinner routine fresh.",
+    "howToThink": "1️⃣ Choose a flavor base (umami, bright, sweet). 2️⃣ Combine with a liquid and thickener in the right ratio. 3️⃣ Finish with acid, salt, or herbs. Adjust each step to the dish at hand.",
+    "pros": [
+      "Fast to assemble",
+      "Highly adaptable",
+      "Uses pantry staples"
+    ],
+    "cons": [
+      "Requires basic pantry stock",
+      "Needs quick heat control",
+      "Flavor tweaking may take practice"
+    ],
+    "watchOut": "Don’t let the sauce boil too hard; it can turn bitter or separate.",
+    "faq": [
+      {
+        "q": "Can I use this method with dairy‑free diets?",
+        "a": "Yes—swap cream for coconut milk or cashew purée and keep the same steps."
+      },
+      {
+        "q": "What if I run out of broth?",
+        "a": "Water with a splash of soy sauce or a bouillon cube works as a neutral substitute."
+      },
+      {
+        "q": "How long can I store the finished sauce?",
+        "a": "Refrigerate in an airtight container for up to three days; reheat gently to preserve texture."
+      }
+    ],
+    "category": "Sauces",
+    "tags": [
+      "sauces",
+      "weeknight"
+    ],
+    "sources": [
+      {
+        "label": "r/cookingforbeginners community threads",
+        "url": "https://www.reddit.com/r/cookingforbeginners/"
+      },
+      {
+        "label": "Search interest: \"five mother sauces\"",
+        "url": "https://duckduckgo.com/?q=five%20mother%20sauces"
+      }
+    ],
+    "publishedAt": "2026-10-30T14:45:34.209Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-knife-skills-88",
     "title": "The quiet upgrade: small tweaks in knife skills with outsized returns",
     "dek": "No purchases, no overhauls — the modest knife skills adjustments that home cooks systematizing weeknight dinners report mattering most.",
