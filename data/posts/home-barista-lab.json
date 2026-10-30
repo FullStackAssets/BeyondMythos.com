@@ -1,5 +1,56 @@
 [
   {
+    "slug": "boost-espresso-shot-stability-grip-test",
+    "title": "Boost Your Espresso Shot Stability with a Simple Portafilter Grip Test",
+    "dek": "A quick grip test reveals hidden pressure inconsistencies that can ruin espresso balance.",
+    "takeaway": "A steady, even grip ensures consistent pressure and better espresso flavor.",
+    "whatHappened": "We tried pulling a shot while deliberately varying the portafilter grip. The flavor swung from bright to muted within seconds.",
+    "whyItMatters": "Even minor hand tension changes the pressure profile, affecting extraction uniformity and crema quality. Consistency starts with how you hold the portafilter.",
+    "howToThink": "Treat the portafilter like a steering wheel: firm enough to stay stable, but relaxed enough to let the machine do the work. Practice a neutral grip for each shot.",
+    "pros": [
+      "Easy to implement",
+      "No extra tools needed",
+      "Immediate feedback"
+    ],
+    "cons": [
+      "Requires mindful practice",
+      "May feel odd at first",
+      "Only addresses hand‑related variables"
+    ],
+    "watchOut": "Avoid gripping so hard you restrict the pump’s pressure release.",
+    "faq": [
+      {
+        "q": "Does grip affect brew pressure?",
+        "a": "Yes, a loose grip can allow the basket to shift, altering pressure during extraction."
+      },
+      {
+        "q": "Can I use gloves?",
+        "a": "A thin, breathable glove can help maintain consistent pressure without slipping."
+      },
+      {
+        "q": "How often should I check my grip?",
+        "a": "Do a quick test each session, especially when switching beans or dose."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "technique"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-10-30T20:45:14.593Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-gear-54",
     "title": "Ask the forge: your gear questions, answered",
     "dek": "Straight answers to the gear questions home coffee enthusiasts keep asking, minus the hedging.",

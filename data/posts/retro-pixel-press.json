@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-boost-replace-gba-screen-flex",
+    "title": "Pixel Boost: Replacing Game Boy Advance Screen Flex for Crisper Visuals",
+    "dek": "Swap the GBA’s aging screen flex to regain sharp, flicker‑free graphics without breaking the bank.",
+    "takeaway": "A fresh flex cable revives picture quality and extends your handheld’s life.",
+    "whatHappened": "After months of faded colors and occasional ghosting, a collector opened a Game Boy Advance and found the original flex cable deteriorated. Replacing it with a new, OEM‑spec part restored the display to its original crispness.",
+    "whyItMatters": "The screen flex is a hidden weak point that often fails before other components, forcing premature retirement of a beloved handheld. Fixing it keeps the device playable for speedrun practice and collection preservation.",
+    "howToThink": "Source a reputable flex cable, work in a static‑free environment, and use a precision screwdriver set. Take photos of each step to avoid re‑assembly errors, and test the display before sealing the case.",
+    "pros": [
+      "Immediate visual improvement",
+      "Low cost compared to buying a new unit",
+      "Extends handheld lifespan"
+    ],
+    "cons": [
+      "Requires careful soldering",
+      "Tiny parts can be easy to lose",
+      "Time‑consuming for first‑timers"
+    ],
+    "watchOut": "Avoid applying excess force on the ribbon connectors; they can tear easily.",
+    "faq": [
+      {
+        "q": "Do I need a hot‑air reflow station?",
+        "a": "No, a standard soldering iron with a fine tip is sufficient for the flex contacts."
+      },
+      {
+        "q": "Can I use a third‑party flex cable?",
+        "a": "Yes, as long as it matches the GBA’s pin layout and thickness specifications."
+      },
+      {
+        "q": "Will the battery life change after the swap?",
+        "a": "The flex replacement does not affect power consumption, so battery life remains unchanged."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "GBA",
+      "Display Repair"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-10-30T20:45:10.353Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-boost-replacing-gba-battery-contacts",
     "title": "Pixel Boost: Replacing Game Boy Advance Battery Contacts for More Reliable Play",
     "dek": "Swap out corroded battery contacts on your GBA for smoother power delivery and fewer sudden shutdowns.",

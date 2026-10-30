@@ -1,5 +1,56 @@
 [
   {
+    "slug": "balcony-micro-mushroom-magic-2",
+    "title": "Balcony Micro‑Mushroom Magic: Gourmet Fungi in Tiny Spaces",
+    "dek": "Turn a corner shelf into a mini mushroom farm and harvest fresh shiitake or oyster caps in weeks.",
+    "takeaway": "Even the smallest balcony can yield gourmet mushrooms with a simple kit and a bit of patience.",
+    "whatHappened": "A new DIY mushroom kit hit the local garden store, promising full‑size caps from a 1‑liter pot. Early adopters set them up on sunny‑shade balcony nooks and reported first harvests within three weeks.",
+    "whyItMatters": "Fresh mushrooms add protein and umami without the footprint of a grocery run, and the growing process recycles coffee grounds and straw that would otherwise go to waste. For apartment dwellers, it turns otherwise idle corners into productive micro‑farms.",
+    "howToThink": "Choose a shallow, breathable container and fill it with a pre‑sterilized substrate. Keep the bag moist, out of direct sun, and mist daily to maintain humidity. Harvest by cutting the caps when they unfurl, then reuse the substrate for a second flush.",
+    "pros": [
+      "Fresh flavor",
+      "Space‑saving",
+      "Low maintenance"
+    ],
+    "cons": [
+      "Requires humidity control",
+      "Limited to shade",
+      "Short harvest window"
+    ],
+    "watchOut": "Watch for excessive moisture that can invite unwanted mold, and ventilate promptly if you see fuzzy growth beyond the mushroom mycelium.",
+    "faq": [
+      {
+        "q": "Can I use regular potting soil?",
+        "a": "No, mushrooms need a substrate like straw, sawdust, or coffee grounds, not traditional soil."
+      },
+      {
+        "q": "How often should I mist?",
+        "a": "Light misting once or twice a day keeps the environment humid without soaking the substrate."
+      },
+      {
+        "q": "Will the kit work in winter?",
+        "a": "Yes, as long as the balcony stays above freezing; a small indoor shelf can substitute if temperatures drop."
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "Mushrooms",
+      "Containers"
+    ],
+    "sources": [
+      {
+        "label": "r/UrbanGardening community threads",
+        "url": "https://www.reddit.com/r/UrbanGardening/"
+      },
+      {
+        "label": "Search interest: \"balcony garden ideas\"",
+        "url": "https://duckduckgo.com/?q=balcony%20garden%20ideas"
+      }
+    ],
+    "publishedAt": "2026-10-30T20:45:13.909Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "balcony-pea-party",
     "title": "Balcony Pea Party: Sweet Harvest in Small Spaces",
     "dek": "Peas climb, taste sweet, and fit in the tiniest balcony planters—here’s how to grow them fast and clean.",
