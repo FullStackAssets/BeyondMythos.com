@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Replacing SNES Cartridge Dust Caps for Smoother Insertion</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/snes-cartridge-dust-caps.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/snes-cartridge-dust-caps.html</guid>
+      <pubDate>Fri, 30 Oct 2026 22:45:10 GMT</pubDate>
+      <description>Swap out the original dust caps on SNES carts to prevent sticky inserts and keep your collection loading like a dream.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Reinforcing NES Controller Springs for Snappy Inputs</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-nes-controller-mod-2.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-nes-controller-mod-2.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/rewiring-nes-cartridge-pins.html</guid>
       <pubDate>Wed, 28 Oct 2026 18:45:12 GMT</pubDate>
       <description>Give your classic NES cartridges a quick pin clean‑up to cut load delays and keep your runs buttery smooth.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Recalibrating NES Controller Contacts for Faster Inputs</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/recalibrate-nes-controller-contacts.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/recalibrate-nes-controller-contacts.html</guid>
-      <pubDate>Wed, 28 Oct 2026 17:45:14 GMT</pubDate>
-      <description>A quick guide to cleaning and adjusting NES controller contacts to shave off input lag for competitive play.</description>
     </item>
   </channel>
 </rss>

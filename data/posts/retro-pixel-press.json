@@ -1,5 +1,56 @@
 [
   {
+    "slug": "snes-cartridge-dust-caps",
+    "title": "Pixel Boost: Replacing SNES Cartridge Dust Caps for Smoother Insertion",
+    "dek": "Swap out the original dust caps on SNES carts to prevent sticky inserts and keep your collection loading like a dream.",
+    "takeaway": "A cheap dust‑cap swap can dramatically improve cartridge handling without risking the hardware.",
+    "whatHappened": "A batch of late‑production SNES cartridges arrived with warped dust caps that snagged on the console’s slot. After swapping them for thin, firm replacements, inserts slid in cleanly every time.",
+    "whyItMatters": "Sticky caps can cause misreads, damage pins, and waste precious playtime—especially in speedrun practice where every second counts. Keeping the connection clean preserves both performance and longevity.",
+    "howToThink": "Look for caps that are slightly thinner than the originals but still seal the cartridge. Use a hobby knife to trim excess if needed, and test the fit before sealing the console.",
+    "pros": [
+      "Instant smoother inserts",
+      "Negligible cost",
+      "No soldering required"
+    ],
+    "cons": [
+      "Requires careful trimming",
+      "May void collector’s value if over‑modified",
+      "Replacement caps can be scarce"
+    ],
+    "watchOut": "Avoid over‑thinning the cap; a gap can let dust in and cause worse problems.",
+    "faq": [
+      {
+        "q": "Do I need a screwdriver to replace the caps?",
+        "a": "No, the caps are held in place by friction and can be pulled off with a fingernail or tweezers."
+      },
+      {
+        "q": "Will this affect the cartridge’s resale value?",
+        "a": "Any modification can impact value, so consider leaving originals in a safe backup set."
+      },
+      {
+        "q": "Can I use generic plastic caps from other systems?",
+        "a": "Only if they match the SNES slot dimensions; mismatched caps can cause more trouble than they solve."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "cartridge maintenance",
+      "speedrun prep"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-30T22:45:10.289Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "retro-nes-controller-mod-2",
     "title": "Pixel Boost: Reinforcing NES Controller Springs for Snappy Inputs",
     "dek": "A quick spring upgrade brings tighter, more reliable button feels to your classic NES controller.",

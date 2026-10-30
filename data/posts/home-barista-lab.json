@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-foam-pitch-test",
+    "title": "Elevate Your Espresso Foam with a Simple Milk Pitch Test",
+    "dek": "A quick way to gauge milk texture consistency before pulling your next shot.",
+    "takeaway": "Consistent milk pitch leads to steadier micro‑foam and better espresso balance.",
+    "whatHappened": "I tried pouring milk into a glass while listening to the sound of the stream. The pitch changed noticeably when the milk temperature drifted or the steam wand pressure faltered. Adjusting the steam technique restored a smooth, even tone.",
+    "whyItMatters": "Foam texture is a silent partner to espresso flavor; uneven micro‑foam can mute acidity and mute sweetness. By catching pitch changes early, you prevent wasted milk and sub‑par latte art.",
+    "howToThink": "Treat the milk stream like a musical note: steady, low‑pitch pours signal stable temperature and pressure. If the tone sharpens, lower the wand pressure or let the milk rest a moment. Practice the ear test alongside visual cues for a holistic approach.",
+    "pros": [
+      "Instant feedback without a thermometer",
+      "Improves latte art consistency",
+      "No extra equipment needed"
+    ],
+    "cons": [
+      "Relies on a quiet environment",
+      "Subjective perception varies",
+      "May miss subtle temperature shifts"
+    ],
+    "watchOut": "Don’t let background noise mask the milk’s pitch, or you’ll miss the warning signs.",
+    "faq": [
+      {
+        "q": "Can I use this test with alternative milks?",
+        "a": "Yes, the pitch change works with most plant‑based milks, though the tonal range may differ slightly."
+      },
+      {
+        "q": "Do I need a specific glass shape?",
+        "a": "A simple clear glass works; just avoid overly narrow openings that distort the sound."
+      },
+      {
+        "q": "How often should I perform the pitch test?",
+        "a": "Do it each time you steam a new batch of milk, especially when you change beans or ambient temperature."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "milk"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-10-30T22:45:14.548Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-tamping-precision-check",
     "title": "Boost Espresso Consistency with a Simple Tamping Pressure Test",
     "dek": "A quick tactile test to keep your tamp pressure steady and your shots repeatable.",
