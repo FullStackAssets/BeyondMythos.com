@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-boost-replacing-gba-battery-contacts",
+    "title": "Pixel Boost: Replacing Game Boy Advance Battery Contacts for More Reliable Play",
+    "dek": "Swap out corroded battery contacts on your GBA for smoother power delivery and fewer sudden shutdowns.",
+    "takeaway": "Fresh contacts keep your handheld alive longer and reduce in‑game hiccups.",
+    "whatHappened": "A batch of Game Boy Advance units showed intermittent power loss during long runs. The culprit was oxidized battery contacts that intermittently broke the circuit. Replacing the tiny spring tabs with new copper contacts restored stable power.",
+    "whyItMatters": "Unreliable power can ruin a speedrun attempt or damage a save file, especially in marathon sessions. Maintaining solid electrical connections preserves both performance and the device’s longevity, keeping the retro experience authentic.",
+    "howToThink": "When you notice random resets, open the back, locate the battery compartment, and inspect the contacts. If they look tarnished, gently clean with isopropyl alcohol or replace with a pre‑made contact kit. Test the unit before closing it up to confirm stability.",
+    "pros": [
+      "Low cost fix",
+      "Extends handheld life",
+      "Improves run consistency"
+    ],
+    "cons": [
+      "Requires tiny screwdriver",
+      "Potential to damage PCB if rushed",
+      "May need soldering for some kits"
+    ],
+    "watchOut": "Avoid applying excessive force to the PCB; a slipped tool can rip traces.",
+    "faq": [
+      {
+        "q": "Do I need soldering skills?",
+        "a": "Most contact kits use press‑fit parts, but some may need a brief solder to secure the spring."
+      },
+      {
+        "q": "Can I clean contacts instead of replacing?",
+        "a": "Cleaning can work if oxidation is light; heavy corrosion usually demands replacement."
+      },
+      {
+        "q": "Will this affect my battery life?",
+        "a": "Better contacts reduce voltage drop, so the battery can deliver its rated runtime more accurately."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "hardware",
+      "GBA"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-30T19:45:10.414Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-boost-replacing-turbografx-16-power-leads",
     "title": "Pixel Boost: Replacing TurboGrafx-16 Power Leads for Faster Boot",
     "dek": "Swap the stock power leads on your TurboGrafx-16 for low‑resistance wire and shave seconds off every startup.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "evening-carriage-chronicles",
+    "title": "Evening Carriage Chronicles: Low‑Impact Storytelling on Night Trains",
+    "dek": "A night‑time ride that lets slow travelers soak in scenery while keeping their carbon footprint tiny.",
+    "takeaway": "Night trains can blend low‑impact travel with immersive storytelling for deeper connections.",
+    "whatHappened": "I boarded a sleeper carriage on a cross‑border night train, set up a small notebook, and let the rhythmic clatter become a backdrop for listening to fellow passengers’ travel tales. By the early morning, the shared stories had turned a simple journey into a living archive of slow‑travel moments.",
+    "whyItMatters": "Night trains cut short‑haul flights, reducing emissions while offering a slower pace that encourages reflection. They also foster spontaneous community, turning strangers into co‑authors of a shared adventure.",
+    "howToThink": "Choose routes with sleeper options and book a quiet compartment to minimize disturbance. Pack a reusable notebook, a pen, and a small lamp; these tools let you capture narratives without electricity. Keep waste to a minimum by bringing a reusable water bottle and refusing single‑use plastics.",
+    "pros": [
+      "Low carbon footprint",
+      "Rich interpersonal encounters",
+      "Scenic overnight views"
+    ],
+    "cons": [
+      "Limited Wi‑Fi",
+      "Fixed sleeping schedule",
+      "Potential cabin noise"
+    ],
+    "watchOut": "Be mindful of carriage etiquette—keep lights low and conversations hushed to respect fellow sleepers.",
+    "faq": [
+      {
+        "q": "Do I need a power outlet for my devices?",
+        "a": "Most sleeper cars provide outlets, but bring a portable charger just in case."
+      },
+      {
+        "q": "Is it safe to travel alone on night trains?",
+        "a": "Night trains are generally safe; keep valuables secured and stay aware of your surroundings."
+      },
+      {
+        "q": "Can I bring a small instrument for impromptu music?",
+        "a": "Yes, as long as you keep volume low and respect fellow passengers’ rest."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "night-train",
+      "storytelling"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-10-30T19:45:13.998Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-stays-mistakes-58",
     "title": "Five mistakes everyone makes in their first month of stays",
     "dek": "The most common early stumbles in stays, and the cheap corrections that fix them for slow-travel and low-impact explorers.",
