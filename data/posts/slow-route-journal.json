@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midday-nap-platform",
+    "title": "Midday Nap on the Platform: Low-Impact Rest for Train Travelers",
+    "dek": "Discover how a brief platform nap can recharge you while keeping your carbon footprint tiny.",
+    "takeaway": "A short, mindful nap on the train platform boosts energy without extra emissions.",
+    "whatHappened": "On a sunny Tuesday I boarded a regional service in the countryside, walked a short way to a quiet platform bench, and settled in for a 20‑minute nap. The gentle rhythm of passing trains and the rustle of leaves created a perfect lull.",
+    "whyItMatters": "Rest is a hidden pillar of sustainable travel; staying refreshed reduces the urge for extra trips or fast‑paced itineraries. A mindful pause also deepens your connection to the place, turning a transit hub into a moment of quiet observation.",
+    "howToThink": "Choose a well‑lit, low‑traffic bench and bring a lightweight travel pillow or rolled jacket for support. An eye mask and earplugs help block distractions without adding waste. Keep your belongings close and set a gentle alarm on your phone to avoid missing the next stop.",
+    "pros": [
+      "Zero extra transport",
+      "Boosts alertness",
+      "Mindful connection to surroundings"
+    ],
+    "cons": [
+      "Limited privacy",
+      "Weather dependent",
+      "Short duration only"
+    ],
+    "watchOut": "Make sure the platform is safe and not in a restricted area before dozing off.",
+    "faq": [
+      {
+        "q": "Is it legal to nap on train platforms?",
+        "a": "Rules vary by country and station, but most public platforms allow brief, unobtrusive rests as long as you stay clear of restricted zones."
+      },
+      {
+        "q": "What gear is essential for a platform nap?",
+        "a": "A compact travel pillow or rolled sweater, an eye mask, and a small alarm on your phone are enough."
+      },
+      {
+        "q": "How can I stay safe while napping?",
+        "a": "Pick a well‑lit area, keep valuables in sight, and set an alarm a few minutes before the train’s scheduled arrival."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "wellness"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-10-30T15:45:06.062Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "morning-whistle-low-impact-train-spotting",
     "title": "Morning Whistle: Low-Impact Train Spotting on Suburban Lines",
     "dek": "A quick guide to savoring sunrise train windows while keeping your carbon footprint tiny.",

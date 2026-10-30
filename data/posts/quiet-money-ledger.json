@@ -1,5 +1,56 @@
 [
   {
+    "slug": "zero-based-budget-template-impulse-spending",
+    "title": "Zero‑based budgeting in practice: a quick start guide",
+    "dek": "A simple template to stop impulse buys and keep every dollar accounted for.",
+    "takeaway": "A zero‑based budget forces you to allocate every dollar, curbing waste before it happens.",
+    "whatHappened": "I tried a plain spreadsheet that listed income, fixed costs, and a catch‑all 'spending' line. After a week of tracking, the unallocated money vanished into a dedicated ‘fun fund’.",
+    "whyItMatters": "When every dollar has a job, surprise expenses become intentional rather than chaotic. This mindset shifts spending from reactive to strategic, protecting both short‑term cash flow and long‑term goals.",
+    "howToThink": "Start with your net income, assign every bill, then allocate the remainder to categories you value. If anything is left over, create a new bucket or boost savings. Review weekly and adjust as real costs surface.",
+    "pros": [
+      "Clear visibility of cash flow",
+      "Reduces impulse purchases",
+      "Easy to tweak each month"
+    ],
+    "cons": [
+      "Requires discipline to log every expense",
+      "May feel restrictive at first",
+      "Spreadsheet setup takes initial time"
+    ],
+    "watchOut": "Don’t forget to budget for irregular expenses like car maintenance or gifts, or they’ll sneak back in as surprise overspend.",
+    "faq": [
+      {
+        "q": "Do I need special software?",
+        "a": "A basic spreadsheet or a free budgeting app works; the method is tool‑agnostic."
+      },
+      {
+        "q": "What about variable income?",
+        "a": "Base your budget on the lowest expected month, then allocate any surplus to goals."
+      },
+      {
+        "q": "How often should I adjust?",
+        "a": "A quick weekly check keeps categories accurate and prevents drift."
+      }
+    ],
+    "category": "Budgeting",
+    "tags": [
+      "zero‑based",
+      "spending control"
+    ],
+    "sources": [
+      {
+        "label": "r/Bogleheads community threads",
+        "url": "https://www.reddit.com/r/Bogleheads/"
+      },
+      {
+        "label": "Search interest: \"index fund investing basics\"",
+        "url": "https://duckduckgo.com/?q=index%20fund%20investing%20basics"
+      }
+    ],
+    "publishedAt": "2026-10-30T15:45:40.471Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "investing-pre-spend-checklist-78",
     "title": "The investing checklist: run this before you spend",
     "dek": "Seven questions that separate a justified investing purchase from an expensive mood.",

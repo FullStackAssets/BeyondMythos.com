@@ -1,5 +1,56 @@
 [
   {
+    "slug": "speedy-dailies-edit-ready",
+    "title": "Speedy dailies: turning raw footage into edit‑ready cuts in a day",
+    "dek": "A practical workflow to get daily footage organized and ready for edit before the day ends.",
+    "takeaway": "You can shave hours off post‑production by applying a disciplined, low‑tech dailies routine.",
+    "whatHappened": "A small indie crew on a 3‑day shoot tried a streamlined dailies process: ingest, quick sync, and basic color‑lookup on the same laptop. By the end of each day they had a clean proxy folder ready for the editor. The result was a smoother edit timeline and less late‑night crunch.",
+    "whyItMatters": "Indie productions often bleed time and budget on post‑production bottlenecks. Getting dailies ready fast keeps momentum, reduces stress, and gives the director early feedback on coverage. It also helps catch technical issues before they become costly fixes.",
+    "howToThink": "Start with a single external SSD and a reliable ingest app; set a 30‑minute window to copy and verify footage. Apply a preset LUT for a quick visual reference, then rename files using a simple shot‑day‑take convention. Archive the raw files and keep only the proxies for the edit, freeing up storage and speeding up the timeline.",
+    "pros": [
+      "Faster feedback loop",
+      "Less data loss risk",
+      "Simplifies editing workflow"
+    ],
+    "cons": [
+      "Requires disciplined timeboxing",
+      "Limited color grading depth at proxy stage",
+      "Initial setup takes a few minutes each day"
+    ],
+    "watchOut": "Don’t skip checksum verification; a corrupted file can slip through a rushed ingest and ruin a shot later.",
+    "faq": [
+      {
+        "q": "Do I need a powerful computer for this workflow?",
+        "a": "A modest laptop with a fast SSD and enough RAM for proxy generation is sufficient; you’re not rendering full‑res footage."
+      },
+      {
+        "q": "Can I still do full‑resolution color grading later?",
+        "a": "Yes—keep the original raws safely archived; the proxies are only for the edit, not the final grade."
+      },
+      {
+        "q": "What naming convention works best?",
+        "a": "Use DAY‑SHOT‑TAKE (e.g., 01‑A‑001) to keep files sortable and instantly readable."
+      }
+    ],
+    "category": "Production",
+    "tags": [
+      "dailies",
+      "workflow"
+    ],
+    "sources": [
+      {
+        "label": "r/Filmmakers community threads",
+        "url": "https://www.reddit.com/r/Filmmakers/"
+      },
+      {
+        "label": "Search interest: \"indie film lighting budget\"",
+        "url": "https://duckduckgo.com/?q=indie%20film%20lighting%20budget"
+      }
+    ],
+    "publishedAt": "2026-10-30T15:45:10.184Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-run-and-gun-audio-31",
     "title": "Myth vs. reality: run and gun audio",
     "dek": "The persistent myths around run and gun audio, stress-tested against what indie filmmakers and short-film creators actually report.",

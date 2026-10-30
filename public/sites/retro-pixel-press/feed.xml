@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Replacing C64 Power Switch for Lightning‑Fast Boots</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/c64-power-switch-replacement.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/c64-power-switch-replacement.html</guid>
+      <pubDate>Fri, 30 Oct 2026 15:45:04 GMT</pubDate>
+      <description>Swap the Commodore 64&apos;s aging power switch for a new tactile one and shave seconds off every startup.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Replacing Atari 2600 Joystick Contacts for Smoother Inputs</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-replacing-atari-2600-joystick-contac.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-replacing-atari-2600-joystick-contac.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/weekend-project-hardware-53.html</guid>
       <pubDate>Wed, 28 Oct 2026 11:45:09 GMT</pubDate>
       <description>One contained, satisfying hardware project for retro game collectors — start Saturday morning, done by lunch.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Refreshing Game Boy Pocket LCD Backlight for Brighter Nights</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-refresh-game-boy-pocket-lcd-backligh.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-refresh-game-boy-pocket-lcd-backligh.html</guid>
-      <pubDate>Wed, 28 Oct 2026 10:45:09 GMT</pubDate>
-      <description>Swap the original LCD backlight in a Game Boy Pocket for a modern LED strip to gain clearer, brighter visuals without altering the classic feel.</description>
     </item>
   </channel>
 </rss>

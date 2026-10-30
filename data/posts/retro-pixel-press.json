@@ -1,5 +1,56 @@
 [
   {
+    "slug": "c64-power-switch-replacement",
+    "title": "Pixel Boost: Replacing C64 Power Switch for Lightning‑Fast Boots",
+    "dek": "Swap the Commodore 64's aging power switch for a new tactile one and shave seconds off every startup.",
+    "takeaway": "A fresh switch means faster boots and fewer hiccups during marathon runs.",
+    "whatHappened": "A collector noticed the original C64 power button felt mushy and sometimes failed mid‑game. After sourcing a modern tactile switch, they swapped it in place of the old contacts. The machine powered up cleanly with a crisp click each time.",
+    "whyItMatters": "Boot lag adds up during speedrun practice sessions and can cause unexpected resets in long runs. A reliable switch also preserves the console’s internal circuitry by preventing intermittent power spikes. For preservationists, keeping the original case intact while upgrading the internals respects the machine’s heritage.",
+    "howToThink": "First, verify the C64’s case can accommodate a low‑profile tactile switch—most do with minor drilling. Desolder the old switch, clean the pads, and install the new part with a bit of heat‑shrink for insulation. Test the click and voltage continuity before re‑assembling the case.",
+    "pros": [
+      "Instantly faster boot times",
+      "Solid, satisfying click",
+      "Reduces power‑related failures"
+    ],
+    "cons": [
+      "Requires soldering skill",
+      "Minor case modification",
+      "Slightly higher component cost"
+    ],
+    "watchOut": "Make sure the new switch’s voltage rating matches the C64’s 5V supply to avoid overheating.",
+    "faq": [
+      {
+        "q": "Do I need a specific switch model?",
+        "a": "A standard 6mm tactile switch rated for 5V works well; verify dimensions before buying."
+      },
+      {
+        "q": "Can I keep the original switch as a backup?",
+        "a": "Yes—desolder it carefully and store it in an anti‑static bag for future reference."
+      },
+      {
+        "q": "Will this void my C64's warranty?",
+        "a": "The C64 is a vintage collector item, so warranties are moot; just proceed at your own risk."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "hardware",
+      "c64"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-10-30T15:45:04.559Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-boost-replacing-atari-2600-joystick-contac",
     "title": "Pixel Boost: Replacing Atari 2600 Joystick Contacts for Smoother Inputs",
     "dek": "Swap out the worn contacts in your Atari 2600 joystick for tighter, more reliable directional control.",

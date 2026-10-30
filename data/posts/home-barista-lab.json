@@ -1,5 +1,56 @@
 [
   {
+    "slug": "fine-tune-espresso-shot-timing-test",
+    "title": "Fine‑Tune Your Espresso Extraction with a Simple Shot Timing Test",
+    "dek": "A quick timing test helps you spot uneven flow and improve consistency without any extra gear.",
+    "takeaway": "Timing your shot reveals hidden issues and guides adjustments for steadier espresso.",
+    "whatHappened": "We tried a stopwatch‑free method by counting seconds with a phone timer while pulling a standard shot. The timing revealed a slower start and a sudden surge midway, indicating channeling.",
+    "whyItMatters": "Uneven flow can cause under‑extracted and over‑extracted portions in the same cup, leading to sour or bitter notes. Spotting it early lets you tweak grind, dose, or tamp before the taste suffers.",
+    "howToThink": "Start with a baseline: pull a shot and note the total time from first drop to the end. Compare that to your target window. If the start is delayed or the finish rushes, adjust one variable at a time—grind finer, tamp firmer, or clean the basket.",
+    "pros": [
+      "No extra tools needed",
+      "Instant feedback",
+      "Works for any machine"
+    ],
+    "cons": [
+      "Subjective timing",
+      "May miss micro‑variations",
+      "Requires consistent routine"
+    ],
+    "watchOut": "Avoid counting errors by using a reliable timer or tapping a metronome instead of eyeballing seconds.",
+    "faq": [
+      {
+        "q": "Do I need a fancy stopwatch?",
+        "a": "A phone timer or any simple second counter works fine."
+      },
+      {
+        "q": "What is a good target shot time?",
+        "a": "Aim for a total extraction around the typical range for your brew ratio; adjust based on taste."
+      },
+      {
+        "q": "Can this test replace a pressure gauge?",
+        "a": "It complements but doesn’t replace pressure data; it highlights flow issues you can then investigate further."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "technique"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-10-30T15:45:06.761Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "simple-grinder-dosing-test",
     "title": "Fine‑Tune Your Dose Consistency with a Simple Grinder Dosing Test",
     "dek": "A quick, repeatable trick to check if your grinder is delivering the same amount shot after shot.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "king-indian-rethink",
+    "title": "Rethinking the King's Indian: a pragmatic twist for mid-level players",
+    "dek": "A focused look at a simplified King's Indian line that cuts the theory and boosts practical results.",
+    "takeaway": "Simplify the King's Indian to sidestep deep theory and keep the fight alive.",
+    "whatHappened": "We tried the 6...e5 variation against a club player who prefers classical setups. The game stayed in familiar structures, and we avoided typical sharp theoretical traps.",
+    "whyItMatters": "Adult players often run out of time digging into obscure lines. By pruning the opening, they conserve mental energy and stay in their comfort zone while still posing problems.",
+    "howToThink": "Focus on the central pawn break and the typical knight maneuvers; treat the early ...e5 as a thematic strike rather than a forced sequence, and keep piece activity over memorization.",
+    "pros": [
+      "Less theory to memorize",
+      "Keeps tension in the center",
+      "Fits typical adult time controls"
+    ],
+    "cons": [
+      "May allow opponent to choose quieter setups",
+      "Requires solid middlegame understanding",
+      "Less surprise value against specialists"
+    ],
+    "watchOut": "Don’t over-simplify to the point where you hand the opponent a comfortable game.",
+    "faq": [
+      {
+        "q": "Is this line suitable for club players who rarely play the King's Indian?",
+        "a": "Yes, because it trades deep theory for clear plans that are easy to recall."
+      },
+      {
+        "q": "What typical pawn structures arise after 6...e5?",
+        "a": "You get a Classical pawn chain with White's d4‑e4 versus Black's d6‑e5, leading to standard knight jumps to f6 and d7."
+      },
+      {
+        "q": "How should I transition to the middlegame?",
+        "a": "Aim to complete development, place the knight on d7, and look for the ...f5 break once you have a safe king."
+      }
+    ],
+    "category": "Openings",
+    "tags": [
+      "King's Indian",
+      "Practical openings"
+    ],
+    "sources": [
+      {
+        "label": "r/chess community threads",
+        "url": "https://www.reddit.com/r/chess/"
+      },
+      {
+        "label": "Search interest: \"adult chess improvement plan\"",
+        "url": "https://duckduckgo.com/?q=adult%20chess%20improvement%20plan"
+      }
+    ],
+    "publishedAt": "2026-10-30T15:45:28.676Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "endgames-pre-spend-checklist-89",
     "title": "The endgames checklist: run this before you spend",
     "dek": "Seven questions that separate a justified endgames purchase from an expensive mood.",

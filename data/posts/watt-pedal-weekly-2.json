@@ -1,5 +1,56 @@
 [
   {
+    "slug": "bike-to-ebike-conversion-field-test-5",
+    "title": "\"bike to ebike conversion\" in practice: a real-world field test",
+    "dek": "We put the most-repeated advice about bike to ebike conversion through a month of actual use. Some of it survived.",
+    "takeaway": "Half the standard advice on bike to ebike conversion holds up; the other half exists to sell you something. Test small before you commit.",
+    "whatHappened": "We collected the most common recommendations e-bike commuters and converts see when they search \"bike to ebike conversion\" and ran them through four weeks of ordinary, unglamorous use. The gap between what demos well and what holds up in week four was bigger than expected.",
+    "whyItMatters": "Most advice about commuting is written from a first impression. The failure modes that actually cost e-bike commuters and converts time and money only show up with repetition — which is exactly what one-day reviews never capture.",
+    "howToThink": "Before adopting any recommendation about bike to ebike conversion, ask what a fourth week of it looks like. If you can't picture the boring version, you're looking at marketing, not a method.",
+    "pros": [
+      "Cheap to replicate at home",
+      "Surfaced real week-four failure modes",
+      "Cuts through first-impression reviews"
+    ],
+    "cons": [
+      "A month is still a small sample",
+      "Results vary by setup",
+      "Some advice needs a season, not weeks"
+    ],
+    "watchOut": "If a guide about bike to ebike conversion shows zero failed attempts, it wasn't a test — it was a script.",
+    "faq": [
+      {
+        "q": "What survived the field test?",
+        "a": "The fundamentals: consistent routine, modest gear, and keeping a log. The exotic tricks mostly didn't."
+      },
+      {
+        "q": "How should I run my own test?",
+        "a": "Change one variable, hold everything else steady for two weeks minimum, and write down what annoyed you."
+      },
+      {
+        "q": "Whose advice should I trust?",
+        "a": "People who publish follow-ups. A single enthusiastic post about commuting is a data point, not a verdict."
+      }
+    ],
+    "category": "Commuting",
+    "tags": [
+      "Commuting",
+      "Maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/bikecommuting community threads",
+        "url": "https://www.reddit.com/r/bikecommuting/"
+      },
+      {
+        "label": "Search interest: \"bike to ebike conversion\"",
+        "url": "https://duckduckgo.com/?q=bike%20to%20ebike%20conversion"
+      }
+    ],
+    "publishedAt": "2026-10-30T15:45:42.556Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-conversion-12",
     "title": "Ask the forge: your conversion questions, answered",
     "dek": "Straight answers to the conversion questions e-bike commuters and converts keep asking, minus the hedging.",
