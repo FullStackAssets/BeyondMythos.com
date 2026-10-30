@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Upgrading Atari 2600 Power Supply Capacitors for Stable Play</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/atari-2600-capacitor-upgrade.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/atari-2600-capacitor-upgrade.html</guid>
+      <pubDate>Fri, 30 Oct 2026 23:45:09 GMT</pubDate>
+      <description>Swap out the aging electrolytic caps in your Atari 2600’s power board to banish flicker and prevent sudden shutdowns.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Replacing SNES Cartridge Dust Caps for Smoother Insertion</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/snes-cartridge-dust-caps.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/snes-cartridge-dust-caps.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/weekend-project-hardware-54.html</guid>
       <pubDate>Wed, 28 Oct 2026 21:45:08 GMT</pubDate>
       <description>One contained, satisfying hardware project for retro game collectors — start Saturday morning, done by lunch.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Rewiring Your NES Cartridge Pins for Snappier Loading</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/rewiring-nes-cartridge-pins.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/rewiring-nes-cartridge-pins.html</guid>
-      <pubDate>Wed, 28 Oct 2026 18:45:12 GMT</pubDate>
-      <description>Give your classic NES cartridges a quick pin clean‑up to cut load delays and keep your runs buttery smooth.</description>
     </item>
   </channel>
 </rss>

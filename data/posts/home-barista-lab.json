@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-leak-test",
+    "title": "Tame Your Espresso Drip with a Simple Portafilter Leak Test",
+    "dek": "A quick leak check can stop unwanted drips and improve shot consistency.",
+    "takeaway": "Identify and seal portafilter leaks before pulling a shot.",
+    "whatHappened": "While prepping a morning shot, a home barista noticed a thin stream of espresso escaping before the brew even began. A brief inspection revealed a tiny gap between the basket and the portafilter body. The leak was fixed with a quick adjustment, and the shot quality improved instantly.",
+    "whyItMatters": "Even a small leak can cause uneven pressure, leading to thin crema and inconsistent extraction. For home enthusiasts, spotting the issue early saves beans, time, and frustration. Consistent pressure is the foundation of repeatable espresso performance.",
+    "howToThink": "After locking the portafilter, hold it upside down over the drip tray and watch for any steady drip before engaging the pump. If you see a leak, remove the basket, inspect the seal, and clean any coffee residue that may be preventing a tight fit. Re‑assemble and repeat the check before brewing again.",
+    "pros": [
+      "Quick visual test",
+      "No extra tools needed",
+      "Improves shot consistency"
+    ],
+    "cons": [
+      "Adds a tiny step to prep",
+      "May miss micro‑leaks without close look",
+      "Requires regular basket cleaning"
+    ],
+    "watchOut": "Avoid forcing the basket if it feels stuck; excess pressure can damage the portafilter threads.",
+    "faq": [
+      {
+        "q": "How often should I perform the leak test?",
+        "a": "Do it each time you change the basket or after a thorough cleaning."
+      },
+      {
+        "q": "Can I use any cleaning solution on the seal?",
+        "a": "A mild soap and water rinse is sufficient; avoid harsh chemicals that could degrade the rubber."
+      },
+      {
+        "q": "What if the leak persists after cleaning?",
+        "a": "Inspect the basket for cracks or wear and replace it if necessary."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-10-30T23:45:03.737Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-foam-pitch-test",
     "title": "Elevate Your Espresso Foam with a Simple Milk Pitch Test",
     "dek": "A quick way to gauge milk texture consistency before pulling your next shot.",

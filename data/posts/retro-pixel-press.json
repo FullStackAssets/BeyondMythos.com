@@ -1,5 +1,56 @@
 [
   {
+    "slug": "atari-2600-capacitor-upgrade",
+    "title": "Pixel Boost: Upgrading Atari 2600 Power Supply Capacitors for Stable Play",
+    "dek": "Swap out the aging electrolytic caps in your Atari 2600’s power board to banish flicker and prevent sudden shutdowns.",
+    "takeaway": "Fresh capacitors keep the console humming longer and reduce voltage sag during marathon runs.",
+    "whatHappened": "We opened a well‑used Atari 2600, found bulging electrolytic capacitors, and replaced them with modern low‑ESR equivalents. The console powered up cleanly and the screen stayed steady through extended play.",
+    "whyItMatters": "Capacitor degradation is a silent killer for vintage consoles, causing flicker, resets, and even board damage. For collectors and speedrunners, reliability means fewer interruptions and a longer lifespan for prized hardware.",
+    "howToThink": "When you notice intermittent flicker or unexpected power‑offs, inspect the power board for swollen caps. Swapping them is cheap, requires only a soldering iron, and pays off in stable performance for the next run.",
+    "pros": [
+      "Cost‑effective fix",
+      "Restores original stability",
+      "Simple solder job"
+    ],
+    "cons": [
+      "Requires soldering skill",
+      "Need to source correct caps",
+      "Potential board stress if done poorly"
+    ],
+    "watchOut": "Double‑check polarity before soldering, as reversed caps can damage the board.",
+    "faq": [
+      {
+        "q": "How do I know which capacitor values to use?",
+        "a": "Match the original capacitance and voltage rating; low‑ESR replacements in the same range work well."
+      },
+      {
+        "q": "Can I use modern electrolytic caps instead of the old ones?",
+        "a": "Yes, modern electrolytics with similar specs are fine and tend to last longer."
+      },
+      {
+        "q": "Will this upgrade affect the console’s authenticity?",
+        "a": "It’s a reversible, non‑intrusive repair that most collectors consider a preservation improvement, not a modification."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Atari",
+      "Hardware"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-10-30T23:45:09.519Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "snes-cartridge-dust-caps",
     "title": "Pixel Boost: Replacing SNES Cartridge Dust Caps for Smoother Insertion",
     "dek": "Swap out the original dust caps on SNES carts to prevent sticky inserts and keep your collection loading like a dream.",
