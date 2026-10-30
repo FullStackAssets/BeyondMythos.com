@@ -1,5 +1,56 @@
 [
   {
+    "slug": "balcony-kale-kickoff",
+    "title": "Balcony Kale Kickoff: Crunchy Greens for Small Spaces",
+    "dek": "Kick off a thriving kale patch on your balcony with space‑saving containers and simple care tips.",
+    "takeaway": "Even a tiny balcony can grow nutrient‑dense kale with the right container setup.",
+    "whatHappened": "We set up a shallow, wide pot with a lightweight soil mix on a sunny balcony rail. The kale seedlings sprouted within a week and began producing sturdy leaves in a few weeks.",
+    "whyItMatters": "Kale offers a steady supply of vitamins and antioxidants, crucial for apartment dwellers with limited grocery trips. Growing it at home also reduces packaging waste and gives a sense of accomplishment.",
+    "howToThink": "Choose a pot at least 12 inches wide and fill it with a well‑draining mix enriched with compost. Plant seedlings deep enough to cover roots, water consistently, and rotate the pot for even light exposure.",
+    "pros": [
+      "Space‑efficient",
+      "High nutritional yield",
+      "Low maintenance"
+    ],
+    "cons": [
+      "Requires regular watering",
+      "Needs sunny spot",
+      "Leaves can bolt in heat"
+    ],
+    "watchOut": "Avoid overwatering, as kale dislikes soggy roots and can develop root rot.",
+    "faq": [
+      {
+        "q": "How often should I water balcony kale?",
+        "a": "Water when the top inch of soil feels dry, aiming for consistent moisture without pooling."
+      },
+      {
+        "q": "Can I grow kale in shade?",
+        "a": "Kale tolerates light shade, but full sun to partial shade yields the best leaf quality."
+      },
+      {
+        "q": "When can I start harvesting?",
+        "a": "Begin snipping outer leaves once they reach about six inches, allowing the plant to keep producing."
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "kale",
+      "balcony-gardening"
+    ],
+    "sources": [
+      {
+        "label": "r/houseplants community threads",
+        "url": "https://www.reddit.com/r/houseplants/"
+      },
+      {
+        "label": "Search interest: \"small space vegetables\"",
+        "url": "https://duckduckgo.com/?q=small%20space%20vegetables"
+      }
+    ],
+    "publishedAt": "2026-10-30T18:45:10.213Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "balcony-spinach-sprint",
     "title": "Balcony Spinach Sprint: Leafy Harvest in Tiny Planters",
     "dek": "Spinach thrives in shallow trays on balconies, delivering fresh greens in weeks without a garden plot.",

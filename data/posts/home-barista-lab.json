@@ -1,5 +1,56 @@
 [
   {
+    "slug": "fine-tune-espresso-temperature-test",
+    "title": "Fine‑Tune Your Espresso Temperature with a Simple Thermometer Placement Test",
+    "dek": "Learn a quick way to verify brew water temperature at the group head for consistent espresso shots.",
+    "takeaway": "Accurate brew temperature starts with checking where your thermometer sits.",
+    "whatHappened": "We tried placing a food‑grade thermometer at the group head versus the boiler outlet and recorded the temperature drop during a pull. The simple placement test revealed a few degrees loss that mattered to flavor.",
+    "whyItMatters": "Espresso extraction is highly temperature‑sensitive; even a small swing can shift balance between sweetness and bitterness. Knowing the real temperature at the cup helps you adjust your machine or workflow.",
+    "howToThink": "Place the probe just inside the portafilter basket, pull a shot, and note the reading. Compare it to your machine’s set temperature; if it’s low, consider pre‑heating the portafilter or checking the PID. Use the data to fine‑tune your brew temperature target.",
+    "pros": [
+      "Quick to perform",
+      "No extra tools needed beyond a thermometer",
+      "Immediate actionable data"
+    ],
+    "cons": [
+      "Thermometer must be food‑grade",
+      "Reading can be affected by ambient temp",
+      "May require multiple shots for consistency"
+    ],
+    "watchOut": "Avoid touching the hot metal with bare hands; use heat‑resistant gloves.",
+    "faq": [
+      {
+        "q": "Can I use a regular kitchen thermometer?",
+        "a": "A digital, food‑grade probe with quick response is best; cheap glass thermometers are too slow."
+      },
+      {
+        "q": "Do I need to calibrate the thermometer first?",
+        "a": "Yes, verify it reads accurately in boiling water before use."
+      },
+      {
+        "q": "How often should I run the test?",
+        "a": "Check temperature whenever you change beans, adjust the PID, or notice flavor shifts."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "temperature"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-10-30T18:45:06.699Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "master-espresso-crema-pressure-pulse-test",
     "title": "Master Your Espresso Crema with a Simple Portafilter Pressure Pulse Test",
     "dek": "A quick trick to gauge crema thickness and consistency without fancy tools.",

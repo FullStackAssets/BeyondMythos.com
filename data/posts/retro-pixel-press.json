@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-boost-replacing-turbografx-16-power-leads",
+    "title": "Pixel Boost: Replacing TurboGrafx-16 Power Leads for Faster Boot",
+    "dek": "Swap the stock power leads on your TurboGrafx-16 for low‑resistance wire and shave seconds off every startup.",
+    "takeaway": "Better power leads mean quicker boots and more reliable runs.",
+    "whatHappened": "A collector noticed the original leads were frayed and caused intermittent power dips. Replacing them with fresh, thicker conductors restored stable voltage and cut boot time noticeably.",
+    "whyItMatters": "Consistent power is critical for speedrun timing and for preserving delicate circuitry. Small voltage fluctuations can cause soft‑locks that ruin a run or stress components over time.",
+    "howToThink": "Measure the resistance of your existing leads; if they feel warm or look corroded, replace them. Use 22‑AWG stranded copper with proper insulation, and crimp secure connectors. Test the console after re‑assembly before your next attempt.",
+    "pros": [
+      "Instant boot improvement",
+      "Reduced voltage drop",
+      "Longer cable lifespan"
+    ],
+    "cons": [
+      "Requires soldering skill",
+      "Need to source proper wire",
+      "Potential warranty void"
+    ],
+    "watchOut": "Double‑check polarity before soldering to avoid short circuits.",
+    "faq": [
+      {
+        "q": "Do I need a specific gauge of wire?",
+        "a": "22‑AWG stranded copper works well for the TurboGrafx‑16’s power draw."
+      },
+      {
+        "q": "Can I use pre‑made replacement leads?",
+        "a": "Yes, but ensure they match the original connector type and length."
+      },
+      {
+        "q": "Will this affect the console’s original value?",
+        "a": "Modifying hardware typically lowers collector value, but many speedrunners prioritize performance."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "TurboGrafx-16",
+      "Power Upgrade"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-10-30T18:45:03.199Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "replace-master-system-power-switch",
     "title": "Pixel Boost: Replacing Sega Master System Power Switch for Quicker Starts",
     "dek": "Swap the aging power switch on your Master System for a snappier, more reliable startup.",

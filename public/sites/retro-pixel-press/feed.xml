@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Replacing TurboGrafx-16 Power Leads for Faster Boot</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-replacing-turbografx-16-power-leads.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-replacing-turbografx-16-power-leads.html</guid>
+      <pubDate>Fri, 30 Oct 2026 18:45:03 GMT</pubDate>
+      <description>Swap the stock power leads on your TurboGrafx-16 for low‑resistance wire and shave seconds off every startup.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Replacing Sega Master System Power Switch for Quicker Starts</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/replace-master-system-power-switch.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/replace-master-system-power-switch.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-revive-power-filter-game-boy-color.html</guid>
       <pubDate>Wed, 28 Oct 2026 14:45:11 GMT</pubDate>
       <description>A quick capacitor filter upgrade keeps your Game Boy Color running smooth during marathon runs.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Tuning TurboGrafx‑16 Power for Marathon Runs</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/turbo-grafx-16-power-tuning.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/turbo-grafx-16-power-tuning.html</guid>
-      <pubDate>Wed, 28 Oct 2026 13:45:04 GMT</pubDate>
-      <description>A simple voltage tweak can keep your TurboGrafx‑16 humming through those long speedrun marathons without overheating.</description>
     </item>
   </channel>
 </rss>
