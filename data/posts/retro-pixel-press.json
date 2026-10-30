@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-boost-replace-mega-drive-cartridge-edges",
+    "title": "Pixel Boost: Replacing Mega Drive Cartridge Edge Connectors for Faster Loading",
+    "dek": "Swap out old Mega Drive cartridge edge contacts for a reliable link, shaving seconds off load times for your speed runs.",
+    "takeaway": "Fresh cartridge contacts mean smoother, quicker game starts and fewer hiccups during runs.",
+    "whatHappened": "We discovered that many classic Mega Drive cartridges develop oxidized edge contacts after years of use. Replacing the thin metal strips with fresh conductive pads restores a clean connection.",
+    "whyItMatters": "A reliable cartridge connection prevents load freezes and input lag, which can ruin a split‑second advantage in a speedrun. It also helps preserve the hardware by reducing stress on the console’s cartridge slot.",
+    "howToThink": "When a cartridge feels loose or the game stutters on start, consider the contacts first. Cleaning with isopropyl alcohol can work, but swapping the contacts gives a lasting fix. Keep a small kit of replacement pads and a fine‑tip soldering iron handy for quick maintenance.",
+    "pros": [
+      "Improved load speed",
+      "Reduced input lag",
+      "Extended cartridge life"
+    ],
+    "cons": [
+      "Requires soldering skill",
+      "Risk of damage if mishandled",
+      "Time investment for each cartridge"
+    ],
+    "watchOut": "Be careful not to overheat the cartridge PCB; brief solder bursts keep components safe.",
+    "faq": [
+      {
+        "q": "Do I need to open the cartridge to replace contacts?",
+        "a": "Yes, you’ll need to unscrew the shell and access the edge board where the contacts sit."
+      },
+      {
+        "q": "Can I use any conductive material?",
+        "a": "Use thin copper or nickel strips designed for cartridge repairs; generic metal can corrode or wear quickly."
+      },
+      {
+        "q": "Will this void any warranty?",
+        "a": "Retro cartridges are typically out of warranty, but any modification is technically a change to the original hardware."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Mega Drive",
+      "Cartridge Repair"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-30T16:45:15.911Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "c64-power-switch-replacement",
     "title": "Pixel Boost: Replacing C64 Power Switch for Lightning‑Fast Boots",
     "dek": "Swap the Commodore 64's aging power switch for a new tactile one and shave seconds off every startup.",

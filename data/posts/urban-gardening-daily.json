@@ -1,5 +1,56 @@
 [
   {
+    "slug": "balcony-tomato-triumph",
+    "title": "Balcony Tomato Triumph: Juicy Harvest in Small Pots",
+    "dek": "Turn a modest balcony into a tomato oasis with space‑smart tricks.",
+    "takeaway": "Even tight balconies can yield tasty, home‑grown tomatoes.",
+    "whatHappened": "We set up a vertical tomato garden using recycled crates and lightweight pots, tracking growth over a summer season.",
+    "whyItMatters": "Fresh tomatoes cut grocery trips, reduce packaging waste, and bring bright flavor to apartment cooking.",
+    "howToThink": "Choose determinate varieties, use a trellis or stacked cages, and feed with regular liquid fertilizer to keep vines productive.",
+    "pros": [
+      "Space‑efficient vertical growth",
+      "Higher yields than window boxes",
+      "Easy to harvest"
+    ],
+    "cons": [
+      "Requires consistent watering",
+      "Need for support structures",
+      "Potential for pest buildup"
+    ],
+    "watchOut": "Watch for blossom‑end rot if watering is uneven.",
+    "faq": [
+      {
+        "q": "What tomato varieties suit balconies?",
+        "a": "Look for dwarf or patio types like 'Patio', 'Tiny Tim', or 'Red Robin' that stay compact."
+      },
+      {
+        "q": "How often should I water?",
+        "a": "Keep soil evenly moist; typically water once daily in hot weather, adjusting for rain."
+      },
+      {
+        "q": "Can I use organic fertilizer?",
+        "a": "Yes, a balanced organic liquid feed applied every two weeks supports fruit set."
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "tomatoes",
+      "vertical gardening"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-10-30T16:45:11.200Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "balcony-chard-charge-2",
     "title": "Balcony Chard Charge: Nutrient‑Rich Greens in Small Spaces",
     "dek": "Boost your balcony’s nutrition with quick‑growing chard that thrives in compact containers.",

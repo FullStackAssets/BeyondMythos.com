@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/private-stack-brief/</link>
     <description>Fresh takes for privacy-conscious consumers and security hobbyists.</description>
     <item>
+      <title>Myth vs. reality: password manager setup</title>
+      <link>https://www.beyondmythos.com/sites/private-stack-brief/posts/myth-vs-reality-password-manager-setup-27.html</link>
+      <guid>https://www.beyondmythos.com/sites/private-stack-brief/posts/myth-vs-reality-password-manager-setup-27.html</guid>
+      <pubDate>Fri, 30 Oct 2026 16:45:38 GMT</pubDate>
+      <description>The persistent myths around password manager setup, stress-tested against what privacy-conscious consumers and security hobbyists actually report.</description>
+    </item>
+    <item>
       <title>A weekend project: level up your browsers in two hours</title>
       <link>https://www.beyondmythos.com/sites/private-stack-brief/posts/weekend-project-browsers-80.html</link>
       <guid>https://www.beyondmythos.com/sites/private-stack-brief/posts/weekend-project-browsers-80.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/private-stack-brief/posts/privacy-browser-comparison-field-test-26.html</guid>
       <pubDate>Wed, 28 Oct 2026 09:45:34 GMT</pubDate>
       <description>We put the most-repeated advice about privacy browser comparison through a month of actual use. Some of it survived.</description>
-    </item>
-    <item>
-      <title>Ask the forge: your threats questions, answered</title>
-      <link>https://www.beyondmythos.com/sites/private-stack-brief/posts/ask-the-forge-threats-76.html</link>
-      <guid>https://www.beyondmythos.com/sites/private-stack-brief/posts/ask-the-forge-threats-76.html</guid>
-      <pubDate>Wed, 28 Oct 2026 08:45:35 GMT</pubDate>
-      <description>Straight answers to the threats questions privacy-conscious consumers and security hobbyists keep asking, minus the hedging.</description>
     </item>
   </channel>
 </rss>

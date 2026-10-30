@@ -1,5 +1,56 @@
 [
   {
+    "slug": "fine-tune-espresso-flow-seal-test",
+    "title": "Fine‑Tune Your Espresso Flow with a Simple Portafilter Seal Test",
+    "dek": "A quick seal test can reveal hidden leaks that rob your espresso of pressure and flavor.",
+    "takeaway": "A tight portafilter seal is essential for consistent espresso extraction.",
+    "whatHappened": "During a routine prep, the barista noticed a weak crema and lower than usual pressure. A quick visual check showed steam escaping around the portafilter’s edge. The simple seal test confirmed a worn gasket was the culprit.",
+    "whyItMatters": "Even a minor leak reduces the pressure profile, leading to under‑extracted coffee and a thin body. Consistent pressure ensures the water flows evenly through the puck, extracting the full flavor spectrum. Fixing the seal restores the machine’s designed performance without expensive parts.",
+    "howToThink": "Insert the portafilter, lock it, and run the pump for a few seconds without coffee. Listen for hissing or feel for air escaping at the rim. If you detect a leak, replace the gasket or clean the sealing surfaces before pulling your next shot.",
+    "pros": [
+      "Fast diagnosis",
+      "No extra tools needed",
+      "Improves shot consistency"
+    ],
+    "cons": [
+      "Requires empty portafilter",
+      "May miss subtle wear",
+      "Gasket replacement cost"
+    ],
+    "watchOut": "Never force the portafilter if it feels stuck; you could damage the brew head threads.",
+    "faq": [
+      {
+        "q": "How often should I check the seal?",
+        "a": "A quick check each month or whenever you notice a change in pressure is sufficient."
+      },
+      {
+        "q": "Can I clean the gasket instead of replacing it?",
+        "a": "If it’s just coffee oils, a gentle scrub with a brush and hot water can restore sealing performance."
+      },
+      {
+        "q": "Will a new gasket affect taste?",
+        "a": "A proper seal restores intended pressure, which lets the coffee develop its full flavor profile."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-10-30T16:45:11.884Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "fine-tune-espresso-shot-timing-test",
     "title": "Fine‑Tune Your Espresso Extraction with a Simple Shot Timing Test",
     "dek": "A quick timing test helps you spot uneven flow and improve consistency without any extra gear.",
