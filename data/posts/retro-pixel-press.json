@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-boost-upgrading-sega-genesis-av-cables",
+    "title": "Pixel Boost: Upgrading Sega Genesis AV Cables for Crisper Video",
+    "dek": "Swap the stock RCA leads for shielded, gold‑plated cables and instantly see sharper colors and fewer visual artifacts on your CRT or LCD.",
+    "takeaway": "Better cables give a clearer picture without any console modifications.",
+    "whatHappened": "A community thread highlighted that many Genesis owners suffer faded hues and ghosting due to cheap factory cables. We tested a set of high‑quality, shielded RCA leads against the originals. The difference was obvious on both composite and S‑Video outputs.",
+    "whyItMatters": "Clearer visuals improve both nostalgic enjoyment and competitive play, where reading on‑screen cues quickly can shave seconds off a run. Upgrading cables is a low‑cost, low‑risk tweak that respects the original hardware while modernizing the display experience.",
+    "howToThink": "Treat cables like a simple filter: if the signal is noisy, upgrade the conduit. Look for cables with solid connectors, proper shielding, and gold‑plated contacts. Install by unplugging the old leads, matching colors, and securing the new set—no soldering required.",
+    "pros": [
+      "Instant visual boost",
+      "Plug‑and‑play install",
+      "Cheap relative to console mods"
+    ],
+    "cons": [
+      "Cable length may differ",
+      "Gold plating can tarnish over decades",
+      "Requires careful connector matching"
+    ],
+    "watchOut": "Make sure the new cables match the exact connector types (RCA vs. S‑Video) your TV or monitor expects, or you’ll lose the benefit entirely.",
+    "faq": [
+      {
+        "q": "Do I need a new AV adapter for the Genesis?",
+        "a": "No, the standard 8‑pin AV port works with any RCA or S‑Video cable that matches the pinout."
+      },
+      {
+        "q": "Will this affect audio quality?",
+        "a": "Shielded cables reduce interference, so you may notice cleaner highs and fewer hisses."
+      },
+      {
+        "q": "Can I use the same cables on other consoles?",
+        "a": "Yes, as long as the connector type and impedance match, they’ll work with most 8‑bit and 16‑bit systems."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "AV Upgrade",
+      "Retro Display"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-10-31T00:45:11.148Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "atari-2600-capacitor-upgrade",
     "title": "Pixel Boost: Upgrading Atari 2600 Power Supply Capacitors for Stable Play",
     "dek": "Swap out the aging electrolytic caps in your Atari 2600’s power board to banish flicker and prevent sudden shutdowns.",

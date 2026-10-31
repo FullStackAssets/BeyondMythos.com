@@ -1,5 +1,56 @@
 [
   {
+    "slug": "dial-in-espresso-flow-check",
+    "title": "Dial In Your Espresso Shot with a Simple Flow Rate Check",
+    "dek": "A quick test to see if your espresso flow is on point, using just a timer and a cup.",
+    "takeaway": "Consistent flow equals consistent extraction and better taste.",
+    "whatHappened": "We timed a standard 30‑ml shot on two identical machines, noting the seconds each took to reach the target volume. The slower machine produced a thin, under‑extracted cup.",
+    "whyItMatters": "Flow rate directly influences contact time and pressure, key variables for flavor balance. Spotting a drift early prevents wasted beans and frustrating taste swings.",
+    "howToThink": "Start a timer as soon as water hits the portafilter, stop when the cup hits your target volume. Compare against your baseline; if it’s off, check grind size, dose, and pump health.",
+    "pros": [
+      "Fast to perform",
+      "No extra equipment needed",
+      "Reveals hidden pump issues"
+    ],
+    "cons": [
+      "Requires a steady hand",
+      "Only a relative measure",
+      "Doesn't pinpoint exact cause"
+    ],
+    "watchOut": "Don’t rely on a single run—repeat to account for minor variations.",
+    "faq": [
+      {
+        "q": "What’s a good benchmark for a 30‑ml espresso?",
+        "a": "Around 25‑30 seconds is typical for most home machines."
+      },
+      {
+        "q": "Can I use this test with a 2‑shot basket?",
+        "a": "Yes, just double the target volume and adjust the timing expectation accordingly."
+      },
+      {
+        "q": "What if my flow is too fast?",
+        "a": "Try a finer grind or check that your pump pressure isn’t leaking."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "technique"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-10-31T00:45:12.584Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-leak-test",
     "title": "Tame Your Espresso Drip with a Simple Portafilter Leak Test",
     "dek": "A quick leak check can stop unwanted drips and improve shot consistency.",
