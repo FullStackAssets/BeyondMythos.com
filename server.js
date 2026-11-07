@@ -26,6 +26,18 @@ const {
   revenueDashboard
 } = require("./lib/fulfillment");
 
+const {validEmail,configured: recoveryConfigured,sendCustomerAccessEmail} = require('./lib/recovery-mailer');
+const {renderLibraryPage} = require('./lib/v2-library');
+// Strict production gate: never sign entitlement tokens with a guessable key.
+if (process.env.NODE_ENV === 'production' &&
+    (!process.env.CUSTOMER_ACCESS_SECRET || process.env.CUSTOMER_ACCESS_SECRET.length < 32)) {
+  throw new Error('Production requires CUSTOMER_ACCESS_SECRET of at least 32 characters');
+}
+// V2 sales must not use an ephemeral filesystem. DATA_DIR alone is not proof of durability.
+// Operator MUST verify an attached persistent volume or migrate to durable database first.
+if (process.env.NODE_ENV === 'production' && process.env.BEYONDMYTHOS_V2_COMMERCE_ENABLED === 'true' && !process.env.DATA_DIR) {
+  throw new Error('V2 paid checkout requires verified durable commerce storage');
+}
 const app = express();
 
 app.disable("x-powered-by");
@@ -252,6 +264,18 @@ app.get("/", (req, res) => {
   res.type("html").send(renderBookstoreHomepage());
 });
 
+// Preview is deliberately isolated from the live root and makes no product claims.
+app.get('/v2', (req, res) => {
+  res.set('Cache-Control', 'no-store');
+  res.sendFile(path.join(__dirname, 'public', 'v2', 'index.html'));
+});
+app.get('/library', (req, res) => {
+  res.set('Cache-Control', 'no-store');
+  res.set('Referrer-Policy', 'no-referrer');
+  res.set('X-Robots-Tag', 'noindex, nofollow');
+  res.type('html').send(renderLibraryPage());
+});
+
 app.get("/ops", (req, res) => {
   const sites = registry.listSites();
   res.set("Cache-Control", "no-store");
@@ -263,21 +287,21 @@ app.get("/success", (req, res) => {
   res.set("Cache-Control", "no-store");
   res.type("html").send(`<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Order confirmed — BeyondMythos Press</title><style>${PAGE_STYLE}</style></head><body><main class="wrap">
 <p><a href="/">← Back to the bookstore</a></p>
-<h1>Thank you — your order is confirmed</h1>
+<h1>Checkout returned</h1>
 ${sessionId ? `<p style="color:#94a3b8">Stripe session: <code>${sessionId}</code></p>` : ""}
-<p>Your payment went through. Here's how to get your files:</p>
+<p>If payment completed, Stripe will confirm it asynchronously. Once the order is recorded, you can request a private access link.</p>
 <ol>
-<li><strong>Request your access link</strong> with the email you used at checkout, below.</li>
-<li>Open the link to see every purchase on your account, with fresh download buttons.</li>
+<li><strong>Request a private email link</strong> with the email you used at checkout, below.</li>
+<li>Open the link sent to your email to see eligible purchases and download buttons.</li>
 <li>Links expire after 14 days for security — you can renew them any time, free, forever.</li>
 </ol>
 <form id="recover-form" style="display:flex;gap:.6rem;flex-wrap:wrap;margin:1.5rem 0">
 <input id="recover-email" type="email" required placeholder="you@example.com" autocomplete="email" style="padding:.5rem .65rem;border-radius:.5rem;border:1px solid rgba(148,163,184,.4);background:#0f172a;color:#eef2ff" />
-<button type="submit" style="cursor:pointer;padding:.5rem .8rem;border-radius:.6rem;border:1px solid rgba(96,165,250,.45);background:#2563eb;color:#fff">Email me my downloads</button>
+<button type="submit" style="cursor:pointer;padding:.5rem .8rem;border-radius:.6rem;border:1px solid rgba(96,165,250,.45);background:#2563eb;color:#fff">Request a private email link</button>
 </form>
 <p id="recover-status" style="color:#93c5fd"></p>
 ${STOREFOOT}
-</main><script>document.getElementById("recover-form").addEventListener("submit",async function(e){e.preventDefault();var s=document.getElementById("recover-status");var email=document.getElementById("recover-email").value.trim();s.textContent="Sending...";try{var r=await fetch("/api/customer/access/request",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({email:email})});var p=await r.json();if(!r.ok)throw new Error(p.error||"Request failed");s.innerHTML='Access link ready: <a href="'+p.accessUrl+'">open your downloads</a>';}catch(err){s.textContent=err.message;}});</script></body></html>`);
+</main><script>document.getElementById("recover-form").addEventListener("submit",async function(e){e.preventDefault();var s=document.getElementById("recover-status");var email=document.getElementById("recover-email").value.trim();s.textContent="Sending...";try{var r=await fetch("/api/customer/access/request",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({email:email})});var p=await r.json();if(!r.ok)throw new Error(p.error||"Request failed");s.textContent=p.message||'If your account has purchases, an email will be sent.';}catch(err){s.textContent=err.message;}});</script></body></html>`);
 });
 
 app.get("/cancel", (req, res) => {
@@ -590,10 +614,22 @@ app.post("/api/purchases/record", (req, res) => {
   res.status(201).json(result);
 });
 
-app.post("/api/customer/access/request", strictLimit, (req, res) => {
-  const result = requestCustomerAccess(req.body?.email);
-  if (result.error) return res.status(404).json({ error: result.error });
-  res.status(202).json(result);
+async function safeRecoveryEmail(email) {
+  if (!validEmail(email)) return {status:400,body:{error:'Valid email is required'}};
+  if (!recoveryConfigured()) return {status:503,body:{error:'Email recovery is not configured; contact support.'}};
+  const access = requestCustomerAccess(email);
+  if (!access.error) {
+    try { await sendCustomerAccessEmail({to:email,token:access.token}); }
+    catch (_err) {
+      // Deliberately do not disclose whether an email belongs to a customer.
+      console.error('customer recovery mail delivery failed');
+    }
+  }
+  return {status:202,body:{message:'If an account with purchases exists for this email, a private access link will be sent.'}};
+}
+app.post("/api/customer/access/request", strictLimit, async (req, res) => {
+  const result = await safeRecoveryEmail(req.body?.email);
+  res.status(result.status).json(result.body);
 });
 
 app.get("/api/customer/access", (req, res) => {
@@ -603,13 +639,11 @@ app.get("/api/customer/access", (req, res) => {
   res.json(result);
 });
 
-app.post("/api/purchases/recover", strictLimit, (req, res) => {
-  const result = recoverPurchaseAccess({
-    email: req.body?.email,
-    purchaseId: req.body?.purchaseId
-  });
-  if (result.error) return res.status(400).json({ error: result.error });
-  res.status(202).json(result);
+app.post("/api/purchases/recover", strictLimit, async (req, res) => {
+  // Legacy route compatibility without exposing raw entitlement tokens.
+  // An email-ownership check is mandatory before revealing a purchase.
+  const result = await safeRecoveryEmail(req.body?.email);
+  res.status(result.status).json(result.body);
 });
 
 app.get("/api/digital-access/:purchaseId/:productId", (req, res) => {
