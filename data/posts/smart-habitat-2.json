@@ -1,0 +1,308 @@
+[
+  {
+    "slug": "privacy-motion-sensor",
+    "title": "Privacy‑First Motion Sensing",
+    "category": "Sensors",
+    "dek": "Detect movement without sending raw video to the cloud, keeping your home private.",
+    "takeaway": "Local processing lets you know when someone moves without sacrificing privacy.",
+    "whatHappened": "A DIY motion sensor kit now ships with an on‑board MCU that runs simple motion algorithms and only reports binary occupancy to your hub.",
+    "whyItMatters": "Sending video streams to external services creates a privacy risk; binary data stays within your network, reducing exposure.",
+    "howToThink": "Choose sensors with edge compute, configure them to publish only occupancy events, and pair with a local hub that stores logs locally.",
+    "pros": [
+      "No video upload",
+      "Low bandwidth",
+      "Fast response"
+    ],
+    "cons": [
+      "Limited detail",
+      "May need calibration",
+      "Higher upfront cost"
+    ],
+    "watchOut": "Ensure the firmware is signed to avoid malicious updates.",
+    "faq": [
+      {
+        "q": "Do I need a separate hub?",
+        "a": "Most edge‑capable sensors work with popular local hubs like Home Assistant or openHAB."
+      },
+      {
+        "q": "Can I still get motion alerts on my phone?",
+        "a": "Yes—set the hub to forward binary events as push notifications."
+      },
+      {
+        "q": "What about battery life?",
+        "a": "Edge processing adds a small draw, but most designs still last months on a coin cell."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/homeassistant community threads",
+        "url": "https://www.reddit.com/r/homeassistant/"
+      },
+      {
+        "label": "Search interest: \"home assistant beginner guide\"",
+        "url": "https://duckduckgo.com/?q=home%20assistant%20beginner%20guide"
+      }
+    ],
+    "tags": [
+      "privacy",
+      "motion"
+    ],
+    "publishedAt": "2026-11-17T22:15:16.124Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "energy-smart-lighting",
+    "title": "Energy‑Smart Lighting Routines",
+    "category": "Lighting",
+    "dek": "Lights that dim or turn off based on daylight and occupancy, trimming waste without dimming comfort.",
+    "takeaway": "Dynamic schedules let you keep ambience while shaving the electric bill.",
+    "whatHappened": "Several smart bulbs now expose ambient light readings to local automations, allowing routines that adjust brightness in real time.",
+    "whyItMatters": "Static schedules ignore actual daylight, leading to unnecessary illumination and higher consumption.",
+    "howToThink": "Link a light sensor or the bulb’s own sensor to a local rule that checks both time of day and motion before setting brightness.",
+    "pros": [
+      "Adaptive brightness",
+      "Reduced energy use",
+      "Keeps comfort"
+    ],
+    "cons": [
+      "Initial setup effort",
+      "Sensor placement matters",
+      "May need firmware tweaks"
+    ],
+    "watchOut": "Avoid placing sensors where shadows from furniture cause false lows.",
+    "faq": [
+      {
+        "q": "Do I need a separate sensor?",
+        "a": "Many bulbs include a built‑in lux sensor; otherwise a cheap Z‑Wave or Zigbee sensor works."
+      },
+      {
+        "q": "Will this cause flicker?",
+        "a": "If you debounce the rule (e.g., 30 s delay), flicker is negligible."
+      },
+      {
+        "q": "Can I override manually?",
+        "a": "Yes—most apps let you set a temporary override that the routine respects."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/smarthome community threads",
+        "url": "https://www.reddit.com/r/smarthome/"
+      },
+      {
+        "label": "Search interest: \"local smart home no cloud\"",
+        "url": "https://duckduckgo.com/?q=local%20smart%20home%20no%20cloud"
+      }
+    ],
+    "tags": [
+      "energy",
+      "automation"
+    ],
+    "publishedAt": "2026-11-16T09:15:16.124Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "offline-voice-assistant",
+    "title": "Offline Voice Assistant for Local Control",
+    "category": "Local Control",
+    "dek": "Run voice commands on a Raspberry Pi so nothing leaves your Wi‑Fi network.",
+    "takeaway": "You can keep hands‑free control without sending speech to the cloud.",
+    "whatHappened": "Open‑source voice stacks now run on modest hardware, offering intent parsing and device control without external APIs.",
+    "whyItMatters": "Every spoken phrase sent to a cloud service is a data point; local processing removes that vector entirely.",
+    "howToThink": "Install a local STT engine, train it with a few custom phrases, and tie intents to your home automation platform via MQTT or REST.",
+    "pros": [
+      "Full privacy",
+      "No subscription fees",
+      "Customizable vocabulary"
+    ],
+    "cons": [
+      "Higher CPU load",
+      "Limited language models",
+      "Requires maintenance"
+    ],
+    "watchOut": "Keep the speech model updated to patch potential security issues.",
+    "faq": [
+      {
+        "q": "Is the response time comparable to cloud assistants?",
+        "a": "Latency is usually under a second on a modern Pi, which feels snappy."
+      },
+      {
+        "q": "Can I use the same wake word as commercial assistants?",
+        "a": "You can, but using a unique wake word avoids accidental triggers."
+      },
+      {
+        "q": "Do I need an internet connection at all?",
+        "a": "Only for updates; daily operation works fully offline."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/homeautomation community threads",
+        "url": "https://www.reddit.com/r/homeautomation/"
+      },
+      {
+        "label": "Search interest: \"smart lighting setup\"",
+        "url": "https://duckduckgo.com/?q=smart%20lighting%20setup"
+      }
+    ],
+    "tags": [
+      "voice",
+      "privacy"
+    ],
+    "publishedAt": "2026-11-14T20:15:16.124Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "offline-automation-routines",
+    "title": "Offline Automation Routines",
+    "category": "Routines",
+    "dek": "Design automations that run entirely on your local hub, sidestepping cloud latency and outages.",
+    "takeaway": "Local routines keep your home functional even when the internet drops.",
+    "whatHappened": "Home automation platforms now expose a visual rule engine that executes on the hub itself, without external webhooks.",
+    "whyItMatters": "Reliance on cloud services creates a single point of failure; offline rules guarantee core functions like security lighting stay alive.",
+    "howToThink": "Map essential actions—door lock checks, smoke alarm alerts—to local triggers, and reserve cloud integrations for optional niceties like weather forecasts.",
+    "pros": [
+      "Resilient operation",
+      "Faster response",
+      "No data leave home"
+    ],
+    "cons": [
+      "Complex rules may need scripting",
+      "Limited external data",
+      "Backup needed for hub failure"
+    ],
+    "watchOut": "Test your offline paths regularly; a power outage can hide broken dependencies.",
+    "faq": [
+      {
+        "q": "Can I still use IFTTT?",
+        "a": "Yes, but treat it as a non‑critical enhancement rather than a core trigger."
+      },
+      {
+        "q": "What if my hub restarts?",
+        "a": "Persist rules in the hub’s configuration so they reload automatically."
+      },
+      {
+        "q": "Do I lose any features?",
+        "a": "Features that depend on remote APIs—like voice‑to‑text—need a cloud fallback."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/homeassistant community threads",
+        "url": "https://www.reddit.com/r/homeassistant/"
+      },
+      {
+        "label": "Search interest: \"home assistant beginner guide\"",
+        "url": "https://duckduckgo.com/?q=home%20assistant%20beginner%20guide"
+      }
+    ],
+    "tags": [
+      "offline",
+      "reliability"
+    ],
+    "publishedAt": "2026-11-13T07:15:16.124Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "diy-temperature-sensor-network",
+    "title": "DIY Temperature Sensor Network",
+    "category": "Sensors",
+    "dek": "Build a mesh of cheap temperature probes that report locally, giving you granular climate data without a cloud subscription.",
+    "takeaway": "A self‑hosted sensor grid provides precise HVAC control while staying private.",
+    "whatHappened": "ESP‑based temperature nodes now ship with built‑in mesh libraries, allowing dozens of units to relay data to a central hub.",
+    "whyItMatters": "Central HVAC systems often rely on a single thermostat; distributed data lets you fine‑tune heating zones and catch drafts.",
+    "howToThink": "Flash each node with a lightweight firmware, assign a unique ID, and configure the hub to aggregate readings for zone‑based automations.",
+    "pros": [
+      "High granularity",
+      "No subscription fees",
+      "Scalable mesh"
+    ],
+    "cons": [
+      "Initial soldering",
+      "Battery management",
+      "Signal interference in crowded bands"
+    ],
+    "watchOut": "Place nodes away from Wi‑Fi routers to avoid mesh collisions.",
+    "faq": [
+      {
+        "q": "How often should the nodes report?",
+        "a": "A 5‑minute interval balances freshness with battery life."
+      },
+      {
+        "q": "Do I need a separate gateway?",
+        "a": "The hub can act as the gateway if it runs the same mesh protocol."
+      },
+      {
+        "q": "Can I integrate with existing thermostats?",
+        "a": "Yes—publish the averaged zone temperature to the thermostat’s set‑point API."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/smarthome community threads",
+        "url": "https://www.reddit.com/r/smarthome/"
+      },
+      {
+        "label": "Search interest: \"local smart home no cloud\"",
+        "url": "https://duckduckgo.com/?q=local%20smart%20home%20no%20cloud"
+      }
+    ],
+    "tags": [
+      "temperature",
+      "mesh"
+    ],
+    "publishedAt": "2026-11-11T18:15:16.124Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "zigbee-vs-thread-local-control",
+    "title": "Zigbee vs. Thread for Local Control",
+    "category": "Local Control",
+    "dek": "Compare two popular low‑power mesh protocols to decide which fits your privacy‑first smart home.",
+    "takeaway": "Both are viable, but Thread offers native IPv6 which eases integration with local networks.",
+    "whatHappened": "Manufacturers now ship devices that support either Zigbee or Thread, and many hubs can bridge both stacks simultaneously.",
+    "whyItMatters": "Choosing a protocol influences device compatibility, future‑proofing, and how easily you can keep traffic on‑premises.",
+    "howToThink": "If you already own a Zigbee coordinator, stick with it for simplicity; otherwise, consider Thread for seamless IPv6 routing and easier OTA updates.",
+    "pros": [
+      "Low power",
+      "Mesh reliability",
+      "Broad ecosystem"
+    ],
+    "cons": [
+      "Zigbee needs a bridge",
+      "Thread adoption still growing",
+      "Both need radio planning"
+    ],
+    "watchOut": "Avoid mixing too many radios on the same 2.4 GHz band without channel planning.",
+    "faq": [
+      {
+        "q": "Can I run both on one hub?",
+        "a": "Many modern hubs include dual radios and can manage both networks side by side."
+      },
+      {
+        "q": "Is Thread more secure?",
+        "a": "Both use strong encryption; Thread’s IPv6 design simplifies local network segmentation."
+      },
+      {
+        "q": "Do devices need firmware updates?",
+        "a": "Regular OTA updates are recommended for both to patch vulnerabilities."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/homeautomation community threads",
+        "url": "https://www.reddit.com/r/homeautomation/"
+      },
+      {
+        "label": "Search interest: \"smart lighting setup\"",
+        "url": "https://duckduckgo.com/?q=smart%20lighting%20setup"
+      }
+    ],
+    "tags": [
+      "protocol",
+      "comparison"
+    ],
+    "publishedAt": "2026-11-10T05:15:16.124Z",
+    "readMinutes": 2
+  }
+]

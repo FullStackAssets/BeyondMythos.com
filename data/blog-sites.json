@@ -1825,8 +1825,29 @@
       "streamUrl": "https://beyondmythos.com/",
       "elevenlabsAgentId": null,
       "lastPostAt": "2026-11-17T21:45:42.365Z"
+    },
+    {
+      "id": "smart-habitat-2-1794953716124",
+      "slug": "smart-habitat-2",
+      "name": "Smart Habitat",
+      "tagline": "Fresh takes for smart-home tinkerers and privacy-minded automators.",
+      "nicheId": "home-automation",
+      "audience": "smart-home tinkerers and privacy-minded automators",
+      "categories": [
+        "Sensors",
+        "Routines",
+        "Local Control",
+        "Lighting"
+      ],
+      "url": "https://beyondmythos.com/sites/smart-habitat-2/",
+      "localUrl": "https://beyondmythos.com/sites/smart-habitat-2/",
+      "design": "cinema",
+      "postCount": 6,
+      "createdAt": "2026-11-17T22:15:10.593Z",
+      "streamUrl": "https://beyondmythos.com/",
+      "elevenlabsAgentId": null
     }
   ],
-  "lastGeneratedAt": "2026-11-17T21:15:52.613Z",
+  "lastGeneratedAt": "2026-11-17T22:15:10.593Z",
   "lastPostRunAt": "2026-11-17T21:45:42.393Z"
 }
