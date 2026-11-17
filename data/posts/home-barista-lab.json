@@ -1,5 +1,56 @@
 [
   {
+    "slug": "calibrate-grind-dose-scale-check",
+    "title": "Calibrate Your Grind Dose with a Simple Scale Check",
+    "dek": "Learn a quick scale method to nail consistent grind doses every pull.",
+    "takeaway": "A consistent dose starts with a simple weight check before each brew.",
+    "whatHappened": "I noticed my espresso shots fluctuating even after dialing in the grind. By weighing the dose each time, the variability vanished.",
+    "whyItMatters": "Dose consistency directly impacts extraction time and flavor balance, so small variations can ruin a shot. Maintaining the same dose lets you fine‑tune grind size with confidence.",
+    "howToThink": "Treat the dose like a recipe ingredient—measure it, note the weight, and adjust grind size rather than eyeballing the basket. A quick tare with the portafilter saves time and improves repeatability.",
+    "pros": [
+      "Improves shot repeatability",
+      "Quick and low‑cost",
+      "Works with any grinder"
+    ],
+    "cons": [
+      "Requires a scale",
+      "Adds a tiny step",
+      "May reveal other inconsistencies"
+    ],
+    "watchOut": "Don’t forget to zero the scale with the portafilter attached to avoid hidden weight.",
+    "faq": [
+      {
+        "q": "Do I need a high‑precision scale?",
+        "a": "A scale that reads to 0.1 g is plenty for most home setups."
+      },
+      {
+        "q": "How often should I weigh the dose?",
+        "a": "Weigh it for every shot while you’re dialing in; once stable, you can skip a few pulls."
+      },
+      {
+        "q": "What if the dose changes after tamping?",
+        "a": "If the tamp compresses the grounds, re‑weigh the puck and adjust the grind accordingly."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "Espresso",
+      "Technique"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-11-17T21:45:05.967Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "sieve-grind-consistency-test",
     "title": "Check Your Grind Consistency with a Simple Sieve Test",
     "dek": "A quick sieve shake tells you if your grind is too fine or too coarse before the shot goes live.",

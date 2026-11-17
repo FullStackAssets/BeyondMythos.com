@@ -1,5 +1,56 @@
 [
   {
+    "slug": "platform-green-snack-swap",
+    "title": "Platform Green Snack Swap: Low‑Impact Fuel for the Slow Traveller",
+    "dek": "Swap disposable wrappers for reusable bites, keeping your train journeys light on waste and your energy high.",
+    "takeaway": "Reusable snacks cut waste and keep you fueled without extra baggage.",
+    "whatHappened": "On a week-long rail odyssey through the Alps, I replaced packaged bars with a small tin of nuts, dried fruit, and homemade granola. The tin fit snugly in my bag and lasted the entire trip, eliminating daily trash.",
+    "whyItMatters": "Each plastic wrapper avoided reduces the cumulative waste of long‑distance travelers. Low‑impact eating also aligns with the slow‑travel ethos of mindfulness and minimalism.",
+    "howToThink": "Pack a versatile, resealable container and choose foods that survive temperature swings. Prioritize items that require no refrigeration and can be portioned on the go. Refill at local markets to stay fresh and support communities.",
+    "pros": [
+      "Zero single‑use waste",
+      "Compact and reusable",
+      "Customizable nutrition"
+    ],
+    "cons": [
+      "Initial prep time",
+      "Needs cleaning",
+      "Limited variety on the go"
+    ],
+    "watchOut": "Ensure any fresh items are kept cool to avoid spoilage on longer legs.",
+    "faq": [
+      {
+        "q": "Can I bring fresh fruit on trains?",
+        "a": "Most rail services allow fresh produce; just keep it in a breathable container to prevent bruising."
+      },
+      {
+        "q": "What’s the best container material?",
+        "a": "Lightweight, BPA‑free silicone or stainless steel tins are durable and easy to clean."
+      },
+      {
+        "q": "How do I refill without generating waste?",
+        "a": "Visit station markets or grocery stores and purchase bulk items in reusable bags, then transfer to your own container."
+      }
+    ],
+    "category": "Packing",
+    "tags": [
+      "snacking",
+      "sustainability"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-11-17T21:45:09.359Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "platform-power-breakfast",
     "title": "Platform Power Breakfast: Low‑Impact Fuel for Dawn Travelers",
     "dek": "Start your day on the rails with a simple, low-waste breakfast that keeps you moving and mindful.",

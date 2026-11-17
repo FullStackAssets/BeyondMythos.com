@@ -1,5 +1,56 @@
 [
   {
+    "slug": "replacing-atari-2600-joystick-springs",
+    "title": "Pixel Boost: Replacing Atari 2600 Joystick Contact Springs for Tighter Response",
+    "dek": "Swap out the worn springs in your Atari 2600 joystick for a snappier, more reliable input—essential for collectors and speedrunners.",
+    "takeaway": "Fresh springs revive the classic stick’s feel and shave precious milliseconds off your runs.",
+    "whatHappened": "During a marathon run of Pitfall! the joystick’s springs gave way, causing missed jumps and frustration. A quick disassembly revealed corroded springs that had lost tension.",
+    "whyItMatters": "A reliable joystick is critical for precision platforming, and worn springs can introduce lag and misfires that ruin a run. Restoring the joystick also preserves the original hardware, keeping the console authentic for collectors.",
+    "howToThink": "When the stick feels mushy or fails to return to center, inspect the springs. Replace them with new stainless‑steel coil springs of similar gauge, or repurpose from other vintage joysticks. Reassemble, test, and calibrate before your next run.",
+    "pros": [
+      "Snappier inputs",
+      "Extended hardware life",
+      "Cost-effective repair"
+    ],
+    "cons": [
+      "Requires delicate soldering",
+      "Finding exact spring size can be tricky",
+      "Potential voiding of original warranty"
+    ],
+    "watchOut": "Be careful not to overstretch the new springs, as they can break and damage the joystick housing.",
+    "faq": [
+      {
+        "q": "Can I use generic springs?",
+        "a": "Yes, as long as they match the original gauge and length; many hobby stores stock suitable replacements."
+      },
+      {
+        "q": "How do I test the joystick after repair?",
+        "a": "Plug the controller into a console or PC and verify that each direction registers cleanly without stickiness."
+      },
+      {
+        "q": "Is this safe for my vintage console?",
+        "a": "Replacing the springs affects only the controller, so it won’t harm the console itself."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "hardware",
+      "joystick"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-11-17T21:45:10.026Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-boost-rewiring-atari-2600-cartridge-edge-c",
     "title": "Pixel Boost: Rewiring Atari 2600 Cartridge Edge Connectors for Reliable Contact",
     "dek": "A quick guide to refreshing Atari 2600 cartridge contacts and avoiding flaky reads during marathon runs.",

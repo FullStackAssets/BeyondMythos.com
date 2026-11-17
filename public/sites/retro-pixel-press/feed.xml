@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Replacing Atari 2600 Joystick Contact Springs for Tighter Response</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/replacing-atari-2600-joystick-springs.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/replacing-atari-2600-joystick-springs.html</guid>
+      <pubDate>Tue, 17 Nov 2026 21:45:10 GMT</pubDate>
+      <description>Swap out the worn springs in your Atari 2600 joystick for a snappier, more reliable input—essential for collectors and speedrunners.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Rewiring Atari 2600 Cartridge Edge Connectors for Reliable Contact</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-rewiring-atari-2600-cartridge-edge-c.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-rewiring-atari-2600-cartridge-edge-c.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-pixel-press-quick-fix-nes-power.html</guid>
       <pubDate>Thu, 29 Oct 2026 16:45:13 GMT</pubDate>
       <description>Learn to spot and fix NES power issues that can ruin a speedrun without breaking the console.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Upgrading Your Sega Master System Power Supply for Marathon Runs</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-upgrading-sega-master-system-power-s-2.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-upgrading-sega-master-system-power-s-2.html</guid>
-      <pubDate>Thu, 29 Oct 2026 15:45:14 GMT</pubDate>
-      <description>Swap the original SM System PSU for a modern 12V regulator to keep your console humming through endless speedrun marathons.</description>
     </item>
   </channel>
 </rss>
