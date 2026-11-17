@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Replacing NES Zapper Infrared LED for Sharper Aim</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-replacing-nes-zapper-infrared-led-fo.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-replacing-nes-zapper-infrared-led-fo.html</guid>
+      <pubDate>Tue, 17 Nov 2026 18:45:07 GMT</pubDate>
+      <description>Swap the old infrared LED in your NES Zapper for a bright 940nm diode to restore crisp on-screen targeting.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Replacing Commodore 64 Power Supply Fuse for Reliable Boot</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/replace-commodore-64-power-supply-fuse.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/replace-commodore-64-power-supply-fuse.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/stabilize-atari-5200-power.html</guid>
       <pubDate>Thu, 29 Oct 2026 13:45:11 GMT</pubDate>
       <description>A quick fix to tame erratic power on the Atari 5200, keeping your runs smooth and your hardware happy.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Calibrating Your Atari 2600 Joystick for Precision Speedrunning</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-calibrate-atari-2600-joystick.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-calibrate-atari-2600-joystick.html</guid>
-      <pubDate>Thu, 29 Oct 2026 12:45:15 GMT</pubDate>
-      <description>Learn how a simple joystick tweak on your Atari 2600 can tighten inputs and boost your run times.</description>
     </item>
   </channel>
 </rss>

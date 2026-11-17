@@ -1,5 +1,56 @@
 [
   {
+    "slug": "upgrade-espresso-shot-consistency-pressure-check-2",
+    "title": "Upgrade Your Espresso Shot Consistency with a Simple Brew Pressure Check",
+    "dek": "A quick pressure gauge trick that helps you spot brewing imbalances before they ruin your shot.",
+    "takeaway": "Monitor brew pressure to keep espresso flavor steady and repeatable.",
+    "whatHappened": "During a routine pull, you notice the pressure gauge spikes early and then drops, resulting in a thin, under‑extracted shot. By watching the gauge in real time, you catch the anomaly before the shot finishes and adjust the grind accordingly. The next pull steadies out, delivering richer body and balanced acidity.",
+    "whyItMatters": "Consistent pressure translates directly to consistent extraction, which is the heart of good espresso. Fluctuating pressure can cause uneven solubles, leading to sour or bitter notes that mask the coffee’s true character. Keeping pressure stable means each shot reflects the beans’ intended flavor profile, saving you time and wasted coffee.",
+    "howToThink": "Treat the pressure gauge as a visual metronome: aim for a smooth, steady rise to the target pressure and hold it for the desired brew time. If the needle wavers, check your dose, tamp, and grind size before pulling again. Over time you’ll develop a feel for the subtle pressure cues that signal when something is off.",
+    "pros": [
+      "Instant visual feedback",
+      "Easy to integrate into routine",
+      "Helps prevent wasted shots"
+    ],
+    "cons": [
+      "Requires a pressure gauge",
+      "Adds a step to workflow",
+      "Gauge can be sensitive to temperature"
+    ],
+    "watchOut": "Don’t rely on the gauge alone—taste and timing still matter.",
+    "faq": [
+      {
+        "q": "Do I need a professional machine to use a pressure gauge?",
+        "a": "No, many aftermarket gauges clip onto standard portafilters and work with most home espresso machines."
+      },
+      {
+        "q": "What is the ideal pressure range for a standard espresso shot?",
+        "a": "Aim for a stable 9 bar pressure during the main extraction phase."
+      },
+      {
+        "q": "Can pressure fluctuations be caused by the grinder?",
+        "a": "Yes, inconsistent grind size can affect flow resistance, leading to pressure spikes or drops."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "technique"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-11-17T18:45:06.324Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-shot-timing-stopwatch-test",
     "title": "Fine‑Tune Your Espresso Shot Timing with a Simple Stopwatch Test",
     "dek": "A quick stopwatch trick helps you nail consistent shot times without expensive gear.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "balcony-spinach-sprint-2",
+    "title": "Balcony Spinach Sprint: Leafy Harvest in Tiny Spaces",
+    "dek": "Fast‑growing spinach thrives in shallow balcony boxes, giving city dwellers fresh greens in weeks.",
+    "takeaway": "A shallow, well‑drained container can produce a steady spin of spinach for apartment kitchens.",
+    "whatHappened": "We swapped a decorative pot for a 6‑inch deep grow box on a sun‑facing balcony. Within two weeks, baby spinach seedlings emerged, and by week four, the first harvest was ready. The whole process required only a few minutes of daily watering.",
+    "whyItMatters": "Spinach is nutrient‑dense and matures quickly, making it perfect for limited‑space gardeners who crave fresh salads without a grocery trip. Growing it at home also cuts food waste and reduces packaging.",
+    "howToThink": "Choose a lightweight, breathable container with drainage holes, fill with a loose, organic potting mix, and sow seeds ½ inch deep. Keep the soil evenly moist and rotate the pot for even light exposure. Harvest the outer leaves first to encourage continuous growth.",
+    "pros": [
+      "Rapid harvest",
+      "Minimal space needed",
+      "Low cost"
+    ],
+    "cons": [
+      "Needs consistent moisture",
+      "Sensitive to heat",
+      "Leaves can bolt if over‑fertilized"
+    ],
+    "watchOut": "Avoid letting the soil dry out completely, as spinach wilts quickly.",
+    "faq": [
+      {
+        "q": "How often should I water balcony spinach?",
+        "a": "Check the top inch of soil daily; water when it feels dry to the touch."
+      },
+      {
+        "q": "Can I grow spinach in full shade?",
+        "a": "Spinach tolerates light shade, but a sunny spot yields the best leaf size and flavor."
+      },
+      {
+        "q": "Do I need fertilizer for balcony spinach?",
+        "a": "A light feeding with a balanced organic liquid fertilizer every two weeks supports growth without encouraging bolting."
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "balcony",
+      "leafy greens"
+    ],
+    "sources": [
+      {
+        "label": "r/houseplants community threads",
+        "url": "https://www.reddit.com/r/houseplants/"
+      },
+      {
+        "label": "Search interest: \"small space vegetables\"",
+        "url": "https://duckduckgo.com/?q=small%20space%20vegetables"
+      }
+    ],
+    "publishedAt": "2026-11-17T18:45:02.801Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "balcony-tomato-triumph-2",
     "title": "Balcony Tomato Triumph: Sun‑Kissed Harvest in Tiny Spaces",
     "dek": "Turn a sunny balcony into a mini tomato farm with a few smart container tricks.",
