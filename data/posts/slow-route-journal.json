@@ -1,5 +1,56 @@
 [
   {
+    "slug": "platform-power-naps-2",
+    "title": "Platform Power Naps: Low‑Impact Rest on the Rails",
+    "dek": "Quick, low‑impact naps on train platforms can recharge you without extra carbon.",
+    "takeaway": "A short nap on a platform can boost energy and keep your travel low‑impact.",
+    "whatHappened": "During a layover in a small town, I spread a compact blanket on the bench and caught a 45‑minute nap before the next train.",
+    "whyItMatters": "Resting on the platform avoids extra hotel nights and reduces energy use, fitting the low‑impact ethos.",
+    "howToThink": "Treat platform napping as a micro‑rest: bring a lightweight blanket, earplugs, an eye mask, and choose stations with quiet waiting areas.",
+    "pros": [
+      "Zero extra accommodation cost",
+      "Reduces carbon footprint",
+      "Refreshes mind quickly"
+    ],
+    "cons": [
+      "Limited privacy",
+      "Weather dependent",
+      "Potential safety concerns"
+    ],
+    "watchOut": "Stay aware of station announcements and keep valuables in sight.",
+    "faq": [
+      {
+        "q": "Is platform napping safe?",
+        "a": "Generally safe in well‑lit stations; trust your instincts and keep belongings close."
+      },
+      {
+        "q": "What gear should I bring?",
+        "a": "A lightweight blanket, earplugs, eye mask, and a small lock for your bag."
+      },
+      {
+        "q": "How long should a platform nap be?",
+        "a": "15‑45 minutes works well to restore energy without missing your connection."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "low-impact"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-11-17T19:45:07.815Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-train-travel-europe-tips-21",
     "title": "Myth vs. reality: train travel europe tips",
     "dek": "The persistent myths around train travel europe tips, stress-tested against what slow-travel and low-impact explorers actually report.",

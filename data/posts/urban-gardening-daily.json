@@ -1,5 +1,56 @@
 [
   {
+    "slug": "balcony-kale-kickoff-2",
+    "title": "Balcony Kale Kickoff: Nutritious Greens in Small Spaces",
+    "dek": "Discover how to coax hardy kale into balcony boxes, harvesting nutrient‑dense leaves even in modest city spaces.",
+    "takeaway": "Kale can thrive in containers on balconies, delivering a fresh, winter‑ready superfood for apartment growers.",
+    "whatHappened": "I swapped my usual lettuce for a compact kale variety in a medium‑sized fabric pot on a sunny balcony. Within weeks, the seedlings unfurled sturdy, glossy leaves, and the plant kept producing through the cooler months.",
+    "whyItMatters": "Urban dwellers often lack fresh, leafy greens in winter, and kale offers a resilient, nutrient‑rich option that fits tight spaces. Growing it at home reduces grocery trips and boosts dietary variety.",
+    "howToThink": "Choose a dwarf kale cultivar, use a well‑draining potting mix, and place the container where it receives at least six hours of sunlight. Water consistently, and feed with a balanced liquid fertilizer every few weeks to keep growth vigorous.",
+    "pros": [
+      "High nutrient content",
+      "Cold‑hardy",
+      "Compact growth"
+    ],
+    "cons": [
+      "Can bolt in heat",
+      "Requires regular watering",
+      "Might need support as it tallens"
+    ],
+    "watchOut": "Avoid overwatering; soggy soil can lead to root rot.",
+    "faq": [
+      {
+        "q": "Can I grow kale on a shaded balcony?",
+        "a": "Kale prefers full sun, but a partially shaded spot that gets 4‑6 hours of light can still produce leaves, though growth will be slower."
+      },
+      {
+        "q": "How often should I harvest kale leaves?",
+        "a": "Pick the outer leaves once they reach a hand‑size; the plant will keep producing new shoots for months."
+      },
+      {
+        "q": "Do I need a large container for kale?",
+        "a": "A medium‑sized container works well for dwarf varieties; just ensure good drainage and enough soil depth."
+      }
+    ],
+    "category": "Seasonal",
+    "tags": [
+      "kale",
+      "balcony"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-11-17T19:45:11.100Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "balcony-spinach-sprint-2",
     "title": "Balcony Spinach Sprint: Leafy Harvest in Tiny Spaces",
     "dek": "Fast‑growing spinach thrives in shallow balcony boxes, giving city dwellers fresh greens in weeks.",
