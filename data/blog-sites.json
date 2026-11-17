@@ -1737,8 +1737,29 @@
       "streamUrl": "https://beyondmythos.com/",
       "elevenlabsAgentId": null,
       "lastPostAt": "2026-11-17T17:45:40.915Z"
+    },
+    {
+      "id": "archive-walks-3-1794939317982",
+      "slug": "archive-walks-3",
+      "name": "Archive Walks",
+      "tagline": "Fresh takes for local history buffs and community archivists.",
+      "nicheId": "local-history",
+      "audience": "local history buffs and community archivists",
+      "categories": [
+        "Archives",
+        "Maps",
+        "Landmarks",
+        "Research"
+      ],
+      "url": "https://beyondmythos.com/sites/archive-walks-3/",
+      "localUrl": "https://beyondmythos.com/sites/archive-walks-3/",
+      "design": "aurora",
+      "postCount": 6,
+      "createdAt": "2026-11-17T18:15:17.837Z",
+      "streamUrl": "https://beyondmythos.com/",
+      "elevenlabsAgentId": null
     }
   ],
-  "lastGeneratedAt": "2026-10-19T16:15:09.792Z",
+  "lastGeneratedAt": "2026-11-17T18:15:17.837Z",
   "lastPostRunAt": "2026-11-17T17:45:41.001Z"
 }
