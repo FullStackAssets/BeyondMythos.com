@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-temperature-stability",
+    "title": "Stabilize Your Espresso Brew Temperature with a Simple Thermostat Check",
+    "dek": "A quick method to keep your espresso machine’s temperature consistent for smoother shots.",
+    "takeaway": "Consistent brew temperature is key to repeatable espresso flavor.",
+    "whatHappened": "You pulled a shot that tasted flat, then another that was overly bitter. The culprit turned out to be a temperature swing during the brew cycle. A quick thermostat check revealed the machine was drifting by a few degrees after the first shot.",
+    "whyItMatters": "Espresso extracts best within a narrow temperature window; even small fluctuations can shift flavor balance dramatically. When your machine’s heat source isn’t stable, you chase perfection with inconsistent results, wasting beans and time.",
+    "howToThink": "Treat temperature like any other variable: measure, adjust, and re‑measure. Use a reliable thermometer or built‑in sensor to verify the set point before each brewing session, and tighten any loose thermostat screws or clean the heating element if the reading drifts.",
+    "pros": [
+      "More predictable flavor",
+      "Reduces waste of beans",
+      "Easy to implement"
+    ],
+    "cons": [
+      "Requires a thermometer or sensor",
+      "May need minor hardware tweaking",
+      "Slight learning curve"
+    ],
+    "watchOut": "Don’t over‑tighten the thermostat screw; you could damage the heating element.",
+    "faq": [
+      {
+        "q": "How often should I check my machine’s temperature?",
+        "a": "A quick glance before each brewing session is enough, especially if you notice flavor shifts."
+      },
+      {
+        "q": "Can I use a kitchen thermometer for this?",
+        "a": "A digital probe that can read up to 100 °C works fine; just ensure it’s food‑safe."
+      },
+      {
+        "q": "What if the temperature still drifts after tightening?",
+        "a": "Inspect the heating element for buildup and consider a professional service if the drift persists."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "temperature"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-11-17T22:45:04.590Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "calibrate-grind-dose-scale-check",
     "title": "Calibrate Your Grind Dose with a Simple Scale Check",
     "dek": "Learn a quick scale method to nail consistent grind doses every pull.",

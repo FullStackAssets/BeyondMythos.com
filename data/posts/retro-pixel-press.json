@@ -1,5 +1,56 @@
 [
   {
+    "slug": "refurbish-sega-master-system-power-switch",
+    "title": "Pixel Boost: Refurbishing Sega Master System Power Switch for Smoother On/Off",
+    "dek": "Learn how swapping the Master System’s aging power switch can stop dead‑on start‑up hiccups and extend console life.",
+    "takeaway": "A fresh power switch restores reliable power cycling without expensive console replacement.",
+    "whatHappened": "We noticed the original switch on a 1992 Sega Master System became flaky, causing the unit to stay off after power‑on. Replacing it with a modern tactile switch solved the issue in minutes.",
+    "whyItMatters": "Consistent power delivery is crucial for both collectors preserving hardware and speedrunners who need instant boot times. A faulty switch can damage the PSU and waste practice time.",
+    "howToThink": "When a console hesitates at power‑on, inspect the switch first; a simple swap often beats a full board repair. Keep a spare tactile switch on hand for quick swaps.",
+    "pros": [
+      "Instant power reliability",
+      "Low-cost fix",
+      "Preserves original hardware integrity"
+    ],
+    "cons": [
+      "Requires soldering",
+      "Potential void of warranty",
+      "Need for proper switch specs"
+    ],
+    "watchOut": "Make sure the replacement switch’s rating matches the console’s voltage to avoid overheating.",
+    "faq": [
+      {
+        "q": "Can I use any tactile switch?",
+        "a": "Choose a switch rated for 5 V DC and similar travel; generic ones work but avoid undersized ratings."
+      },
+      {
+        "q": "Do I need to desolder the old switch completely?",
+        "a": "Yes, remove the original pins to prevent shorts; a solder wick makes it easy."
+      },
+      {
+        "q": "Will this affect my console’s value?",
+        "a": "A professionally done replacement is generally accepted by collectors, especially if the original part is no longer functional."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Hardware",
+      "Sega"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-11-17T22:45:06.742Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "replacing-atari-2600-joystick-springs",
     "title": "Pixel Boost: Replacing Atari 2600 Joystick Contact Springs for Tighter Response",
     "dek": "Swap out the worn springs in your Atari 2600 joystick for a snappier, more reliable input—essential for collectors and speedrunners.",

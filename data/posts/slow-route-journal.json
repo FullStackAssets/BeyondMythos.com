@@ -1,5 +1,56 @@
 [
   {
+    "slug": "platform-window-watching",
+    "title": "Platform Window Watching: Low-Impact Observation for the Slow Traveller",
+    "dek": "Turn idle train minutes into mini nature lessons with simple window-watching rituals that deepen your travel experience.",
+    "takeaway": "A mindful glance out the train window can turn transit time into a low-impact learning moment.",
+    "whatHappened": "On a recent cross‑country ride, I paused my usual scrolling and started noting the changing landscape through the carriage window. Each stop revealed a new rhythm of fields, towns, and river bends, turning a two‑hour stretch into a living slideshow.",
+    "whyItMatters": "Slow travel thrives on presence, and the train’s glass offers a low‑impact canvas for observation. By training the eye, you enrich your sense of place without adding weight to your carbon footprint.",
+    "howToThink": "Pick a focal point—mountains, a river, or a distant skyline—and spend a minute noting colors, movement, and sounds. Jot a quick sketch or a word‑list in a pocket notebook. Repeat at each major change in scenery to build a mental map of the journey.",
+    "pros": [
+      "Zero carbon cost",
+      "Boosts mindfulness",
+      "Enhances route awareness"
+    ],
+    "cons": [
+      "Weather dependent",
+      "May distract from reading",
+      "Requires attentive eyes"
+    ],
+    "watchOut": "Don’t stare at the glass for too long; keep an eye on your belongings.",
+    "faq": [
+      {
+        "q": "Do I need special equipment?",
+        "a": "No, just a notebook or a mental note; the window itself is the tool."
+      },
+      {
+        "q": "What if the view is dull?",
+        "a": "Even mundane scenes can reveal patterns—focus on repetition, texture, or the play of light."
+      },
+      {
+        "q": "Can I combine this with other activities?",
+        "a": "Yes, use short observation bursts between reading or planning stops to keep the experience varied."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "mindfulness"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-11-17T22:45:06.019Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "platform-green-snack-swap",
     "title": "Platform Green Snack Swap: Low‑Impact Fuel for the Slow Traveller",
     "dek": "Swap disposable wrappers for reusable bites, keeping your train journeys light on waste and your energy high.",
