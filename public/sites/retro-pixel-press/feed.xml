@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Cleaning NES Cartridge Contacts for Consistent Loads</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/cleaning-nes-cartridge-contacts.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/cleaning-nes-cartridge-contacts.html</guid>
+      <pubDate>Tue, 17 Nov 2026 23:45:29 GMT</pubDate>
+      <description>A quick guide to safely clean NES cartridge contacts and avoid loading hiccups.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Refurbishing Sega Master System Power Switch for Smoother On/Off</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/refurbish-sega-master-system-power-switch.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/refurbish-sega-master-system-power-switch.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-refresh-game-gear-battery.html</guid>
       <pubDate>Thu, 29 Oct 2026 18:45:13 GMT</pubDate>
       <description>Swap out your aging Game Gear battery with a fresh rechargeable cell to keep your handheld running through endless marathons.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Tuning Your Game Boy Battery for Marathon Runs</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/tuning-game-boy-battery.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/tuning-game-boy-battery.html</guid>
-      <pubDate>Thu, 29 Oct 2026 17:45:11 GMT</pubDate>
-      <description>Extend your Game Boy’s run time and avoid sudden power drops during long speedruns.</description>
     </item>
   </channel>
 </rss>

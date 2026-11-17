@@ -1,5 +1,56 @@
 [
   {
+    "slug": "cleaning-nes-cartridge-contacts",
+    "title": "Pixel Boost: Cleaning NES Cartridge Contacts for Consistent Loads",
+    "dek": "A quick guide to safely clean NES cartridge contacts and avoid loading hiccups.",
+    "takeaway": "Regular contact cleaning keeps your NES loading reliably and extends cartridge life.",
+    "whatHappened": "I noticed occasional freezes on a classic NES title and traced it to dusty, oxidized cartridge contacts. A simple cleaning with isopropyl wipes restored smooth operation.",
+    "whyItMatters": "Corroded contacts cause load failures, which can ruin a speedrun attempt or damage the console. Keeping contacts clean preserves both hardware and gameplay flow.",
+    "howToThink": "Treat the cartridge like a delicate circuit board: use minimal liquid, let it dry fully, and test before intensive runs. Regular maintenance prevents larger problems.",
+    "pros": [
+      "Improved load reliability",
+      "Extended cartridge lifespan",
+      "Low cost solution"
+    ],
+    "cons": [
+      "Requires careful handling",
+      "May need repeated cleaning",
+      "Isopropyl can be messy"
+    ],
+    "watchOut": "Avoid excess liquid; too much can seep into the board and cause short circuits.",
+    "faq": [
+      {
+        "q": "Can I use regular household cleaners?",
+        "a": "Stick to 90%+ isopropyl alcohol; other cleaners may leave residues."
+      },
+      {
+        "q": "How often should I clean contacts?",
+        "a": "When you notice loading hiccups or after months of storage; no need for routine cleaning."
+      },
+      {
+        "q": "Do I need special tools?",
+        "a": "A lint‑free swab or microfiber cloth works fine; a soft brush can help with stubborn grime."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "NES",
+      "Hardware Maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-11-17T23:45:29.181Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "refurbish-sega-master-system-power-switch",
     "title": "Pixel Boost: Refurbishing Sega Master System Power Switch for Smoother On/Off",
     "dek": "Learn how swapping the Master System’s aging power switch can stop dead‑on start‑up hiccups and extend console life.",
