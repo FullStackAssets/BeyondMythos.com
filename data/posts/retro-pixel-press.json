@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-boost-rewiring-atari-2600-cartridge-edge-c",
+    "title": "Pixel Boost: Rewiring Atari 2600 Cartridge Edge Connectors for Reliable Contact",
+    "dek": "A quick guide to refreshing Atari 2600 cartridge contacts and avoiding flaky reads during marathon runs.",
+    "takeaway": "Clean, solid contacts keep your classic cartridges responsive and your speedruns smooth.",
+    "whatHappened": "Collectors have reported intermittent lock‑ups when the cartridge pins corrode or loosen over time. A simple rewiring of the edge connector restores a clean electrical path. The process uses basic soldering tools and a few minutes of careful work.",
+    "whyItMatters": "Unreliable contacts can cause unexpected resets, breaking momentum in a speedrun and risking a loss of progress. For preservationists, a stable connection preserves the cartridge’s integrity and reduces wear. A solid link also improves accuracy when logging runs for leaderboards.",
+    "howToThink": "Treat the connector like any other retro hardware upgrade: clean, inspect, and reinforce only what’s needed. Use a fine‑point solder tip and avoid excess heat on the board. Test the cartridge after each step to confirm the improvement before moving on.",
+    "pros": [
+      "More stable reads",
+      "Extends cartridge lifespan",
+      "Improves timing consistency"
+    ],
+    "cons": [
+      "Requires basic soldering skill",
+      "Potential to void collector’s warranty",
+      "Time‑consuming for large batches"
+    ],
+    "watchOut": "Always verify polarity and avoid overheating the board to prevent permanent damage.",
+    "faq": [
+      {
+        "q": "Do I need a special soldering iron for this job?",
+        "a": "A standard fine‑point soldering iron with temperature control works fine; just keep the tip small and the heat moderate."
+      },
+      {
+        "q": "Can I use regular solder instead of lead‑free?",
+        "a": "Both will work, but lead‑free solder is safer and more common among modern hobbyists."
+      },
+      {
+        "q": "Will this process affect the cartridge’s original value?",
+        "a": "If done cleanly, the modification is reversible and generally accepted by collectors who value functionality over untouched condition."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Hardware",
+      "Atari 2600"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-11-17T20:45:22.998Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-speedruns-mistakes-57",
     "title": "Five mistakes everyone makes in their first month of speedruns",
     "dek": "The most common early stumbles in speedruns, and the cheap corrections that fix them for retro game collectors and speedrunners.",

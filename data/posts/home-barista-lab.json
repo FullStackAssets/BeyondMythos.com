@@ -1,5 +1,56 @@
 [
   {
+    "slug": "sieve-grind-consistency-test",
+    "title": "Check Your Grind Consistency with a Simple Sieve Test",
+    "dek": "A quick sieve shake tells you if your grind is too fine or too coarse before the shot goes live.",
+    "takeaway": "A uniform grind is the silent hero of a repeatable espresso shot.",
+    "whatHappened": "I grabbed a kitchen fine-mesh sieve, poured my freshly ground coffee, and gave it a quick shake. The fine particles fell through while the larger chunks stayed on top, giving an instant visual cue. The result was an immediate tweak to my grinder settings for a smoother extraction.",
+    "whyItMatters": "Uneven particle size creates channeling, leading to bitter or watery shots. By catching inconsistencies early, you save beans, time, and frustration. Consistency in the grind translates directly to consistency in flavor and crema.",
+    "howToThink": "Treat the sieve as a low‑tech quality gate: if more than a handful of particles stay, your grind is too coarse; if it all disappears, it's too fine. Adjust in 5‑step increments and re‑test until the sift leaves a thin, even layer. Make this a pre‑brew habit, especially after cleaning or changing beans.",
+    "pros": [
+      "Instant visual feedback",
+      "No extra equipment needed",
+      "Works with any grinder"
+    ],
+    "cons": [
+      "Subjective judgment of particle layer",
+      "May miss subtle size variance",
+      "Requires clean sieve"
+    ],
+    "watchOut": "Avoid using a dirty sieve, as leftover oils can cling to particles and skew the test.",
+    "faq": [
+      {
+        "q": "Can I use a coffee filter instead of a sieve?",
+        "a": "A paper filter works, but a metal sieve is reusable and gives a clearer view of particle distribution."
+      },
+      {
+        "q": "How often should I run the sieve test?",
+        "a": "Do it whenever you change beans, adjust grind settings, or notice a shift in taste."
+      },
+      {
+        "q": "What mesh size is best for espresso?",
+        "a": "A 400‑micron mesh catches most espresso‑range particles while letting the fines fall through."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "grind",
+      "espresso"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-11-17T20:45:19.534Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "roasting-pre-spend-checklist-61",
     "title": "The roasting checklist: run this before you spend",
     "dek": "Seven questions that separate a justified roasting purchase from an expensive mood.",

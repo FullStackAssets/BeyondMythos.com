@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Rewiring Atari 2600 Cartridge Edge Connectors for Reliable Contact</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-rewiring-atari-2600-cartridge-edge-c.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-rewiring-atari-2600-cartridge-edge-c.html</guid>
+      <pubDate>Tue, 17 Nov 2026 20:45:22 GMT</pubDate>
+      <description>A quick guide to refreshing Atari 2600 cartridge contacts and avoiding flaky reads during marathon runs.</description>
+    </item>
+    <item>
       <title>Five mistakes everyone makes in their first month of speedruns</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/five-speedruns-mistakes-57.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/five-speedruns-mistakes-57.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-upgrading-sega-master-system-power-s-2.html</guid>
       <pubDate>Thu, 29 Oct 2026 15:45:14 GMT</pubDate>
       <description>Swap the original SM System PSU for a modern 12V regulator to keep your console humming through endless speedrun marathons.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Optimizing Your Commodore 64 Power Supply for Marathon Runs</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/optimizing-c64-power-supply.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/optimizing-c64-power-supply.html</guid>
-      <pubDate>Thu, 29 Oct 2026 14:45:12 GMT</pubDate>
-      <description>A quick guide to stabilizing your C64’s power to avoid crashes during long speedrun sessions.</description>
     </item>
   </channel>
 </rss>

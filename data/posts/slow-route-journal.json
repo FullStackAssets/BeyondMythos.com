@@ -1,5 +1,56 @@
 [
   {
+    "slug": "platform-power-breakfast",
+    "title": "Platform Power Breakfast: Low‑Impact Fuel for Dawn Travelers",
+    "dek": "Start your day on the rails with a simple, low-waste breakfast that keeps you moving and mindful.",
+    "takeaway": "A minimalist breakfast can power long journeys without adding waste.",
+    "whatHappened": "I arrived at a quiet early‑morning station with only a coffee machine and a few benches. I unpacked a pre‑made overnight oat jar, added fresh berries, and sipped espresso while the first train rolled in. The routine set a calm tone for the day’s travel.",
+    "whyItMatters": "Eating on the platform often means grabbing disposable pastries that generate trash and spike sugar crashes. A low‑impact breakfast reduces waste and provides steady energy, aligning with slow‑travel values. It also respects the shared space of commuters and fellow explorers.",
+    "howToThink": "Pack a reusable container the night before and fill it with dry oats, nuts, and a pinch of salt. Add fresh fruit or a splash of plant milk at the station—both are easy to carry and don’t need refrigeration for a few hours. Pair with a reusable cup for coffee or tea to keep the habit sustainable.",
+    "pros": [
+      "Zero waste",
+      "Easy to prepare",
+      "Energy boosting"
+    ],
+    "cons": [
+      "Limited variety",
+      "Requires early prep",
+      "May need refrigeration for some toppings"
+    ],
+    "watchOut": "Open food can attract pests on crowded platforms, so keep containers sealed when not eating.",
+    "faq": [
+      {
+        "q": "What’s the best container for on‑platform breakfasts?",
+        "a": "A lightweight, leak‑proof mason jar or silicone cup works well and fits in most daypacks."
+      },
+      {
+        "q": "Do I need a cooler for fruit or milk?",
+        "a": "For a few hours, a small insulated pouch with an ice pack is enough, or choose shelf‑stable plant milks."
+      },
+      {
+        "q": "Can I eat this on a moving train?",
+        "a": "Yes—choose toppings that won’t spill, and keep the jar upright with a silicone lid."
+      }
+    ],
+    "category": "Local",
+    "tags": [
+      "breakfast",
+      "low-waste"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-11-17T20:45:23.697Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "platform-power-naps-2",
     "title": "Platform Power Naps: Low‑Impact Rest on the Rails",
     "dek": "Quick, low‑impact naps on train platforms can recharge you without extra carbon.",
