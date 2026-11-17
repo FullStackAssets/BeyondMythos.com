@@ -1781,8 +1781,29 @@
       "streamUrl": "https://beyondmythos.com/",
       "elevenlabsAgentId": null,
       "lastPostAt": "2026-11-17T19:45:40.501Z"
+    },
+    {
+      "id": "grain-street-journal-2-1794946544570",
+      "slug": "grain-street-journal-2",
+      "name": "Grain Street Journal",
+      "tagline": "Fresh takes for film photographers and darkroom hobbyists.",
+      "nicheId": "analog-photography",
+      "audience": "film photographers and darkroom hobbyists",
+      "categories": [
+        "Film Stocks",
+        "Cameras",
+        "Scanning",
+        "Darkroom"
+      ],
+      "url": "https://beyondmythos.com/sites/grain-street-journal-2/",
+      "localUrl": "https://beyondmythos.com/sites/grain-street-journal-2/",
+      "design": "zine",
+      "postCount": 6,
+      "createdAt": "2026-11-17T20:15:44.450Z",
+      "streamUrl": "https://beyondmythos.com/",
+      "elevenlabsAgentId": null
     }
   ],
-  "lastGeneratedAt": "2026-11-17T19:15:58.994Z",
+  "lastGeneratedAt": "2026-11-17T20:15:44.450Z",
   "lastPostRunAt": "2026-11-17T19:45:40.605Z"
 }
