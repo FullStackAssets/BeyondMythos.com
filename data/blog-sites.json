@@ -1759,8 +1759,29 @@
       "streamUrl": "https://beyondmythos.com/",
       "elevenlabsAgentId": null,
       "lastPostAt": "2026-11-17T18:45:40.387Z"
+    },
+    {
+      "id": "cadence-report-2-1794942959114",
+      "slug": "cadence-report-2",
+      "name": "Cadence Report",
+      "tagline": "Fresh takes for indoor cyclists and virtual racers.",
+      "nicheId": "indoor-cycling",
+      "audience": "indoor cyclists and virtual racers",
+      "categories": [
+        "Trainers",
+        "Platforms",
+        "Training",
+        "Setup"
+      ],
+      "url": "https://beyondmythos.com/sites/cadence-report-2/",
+      "localUrl": "https://beyondmythos.com/sites/cadence-report-2/",
+      "design": "cinema",
+      "postCount": 6,
+      "createdAt": "2026-11-17T19:15:58.994Z",
+      "streamUrl": "https://beyondmythos.com/",
+      "elevenlabsAgentId": null
     }
   ],
-  "lastGeneratedAt": "2026-11-17T18:15:17.837Z",
+  "lastGeneratedAt": "2026-11-17T19:15:58.994Z",
   "lastPostRunAt": "2026-11-17T18:45:40.395Z"
 }
