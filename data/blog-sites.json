@@ -1803,8 +1803,29 @@
       "streamUrl": "https://beyondmythos.com/",
       "elevenlabsAgentId": null,
       "lastPostAt": "2026-11-17T20:45:56.181Z"
+    },
+    {
+      "id": "dry-garden-dispatch-2-1794950152777",
+      "slug": "dry-garden-dispatch-2",
+      "name": "Dry Garden Dispatch",
+      "tagline": "Fresh takes for succulent and cactus growers.",
+      "nicheId": "succulents",
+      "audience": "succulent and cactus growers",
+      "categories": [
+        "Propagation",
+        "Soil",
+        "Light",
+        "Arrangements"
+      ],
+      "url": "https://beyondmythos.com/sites/dry-garden-dispatch-2/",
+      "localUrl": "https://beyondmythos.com/sites/dry-garden-dispatch-2/",
+      "design": "moss",
+      "postCount": 6,
+      "createdAt": "2026-11-17T21:15:52.613Z",
+      "streamUrl": "https://beyondmythos.com/",
+      "elevenlabsAgentId": null
     }
   ],
-  "lastGeneratedAt": "2026-11-17T20:15:44.450Z",
+  "lastGeneratedAt": "2026-11-17T21:15:52.613Z",
   "lastPostRunAt": "2026-11-17T20:45:56.196Z"
 }
