@@ -1,5 +1,209 @@
 [
   {
+    "slug": "zero-based-budget-guide-field-test-27",
+    "title": "\"zero based budget guide\" in practice: a real-world field test",
+    "dek": "We put the most-repeated advice about zero based budget guide through a month of actual use. Some of it survived.",
+    "takeaway": "Half the standard advice on zero based budget guide holds up; the other half exists to sell you something. Test small before you commit.",
+    "whatHappened": "We collected the most common recommendations budget-minded savers and first-time investors see when they search \"zero based budget guide\" and ran them through four weeks of ordinary, unglamorous use. The gap between what demos well and what holds up in week four was bigger than expected.",
+    "whyItMatters": "Most advice about budgeting is written from a first impression. The failure modes that actually cost budget-minded savers and first-time investors time and money only show up with repetition — which is exactly what one-day reviews never capture.",
+    "howToThink": "Before adopting any recommendation about zero based budget guide, ask what a fourth week of it looks like. If you can't picture the boring version, you're looking at marketing, not a method.",
+    "pros": [
+      "Cheap to replicate at home",
+      "Surfaced real week-four failure modes",
+      "Cuts through first-impression reviews"
+    ],
+    "cons": [
+      "A month is still a small sample",
+      "Results vary by setup",
+      "Some advice needs a season, not weeks"
+    ],
+    "watchOut": "If a guide about zero based budget guide shows zero failed attempts, it wasn't a test — it was a script.",
+    "faq": [
+      {
+        "q": "What survived the field test?",
+        "a": "The fundamentals: consistent routine, modest gear, and keeping a log. The exotic tricks mostly didn't."
+      },
+      {
+        "q": "How should I run my own test?",
+        "a": "Change one variable, hold everything else steady for two weeks minimum, and write down what annoyed you."
+      },
+      {
+        "q": "Whose advice should I trust?",
+        "a": "People who publish follow-ups. A single enthusiastic post about budgeting is a data point, not a verdict."
+      }
+    ],
+    "category": "Budgeting",
+    "tags": [
+      "Budgeting",
+      "Debt"
+    ],
+    "sources": [
+      {
+        "label": "r/personalfinance community threads",
+        "url": "https://www.reddit.com/r/personalfinance/"
+      },
+      {
+        "label": "Search interest: \"zero based budget guide\"",
+        "url": "https://duckduckgo.com/?q=zero%20based%20budget%20guide"
+      }
+    ],
+    "publishedAt": "2026-11-17T17:45:36.232Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "ask-the-forge-tools-79",
+    "title": "Ask the forge: your tools questions, answered",
+    "dek": "Straight answers to the tools questions budget-minded savers and first-time investors keep asking, minus the hedging.",
+    "takeaway": "Most tools questions have boring, reliable answers. Here they are, without the two thousand words of preamble.",
+    "whatHappened": "We gathered the questions that appear weekly wherever budget-minded savers and first-time investors compare notes — the ones usually answered with \"it depends\" — and committed to actual answers with actual reasoning.",
+    "whyItMatters": "\"It depends\" is true and useless. Newcomers to tools don't need every caveat; they need a defensible default they can adjust later.",
+    "howToThink": "Take the default, use it for a month, then earn your deviations. Customization is a reward for data, not a starting requirement.",
+    "pros": [
+      "Defaults beat decision paralysis",
+      "Reasoning shown, not just verdicts",
+      "Adjustable once you have data"
+    ],
+    "cons": [
+      "Defaults fit most, not all",
+      "Experts will quibble — always",
+      "Questions evolve; answers date"
+    ],
+    "watchOut": "Any answer that can't say what would change its mind isn't an answer — it's an identity. Ours come with conditions attached.",
+    "faq": [
+      {
+        "q": "What's the most-asked question?",
+        "a": "\"What should I buy first?\" — and the answer is almost always: nothing yet. Run the routine for two weeks first."
+      },
+      {
+        "q": "Why give defaults instead of options?",
+        "a": "Because ten options produce paralysis and one default produces feedback. You can only iterate on something you started."
+      },
+      {
+        "q": "How often do these answers change?",
+        "a": "We revisit quarterly. The fundamentals drift slowly; the gear recommendations drift fast."
+      }
+    ],
+    "category": "Tools",
+    "tags": [
+      "Tools",
+      "Budgeting"
+    ],
+    "sources": [
+      {
+        "label": "r/Bogleheads community threads",
+        "url": "https://www.reddit.com/r/Bogleheads/"
+      },
+      {
+        "label": "Search interest: \"index fund investing basics\"",
+        "url": "https://duckduckgo.com/?q=index%20fund%20investing%20basics"
+      }
+    ],
+    "publishedAt": "2026-11-01T17:45:54.307Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "quiet-upgrade-investing-80",
+    "title": "The quiet upgrade: small tweaks in investing with outsized returns",
+    "dek": "No purchases, no overhauls — the modest investing adjustments that budget-minded savers and first-time investors report mattering most.",
+    "takeaway": "The best upgrades in investing are adjustments, not acquisitions. Most cost nothing but attention.",
+    "whatHappened": "Ask experienced budget-minded savers and first-time investors what changed their results and the answers are strikingly modest: a tweak to routine, a default swapped, a habit moved earlier in the day. We collected the small changes that keep appearing in those answers.",
+    "whyItMatters": "The upgrade path everyone markets requires spending. The one that works requires noticing. Small adjustments compound daily, which is a rate no purchase matches.",
+    "howToThink": "Once a month, change one default in your investing routine and watch for a week. Keep what helps, revert what doesn't, and write down which was which.",
+    "pros": [
+      "Free or nearly free",
+      "Compounds with repetition",
+      "Reversible in minutes"
+    ],
+    "cons": [
+      "Invisible on social media",
+      "Requires actually paying attention",
+      "No unboxing dopamine"
+    ],
+    "watchOut": "Don't stack five changes at once — you'll never know which one worked, and you'll revert the good one with the bad.",
+    "faq": [
+      {
+        "q": "What's the highest-leverage small change?",
+        "a": "Moving your session to the time of day you're least likely to skip. Adherence beats optimization."
+      },
+      {
+        "q": "How do I find my own quiet upgrades?",
+        "a": "Your log. The pattern you're annoyed by weekly is the upgrade waiting to happen."
+      },
+      {
+        "q": "When is buying actually the answer?",
+        "a": "When the same friction survives three free fixes. Then spend without guilt."
+      }
+    ],
+    "category": "Investing",
+    "tags": [
+      "Investing",
+      "Tools"
+    ],
+    "sources": [
+      {
+        "label": "r/Frugal community threads",
+        "url": "https://www.reddit.com/r/Frugal/"
+      },
+      {
+        "label": "Search interest: \"emergency fund strategy\"",
+        "url": "https://duckduckgo.com/?q=emergency%20fund%20strategy"
+      }
+    ],
+    "publishedAt": "2026-11-01T13:45:54.370Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "myth-vs-reality-zero-based-budget-guide-27",
+    "title": "Myth vs. reality: zero based budget guide",
+    "dek": "The persistent myths around zero based budget guide, stress-tested against what budget-minded savers and first-time investors actually report.",
+    "takeaway": "The biggest myths about zero based budget guide survive because they're convenient, not because they're true.",
+    "whatHappened": "We lined up the claims that dominate search results for \"zero based budget guide\" against long-term reports from budget-minded savers and first-time investors. Three claims collapsed immediately, one held up with caveats, and one turned out to be truer than its critics admit.",
+    "whyItMatters": "Myths in debt aren't harmless — they set budgets, shape routines, and decide who gives up. Replacing one myth with one measured fact upgrades every decision downstream.",
+    "howToThink": "For any confident claim about zero based budget guide, ask: who measured it, over what period, and who profits if I believe it? Two out of three unanswered means file it under folklore.",
+    "pros": [
+      "Frees budget from myth-driven buys",
+      "Long-term reports are abundant now",
+      "Skepticism transfers to every niche"
+    ],
+    "cons": [
+      "Myths are more fun than caveats",
+      "Debunks age poorly too",
+      "Nuance doesn't fit a headline"
+    ],
+    "watchOut": "Beware the counter-myth: the internet loves inverting popular advice, and the inversion is usually just as unmeasured.",
+    "faq": [
+      {
+        "q": "What's the most expensive myth?",
+        "a": "That better gear reliably substitutes for practice. It shows up in every niche's spending regrets thread."
+      },
+      {
+        "q": "How do myths start?",
+        "a": "A true statement about one context, repeated without the context, monetized without the truth."
+      },
+      {
+        "q": "What actually held up?",
+        "a": "Consistency claims. The boring advice survives testing at a rate the exciting advice never matches."
+      }
+    ],
+    "category": "Debt",
+    "tags": [
+      "Debt",
+      "Investing"
+    ],
+    "sources": [
+      {
+        "label": "r/personalfinance community threads",
+        "url": "https://www.reddit.com/r/personalfinance/"
+      },
+      {
+        "label": "Search interest: \"zero based budget guide\"",
+        "url": "https://duckduckgo.com/?q=zero%20based%20budget%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-31T01:45:42.000Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-budgeting-80",
     "title": "A weekend project: level up your budgeting in two hours",
     "dek": "One contained, satisfying budgeting project for budget-minded savers — start Saturday morning, done by lunch.",

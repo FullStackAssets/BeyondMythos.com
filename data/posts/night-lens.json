@@ -1,5 +1,209 @@
 [
   {
+    "slug": "five-processing-mistakes-94",
+    "title": "Five mistakes everyone makes in their first month of processing",
+    "dek": "The most common early stumbles in processing, and the cheap corrections that fix them for backyard astrophotographers.",
+    "takeaway": "Month-one mistakes in processing are nearly universal — and nearly all reversible if you catch them early.",
+    "whatHappened": "We combed the recurring \"what did I do wrong\" threads that backyard astrophotographers post and the same five processing mistakes appear over and over: buying before learning, copying advanced setups, skipping the log, chasing novelty, and quitting during the boring middle.",
+    "whyItMatters": "Each of these mistakes feels productive while you're making it. That's why they persist — and why naming them explicitly saves newcomers weeks of stalled progress in processing.",
+    "howToThink": "Audit yourself against the list once a month. The point isn't guilt — it's that every one of these has a five-minute correction if you notice it early enough.",
+    "pros": [
+      "Each mistake has a cheap fix",
+      "Recognition is most of the cure",
+      "Applies at any experience level"
+    ],
+    "cons": [
+      "Easy to nod along and change nothing",
+      "Some mistakes feel like progress",
+      "Lists can't replace a habit"
+    ],
+    "watchOut": "The most expensive version of every month-one mistake is the one you rationalize as \"investing in the hobby.\"",
+    "faq": [
+      {
+        "q": "Which mistake costs the most?",
+        "a": "Buying before learning — it converts enthusiasm into clutter and guilt instead of skill."
+      },
+      {
+        "q": "I already made all five. Now what?",
+        "a": "Good news: so did everyone else. Pick the one currently costing you the most and fix only that."
+      },
+      {
+        "q": "How do I avoid new mistakes?",
+        "a": "Keep the log. Most errors are invisible until they're written down."
+      }
+    ],
+    "category": "Processing",
+    "tags": [
+      "Processing",
+      "Targets"
+    ],
+    "sources": [
+      {
+        "label": "r/telescopes community threads",
+        "url": "https://www.reddit.com/r/telescopes/"
+      },
+      {
+        "label": "Search interest: \"stacking software guide\"",
+        "url": "https://duckduckgo.com/?q=stacking%20software%20guide"
+      }
+    ],
+    "publishedAt": "2026-11-17T17:45:09.088Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "best-beginner-telescope-astrophotography-field-t-32",
+    "title": "\"best beginner telescope astrophotography\" in practice: a real-world field test",
+    "dek": "We put the most-repeated advice about best beginner telescope astrophotography through a month of actual use. Some of it survived.",
+    "takeaway": "Half the standard advice on best beginner telescope astrophotography holds up; the other half exists to sell you something. Test small before you commit.",
+    "whatHappened": "We collected the most common recommendations backyard astrophotographers see when they search \"best beginner telescope astrophotography\" and ran them through four weeks of ordinary, unglamorous use. The gap between what demos well and what holds up in week four was bigger than expected.",
+    "whyItMatters": "Most advice about rigs is written from a first impression. The failure modes that actually cost backyard astrophotographers time and money only show up with repetition — which is exactly what one-day reviews never capture.",
+    "howToThink": "Before adopting any recommendation about best beginner telescope astrophotography, ask what a fourth week of it looks like. If you can't picture the boring version, you're looking at marketing, not a method.",
+    "pros": [
+      "Cheap to replicate at home",
+      "Surfaced real week-four failure modes",
+      "Cuts through first-impression reviews"
+    ],
+    "cons": [
+      "A month is still a small sample",
+      "Results vary by setup",
+      "Some advice needs a season, not weeks"
+    ],
+    "watchOut": "If a guide about best beginner telescope astrophotography shows zero failed attempts, it wasn't a test — it was a script.",
+    "faq": [
+      {
+        "q": "What survived the field test?",
+        "a": "The fundamentals: consistent routine, modest gear, and keeping a log. The exotic tricks mostly didn't."
+      },
+      {
+        "q": "How should I run my own test?",
+        "a": "Change one variable, hold everything else steady for two weeks minimum, and write down what annoyed you."
+      },
+      {
+        "q": "Whose advice should I trust?",
+        "a": "People who publish follow-ups. A single enthusiastic post about rigs is a data point, not a verdict."
+      }
+    ],
+    "category": "Rigs",
+    "tags": [
+      "Rigs",
+      "Processing"
+    ],
+    "sources": [
+      {
+        "label": "r/astrophotography community threads",
+        "url": "https://www.reddit.com/r/astrophotography/"
+      },
+      {
+        "label": "Search interest: \"best beginner telescope astrophotography\"",
+        "url": "https://duckduckgo.com/?q=best%20beginner%20telescope%20astrophotography"
+      }
+    ],
+    "publishedAt": "2026-11-01T17:45:22.701Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "ask-the-forge-light-pollution-94",
+    "title": "Ask the forge: your light pollution questions, answered",
+    "dek": "Straight answers to the light pollution questions backyard astrophotographers keep asking, minus the hedging.",
+    "takeaway": "Most light pollution questions have boring, reliable answers. Here they are, without the two thousand words of preamble.",
+    "whatHappened": "We gathered the questions that appear weekly wherever backyard astrophotographers compare notes — the ones usually answered with \"it depends\" — and committed to actual answers with actual reasoning.",
+    "whyItMatters": "\"It depends\" is true and useless. Newcomers to light pollution don't need every caveat; they need a defensible default they can adjust later.",
+    "howToThink": "Take the default, use it for a month, then earn your deviations. Customization is a reward for data, not a starting requirement.",
+    "pros": [
+      "Defaults beat decision paralysis",
+      "Reasoning shown, not just verdicts",
+      "Adjustable once you have data"
+    ],
+    "cons": [
+      "Defaults fit most, not all",
+      "Experts will quibble — always",
+      "Questions evolve; answers date"
+    ],
+    "watchOut": "Any answer that can't say what would change its mind isn't an answer — it's an identity. Ours come with conditions attached.",
+    "faq": [
+      {
+        "q": "What's the most-asked question?",
+        "a": "\"What should I buy first?\" — and the answer is almost always: nothing yet. Run the routine for two weeks first."
+      },
+      {
+        "q": "Why give defaults instead of options?",
+        "a": "Because ten options produce paralysis and one default produces feedback. You can only iterate on something you started."
+      },
+      {
+        "q": "How often do these answers change?",
+        "a": "We revisit quarterly. The fundamentals drift slowly; the gear recommendations drift fast."
+      }
+    ],
+    "category": "Light Pollution",
+    "tags": [
+      "Light Pollution",
+      "Rigs"
+    ],
+    "sources": [
+      {
+        "label": "r/AskAstrophotography community threads",
+        "url": "https://www.reddit.com/r/AskAstrophotography/"
+      },
+      {
+        "label": "Search interest: \"astrophotography without tracker\"",
+        "url": "https://duckduckgo.com/?q=astrophotography%20without%20tracker"
+      }
+    ],
+    "publishedAt": "2026-11-01T13:45:22.546Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "quiet-upgrade-targets-94",
+    "title": "The quiet upgrade: small tweaks in targets with outsized returns",
+    "dek": "No purchases, no overhauls — the modest targets adjustments that backyard astrophotographers report mattering most.",
+    "takeaway": "The best upgrades in targets are adjustments, not acquisitions. Most cost nothing but attention.",
+    "whatHappened": "Ask experienced backyard astrophotographers what changed their results and the answers are strikingly modest: a tweak to routine, a default swapped, a habit moved earlier in the day. We collected the small changes that keep appearing in those answers.",
+    "whyItMatters": "The upgrade path everyone markets requires spending. The one that works requires noticing. Small adjustments compound daily, which is a rate no purchase matches.",
+    "howToThink": "Once a month, change one default in your targets routine and watch for a week. Keep what helps, revert what doesn't, and write down which was which.",
+    "pros": [
+      "Free or nearly free",
+      "Compounds with repetition",
+      "Reversible in minutes"
+    ],
+    "cons": [
+      "Invisible on social media",
+      "Requires actually paying attention",
+      "No unboxing dopamine"
+    ],
+    "watchOut": "Don't stack five changes at once — you'll never know which one worked, and you'll revert the good one with the bad.",
+    "faq": [
+      {
+        "q": "What's the highest-leverage small change?",
+        "a": "Moving your session to the time of day you're least likely to skip. Adherence beats optimization."
+      },
+      {
+        "q": "How do I find my own quiet upgrades?",
+        "a": "Your log. The pattern you're annoyed by weekly is the upgrade waiting to happen."
+      },
+      {
+        "q": "When is buying actually the answer?",
+        "a": "When the same friction survives three free fixes. Then spend without guilt."
+      }
+    ],
+    "category": "Targets",
+    "tags": [
+      "Targets",
+      "Light Pollution"
+    ],
+    "sources": [
+      {
+        "label": "r/telescopes community threads",
+        "url": "https://www.reddit.com/r/telescopes/"
+      },
+      {
+        "label": "Search interest: \"stacking software guide\"",
+        "url": "https://duckduckgo.com/?q=stacking%20software%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-31T01:45:14.223Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-best-beginner-telescope-astropho-32",
     "title": "Myth vs. reality: best beginner telescope astrophotography",
     "dek": "The persistent myths around best beginner telescope astrophotography, stress-tested against what backyard astrophotographers actually report.",

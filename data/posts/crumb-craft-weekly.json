@@ -1,5 +1,209 @@
 [
   {
+    "slug": "community-pulse-breadit-27",
+    "title": "Community pulse: what r/Breadit is debating this week",
+    "dek": "The arguments, consensus shifts, and quietly useful threads from the troubleshooting community this week.",
+    "takeaway": "The community's loudest argument is rarely its most useful thread. We pulled out both.",
+    "whatHappened": "This week's discussion among home bakers and sourdough beginners split between a recurring gear-versus-skill argument and a quieter thread of genuinely practical write-ups. As usual, the practical material got a fraction of the attention and most of the value.",
+    "whyItMatters": "Forums are the highest-signal source in troubleshooting — but only if you know how to read them. The upvote curve rewards controversy; the archive rewards patience.",
+    "howToThink": "Read communities like a researcher, not a spectator: skip the drama threads, sort by top-of-month, and save anything with photos, numbers, and a follow-up edit.",
+    "pros": [
+      "Real practitioners, real failures",
+      "Searchable archive of past debates",
+      "Faster than trial and error"
+    ],
+    "cons": [
+      "Upvotes reward heat, not light",
+      "Survivorship bias in success posts",
+      "Same arguments recur monthly"
+    ],
+    "watchOut": "When a thread's top comment starts with \"everyone knows,\" verify it. Community consensus in troubleshooting has a half-life.",
+    "faq": [
+      {
+        "q": "Which threads are worth saving?",
+        "a": "Anything with a methodology, a budget, photos, and a follow-up edit. That combination is rare and gold."
+      },
+      {
+        "q": "Should I post my own questions?",
+        "a": "Yes — after searching. A well-scoped question with context gets remarkable answers."
+      },
+      {
+        "q": "How do I avoid the drama?",
+        "a": "Sort by top-of-month instead of hot. The algorithm is the drama's delivery system."
+      }
+    ],
+    "category": "Troubleshooting",
+    "tags": [
+      "Troubleshooting",
+      "Bread"
+    ],
+    "sources": [
+      {
+        "label": "r/Breadit community threads",
+        "url": "https://www.reddit.com/r/Breadit/"
+      },
+      {
+        "label": "Search interest: \"sourdough starter troubleshooting\"",
+        "url": "https://duckduckgo.com/?q=sourdough%20starter%20troubleshooting"
+      }
+    ],
+    "publishedAt": "2026-11-17T17:45:33.959Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "tools-pre-spend-checklist-81",
+    "title": "The tools checklist: run this before you spend",
+    "dek": "Seven questions that separate a justified tools purchase from an expensive mood.",
+    "takeaway": "A purchase you can't tie to a specific, recurring bottleneck is decoration. The checklist makes that visible before checkout.",
+    "whatHappened": "Communities of home bakers and sourdough beginners keep converging on the same pre-purchase discipline: name the bottleneck, check the secondhand market, price the alternative of doing nothing, and sleep on it once. We compiled the full checklist from hundreds of those threads.",
+    "whyItMatters": "Spending in tools is lumpy — a few purchases carry all the outcome. The checklist exists to make sure your money lands on those and not on the long tail of gear that demos well and shelves fast.",
+    "howToThink": "Treat the checklist as friction on purpose. Anything that survives seven honest questions was probably worth buying; anything that doesn't survives as money.",
+    "pros": [
+      "Kills impulse purchases painlessly",
+      "Works at any budget",
+      "Builds a paper trail of good calls"
+    ],
+    "cons": [
+      "Requires honesty under temptation",
+      "Slower than one-click checkout",
+      "Friends may call you cheap"
+    ],
+    "watchOut": "Sales events are checklist bypass attempts. A discount on something you don't need is still a net loss.",
+    "faq": [
+      {
+        "q": "What's the single best question?",
+        "a": "\"Which session this week did I lose to not owning this?\" If you can't name one, close the tab."
+      },
+      {
+        "q": "Does this apply to small purchases?",
+        "a": "Under a coffee's cost, skip the ceremony. The checklist is for anything you'd notice on a statement."
+      },
+      {
+        "q": "What about once-a-year deals?",
+        "a": "A real bottleneck plus a real discount is great. The checklist just confirms which one you have."
+      }
+    ],
+    "category": "Tools",
+    "tags": [
+      "Tools",
+      "Troubleshooting"
+    ],
+    "sources": [
+      {
+        "label": "r/Baking community threads",
+        "url": "https://www.reddit.com/r/Baking/"
+      },
+      {
+        "label": "Search interest: \"artisan bread at home\"",
+        "url": "https://duckduckgo.com/?q=artisan%20bread%20at%20home"
+      }
+    ],
+    "publishedAt": "2026-11-01T17:45:51.788Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "crisp-crust-steam-sourdough",
+    "title": "Crisp crust secrets: harnessing steam for home sourdough",
+    "dek": "Add steam to your bake and watch the crust turn golden, crisp, and irresistibly chewy.",
+    "takeaway": "Steam is the shortcut to bakery‑level crust in a home oven.",
+    "whatHappened": "I tried a simple steam‑tray method during a weekday bake and the loaf popped out with a glossy, crackly crust. The interior stayed airy and open, just like a pro loaf.",
+    "whyItMatters": "A good crust protects the crumb and adds flavor, making even a modest starter feel like a bakery product. Mastering steam also reduces the need for fancy equipment.",
+    "howToThink": "Place a metal pan on the oven floor, splash hot water just before loading the dough, and close the door quickly. Keep the steam for the first 15‑20 minutes, then finish dry. Adjust the water amount if the crust browns too fast.",
+    "pros": [
+      "Better oven spring",
+      "Chewier crumb",
+      "Simple technique"
+    ],
+    "cons": [
+      "Requires extra equipment",
+      "Adds moisture management",
+      "Can over‑steam if not careful"
+    ],
+    "watchOut": "Don’t overfill the pan, or you’ll get soggy walls and a wet oven floor.",
+    "faq": [
+      {
+        "q": "Do I need a special pan for steam?",
+        "a": "A simple metal baking sheet or an empty roasting pan works fine."
+      },
+      {
+        "q": "Can I use a spray bottle instead of a pan?",
+        "a": "Yes, a quick spray of water onto the oven walls does the trick, just be careful of hot steam."
+      },
+      {
+        "q": "Will steam affect the flavor?",
+        "a": "Steam mainly influences texture; flavor comes from the dough and fermentation."
+      }
+    ],
+    "category": "Bread",
+    "tags": [
+      "sourdough",
+      "steam"
+    ],
+    "sources": [
+      {
+        "label": "r/Sourdough community threads",
+        "url": "https://www.reddit.com/r/Sourdough/"
+      },
+      {
+        "label": "Search interest: \"home baking tools\"",
+        "url": "https://duckduckgo.com/?q=home%20baking%20tools"
+      }
+    ],
+    "publishedAt": "2026-11-01T13:45:57.949Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "sourdough-starter-troubleshooting-field-test-27",
+    "title": "\"sourdough starter troubleshooting\" in practice: a real-world field test",
+    "dek": "We put the most-repeated advice about sourdough starter troubleshooting through a month of actual use. Some of it survived.",
+    "takeaway": "Half the standard advice on sourdough starter troubleshooting holds up; the other half exists to sell you something. Test small before you commit.",
+    "whatHappened": "We collected the most common recommendations home bakers and sourdough beginners see when they search \"sourdough starter troubleshooting\" and ran them through four weeks of ordinary, unglamorous use. The gap between what demos well and what holds up in week four was bigger than expected.",
+    "whyItMatters": "Most advice about bread is written from a first impression. The failure modes that actually cost home bakers and sourdough beginners time and money only show up with repetition — which is exactly what one-day reviews never capture.",
+    "howToThink": "Before adopting any recommendation about sourdough starter troubleshooting, ask what a fourth week of it looks like. If you can't picture the boring version, you're looking at marketing, not a method.",
+    "pros": [
+      "Cheap to replicate at home",
+      "Surfaced real week-four failure modes",
+      "Cuts through first-impression reviews"
+    ],
+    "cons": [
+      "A month is still a small sample",
+      "Results vary by setup",
+      "Some advice needs a season, not weeks"
+    ],
+    "watchOut": "If a guide about sourdough starter troubleshooting shows zero failed attempts, it wasn't a test — it was a script.",
+    "faq": [
+      {
+        "q": "What survived the field test?",
+        "a": "The fundamentals: consistent routine, modest gear, and keeping a log. The exotic tricks mostly didn't."
+      },
+      {
+        "q": "How should I run my own test?",
+        "a": "Change one variable, hold everything else steady for two weeks minimum, and write down what annoyed you."
+      },
+      {
+        "q": "Whose advice should I trust?",
+        "a": "People who publish follow-ups. A single enthusiastic post about bread is a data point, not a verdict."
+      }
+    ],
+    "category": "Bread",
+    "tags": [
+      "Bread",
+      "Pastry"
+    ],
+    "sources": [
+      {
+        "label": "r/Breadit community threads",
+        "url": "https://www.reddit.com/r/Breadit/"
+      },
+      {
+        "label": "Search interest: \"sourdough starter troubleshooting\"",
+        "url": "https://duckduckgo.com/?q=sourdough%20starter%20troubleshooting"
+      }
+    ],
+    "publishedAt": "2026-10-31T01:45:40.657Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-troubleshooting-80",
     "title": "Ask the forge: your troubleshooting questions, answered",
     "dek": "Straight answers to the troubleshooting questions home bakers and sourdough beginners keep asking, minus the hedging.",

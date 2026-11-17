@@ -1,5 +1,209 @@
 [
   {
+    "slug": "weekend-project-patterns-81",
+    "title": "A weekend project: level up your patterns in two hours",
+    "dek": "One contained, satisfying patterns project for home sewists — start Saturday morning, done by lunch.",
+    "takeaway": "Two focused hours on fundamentals beats two months of accumulating tabs. This project is deliberately small enough to finish.",
+    "whatHappened": "We designed a two-hour patterns project around the single highest-leverage fundamental — the one that experienced home sewists and pattern hackers consistently say they wish they'd done sooner. No purchases required, no prerequisites beyond what you already have.",
+    "whyItMatters": "Unfinished projects are the silent killer of hobbies. A project scoped to one sitting produces the thing rarer than skill: a completed feedback loop you can build on next weekend.",
+    "howToThink": "Pick the smallest version of the project that still counts as done. Momentum compounds; scope creep compounds faster.",
+    "pros": [
+      "Fits in one honest morning",
+      "Zero new purchases required",
+      "Produces a reusable baseline"
+    ],
+    "cons": [
+      "Less exciting than new gear",
+      "Requires protecting two hours",
+      "Results are quiet, not flashy"
+    ],
+    "watchOut": "If the project sprouts a shopping list, you've left the project. Write the list down for later and keep going with what you have.",
+    "faq": [
+      {
+        "q": "What if I only have one hour?",
+        "a": "Do the first half. A half-finished small project still beats a never-started big one."
+      },
+      {
+        "q": "Can I do this with zero experience?",
+        "a": "Yes — it's designed as an on-ramp. The fundamentals of patterns don't care about your resume."
+      },
+      {
+        "q": "What's next weekend's project?",
+        "a": "The same one, refined with what the log told you. Iteration is the curriculum."
+      }
+    ],
+    "category": "Patterns",
+    "tags": [
+      "Patterns",
+      "Fabric"
+    ],
+    "sources": [
+      {
+        "label": "r/sewhelp community threads",
+        "url": "https://www.reddit.com/r/sewhelp/"
+      },
+      {
+        "label": "Search interest: \"how to fit sewing patterns\"",
+        "url": "https://duckduckgo.com/?q=how%20to%20fit%20sewing%20patterns"
+      }
+    ],
+    "publishedAt": "2026-11-17T17:45:32.277Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "community-pulse-sewing-27",
+    "title": "Community pulse: what r/sewing is debating this week",
+    "dek": "The arguments, consensus shifts, and quietly useful threads from the machines community this week.",
+    "takeaway": "The community's loudest argument is rarely its most useful thread. We pulled out both.",
+    "whatHappened": "This week's discussion among home sewists and pattern hackers split between a recurring gear-versus-skill argument and a quieter thread of genuinely practical write-ups. As usual, the practical material got a fraction of the attention and most of the value.",
+    "whyItMatters": "Forums are the highest-signal source in machines — but only if you know how to read them. The upvote curve rewards controversy; the archive rewards patience.",
+    "howToThink": "Read communities like a researcher, not a spectator: skip the drama threads, sort by top-of-month, and save anything with photos, numbers, and a follow-up edit.",
+    "pros": [
+      "Real practitioners, real failures",
+      "Searchable archive of past debates",
+      "Faster than trial and error"
+    ],
+    "cons": [
+      "Upvotes reward heat, not light",
+      "Survivorship bias in success posts",
+      "Same arguments recur monthly"
+    ],
+    "watchOut": "When a thread's top comment starts with \"everyone knows,\" verify it. Community consensus in machines has a half-life.",
+    "faq": [
+      {
+        "q": "Which threads are worth saving?",
+        "a": "Anything with a methodology, a budget, photos, and a follow-up edit. That combination is rare and gold."
+      },
+      {
+        "q": "Should I post my own questions?",
+        "a": "Yes — after searching. A well-scoped question with context gets remarkable answers."
+      },
+      {
+        "q": "How do I avoid the drama?",
+        "a": "Sort by top-of-month instead of hot. The algorithm is the drama's delivery system."
+      }
+    ],
+    "category": "Machines",
+    "tags": [
+      "Machines",
+      "Patterns"
+    ],
+    "sources": [
+      {
+        "label": "r/sewing community threads",
+        "url": "https://www.reddit.com/r/sewing/"
+      },
+      {
+        "label": "Search interest: \"beginner sewing patterns\"",
+        "url": "https://duckduckgo.com/?q=beginner%20sewing%20patterns"
+      }
+    ],
+    "publishedAt": "2026-11-01T17:45:50.576Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "fitting-pre-spend-checklist-79",
+    "title": "The fitting checklist: run this before you spend",
+    "dek": "Seven questions that separate a justified fitting purchase from an expensive mood.",
+    "takeaway": "A purchase you can't tie to a specific, recurring bottleneck is decoration. The checklist makes that visible before checkout.",
+    "whatHappened": "Communities of home sewists and pattern hackers keep converging on the same pre-purchase discipline: name the bottleneck, check the secondhand market, price the alternative of doing nothing, and sleep on it once. We compiled the full checklist from hundreds of those threads.",
+    "whyItMatters": "Spending in fitting is lumpy — a few purchases carry all the outcome. The checklist exists to make sure your money lands on those and not on the long tail of gear that demos well and shelves fast.",
+    "howToThink": "Treat the checklist as friction on purpose. Anything that survives seven honest questions was probably worth buying; anything that doesn't survives as money.",
+    "pros": [
+      "Kills impulse purchases painlessly",
+      "Works at any budget",
+      "Builds a paper trail of good calls"
+    ],
+    "cons": [
+      "Requires honesty under temptation",
+      "Slower than one-click checkout",
+      "Friends may call you cheap"
+    ],
+    "watchOut": "Sales events are checklist bypass attempts. A discount on something you don't need is still a net loss.",
+    "faq": [
+      {
+        "q": "What's the single best question?",
+        "a": "\"Which session this week did I lose to not owning this?\" If you can't name one, close the tab."
+      },
+      {
+        "q": "Does this apply to small purchases?",
+        "a": "Under a coffee's cost, skip the ceremony. The checklist is for anything you'd notice on a statement."
+      },
+      {
+        "q": "What about once-a-year deals?",
+        "a": "A real bottleneck plus a real discount is great. The checklist just confirms which one you have."
+      }
+    ],
+    "category": "Fitting",
+    "tags": [
+      "Fitting",
+      "Machines"
+    ],
+    "sources": [
+      {
+        "label": "r/quilting community threads",
+        "url": "https://www.reddit.com/r/quilting/"
+      },
+      {
+        "label": "Search interest: \"sewing machine maintenance\"",
+        "url": "https://duckduckgo.com/?q=sewing%20machine%20maintenance"
+      }
+    ],
+    "publishedAt": "2026-11-01T13:45:52.338Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "five-fabric-mistakes-79",
+    "title": "Five mistakes everyone makes in their first month of fabric",
+    "dek": "The most common early stumbles in fabric, and the cheap corrections that fix them for home sewists and pattern hackers.",
+    "takeaway": "Month-one mistakes in fabric are nearly universal — and nearly all reversible if you catch them early.",
+    "whatHappened": "We combed the recurring \"what did I do wrong\" threads that home sewists and pattern hackers post and the same five fabric mistakes appear over and over: buying before learning, copying advanced setups, skipping the log, chasing novelty, and quitting during the boring middle.",
+    "whyItMatters": "Each of these mistakes feels productive while you're making it. That's why they persist — and why naming them explicitly saves newcomers weeks of stalled progress in fabric.",
+    "howToThink": "Audit yourself against the list once a month. The point isn't guilt — it's that every one of these has a five-minute correction if you notice it early enough.",
+    "pros": [
+      "Each mistake has a cheap fix",
+      "Recognition is most of the cure",
+      "Applies at any experience level"
+    ],
+    "cons": [
+      "Easy to nod along and change nothing",
+      "Some mistakes feel like progress",
+      "Lists can't replace a habit"
+    ],
+    "watchOut": "The most expensive version of every month-one mistake is the one you rationalize as \"investing in the hobby.\"",
+    "faq": [
+      {
+        "q": "Which mistake costs the most?",
+        "a": "Buying before learning — it converts enthusiasm into clutter and guilt instead of skill."
+      },
+      {
+        "q": "I already made all five. Now what?",
+        "a": "Good news: so did everyone else. Pick the one currently costing you the most and fix only that."
+      },
+      {
+        "q": "How do I avoid new mistakes?",
+        "a": "Keep the log. Most errors are invisible until they're written down."
+      }
+    ],
+    "category": "Fabric",
+    "tags": [
+      "Fabric",
+      "Fitting"
+    ],
+    "sources": [
+      {
+        "label": "r/sewhelp community threads",
+        "url": "https://www.reddit.com/r/sewhelp/"
+      },
+      {
+        "label": "Search interest: \"how to fit sewing patterns\"",
+        "url": "https://duckduckgo.com/?q=how%20to%20fit%20sewing%20patterns"
+      }
+    ],
+    "publishedAt": "2026-10-31T01:45:39.976Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "beginner-sewing-patterns-field-test-27",
     "title": "\"beginner sewing patterns\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about beginner sewing patterns through a month of actual use. Some of it survived.",

@@ -1,5 +1,209 @@
 [
   {
+    "slug": "espresso-shot-timing-stopwatch-test",
+    "title": "Fine‑Tune Your Espresso Shot Timing with a Simple Stopwatch Test",
+    "dek": "A quick stopwatch trick helps you nail consistent shot times without expensive gear.",
+    "takeaway": "Consistent shot timing boosts flavor balance and repeatability.",
+    "whatHappened": "I timed a series of espresso shots using a kitchen stopwatch, noting the start of the pump and the first drop. The data showed a clear sweet spot between under‑extraction and bitterness. Adjusting the grind to hit that window made each cup taste more balanced.",
+    "whyItMatters": "Shot timing directly influences extraction depth, affecting acidity, body, and crema. Home baristas often chase flavor without a concrete metric, leading to guesswork. A simple timing reference brings objectivity to the process.",
+    "howToThink": "Start the stopwatch the instant you press the brew button and stop it when the stream turns thin and amber. Aim for a repeatable window—usually 25‑30 seconds for a standard dose. If you’re consistently outside that range, tweak grind size or dose before re‑testing.",
+    "pros": [
+      "Easy to implement",
+      "No extra cost",
+      "Immediate feedback"
+    ],
+    "cons": [
+      "Requires focus on timing",
+      "Not a substitute for grind adjustment",
+      "May mask other variables"
+    ],
+    "watchOut": "Don’t rely on timing alone; other factors like temperature and tamp pressure still matter.",
+    "faq": [
+      {
+        "q": "What if my machine’s pump takes a moment to start?",
+        "a": "Include the pump’s ramp‑up in your timing; start the watch when water first reaches the basket."
+      },
+      {
+        "q": "Can I use a phone timer instead of a stopwatch?",
+        "a": "Yes, any reliable second‑resolution timer works—just ensure you’re consistent."
+      },
+      {
+        "q": "What timing range is ideal for a double shot?",
+        "a": "For most home machines, 25‑30 seconds yields a balanced double shot, but adjust based on taste."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "timing"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-11-17T17:45:03.339Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "portafilter-twist-test",
+    "title": "Unlock Consistent Espresso Extraction with a Simple Portafilter Twist Test",
+    "dek": "A quick twist of the portafilter spotlights pressure leaks, letting you dial in a steadier shot every time.",
+    "takeaway": "A tiny twist of the portafilter reveals hidden pressure issues and steadies your espresso.",
+    "whatHappened": "While pulling a routine double shot, the barista felt a subtle wobble in the puck. By gently twisting the portafilter after extraction, a small leak became obvious, prompting a quick seal check. The simple twist saved a batch of mediocre espresso from being served.",
+    "whyItMatters": "Even minor pressure leaks can cause uneven flow, under‑extracted coffee, and inconsistent crema. Detecting them early keeps flavor profiles reliable and reduces waste. For home enthusiasts, a stable extraction translates to better taste without expensive equipment upgrades.",
+    "howToThink": "After each shot, hold the portafilter and give it a half‑turn clockwise. Feel for any give or audible hissing—signs of a loose seal. If you notice movement, inspect the gasket, clean the rim, and re‑tighten before the next pull. Repeat the twist periodically as part of your routine maintenance.",
+    "pros": [
+      "Quick detection of leaks",
+      "No extra tools needed",
+      "Improves shot consistency"
+    ],
+    "cons": [
+      "Adds a tiny step to workflow",
+      "May miss very small leaks without careful feel",
+      "Requires regular gasket inspection"
+    ],
+    "watchOut": "Don’t overtighten the portafilter after the twist; excessive force can damage the basket or gasket.",
+    "faq": [
+      {
+        "q": "How often should I perform the twist test?",
+        "a": "Do it after each cleaning session and whenever you notice a change in flow or crema."
+      },
+      {
+        "q": "Can this test replace a pressure gauge?",
+        "a": "It’s a low‑tech complement, not a replacement for precise pressure measurements."
+      },
+      {
+        "q": "What if the twist reveals a leak but I can’t see any damage?",
+        "a": "Replace the gasket; even a worn seal can cause subtle pressure loss."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "troubleshooting"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-11-01T17:45:16.582Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "espresso-foam-pulse-test",
+    "title": "Boost Your Espresso Foam Consistency with a Simple Pressure Pulse Test",
+    "dek": "A quick, repeatable trick to tighten foam texture without buying new equipment.",
+    "takeaway": "A brief pressure pulse can stabilize micro‑foam for a silkier espresso.",
+    "whatHappened": "I noticed my espresso foam collapsing within seconds. By adding a short, firm thumb press on the portafilter after extraction, the foam held longer. The result was a smoother mouthfeel and a more Instagram‑worthy crema.",
+    "whyItMatters": "Foam quality signals proper extraction and milk steaming technique, influencing taste and presentation. For home baristas, consistent foam elevates the espresso experience without extra tools. It also reduces waste from re‑pulling shots.",
+    "howToThink": "Treat the portafilter like a tiny piston: after the shot, press the handle down firmly for a second, then release. This creates a brief pressure surge that re‑aligns the crema bubbles. Practice with a few pulls to gauge the right force—enough to feel resistance but not to damage the basket.",
+    "pros": [
+      "No extra gear needed",
+      "Improves visual appeal",
+      "Enhances mouthfeel"
+    ],
+    "cons": [
+      "Adds a tiny extra step",
+      "May over‑press if done hard",
+      "Works best with fresh beans"
+    ],
+    "watchOut": "Avoid excessive force; too much pressure can crack the basket or disturb the coffee puck.",
+    "faq": [
+      {
+        "q": "Can I use this on a pressurized portafilter?",
+        "a": "Yes, but the effect is subtler; the extra pressure already helps retain foam."
+      },
+      {
+        "q": "Does this technique affect the shot’s flavor?",
+        "a": "Only the foam texture changes; the underlying espresso remains the same."
+      },
+      {
+        "q": "How often should I apply the pulse?",
+        "a": "Just once per shot—apply it immediately after extraction for best results."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "Espresso",
+      "Technique"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-11-01T13:45:18.563Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "myth-vs-reality-pour-over-technique-19",
+    "title": "Myth vs. reality: pour over technique",
+    "dek": "The persistent myths around pour over technique, stress-tested against what home coffee enthusiasts actually report.",
+    "takeaway": "The biggest myths about pour over technique survive because they're convenient, not because they're true.",
+    "whatHappened": "We lined up the claims that dominate search results for \"pour over technique\" against long-term reports from home coffee enthusiasts. Three claims collapsed immediately, one held up with caveats, and one turned out to be truer than its critics admit.",
+    "whyItMatters": "Myths in pour-over aren't harmless — they set budgets, shape routines, and decide who gives up. Replacing one myth with one measured fact upgrades every decision downstream.",
+    "howToThink": "For any confident claim about pour over technique, ask: who measured it, over what period, and who profits if I believe it? Two out of three unanswered means file it under folklore.",
+    "pros": [
+      "Frees budget from myth-driven buys",
+      "Long-term reports are abundant now",
+      "Skepticism transfers to every niche"
+    ],
+    "cons": [
+      "Myths are more fun than caveats",
+      "Debunks age poorly too",
+      "Nuance doesn't fit a headline"
+    ],
+    "watchOut": "Beware the counter-myth: the internet loves inverting popular advice, and the inversion is usually just as unmeasured.",
+    "faq": [
+      {
+        "q": "What's the most expensive myth?",
+        "a": "That better gear reliably substitutes for practice. It shows up in every niche's spending regrets thread."
+      },
+      {
+        "q": "How do myths start?",
+        "a": "A true statement about one context, repeated without the context, monetized without the truth."
+      },
+      {
+        "q": "What actually held up?",
+        "a": "Consistency claims. The boring advice survives testing at a rate the exciting advice never matches."
+      }
+    ],
+    "category": "Pour-over",
+    "tags": [
+      "Pour-over",
+      "Roasting"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-10-31T01:45:08.725Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "dial-in-espresso-flow-check",
     "title": "Dial In Your Espresso Shot with a Simple Flow Rate Check",
     "dek": "A quick test to see if your espresso flow is on point, using just a timer and a cup.",

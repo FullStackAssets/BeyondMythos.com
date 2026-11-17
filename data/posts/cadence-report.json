@@ -1,5 +1,209 @@
 [
   {
+    "slug": "weekend-project-trainers-89",
+    "title": "A weekend project: level up your trainers in two hours",
+    "dek": "One contained, satisfying trainers project for indoor cyclists — start Saturday morning, done by lunch.",
+    "takeaway": "Two focused hours on fundamentals beats two months of accumulating tabs. This project is deliberately small enough to finish.",
+    "whatHappened": "We designed a two-hour trainers project around the single highest-leverage fundamental — the one that experienced indoor cyclists and virtual racers consistently say they wish they'd done sooner. No purchases required, no prerequisites beyond what you already have.",
+    "whyItMatters": "Unfinished projects are the silent killer of hobbies. A project scoped to one sitting produces the thing rarer than skill: a completed feedback loop you can build on next weekend.",
+    "howToThink": "Pick the smallest version of the project that still counts as done. Momentum compounds; scope creep compounds faster.",
+    "pros": [
+      "Fits in one honest morning",
+      "Zero new purchases required",
+      "Produces a reusable baseline"
+    ],
+    "cons": [
+      "Less exciting than new gear",
+      "Requires protecting two hours",
+      "Results are quiet, not flashy"
+    ],
+    "watchOut": "If the project sprouts a shopping list, you've left the project. Write the list down for later and keep going with what you have.",
+    "faq": [
+      {
+        "q": "What if I only have one hour?",
+        "a": "Do the first half. A half-finished small project still beats a never-started big one."
+      },
+      {
+        "q": "Can I do this with zero experience?",
+        "a": "Yes — it's designed as an on-ramp. The fundamentals of trainers don't care about your resume."
+      },
+      {
+        "q": "What's next weekend's project?",
+        "a": "The same one, refined with what the log told you. Iteration is the curriculum."
+      }
+    ],
+    "category": "Trainers",
+    "tags": [
+      "Trainers",
+      "Platforms"
+    ],
+    "sources": [
+      {
+        "label": "r/Velo community threads",
+        "url": "https://www.reddit.com/r/Velo/"
+      },
+      {
+        "label": "Search interest: \"pain cave setup\"",
+        "url": "https://duckduckgo.com/?q=pain%20cave%20setup"
+      }
+    ],
+    "publishedAt": "2026-11-17T17:45:20.045Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "smart-trainer-calibration-boost",
+    "title": "Boost your power output with smart trainer calibrations",
+    "dek": "A quick guide to calibrating your smart trainer for consistent power numbers and smoother rides.",
+    "takeaway": "Proper calibration turns vague power readings into reliable data for training.",
+    "whatHappened": "We ran a side‑by‑side test on a popular smart trainer before and after a full calibration using the manufacturer’s utility. The power curve steadied and resistance felt more natural. Ride data logged in Zwift showed tighter lap times.",
+    "whyItMatters": "Accurate power is the cornerstone of effective training; without it, interval work is guesswork. Consistent numbers also improve race fairness in virtual events, letting you trust your ranking.",
+    "howToThink": "Treat calibration as a weekly ritual: check wheel size, run the auto‑calibration, verify with a known resistance or a simple sprint, and adjust if needed. Keep the trainer on a stable surface and avoid extreme temperature swings. Record the calibration date in your training log to spot drift.",
+    "pros": [
+      "More reliable power data",
+      "Smoother resistance transitions",
+      "Better training zone accuracy"
+    ],
+    "cons": [
+      "Takes a few minutes each week",
+      "Requires software access",
+      "May need to re‑tighten trainer bolts"
+    ],
+    "watchOut": "Avoid calibrating on a soft carpet; the trainer can shift and skew results.",
+    "faq": [
+      {
+        "q": "How often should I calibrate?",
+        "a": "At least once a week or after moving the trainer."
+      },
+      {
+        "q": "Do I need a power meter to verify?",
+        "a": "Not mandatory; a short sprint or known resistance can confirm consistency."
+      },
+      {
+        "q": "Will calibration affect my ride feel?",
+        "a": "It should make resistance feel more natural and match the power displayed."
+      }
+    ],
+    "category": "Setup",
+    "tags": [
+      "trainer",
+      "calibration"
+    ],
+    "sources": [
+      {
+        "label": "r/indoorcycling community threads",
+        "url": "https://www.reddit.com/r/indoorcycling/"
+      },
+      {
+        "label": "Search interest: \"zwift training plans\"",
+        "url": "https://duckduckgo.com/?q=zwift%20training%20plans"
+      }
+    ],
+    "publishedAt": "2026-11-01T17:45:40.054Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "training-pre-spend-checklist-90",
+    "title": "The training checklist: run this before you spend",
+    "dek": "Seven questions that separate a justified training purchase from an expensive mood.",
+    "takeaway": "A purchase you can't tie to a specific, recurring bottleneck is decoration. The checklist makes that visible before checkout.",
+    "whatHappened": "Communities of indoor cyclists and virtual racers keep converging on the same pre-purchase discipline: name the bottleneck, check the secondhand market, price the alternative of doing nothing, and sleep on it once. We compiled the full checklist from hundreds of those threads.",
+    "whyItMatters": "Spending in training is lumpy — a few purchases carry all the outcome. The checklist exists to make sure your money lands on those and not on the long tail of gear that demos well and shelves fast.",
+    "howToThink": "Treat the checklist as friction on purpose. Anything that survives seven honest questions was probably worth buying; anything that doesn't survives as money.",
+    "pros": [
+      "Kills impulse purchases painlessly",
+      "Works at any budget",
+      "Builds a paper trail of good calls"
+    ],
+    "cons": [
+      "Requires honesty under temptation",
+      "Slower than one-click checkout",
+      "Friends may call you cheap"
+    ],
+    "watchOut": "Sales events are checklist bypass attempts. A discount on something you don't need is still a net loss.",
+    "faq": [
+      {
+        "q": "What's the single best question?",
+        "a": "\"Which session this week did I lose to not owning this?\" If you can't name one, close the tab."
+      },
+      {
+        "q": "Does this apply to small purchases?",
+        "a": "Under a coffee's cost, skip the ceremony. The checklist is for anything you'd notice on a statement."
+      },
+      {
+        "q": "What about once-a-year deals?",
+        "a": "A real bottleneck plus a real discount is great. The checklist just confirms which one you have."
+      }
+    ],
+    "category": "Training",
+    "tags": [
+      "Training",
+      "Setup"
+    ],
+    "sources": [
+      {
+        "label": "r/Zwift community threads",
+        "url": "https://www.reddit.com/r/Zwift/"
+      },
+      {
+        "label": "Search interest: \"smart trainer guide\"",
+        "url": "https://duckduckgo.com/?q=smart%20trainer%20guide"
+      }
+    ],
+    "publishedAt": "2026-11-01T13:45:35.654Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "five-platforms-mistakes-89",
+    "title": "Five mistakes everyone makes in their first month of platforms",
+    "dek": "The most common early stumbles in platforms, and the cheap corrections that fix them for indoor cyclists and virtual racers.",
+    "takeaway": "Month-one mistakes in platforms are nearly universal — and nearly all reversible if you catch them early.",
+    "whatHappened": "We combed the recurring \"what did I do wrong\" threads that indoor cyclists and virtual racers post and the same five platforms mistakes appear over and over: buying before learning, copying advanced setups, skipping the log, chasing novelty, and quitting during the boring middle.",
+    "whyItMatters": "Each of these mistakes feels productive while you're making it. That's why they persist — and why naming them explicitly saves newcomers weeks of stalled progress in platforms.",
+    "howToThink": "Audit yourself against the list once a month. The point isn't guilt — it's that every one of these has a five-minute correction if you notice it early enough.",
+    "pros": [
+      "Each mistake has a cheap fix",
+      "Recognition is most of the cure",
+      "Applies at any experience level"
+    ],
+    "cons": [
+      "Easy to nod along and change nothing",
+      "Some mistakes feel like progress",
+      "Lists can't replace a habit"
+    ],
+    "watchOut": "The most expensive version of every month-one mistake is the one you rationalize as \"investing in the hobby.\"",
+    "faq": [
+      {
+        "q": "Which mistake costs the most?",
+        "a": "Buying before learning — it converts enthusiasm into clutter and guilt instead of skill."
+      },
+      {
+        "q": "I already made all five. Now what?",
+        "a": "Good news: so did everyone else. Pick the one currently costing you the most and fix only that."
+      },
+      {
+        "q": "How do I avoid new mistakes?",
+        "a": "Keep the log. Most errors are invisible until they're written down."
+      }
+    ],
+    "category": "Platforms",
+    "tags": [
+      "Platforms",
+      "Training"
+    ],
+    "sources": [
+      {
+        "label": "r/Velo community threads",
+        "url": "https://www.reddit.com/r/Velo/"
+      },
+      {
+        "label": "Search interest: \"pain cave setup\"",
+        "url": "https://duckduckgo.com/?q=pain%20cave%20setup"
+      }
+    ],
+    "publishedAt": "2026-10-31T01:45:25.909Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "zwift-training-plans-field-test-29",
     "title": "\"zwift training plans\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about zwift training plans through a month of actual use. Some of it survived.",

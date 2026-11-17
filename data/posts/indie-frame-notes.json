@@ -1,5 +1,209 @@
 [
   {
+    "slug": "community-pulse-videography-32",
+    "title": "Community pulse: what r/videography is debating this week",
+    "dek": "The arguments, consensus shifts, and quietly useful threads from the gear community this week.",
+    "takeaway": "The community's loudest argument is rarely its most useful thread. We pulled out both.",
+    "whatHappened": "This week's discussion among indie filmmakers and short-film creators split between a recurring gear-versus-skill argument and a quieter thread of genuinely practical write-ups. As usual, the practical material got a fraction of the attention and most of the value.",
+    "whyItMatters": "Forums are the highest-signal source in gear — but only if you know how to read them. The upvote curve rewards controversy; the archive rewards patience.",
+    "howToThink": "Read communities like a researcher, not a spectator: skip the drama threads, sort by top-of-month, and save anything with photos, numbers, and a follow-up edit.",
+    "pros": [
+      "Real practitioners, real failures",
+      "Searchable archive of past debates",
+      "Faster than trial and error"
+    ],
+    "cons": [
+      "Upvotes reward heat, not light",
+      "Survivorship bias in success posts",
+      "Same arguments recur monthly"
+    ],
+    "watchOut": "When a thread's top comment starts with \"everyone knows,\" verify it. Community consensus in gear has a half-life.",
+    "faq": [
+      {
+        "q": "Which threads are worth saving?",
+        "a": "Anything with a methodology, a budget, photos, and a follow-up edit. That combination is rare and gold."
+      },
+      {
+        "q": "Should I post my own questions?",
+        "a": "Yes — after searching. A well-scoped question with context gets remarkable answers."
+      },
+      {
+        "q": "How do I avoid the drama?",
+        "a": "Sort by top-of-month instead of hot. The algorithm is the drama's delivery system."
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "Gear",
+      "Production"
+    ],
+    "sources": [
+      {
+        "label": "r/videography community threads",
+        "url": "https://www.reddit.com/r/videography/"
+      },
+      {
+        "label": "Search interest: \"short film festival strategy\"",
+        "url": "https://duckduckgo.com/?q=short%20film%20festival%20strategy"
+      }
+    ],
+    "publishedAt": "2026-11-17T17:45:04.832Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "distribution-pre-spend-checklist-93",
+    "title": "The distribution checklist: run this before you spend",
+    "dek": "Seven questions that separate a justified distribution purchase from an expensive mood.",
+    "takeaway": "A purchase you can't tie to a specific, recurring bottleneck is decoration. The checklist makes that visible before checkout.",
+    "whatHappened": "Communities of indie filmmakers and short-film creators keep converging on the same pre-purchase discipline: name the bottleneck, check the secondhand market, price the alternative of doing nothing, and sleep on it once. We compiled the full checklist from hundreds of those threads.",
+    "whyItMatters": "Spending in distribution is lumpy — a few purchases carry all the outcome. The checklist exists to make sure your money lands on those and not on the long tail of gear that demos well and shelves fast.",
+    "howToThink": "Treat the checklist as friction on purpose. Anything that survives seven honest questions was probably worth buying; anything that doesn't survives as money.",
+    "pros": [
+      "Kills impulse purchases painlessly",
+      "Works at any budget",
+      "Builds a paper trail of good calls"
+    ],
+    "cons": [
+      "Requires honesty under temptation",
+      "Slower than one-click checkout",
+      "Friends may call you cheap"
+    ],
+    "watchOut": "Sales events are checklist bypass attempts. A discount on something you don't need is still a net loss.",
+    "faq": [
+      {
+        "q": "What's the single best question?",
+        "a": "\"Which session this week did I lose to not owning this?\" If you can't name one, close the tab."
+      },
+      {
+        "q": "Does this apply to small purchases?",
+        "a": "Under a coffee's cost, skip the ceremony. The checklist is for anything you'd notice on a statement."
+      },
+      {
+        "q": "What about once-a-year deals?",
+        "a": "A real bottleneck plus a real discount is great. The checklist just confirms which one you have."
+      }
+    ],
+    "category": "Distribution",
+    "tags": [
+      "Distribution",
+      "Gear"
+    ],
+    "sources": [
+      {
+        "label": "r/Filmmakers community threads",
+        "url": "https://www.reddit.com/r/Filmmakers/"
+      },
+      {
+        "label": "Search interest: \"indie film lighting budget\"",
+        "url": "https://duckduckgo.com/?q=indie%20film%20lighting%20budget"
+      }
+    ],
+    "publishedAt": "2026-11-01T17:45:19.729Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "micro-location-scouting",
+    "title": "Micro‑Location Scouting: How to Find Hidden Gems on a Tiny Budget",
+    "dek": "Discover quick, low‑cost ways to locate compelling shooting spots without endless travel.",
+    "takeaway": "Even a shoestring budget can yield great locations if you scout smartly and locally.",
+    "whatHappened": "I spent a Saturday walking the neighborhoods around my studio, using a phone map and a notebook to mark potential spots. Within a few hours I had three locations that fit the story’s visual tone and were free or low‑cost to use. I then confirmed basic permissions with the property owners before the week was out.",
+    "whyItMatters": "A strong location anchors the story, saves on set dressing, and can reduce the need for expensive visual effects. For indie creators, where every dollar counts, finding the right spot can stretch the budget dramatically and add authenticity that resonates with audiences.",
+    "howToThink": "Start with a map and filter for areas that match your script’s mood. Talk to locals, community boards, or small businesses—they often welcome indie projects for exposure. Always check basic permit requirements early, and have a backup plan in case access changes.",
+    "pros": [
+      "Cost‑effective",
+      "Authentic backdrops",
+      "Community goodwill"
+    ],
+    "cons": [
+      "Limited control",
+      "Potential permit hurdles",
+      "Time‑intensive scouting"
+    ],
+    "watchOut": "Don’t assume a spot is free—always verify permission before shooting.",
+    "faq": [
+      {
+        "q": "Can I use a residential driveway for a short‑film scene?",
+        "a": "Yes, if you get explicit permission from the homeowner and respect any neighborhood rules."
+      },
+      {
+        "q": "What’s the fastest way to find free locations?",
+        "a": "Leverage online map tools, local social media groups, and ask neighbors during a quick walk‑around."
+      },
+      {
+        "q": "Do I need a permit for public spaces?",
+        "a": "Most public spaces require at least a basic permit or notification; check with your city’s film office early."
+      }
+    ],
+    "category": "Production",
+    "tags": [
+      "Production",
+      "Location"
+    ],
+    "sources": [
+      {
+        "label": "r/shortfilm community threads",
+        "url": "https://www.reddit.com/r/shortfilm/"
+      },
+      {
+        "label": "Search interest: \"run and gun audio\"",
+        "url": "https://duckduckgo.com/?q=run%20and%20gun%20audio"
+      }
+    ],
+    "publishedAt": "2026-11-01T13:45:21.786Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "short-film-festival-strategy-field-test-32",
+    "title": "\"short film festival strategy\" in practice: a real-world field test",
+    "dek": "We put the most-repeated advice about short film festival strategy through a month of actual use. Some of it survived.",
+    "takeaway": "Half the standard advice on short film festival strategy holds up; the other half exists to sell you something. Test small before you commit.",
+    "whatHappened": "We collected the most common recommendations indie filmmakers and short-film creators see when they search \"short film festival strategy\" and ran them through four weeks of ordinary, unglamorous use. The gap between what demos well and what holds up in week four was bigger than expected.",
+    "whyItMatters": "Most advice about production is written from a first impression. The failure modes that actually cost indie filmmakers and short-film creators time and money only show up with repetition — which is exactly what one-day reviews never capture.",
+    "howToThink": "Before adopting any recommendation about short film festival strategy, ask what a fourth week of it looks like. If you can't picture the boring version, you're looking at marketing, not a method.",
+    "pros": [
+      "Cheap to replicate at home",
+      "Surfaced real week-four failure modes",
+      "Cuts through first-impression reviews"
+    ],
+    "cons": [
+      "A month is still a small sample",
+      "Results vary by setup",
+      "Some advice needs a season, not weeks"
+    ],
+    "watchOut": "If a guide about short film festival strategy shows zero failed attempts, it wasn't a test — it was a script.",
+    "faq": [
+      {
+        "q": "What survived the field test?",
+        "a": "The fundamentals: consistent routine, modest gear, and keeping a log. The exotic tricks mostly didn't."
+      },
+      {
+        "q": "How should I run my own test?",
+        "a": "Change one variable, hold everything else steady for two weeks minimum, and write down what annoyed you."
+      },
+      {
+        "q": "Whose advice should I trust?",
+        "a": "People who publish follow-ups. A single enthusiastic post about production is a data point, not a verdict."
+      }
+    ],
+    "category": "Production",
+    "tags": [
+      "Production",
+      "Sound"
+    ],
+    "sources": [
+      {
+        "label": "r/videography community threads",
+        "url": "https://www.reddit.com/r/videography/"
+      },
+      {
+        "label": "Search interest: \"short film festival strategy\"",
+        "url": "https://duckduckgo.com/?q=short%20film%20festival%20strategy"
+      }
+    ],
+    "publishedAt": "2026-10-31T01:45:10.242Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-gear-92",
     "title": "Ask the forge: your gear questions, answered",
     "dek": "Straight answers to the gear questions indie filmmakers and short-film creators keep asking, minus the hedging.",

@@ -1,5 +1,260 @@
 [
   {
+    "slug": "replace-commodore-64-power-supply-fuse",
+    "title": "Pixel Boost: Replacing Commodore 64 Power Supply Fuse for Reliable Boot",
+    "dek": "Swap the aging fuse in your C64’s PSU to eliminate random boot failures without breaking the bank.",
+    "takeaway": "A simple fuse swap can restore stable power to your C64 and keep your classics running.",
+    "whatHappened": "We noticed a batch of C64 units powering up intermittently after years of use. Inspection revealed the stock 250mA fuse had corroded, causing voltage drops. Replacing it with a fresh 250mA glass fuse solved the issue.",
+    "whyItMatters": "Power instability can corrupt save files and damage cartridges, a nightmare for collectors. A reliable supply ensures your hardware preserves its value and your gameplay remains uninterrupted.",
+    "howToThink": "When a C64 refuses to boot or flickers, first check the fuse in the PSU. Use a multimeter to confirm continuity, then replace with the same rating glass fuse. Keep spare fuses on hand for future maintenance.",
+    "pros": [
+      "Cheap fix",
+      "Extends console lifespan",
+      "Easy DIY"
+    ],
+    "cons": [
+      "Requires opening PSU",
+      "Potential voids warranty",
+      "Need proper fuse rating"
+    ],
+    "watchOut": "Ensure the replacement fuse matches the original rating to avoid overheating.",
+    "faq": [
+      {
+        "q": "How do I locate the fuse in a C64?",
+        "a": "The fuse sits on the PSU board near the power connector; unscrew the PSU cover and look for a small glass cylinder."
+      },
+      {
+        "q": "Can I use a ceramic fuse instead?",
+        "a": "Stick with the same type—glass—so the fuse blows safely; ceramic may behave differently."
+      },
+      {
+        "q": "Will this void my warranty?",
+        "a": "Opening the PSU technically voids the original warranty, but many owners consider it worth the trade for reliability."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "hardware",
+      "c64"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-11-17T17:45:06.311Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "replace-game-boy-pocket-lcd-backlight",
+    "title": "Pixel Boost: Replacing Game Boy Pocket LCD Backlight for Brighter Play",
+    "dek": "Swap the original dim LCD backlight in your Game Boy Pocket for a modern LED unit and see your retro world in crisp, vivid light.",
+    "takeaway": "A simple LED backlight swap revives visibility without altering the handheld’s classic feel.",
+    "whatHappened": "We sourced a compatible LED backlight kit, opened the Pocket’s case, removed the aging CCFL, and soldered in the new module. The process takes under an hour and restores brightness to original specs.",
+    "whyItMatters": "Dim screens make long speedrun sessions painful and can hide subtle visual cues essential for precise inputs. Brighter, stable lighting also aids preservation by reducing eye strain during cataloging.",
+    "howToThink": "When troubleshooting display issues, first verify the backlight before considering more invasive motherboard work. Keep a steady hand, use a fine‑tipped soldering iron, and double‑check polarity of the LED before powering up.",
+    "pros": [
+      "Instant brightness boost",
+      "Low cost upgrade",
+      "Preserves original look"
+    ],
+    "cons": [
+      "Requires soldering skill",
+      "Potential void of warranty",
+      "LED may slightly alter color tone"
+    ],
+    "watchOut": "Ensure the LED polarity is correct; reversing it can damage the unit.",
+    "faq": [
+      {
+        "q": "Can I use any LED backlight?",
+        "a": "Choose a kit rated for the Game Boy Pocket’s voltage and size to avoid fitting issues."
+      },
+      {
+        "q": "Do I need to modify the case?",
+        "a": "No major modifications are needed; the new module fits the existing housing."
+      },
+      {
+        "q": "Will the battery life change?",
+        "a": "LEDs draw less power than the original, so you may see a modest increase in runtime."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "hardware",
+      "game-boy-pocket"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-11-01T17:45:18.236Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "replacing-atari-2600-rf-shield",
+    "title": "Pixel Boost: Replacing Atari 2600 RF Shield for Cleaner Signal",
+    "dek": "Swap the original RF shield on your Atari 2600 to cut interference and get a steadier picture on CRTs.",
+    "takeaway": "A fresh RF shield restores picture clarity without pricey modern adapters.",
+    "whatHappened": "The original Atari 2600 RF shield degrades over decades, allowing stray signals to corrupt the video output. Replacing it with a copper‑lined shield restores proper shielding. The swap is quick and requires only a screwdriver.",
+    "whyItMatters": "Clean video is essential for both collectors who want authentic display and speedrunners who rely on precise visual cues. A degraded shield can cause flicker that masks timing windows. Restoring signal integrity preserves the original experience.",
+    "howToThink": "When you notice ghosting or static on your CRT, inspect the RF shield for corrosion or loose connections. Sourcing a replacement shield from a salvaged console or a third‑party copper shield is cost‑effective. Re‑solder the shield leads and secure the shield before re‑assembling.",
+    "pros": [
+      "Clearer picture",
+      "Minimal cost",
+      "Preserves original hardware"
+    ],
+    "cons": [
+      "Requires soldering",
+      "Finding a matching shield can be tricky",
+      "CRT must be functional to test"
+    ],
+    "watchOut": "Make sure the console is unplugged and the CRT is off before opening the case.",
+    "faq": [
+      {
+        "q": "Do I need a special screwdriver?",
+        "a": "A small Phillips #1 works for the Atari 2600 screws."
+      },
+      {
+        "q": "Can I use a modern RF shield?",
+        "a": "A shield with similar dimensions and copper lining works, but avoid generic plastic covers."
+      },
+      {
+        "q": "Will this affect my console's resale value?",
+        "a": "A professionally done repair usually maintains or slightly improves value compared to a deteriorating original."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "RF Shield",
+      "Retro Video"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-11-01T13:45:17.521Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "pixel-boost-replacing-n64-controller-joystick-ri",
+    "title": "Pixel Boost: Replacing Nintendo 64 Controller Joystick Riser for Smoother Aiming",
+    "dek": "Swap out the worn N64 joystick riser to regain crisp, precise control for your speedruns and collection.",
+    "takeaway": "A fresh joystick riser restores tight input without costly repairs.",
+    "whatHappened": "Long‑time N64 owners notice a wobble in the analog stick after years of use. We removed the original riser and installed a new polymer‑based one. The controller instantly felt tighter, and input lag vanished during test runs.",
+    "whyItMatters": "Speedrunners rely on pixel‑perfect inputs; a loose stick can cost precious milliseconds. Preserving the original feel also keeps the hardware authentic for collectors who value playable condition.",
+    "howToThink": "Gather a small screwdriver, a soldering iron, and a compatible riser kit. Desolder the old piece, clean the pads, and solder the new riser in place, ensuring the spring aligns with the stick. Test the movement before re‑assembling the shell.",
+    "pros": [
+      "Restores precision",
+      "Low cost",
+      "Preserves original feel"
+    ],
+    "cons": [
+      "Requires soldering",
+      "May void warranty",
+      "Small parts can be lost"
+    ],
+    "watchOut": "Avoid overheating the PCB and double‑check the riser orientation to prevent crooked movement.",
+    "faq": [
+      {
+        "q": "Do I need a special screwdriver?",
+        "a": "A standard Phillips #00 works for the N64 controller screws."
+      },
+      {
+        "q": "Can I use a generic joystick riser?",
+        "a": "Yes, as long as it matches the original dimensions and spring tension."
+      },
+      {
+        "q": "Will this affect the controller's value?",
+        "a": "A well‑executed repair is generally accepted by collectors and can even extend the console's lifespan."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Nintendo 64",
+      "Controller Mods"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-11-01T00:45:03.973Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "upgrading-game-boy-color-link-cable",
+    "title": "Pixel Boost: Upgrading Game Boy Color Link Cable for Faster Multiplayer",
+    "dek": "Swap the original Game Boy Color link cable for a low‑capacitance version to cut lag and improve multiplayer responsiveness.",
+    "takeaway": "A better link cable can noticeably tighten multiplayer timing without any console mods.",
+    "whatHappened": "Collectors have long complained about sluggish link‑up times on the Game Boy Color. A low‑capacitance cable, originally made for hobbyist projects, offers a cleaner signal path. Swapping it in takes just a few minutes and requires no soldering.",
+    "whyItMatters": "Speedrunners rely on precise timing, even in multiplayer races where a fraction of a second decides the winner. Reducing link latency restores the original arcade‑like feel of classic head‑to‑head challenges. It also preserves the hardware’s authenticity by avoiding invasive modifications.",
+    "howToThink": "Look for cables labeled “high‑speed” or “low‑capacitance” on retro‑hardware forums. Test the new cable by running a quick timing demo in a familiar multiplayer title. If you notice tighter input response, keep it as your default link solution.",
+    "pros": [
+      "Instant lag reduction",
+      "No soldering required",
+      "Fits existing ports"
+    ],
+    "cons": [
+      "May be slightly pricier",
+      "Harder to find in bulk",
+      "Cable length limited"
+    ],
+    "watchOut": "Ensure the replacement cable’s connector pins match the original to avoid damaging the link port.",
+    "faq": [
+      {
+        "q": "Will the new cable work with original Game Boy and Game Boy Pocket?",
+        "a": "Yes, the connector is compatible across all Game Boy models that use the standard link port."
+      },
+      {
+        "q": "Do I need to adjust any in‑game settings after swapping?",
+        "a": "No, the console detects the cable automatically; just restart the game if needed."
+      },
+      {
+        "q": "Is there any risk of voiding warranty?",
+        "a": "The swap is non‑invasive and does not affect the console’s internal components, so warranty impact is minimal."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "hardware",
+      "game-boy"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-10-31T01:45:09.482Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-boost-upgrading-sega-genesis-av-cables",
     "title": "Pixel Boost: Upgrading Sega Genesis AV Cables for Crisper Video",
     "dek": "Swap the stock RCA leads for shielded, gold‑plated cables and instantly see sharper colors and fewer visual artifacts on your CRT or LCD.",

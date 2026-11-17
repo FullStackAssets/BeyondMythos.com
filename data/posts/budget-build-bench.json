@@ -1,5 +1,209 @@
 [
   {
+    "slug": "ask-the-forge-benchmarks-93",
+    "title": "Ask the forge: your benchmarks questions, answered",
+    "dek": "Straight answers to the benchmarks questions PC builders on a budget keep asking, minus the hedging.",
+    "takeaway": "Most benchmarks questions have boring, reliable answers. Here they are, without the two thousand words of preamble.",
+    "whatHappened": "We gathered the questions that appear weekly wherever PC builders on a budget compare notes — the ones usually answered with \"it depends\" — and committed to actual answers with actual reasoning.",
+    "whyItMatters": "\"It depends\" is true and useless. Newcomers to benchmarks don't need every caveat; they need a defensible default they can adjust later.",
+    "howToThink": "Take the default, use it for a month, then earn your deviations. Customization is a reward for data, not a starting requirement.",
+    "pros": [
+      "Defaults beat decision paralysis",
+      "Reasoning shown, not just verdicts",
+      "Adjustable once you have data"
+    ],
+    "cons": [
+      "Defaults fit most, not all",
+      "Experts will quibble — always",
+      "Questions evolve; answers date"
+    ],
+    "watchOut": "Any answer that can't say what would change its mind isn't an answer — it's an identity. Ours come with conditions attached.",
+    "faq": [
+      {
+        "q": "What's the most-asked question?",
+        "a": "\"What should I buy first?\" — and the answer is almost always: nothing yet. Run the routine for two weeks first."
+      },
+      {
+        "q": "Why give defaults instead of options?",
+        "a": "Because ten options produce paralysis and one default produces feedback. You can only iterate on something you started."
+      },
+      {
+        "q": "How often do these answers change?",
+        "a": "We revisit quarterly. The fundamentals drift slowly; the gear recommendations drift fast."
+      }
+    ],
+    "category": "Benchmarks",
+    "tags": [
+      "Benchmarks",
+      "GPUs"
+    ],
+    "sources": [
+      {
+        "label": "r/pcmasterrace community threads",
+        "url": "https://www.reddit.com/r/pcmasterrace/"
+      },
+      {
+        "label": "Search interest: \"1440p value build\"",
+        "url": "https://duckduckgo.com/?q=1440p%20value%20build"
+      }
+    ],
+    "publishedAt": "2026-11-17T17:45:04.054Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "budget-gpu-swap-2026",
+    "title": "Swap the old for a cheap RTX 3050: a practical guide",
+    "dek": "Swap an aging GPU for a budget RTX 3050 and keep framerates decent without breaking the bank.",
+    "takeaway": "A modest RTX 3050 can revive older builds for 1080p gaming on a shoestring budget.",
+    "whatHappened": "We took a 2015 mid‑range gaming PC, removed its GTX 750 Ti, and installed a second‑hand RTX 3050 found for under $120. After driver updates, the system handled modern titles at 1080p with playable frame rates.",
+    "whyItMatters": "GPU upgrades are the single biggest performance boost for aging rigs, and finding affordable, recent‑gen cards extends the life of a build without costly whole‑system replacements.",
+    "howToThink": "Look for used RTX 3050s with clean BIOS and no known hardware issues, verify power supply capacity, and pair the card with a modest CPU to avoid bottlenecks. Prioritize reputable sellers and test the card before committing.",
+    "pros": [
+      "Low cost for modern architecture",
+      "Good 1080p performance",
+      "Broad driver support"
+    ],
+    "cons": [
+      "Higher power draw than older cards",
+      "Limited VRAM for future titles",
+      "Potential warranty void if used"
+    ],
+    "watchOut": "Check that your PSU has at least a 450 W rating and the necessary 8‑pin connector.",
+    "faq": [
+      {
+        "q": "Can I use an RTX 3050 in a system with a 2015 CPU?",
+        "a": "Yes, but expect the CPU to limit performance in very demanding games; pair it with a mid‑range CPU for balanced results."
+      },
+      {
+        "q": "Is buying a used RTX 3050 safe?",
+        "a": "Buy from sellers with return policies, inspect for physical damage, and test with a benchmark tool to ensure the card runs stable."
+      },
+      {
+        "q": "Do I need to reinstall drivers after swapping?",
+        "a": "Uninstall the old drivers, then install the latest NVIDIA driver to avoid conflicts."
+      }
+    ],
+    "category": "GPUs",
+    "tags": [
+      "budget gpu",
+      "used upgrade"
+    ],
+    "sources": [
+      {
+        "label": "r/buildapc community threads",
+        "url": "https://www.reddit.com/r/buildapc/"
+      },
+      {
+        "label": "Search interest: \"used pc parts guide\"",
+        "url": "https://duckduckgo.com/?q=used%20pc%20parts%20guide"
+      }
+    ],
+    "publishedAt": "2026-11-01T17:45:21.958Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "budget-gpu-value-2026",
+    "title": "Best $150 GPU in 2026: Value Picks for Tight Budgets",
+    "dek": "Find the top-performing graphics cards under $150 that still deliver solid 1080p gaming in 2026.",
+    "takeaway": "You can game at 1080p without breaking the bank by targeting a handful of well‑priced older GPUs.",
+    "whatHappened": "The GPU market has cooled, pushing many previous‑gen cards into the sub‑$150 range. Retailers and resale sites now list solid 1080p performers at prices that budget builders can actually afford. This shift revives interest in cards that were once considered obsolete.",
+    "whyItMatters": "For anyone building a budget PC, graphics power is the biggest cost driver. Securing a capable GPU at a low price means the rest of the build can stay within tight limits while still handling modern games at 1080p. It also extends the viable life of older builds, reducing electronic waste.",
+    "howToThink": "Focus on cards released within the last five years that still receive driver updates. Check benchmarks for 1080p titles, prioritize low power draw, and verify the seller’s return policy. When buying used, inspect for physical damage and test the card before finalizing the purchase.",
+    "pros": [
+      "Solid 1080p performance",
+      "Low power draw",
+      "Widely available used"
+    ],
+    "cons": [
+      "Limited VRAM for future titles",
+      "Older architecture may lack DLSS",
+      "Potential wear on used units"
+    ],
+    "watchOut": "Avoid listings without clear photos or seller reputation, as hidden defects can turn a cheap find into a costly repair.",
+    "faq": [
+      {
+        "q": "Which GPU offers the best bang for the buck under $150?",
+        "a": "The GTX 1650 Super and Radeon RX 570 remain top choices for 1080p gaming at this price point."
+      },
+      {
+        "q": "Is buying a used GPU safe?",
+        "a": "It’s safe if you buy from reputable sellers, check return policies, and test the card upon receipt."
+      },
+      {
+        "q": "Do these budget cards support modern drivers?",
+        "a": "Yes, both NVIDIA and AMD continue to release driver updates for these models, ensuring compatibility with new games."
+      }
+    ],
+    "category": "GPUs",
+    "tags": [
+      "budget-gpu",
+      "1080p-gaming"
+    ],
+    "sources": [
+      {
+        "label": "r/buildapcsales community threads",
+        "url": "https://www.reddit.com/r/buildapcsales/"
+      },
+      {
+        "label": "Search interest: \"best budget gpu 2026\"",
+        "url": "https://duckduckgo.com/?q=best%20budget%20gpu%202026"
+      }
+    ],
+    "publishedAt": "2026-11-01T13:45:21.038Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "weekend-project-gpus-91",
+    "title": "A weekend project: level up your gpus in two hours",
+    "dek": "One contained, satisfying gpus project for PC builders on a budget — start Saturday morning, done by lunch.",
+    "takeaway": "Two focused hours on fundamentals beats two months of accumulating tabs. This project is deliberately small enough to finish.",
+    "whatHappened": "We designed a two-hour gpus project around the single highest-leverage fundamental — the one that experienced PC builders on a budget consistently say they wish they'd done sooner. No purchases required, no prerequisites beyond what you already have.",
+    "whyItMatters": "Unfinished projects are the silent killer of hobbies. A project scoped to one sitting produces the thing rarer than skill: a completed feedback loop you can build on next weekend.",
+    "howToThink": "Pick the smallest version of the project that still counts as done. Momentum compounds; scope creep compounds faster.",
+    "pros": [
+      "Fits in one honest morning",
+      "Zero new purchases required",
+      "Produces a reusable baseline"
+    ],
+    "cons": [
+      "Less exciting than new gear",
+      "Requires protecting two hours",
+      "Results are quiet, not flashy"
+    ],
+    "watchOut": "If the project sprouts a shopping list, you've left the project. Write the list down for later and keep going with what you have.",
+    "faq": [
+      {
+        "q": "What if I only have one hour?",
+        "a": "Do the first half. A half-finished small project still beats a never-started big one."
+      },
+      {
+        "q": "Can I do this with zero experience?",
+        "a": "Yes — it's designed as an on-ramp. The fundamentals of gpus don't care about your resume."
+      },
+      {
+        "q": "What's next weekend's project?",
+        "a": "The same one, refined with what the log told you. Iteration is the curriculum."
+      }
+    ],
+    "category": "GPUs",
+    "tags": [
+      "GPUs",
+      "Used Parts"
+    ],
+    "sources": [
+      {
+        "label": "r/pcmasterrace community threads",
+        "url": "https://www.reddit.com/r/pcmasterrace/"
+      },
+      {
+        "label": "Search interest: \"1440p value build\"",
+        "url": "https://duckduckgo.com/?q=1440p%20value%20build"
+      }
+    ],
+    "publishedAt": "2026-10-31T01:45:10.951Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-buildapc-31",
     "title": "Community pulse: what r/buildapc is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the benchmarks community this week.",
