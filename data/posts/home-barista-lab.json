@@ -1,5 +1,56 @@
 [
   {
+    "slug": "timing-the-pull-stopwatch",
+    "title": "Timing the Pull: Use a Stopwatch for Better Espresso Consistency",
+    "dek": "A quick guide to using a simple stopwatch to fine‑tune your espresso extraction and boost flavor consistency.",
+    "takeaway": "A stopwatch lets you spot extraction drift and keep your espresso tasting the same shot after shot.",
+    "whatHappened": "I started timing each espresso shot with my phone’s stopwatch and logged the seconds. Within a week the data revealed a clear pattern between longer pulls and bitter notes. Adjusting grind size and dose brought the times back into the sweet spot.",
+    "whyItMatters": "Extraction time is a reliable proxy for how water interacts with the coffee puck, so tracking it helps you catch subtle changes before flavor suffers. Consistent timing translates to consistent taste, which is the core goal for any home barista.",
+    "howToThink": "Treat the timer as a diagnostic tool, not a rule. Aim for a target window that matches your grind and dose, then adjust one variable at a time and watch the time shift. Record the results and let the pattern guide your tweaks.",
+    "pros": [
+      "Instant feedback",
+      "No extra gear",
+      "Easy to track trends"
+    ],
+    "cons": [
+      "Requires discipline",
+      "Timing alone isn’t enough",
+      "May distract from flow"
+    ],
+    "watchOut": "Don’t let the timer dominate your routine—focus on taste first.",
+    "faq": [
+      {
+        "q": "What is a good extraction time range for a standard double shot?",
+        "a": "Around 25‑30 seconds is a common target, but it can vary with grind, dose, and machine pressure."
+      },
+      {
+        "q": "Can I use my phone’s timer instead of a dedicated stopwatch?",
+        "a": "Yes, any reliable second‑counting tool works as long as you start and stop consistently."
+      },
+      {
+        "q": "Should I adjust the timer if I change beans?",
+        "a": "Definitely—different beans extract differently, so re‑establish the timing window when you switch varieties."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "techniques"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-11-18T09:45:11.968Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "tamping-pressure-sweet-spot",
     "title": "Tamping Pressure: Find Your Sweet Spot for Consistent Espresso",
     "dek": "A quick guide to dialing in tamping force for steadier shots without fancy equipment.",

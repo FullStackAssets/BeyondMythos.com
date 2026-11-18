@@ -1,5 +1,56 @@
 [
   {
+    "slug": "cafe-car-conversations",
+    "title": "Café Car Conversations: Low‑Impact Socializing on the Rails",
+    "dek": "Discover how to turn your train carriage into a friendly hub without leaving a carbon footprint.",
+    "takeaway": "A few simple habits turn a rail ride into a low‑impact social experience.",
+    "whatHappened": "During a recent cross‑country journey, I set up a small coffee kit and invited fellow passengers to share stories. The informal chat sparked spontaneous exchanges about local food, routes, and sustainability tips.",
+    "whyItMatters": "Social connections enrich slow travel, and low‑impact gatherings reduce reliance on digital distractions while fostering community on the rails.",
+    "howToThink": "Carry a reusable cup, a modest coffee bag, and a simple prompt card. Offer a sip, ask open‑ended questions, and respect personal space. Keep the set‑up lightweight and recyclable.",
+    "pros": [
+      "Boosts community",
+      "Minimal waste",
+      "Enhances travel joy"
+    ],
+    "cons": [
+      "Requires small prep",
+      "May not suit all passengers",
+      "Limited to short trips"
+    ],
+    "watchOut": "Avoid strong aromas if fellow travelers are sensitive to scents.",
+    "faq": [
+      {
+        "q": "Do I need a special permit to serve coffee on a train?",
+        "a": "No, a personal, reusable setup is fine as long as you keep it tidy and respect the carriage rules."
+      },
+      {
+        "q": "What if someone declines the offer?",
+        "a": "Gracefully accept a no and continue your own drink; the invitation is optional."
+      },
+      {
+        "q": "How can I keep the waste down?",
+        "a": "Use a reusable mug, bring a biodegradable filter, and dispose of any leftovers in the train’s recycling bin."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "social",
+      "rail"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-11-18T09:45:05.625Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-car-book-club",
     "title": "Quiet Car Book Club: Low-Impact Literary Journeys on the Rails",
     "dek": "Turn a slow train ride into a traveling book club, swapping stories and sustainability tips.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "crt-calibration-quickfix",
+    "title": "Retro Glow: Simple CRT Calibration for Authentic Arcade Feel",
+    "dek": "Learn a quick, no‑tool method to adjust your CRT’s geometry and color for that genuine arcade glow.",
+    "takeaway": "A proper CRT calibration revives visual fidelity without expensive service.",
+    "whatHappened": "After noticing washed‑out colors on a classic arcade cabinet, I unplugged the monitor and used the built‑in geometry and hue controls to fine‑tune the image. Within minutes the reds popped and the screen geometry snapped back to square. The result was a strikingly authentic arcade look without any external hardware.",
+    "whyItMatters": "Retro collectors prize visual authenticity; a mis‑aligned or faded CRT can ruin immersion. Proper calibration also reduces strain on the tube, extending its lifespan. For speedrunners, clear visuals can shave fractions of a second off reaction times.",
+    "howToThink": "Start with the geometry knobs—adjust left/right and top/bottom until the grid lines are perfectly square. Next, tweak the hue and saturation controls to achieve balanced colors; use a reference sprite or screenshot. Finally, lock the settings and give the monitor a short warm‑up before final verification.",
+    "pros": [
+      "Instant visual boost",
+      "No extra tools needed",
+      "Extends CRT life"
+    ],
+    "cons": [
+      "Requires patience",
+      "Limited by monitor’s built‑in range",
+      "Settings may drift over time"
+    ],
+    "watchOut": "Avoid over‑tightening geometry knobs, as extreme adjustments can stress the CRT’s internal circuitry.",
+    "faq": [
+      {
+        "q": "Do I need a separate calibration disc?",
+        "a": "No, the built‑in controls are sufficient; a simple test pattern on the console works fine."
+      },
+      {
+        "q": "Can I calibrate a CRT TV the same way?",
+        "a": "Yes, the same geometry and hue controls apply, though TV menus may differ slightly."
+      },
+      {
+        "q": "How often should I re‑check the settings?",
+        "a": "Re‑calibrate after a few months or if you notice color drift or geometry shift."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "CRT",
+      "Calibration"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-11-18T09:45:06.420Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "zap-it-fixing-nes-zapper-lag",
     "title": "Zap It: Fixing NES Zapper Lag with a Tiny Solder",
     "dek": "A quick solder‑and‑wire tweak that restores snappy aim to your NES Zapper.",

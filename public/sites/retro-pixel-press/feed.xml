@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Retro Glow: Simple CRT Calibration for Authentic Arcade Feel</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/crt-calibration-quickfix.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/crt-calibration-quickfix.html</guid>
+      <pubDate>Wed, 18 Nov 2026 09:45:06 GMT</pubDate>
+      <description>Learn a quick, no‑tool method to adjust your CRT’s geometry and color for that genuine arcade glow.</description>
+    </item>
+    <item>
       <title>Zap It: Fixing NES Zapper Lag with a Tiny Solder</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/zap-it-fixing-nes-zapper-lag.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/zap-it-fixing-nes-zapper-lag.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-replace-mega-drive-cartridge-edges.html</guid>
       <pubDate>Fri, 30 Oct 2026 16:45:15 GMT</pubDate>
       <description>Swap out old Mega Drive cartridge edge contacts for a reliable link, shaving seconds off load times for your speed runs.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Replacing C64 Power Switch for Lightning‑Fast Boots</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/c64-power-switch-replacement.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/c64-power-switch-replacement.html</guid>
-      <pubDate>Fri, 30 Oct 2026 15:45:04 GMT</pubDate>
-      <description>Swap the Commodore 64&apos;s aging power switch for a new tactile one and shave seconds off every startup.</description>
     </item>
   </channel>
 </rss>
