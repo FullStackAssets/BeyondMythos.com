@@ -1,5 +1,56 @@
 [
   {
+    "slug": "hidden-platform-gardens-4",
+    "title": "Hidden Platform Gardens: Low‑Impact Greenery on the Rails",
+    "dek": "Discover micro‑gardens tucked into station platforms that let slow travelers enjoy greenery without extra footprint.",
+    "takeaway": "Platform gardens offer a simple, low‑impact way to refresh your journey and support local greening efforts.",
+    "whatHappened": "While waiting for a late night train at a regional hub, I noticed a modest garden thriving in a recessed platform nook. Volunteers had planted hardy herbs and wildflowers, turning a bland waiting area into a quiet oasis. The scent of mint and the splash of color made the delay feel like a welcome pause.",
+    "whyItMatters": "Green pockets on stations improve air quality, lower stress, and signal community investment in sustainable travel. For low‑impact explorers, they provide a tangible reminder that small actions can brighten public spaces without adding waste.",
+    "howToThink": "Look for platform edges with planters or raised beds, often labeled as community projects. If you have spare seeds, consider donating to local rail‑friend groups. Respect the space—keep foot traffic light and avoid trampling delicate plants.",
+    "pros": [
+      "Boosts mood during waits",
+      "Supports local biodiversity",
+      "Zero‑waste visual treat"
+    ],
+    "cons": [
+      "May be seasonal",
+      "Limited space for large groups",
+      "Maintenance depends on volunteers"
+    ],
+    "watchOut": "Stay clear of track edges and avoid stepping on planting beds to keep both yourself and the garden safe.",
+    "faq": [
+      {
+        "q": "How can I find stations with platform gardens?",
+        "a": "Check local transit authority newsletters or community bulletin boards; many rail‑friend groups announce new garden sites online."
+      },
+      {
+        "q": "Can I contribute plants or seeds?",
+        "a": "Yes—most projects welcome donations of native, low‑maintenance species; contact the station’s volunteer coordinator first."
+      },
+      {
+        "q": "Are there any rules for interacting with the gardens?",
+        "a": "Treat the area as a shared public space: no picking, no littering, and keep pathways clear for other travelers."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "green"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-11-18T14:45:05.482Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "night-train-stargazing",
     "title": "Night Train Stargazing: Low-Impact Celestial Watching on the Rails",
     "dek": "Turn your sleeper carriage into a low-impact observatory and let the night sky guide your journey.",

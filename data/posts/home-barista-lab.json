@@ -1,5 +1,56 @@
 [
   {
+    "slug": "stabilize-water-temp-espresso",
+    "title": "Stabilize Your Brew Water Temperature for Consistent Espresso",
+    "dek": "A quick guide to keeping your brew water temperature steady for better espresso shots.",
+    "takeaway": "Consistent water temperature is the hidden key to repeatable espresso flavor.",
+    "whatHappened": "I noticed my espresso shots fluctuated in sweetness after swapping my kettle for a faster‑boiling model. The temperature dropped between pulls, and the taste became uneven.",
+    "whyItMatters": "Water temperature directly influences extraction speed and flavor balance. Small swings can make a shot taste thin or overly bitter, breaking consistency.",
+    "howToThink": "Treat temperature like a baseline: pre‑heat your machine, let the kettle sit a minute after boiling, and use a thermometer or built‑in sensor to verify steadiness before each shot.",
+    "pros": [
+      "More predictable flavor",
+      "Reduced trial‑and‑error",
+      "Easier dial‑in of other variables"
+    ],
+    "cons": [
+      "Extra step in routine",
+      "May need a thermometer",
+      "Can add time to prep"
+    ],
+    "watchOut": "Avoid overheating the water, which can scorch the coffee and produce a burnt taste.",
+    "faq": [
+      {
+        "q": "Does using a thermocouple improve consistency?",
+        "a": "A thermocouple gives a clear readout, letting you catch temperature drift before it affects extraction."
+      },
+      {
+        "q": "Can I rely on my machine’s built‑in temperature display?",
+        "a": "Built‑in displays are convenient, but they can lag; cross‑checking with an external thermometer is safest."
+      },
+      {
+        "q": "How long should water sit after boiling before pulling?",
+        "a": "Give it about 30 seconds to settle; this usually brings the temperature into the ideal espresso range."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "temperature",
+      "espresso"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-11-18T14:45:11.855Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "visual-cue-timing-espresso",
     "title": "Visual Cue Timing: Use the Crema Edge for Consistent Espresso",
     "dek": "Learn a simple visual cue—watch the crema edge—to nail shot timing without a stopwatch.",

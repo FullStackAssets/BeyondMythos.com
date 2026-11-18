@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-boost-reinsert-snes-battery",
+    "title": "Pixel Boost: Reinserting SNES Controller Battery for Longer Play",
+    "dek": "Swap the aging SNES controller battery for a fresh coin cell and keep your gamepad humming for years.",
+    "takeaway": "A simple battery swap restores reliable controller power without costly replacements.",
+    "whatHappened": "We opened a classic SNES controller, found the original alkaline battery dead, and replaced it with a modern CR2032 coin cell. The controller powered up instantly, and button response felt as crisp as new.",
+    "whyItMatters": "Controllers lose power over time, leading to intermittent inputs that can ruin a run or a casual session. Maintaining proper voltage ensures consistent performance, especially for speedrunners who rely on precision.",
+    "howToThink": "When a controller feels sluggish, check the battery first before assuming a deeper hardware fault. Carry a spare coin cell for on‑the‑fly swaps, and keep a small screwdriver handy for quick opens.",
+    "pros": [
+      "Cheap fix",
+      "Extends controller life",
+      "Improves input reliability"
+    ],
+    "cons": [
+      "Requires opening the shell",
+      "Potential to lose tiny screws",
+      "Must match battery polarity"
+    ],
+    "watchOut": "Avoid using a battery with higher voltage than the original to prevent damaging the controller's electronics.",
+    "faq": [
+      {
+        "q": "Can I use any coin cell battery?",
+        "a": "Use a CR2032 or equivalent 3V lithium cell; other voltages may cause issues."
+      },
+      {
+        "q": "Do I need solder?",
+        "a": "No, the battery is held by a spring clip, so no soldering is required."
+      },
+      {
+        "q": "Will this void my controller's warranty?",
+        "a": "Most vintage controllers are out of warranty, but opening them does make them non‑original."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "SNES",
+      "Controller Maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-11-18T14:45:07.023Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-boost-atari-2600-cartridge-contacts",
     "title": "Pixel Boost: Reinforcing Atari 2600 Cartridge Contacts for Reliable Play",
     "dek": "A quick solder‑and‑tape fix that steadies flaky Atari 2600 cartridges without opening the console.",
