@@ -2067,8 +2067,29 @@
       "streamUrl": "https://beyondmythos.com/",
       "elevenlabsAgentId": null,
       "lastPostAt": "2026-11-18T09:45:44.780Z"
+    },
+    {
+      "id": "meeple-digest-2-1794996943592",
+      "slug": "meeple-digest-2",
+      "name": "Meeple Digest",
+      "tagline": "Fresh takes for tabletop gamers and game-night hosts.",
+      "nicheId": "board-games",
+      "audience": "tabletop gamers and game-night hosts",
+      "categories": [
+        "Strategy",
+        "Party Games",
+        "Solo Play",
+        "Storage"
+      ],
+      "url": "https://beyondmythos.com/sites/meeple-digest-2/",
+      "localUrl": "https://beyondmythos.com/sites/meeple-digest-2/",
+      "design": "ember",
+      "postCount": 6,
+      "createdAt": "2026-11-18T10:15:33.974Z",
+      "streamUrl": "https://beyondmythos.com/",
+      "elevenlabsAgentId": null
     }
   ],
-  "lastGeneratedAt": "2026-11-18T09:15:27.138Z",
+  "lastGeneratedAt": "2026-11-18T10:15:33.974Z",
   "lastPostRunAt": "2026-11-18T09:45:44.789Z"
 }

@@ -1,0 +1,308 @@
+[
+  {
+    "slug": "optimizing-turns-eurogames",
+    "title": "Optimizing Player Turns in Eurogames",
+    "category": "Strategy",
+    "dek": "Trim downtime and keep the flow tight in Euro-style board games.",
+    "takeaway": "Shorter turns boost engagement without sacrificing depth.",
+    "whatHappened": "Many game nights stall when players mull over options for minutes. We tried a timer and a simple action‑limit rule in a popular Eurogame. The session finished faster and players reported higher fun.",
+    "whyItMatters": "Long pauses erode momentum and can cause fatigue, especially with mixed‑experience groups. Keeping turns brisk maintains tension and encourages strategic thinking under pressure.",
+    "howToThink": "Set a reasonable timer (e.g., two minutes) and allow a single quick re‑roll or card draw per turn. Encourage players to note a ‘best move’ before the timer expires, then commit. Use a ‘pass if unsure’ rule to keep the table moving.",
+    "pros": [
+      "Faster games",
+      "Higher player focus",
+      "Encourages decisive play"
+    ],
+    "cons": [
+      "May feel rushed",
+      "Risk of superficial decisions",
+      "Requires enforcement"
+    ],
+    "watchOut": "Don’t let the timer become a penalty that punishes thoughtful players.",
+    "faq": [
+      {
+        "q": "Can I use a timer for all Eurogames?",
+        "a": "A timer works best for games with moderate decision depth; very complex games may need longer limits."
+      },
+      {
+        "q": "What if a player needs more time due to language barriers?",
+        "a": "Allow a brief extension for accessibility, but keep the overall pace."
+      },
+      {
+        "q": "Is a timer considered cheating?",
+        "a": "No, it’s a house rule that many groups adopt to improve flow."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/boardgames community threads",
+        "url": "https://www.reddit.com/r/boardgames/"
+      },
+      {
+        "label": "Search interest: \"best gateway board games\"",
+        "url": "https://duckduckgo.com/?q=best%20gateway%20board%20games"
+      }
+    ],
+    "tags": [
+      "turn‑management",
+      "eurogames"
+    ],
+    "publishedAt": "2026-11-18T10:15:43.591Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "quick-party-picks-energy-boost",
+    "title": "Boosting Energy at Game Night with Quick Party Picks",
+    "category": "Party Games",
+    "dek": "Inject fast, high‑energy games to keep the vibe lively between longer sessions.",
+    "takeaway": "Short party games act as palate cleansers and keep excitement high.",
+    "whatHappened": "We inserted three 10‑minute party games into a marathon board‑game evening. The group stayed animated, and the transition to the next main game felt seamless.",
+    "whyItMatters": "Energy dips are common after heavy strategy sessions; a quick burst of fun resets attention spans. Maintaining a lively atmosphere helps retain players for later, longer games.",
+    "howToThink": "Pick games with simple rules, loud components, and a clear win condition. Limit setup to under two minutes and aim for rounds under ten minutes. Rotate the spotlight so everyone gets a turn to lead.",
+    "pros": [
+      "Fast setup",
+      "Inclusive for newcomers",
+      "Keeps momentum"
+    ],
+    "cons": [
+      "Can feel gimmicky",
+      "May clash with theme",
+      "Limited depth"
+    ],
+    "watchOut": "Avoid games that require excessive speaking if your venue is noise‑sensitive.",
+    "faq": [
+      {
+        "q": "What’s a good 10‑minute party game?",
+        "a": "Games like “The Mind” or “6 Nimmt!” fit the bill."
+      },
+      {
+        "q": "Can I use party games as icebreakers?",
+        "a": "Yes, they’re ideal for warming up new groups."
+      },
+      {
+        "q": "Do I need extra components?",
+        "a": "Choose games with minimal pieces to streamline swaps."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/soloboardgaming community threads",
+        "url": "https://www.reddit.com/r/soloboardgaming/"
+      },
+      {
+        "label": "Search interest: \"solo board games\"",
+        "url": "https://duckduckgo.com/?q=solo%20board%20games"
+      }
+    ],
+    "tags": [
+      "energy‑boost",
+      "party‑games"
+    ],
+    "publishedAt": "2026-11-16T21:15:43.591Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "solo-puzzle-games-brain-warm",
+    "title": "Solo Puzzle Games that Keep Your Brain Warm",
+    "category": "Solo Play",
+    "dek": "Explore compact solo puzzles that fit in a bag and sharpen strategic thinking.",
+    "takeaway": "Solo puzzles offer focused practice without needing a table full of players.",
+    "whatHappened": "We tested three solo puzzle titles during a rainy weekend. Each provided a distinct challenge, from tile placement to logical deduction, and fit easily in a backpack.",
+    "whyItMatters": "Solo play fills gaps between group sessions and builds confidence in game mechanics. Regular solo practice can improve pattern recognition useful in multiplayer games.",
+    "howToThink": "Select games with clear solo rules and adjustable difficulty. Schedule a 20‑minute solo slot before or after group play. Keep a log of scores to track progress.",
+    "pros": [
+      "Portable",
+      "Low setup time",
+      "Skill building"
+    ],
+    "cons": [
+      "Limited replayability",
+      "No social interaction",
+      "May feel solitary"
+    ],
+    "watchOut": "Don’t let solo sessions replace regular group play; balance is key.",
+    "faq": [
+      {
+        "q": "Do I need extra components for solo mode?",
+        "a": "Most solo puzzles include everything needed; just check the rulebook."
+      },
+      {
+        "q": "How often should I play solo?",
+        "a": "A short session a few times a week keeps skills sharp without burnout."
+      },
+      {
+        "q": "Can solo games improve multiplayer performance?",
+        "a": "Yes, they reinforce core mechanics and strategic thinking."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/tabletopgamedesign community threads",
+        "url": "https://www.reddit.com/r/tabletopgamedesign/"
+      },
+      {
+        "label": "Search interest: \"game night hosting\"",
+        "url": "https://duckduckgo.com/?q=game%20night%20hosting"
+      }
+    ],
+    "tags": [
+      "solo‑puzzle",
+      "brain‑warm"
+    ],
+    "publishedAt": "2026-11-15T08:15:43.591Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "modular-shelving-boardgame-collection",
+    "title": "Modular Shelving Solutions for Board Game Collections",
+    "category": "Storage",
+    "dek": "Design a flexible shelving system that grows with your ever‑expanding game library.",
+    "takeaway": "Modular shelves keep games organized and protect components.",
+    "whatHappened": "We assembled a DIY modular unit using standard 12‑inch cubes and adjustable brackets. The system accommodated boxes of varying sizes and could be reconfigured as the collection expanded.",
+    "whyItMatters": "Proper storage prevents damage, reduces setup time, and makes it easier to locate games during night planning. A tidy space also impresses guests and encourages spontaneous play.",
+    "howToThink": "Start with uniform cube dimensions, then add taller sections for oversized games. Use clear labels or color‑coded bins for quick identification. Keep a spare module on hand for future acquisitions.",
+    "pros": [
+      "Scalable",
+      "Customizable",
+      "Protects components"
+    ],
+    "cons": [
+      "Initial assembly effort",
+      "Requires space",
+      "May need tools"
+    ],
+    "watchOut": "Avoid over‑stacking heavy boxes on top shelves to prevent sagging.",
+    "faq": [
+      {
+        "q": "Can I use IKEA units?",
+        "a": "IKEA’s Kallax series is a popular base for modular setups."
+      },
+      {
+        "q": "Do I need a wall anchor?",
+        "a": "Anchoring is recommended for safety, especially with tall configurations."
+      },
+      {
+        "q": "How do I label efficiently?",
+        "a": "Use removable stickers or a small label maker for clear, changeable tags."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/boardgames community threads",
+        "url": "https://www.reddit.com/r/boardgames/"
+      },
+      {
+        "label": "Search interest: \"best gateway board games\"",
+        "url": "https://duckduckgo.com/?q=best%20gateway%20board%20games"
+      }
+    ],
+    "tags": [
+      "shelving",
+      "storage‑tips"
+    ],
+    "publishedAt": "2026-11-13T19:15:43.591Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "fog-of-war-tactical-games",
+    "title": "When to Use Fog of War in Tactical Games",
+    "category": "Strategy",
+    "dek": "Leverage hidden information to heighten tension without overcomplicating play.",
+    "takeaway": "Fog of war adds suspense when players need to scout and adapt.",
+    "whatHappened": "We introduced a fog‑of‑war overlay in a tactical miniatures game for a weekend campaign. Players reported higher tension and more cautious maneuvering.",
+    "whyItMatters": "Hidden zones force players to balance aggression with reconnaissance, deepening strategic layers. It also mirrors thematic elements like night raids or unknown terrain.",
+    "howToThink": "Apply fog only to areas that players cannot realistically observe. Use opaque tiles or a simple cardboard cover that can be lifted as units enter. Keep the rule set minimal to avoid slowing turns.",
+    "pros": [
+      "Increases tension",
+      "Encourages scouting",
+      "Enhances theme"
+    ],
+    "cons": [
+      "Adds setup time",
+      "Can cause disputes over visibility",
+      "May slow gameplay"
+    ],
+    "watchOut": "Don’t let fog become a blanket excuse for indecision; require active exploration.",
+    "faq": [
+      {
+        "q": "Is fog of war suitable for beginners?",
+        "a": "It’s best introduced after players are comfortable with core movement rules."
+      },
+      {
+        "q": "What materials work for fog?",
+        "a": "Standard cardboard tiles, reusable sleeves, or a dark fabric sheet work well."
+      },
+      {
+        "q": "Can fog be removed mid‑game?",
+        "a": "Yes, reveal areas as units move in, maintaining a clear record of explored zones."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/soloboardgaming community threads",
+        "url": "https://www.reddit.com/r/soloboardgaming/"
+      },
+      {
+        "label": "Search interest: \"solo board games\"",
+        "url": "https://duckduckgo.com/?q=solo%20board%20games"
+      }
+    ],
+    "tags": [
+      "fog‑of‑war",
+      "tactical‑games"
+    ],
+    "publishedAt": "2026-11-12T06:15:43.591Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "player-count-swaps-mid-session",
+    "title": "Managing Player Count Swaps Mid‑Session",
+    "category": "Party Games",
+    "dek": "Smoothly integrate late arrivals or early leavers without breaking game flow.",
+    "takeaway": "Flexible player slots keep the night moving and avoid dead time.",
+    "whatHappened": "During a popular party game, two friends joined late and another left early. We used a placeholder token system and re‑balanced teams on the fly, preserving excitement.",
+    "whyItMatters": "Game nights often have variable attendance; rigid player limits can cause awkward gaps. A clear swap protocol maintains momentum and respects everyone's time.",
+    "howToThink": "Designate a spare seat or token that represents a missing player. When someone arrives, assign them the token and give a quick briefing. If someone leaves, convert their role to a token and let the game continue.",
+    "pros": [
+      "Reduces downtime",
+      "Accommodates variable groups",
+      "Keeps engagement"
+    ],
+    "cons": [
+      "May affect balance",
+      "Requires clear rules",
+      "Can be confusing for new players"
+    ],
+    "watchOut": "Ensure all participants understand the swap method before the first round.",
+    "faq": [
+      {
+        "q": "Do I need extra components for swaps?",
+        "a": "A simple token or extra player marker is sufficient."
+      },
+      {
+        "q": "How to handle scoring when players leave?",
+        "a": "Lock in their current score and treat the token as a neutral placeholder."
+      },
+      {
+        "q": "Is it fair to add new players mid‑game?",
+        "a": "If the game design tolerates variable numbers, swaps are fine; otherwise, consider restarting."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/tabletopgamedesign community threads",
+        "url": "https://www.reddit.com/r/tabletopgamedesign/"
+      },
+      {
+        "label": "Search interest: \"game night hosting\"",
+        "url": "https://duckduckgo.com/?q=game%20night%20hosting"
+      }
+    ],
+    "tags": [
+      "player‑swap",
+      "party‑games"
+    ],
+    "publishedAt": "2026-11-10T17:15:43.591Z",
+    "readMinutes": 2
+  }
+]
