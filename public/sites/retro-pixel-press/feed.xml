@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Restoring Cartridge Labels for Vintage Flair</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/restoring-cartridge-labels.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/restoring-cartridge-labels.html</guid>
+      <pubDate>Wed, 18 Nov 2026 15:45:05 GMT</pubDate>
+      <description>Give old game cartridges a fresh look without harming the internals.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Reinserting SNES Controller Battery for Longer Play</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-reinsert-snes-battery.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-reinsert-snes-battery.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/snes-cartridge-dust-caps.html</guid>
       <pubDate>Fri, 30 Oct 2026 22:45:10 GMT</pubDate>
       <description>Swap out the original dust caps on SNES carts to prevent sticky inserts and keep your collection loading like a dream.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Reinforcing NES Controller Springs for Snappy Inputs</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-nes-controller-mod-2.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-nes-controller-mod-2.html</guid>
-      <pubDate>Fri, 30 Oct 2026 21:45:16 GMT</pubDate>
-      <description>A quick spring upgrade brings tighter, more reliable button feels to your classic NES controller.</description>
     </item>
   </channel>
 </rss>

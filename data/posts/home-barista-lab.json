@@ -1,5 +1,56 @@
 [
   {
+    "slug": "boost-espresso-consistency-portafilter-cleaning",
+    "title": "Boost Espresso Consistency with Proper Portafilter Cleaning",
+    "dek": "A quick cleaning routine that keeps your portafilter from sabotaging shot after shot.",
+    "takeaway": "Clean the portafilter daily to lock in flavor stability.",
+    "whatHappened": "We noticed a dip in espresso sweetness after a week of heavy use. A simple rinse and brush removed coffee oils that were muting the crema.",
+    "whyItMatters": "Residue builds up on the basket and filter, altering flow and temperature transfer. Consistent extraction relies on a clean pathway for water.",
+    "howToThink": "After each brewing session, knock out grounds, rinse with hot water, and scrub the basket with a soft brush. Finish with a quick dry spin to avoid water spots.",
+    "pros": [
+      "Consistent flavor",
+      "Easier puck release",
+      "Longer equipment life"
+    ],
+    "cons": [
+      "Extra step each day",
+      "Needs a brush",
+      "Potential overtightening if not careful"
+    ],
+    "watchOut": "Avoid using harsh detergents that can leave residues affecting taste.",
+    "faq": [
+      {
+        "q": "How often should I clean the portafilter?",
+        "a": "A light rinse after every shot and a deeper scrub at least once a week."
+      },
+      {
+        "q": "Can I use dishwasher detergent?",
+        "a": "Stick to plain hot water and a dedicated coffee brush; detergents can leave flavors."
+      },
+      {
+        "q": "What if I forget to clean?",
+        "a": "Extraction will become uneven, leading to sour or bitter notes and more frequent tamping issues."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-11-18T15:45:06.421Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "stabilize-water-temp-espresso",
     "title": "Stabilize Your Brew Water Temperature for Consistent Espresso",
     "dek": "A quick guide to keeping your brew water temperature steady for better espresso shots.",

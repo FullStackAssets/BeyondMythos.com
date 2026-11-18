@@ -1,5 +1,56 @@
 [
   {
+    "slug": "restoring-cartridge-labels",
+    "title": "Pixel Boost: Restoring Cartridge Labels for Vintage Flair",
+    "dek": "Give old game cartridges a fresh look without harming the internals.",
+    "takeaway": "A clean label boosts resale value and nostalgia.",
+    "whatHappened": "We spotted a batch of beloved cartridges with faded, peeling labels that made them look like junk. A simple label‑restoration routine turned them from eyesores into showcase pieces.",
+    "whyItMatters": "Collectors often judge a cartridge by its exterior, so a crisp label can mean the difference between a dust‑collector and a prized item. Preserving the original artwork also honors the game's history for future fans.",
+    "howToThink": "Start with a gentle cleaning, then apply a thin layer of archival‑grade adhesive paper to cover wear. Use a soft brush to smooth bubbles and let it dry before handling. Keep the process reversible in case you need to revert later.",
+    "pros": [
+      "Improved aesthetics",
+      "Higher resale value",
+      "Preserves original art"
+    ],
+    "cons": [
+      "Time‑consuming",
+      "Risk of ink bleed",
+      "May not suit purists"
+    ],
+    "watchOut": "Avoid harsh solvents that could melt the plastic or dissolve the original ink.",
+    "faq": [
+      {
+        "q": "Can I use regular label printer paper?",
+        "a": "Use archival‑grade, acid‑free paper to prevent yellowing over time."
+      },
+      {
+        "q": "Do I need to open the cartridge?",
+        "a": "No, the label work stays on the exterior, so the internals remain untouched."
+      },
+      {
+        "q": "Is the process reversible?",
+        "a": "Yes, the adhesive paper can be gently peeled off if you change your mind."
+      }
+    ],
+    "category": "Preservation",
+    "tags": [
+      "Cartridge Care",
+      "Retro Preservation"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-11-18T15:45:05.623Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-boost-reinsert-snes-battery",
     "title": "Pixel Boost: Reinserting SNES Controller Battery for Longer Play",
     "dek": "Swap the aging SNES controller battery for a fresh coin cell and keep your gamepad humming for years.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "railway-refill-stations",
+    "title": "Railway Refill Stations: Low‑Impact Water Planning on the Rails",
+    "dek": "Learn how to keep hydrated sustainably on long train journeys with refill stations and reusable bottles.",
+    "takeaway": "Plan water stops and bring reusable containers to cut waste and stay refreshed.",
+    "whatHappened": "During a week-long slow‑train trek across the countryside, I mapped every station offering free water refills and timed my breaks around them. The simple habit of refilling a bottle eliminated the need for single‑use plastic.",
+    "whyItMatters": "Plastic waste from disposable bottles piles up, especially on popular rail routes. Reducing that waste lowers your environmental footprint and supports stations that invest in eco‑friendly amenities.",
+    "howToThink": "Before you board, check the route’s station guide for refill points, pack a sturdy reusable bottle, and schedule a short stretch walk to the station’s water source. If a refill isn’t available, carry a small insulated flask to keep water cool.",
+    "pros": [
+      "Zero plastic waste",
+      "Easy on the budget",
+      "Supports green stations"
+    ],
+    "cons": [
+      "Requires planning",
+      "Limited refill points on remote lines",
+      "May need extra walking"
+    ],
+    "watchOut": "Beware of stations that only offer sparkling water—still water is better for refilling.",
+    "faq": [
+      {
+        "q": "Do all train stations have water fountains?",
+        "a": "Most major stations do, but smaller stops often only have vending machines, so check the schedule ahead."
+      },
+      {
+        "q": "Can I refill from the train’s own water supply?",
+        "a": "Some long‑distance cars have a tap for passengers, but it’s not universal, so bring your own bottle anyway."
+      },
+      {
+        "q": "Is it safe to drink tap water from stations?",
+        "a": "In most countries the tap water is safe and meets drinking standards; if you’re unsure, a quick online check will confirm."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "Rail",
+      "Low‑Impact"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-11-18T15:45:09.261Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "hidden-platform-gardens-4",
     "title": "Hidden Platform Gardens: Low‑Impact Greenery on the Rails",
     "dek": "Discover micro‑gardens tucked into station platforms that let slow travelers enjoy greenery without extra footprint.",
