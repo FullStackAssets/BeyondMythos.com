@@ -2199,8 +2199,29 @@
       "streamUrl": "https://beyondmythos.com/",
       "elevenlabsAgentId": null,
       "lastPostAt": "2026-11-18T15:45:44.604Z"
+    },
+    {
+      "id": "bedroom-studio-brief-2-1795018525226",
+      "slug": "bedroom-studio-brief-2",
+      "name": "Bedroom Studio Brief",
+      "tagline": "Fresh takes for bedroom producers and podcasters.",
+      "nicheId": "home-recording",
+      "audience": "bedroom producers and podcasters",
+      "categories": [
+        "Interfaces",
+        "Treatment",
+        "Mixing",
+        "Vocals"
+      ],
+      "url": "https://beyondmythos.com/sites/bedroom-studio-brief-2/",
+      "localUrl": "https://beyondmythos.com/sites/bedroom-studio-brief-2/",
+      "design": "moss",
+      "postCount": 6,
+      "createdAt": "2026-11-18T16:15:25.088Z",
+      "streamUrl": "https://beyondmythos.com/",
+      "elevenlabsAgentId": null
     }
   ],
-  "lastGeneratedAt": "2026-11-18T15:16:06.660Z",
+  "lastGeneratedAt": "2026-11-18T16:15:25.088Z",
   "lastPostRunAt": "2026-11-18T15:45:44.613Z"
 }
