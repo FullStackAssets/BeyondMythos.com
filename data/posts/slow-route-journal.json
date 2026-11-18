@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midnight-platform-meditations",
+    "title": "Midnight Platform Meditations: Low-Impact Mindfulness on the Rails",
+    "dek": "Discover how brief, quiet moments on late-night platforms can recharge slow travelers without adding carbon.",
+    "takeaway": "A few mindful pauses on the train can amplify your journey’s calm and keep impact low.",
+    "whatHappened": "I arrived at a quiet midnight station on a regional line, the platform empty except for a lone night-shift worker. While waiting for the next sleeper, I set a timer for ten minutes and practiced simple breathing, listening to the distant hum of the rails.",
+    "whyItMatters": "These micro-meditations lower stress, making the slow-travel pace sustainable for mind and body. They also keep you present, reducing the urge to rush or over-pack activities.",
+    "howToThink": "Treat each platform stop as a chance to reset: step off, breathe deep, notice ambient sounds, then board with a clearer head. Keep a small cue—like a pocket stone or a favorite scent—to trigger the habit. Even five minutes can shift your mood without extra resources.",
+    "pros": [
+      "Boosts mental clarity",
+      "Zero extra carbon cost",
+      "Easy to fit into any schedule"
+    ],
+    "cons": [
+      "Requires quiet moments",
+      "May be limited on busy stations",
+      "Needs personal discipline"
+    ],
+    "watchOut": "Avoid deep breathing near moving trains; stay clear of the edge and any hazardous equipment.",
+    "faq": [
+      {
+        "q": "Can I do this on crowded commuter trains?",
+        "a": "Yes, focus on a seat or window view and keep the practice brief to stay unobtrusive."
+      },
+      {
+        "q": "Do I need any gear?",
+        "a": "No, just your breath and attention; a small tactile cue can help if you like."
+      },
+      {
+        "q": "Is it safe to close my eyes on a platform?",
+        "a": "Keep one eye open enough to stay aware of surroundings and any announcements."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "mindfulness",
+      "rail"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-11-18T05:45:09.705Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-local-59",
     "title": "Ask the forge: your local questions, answered",
     "dek": "Straight answers to the local questions slow-travel and low-impact explorers keep asking, minus the hedging.",

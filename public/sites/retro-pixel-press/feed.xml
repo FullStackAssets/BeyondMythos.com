@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Tweaking Game Boy Camera Shutter for Snappier Shots</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/game-boy-camera-shutter-mod.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/game-boy-camera-shutter-mod.html</guid>
+      <pubDate>Wed, 18 Nov 2026 05:45:10 GMT</pubDate>
+      <description>A quick guide to reducing the lag on your Game Boy Camera’s shutter, so you can capture frames faster for speedrun practice and collection.</description>
+    </item>
+    <item>
       <title>The preservation checklist: run this before you spend</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/preservation-pre-spend-checklist-58.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/preservation-pre-spend-checklist-58.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/quiet-upgrade-preservation-54.html</guid>
       <pubDate>Fri, 30 Oct 2026 00:45:09 GMT</pubDate>
       <description>No purchases, no overhauls — the modest preservation adjustments that retro game collectors and speedrunners report mattering most.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Replacing SNES Controller Contacts for Cleaner Inputs</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-replacing-snes-controller-contacts.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-replacing-snes-controller-contacts.html</guid>
-      <pubDate>Thu, 29 Oct 2026 23:45:04 GMT</pubDate>
-      <description>Fresh, reliable SNES controller inputs can shave precious frames off your runs—here’s a quick guide to reviving those old contacts.</description>
     </item>
   </channel>
 </rss>

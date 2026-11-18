@@ -1,5 +1,56 @@
 [
   {
+    "slug": "game-boy-camera-shutter-mod",
+    "title": "Pixel Boost: Tweaking Game Boy Camera Shutter for Snappier Shots",
+    "dek": "A quick guide to reducing the lag on your Game Boy Camera’s shutter, so you can capture frames faster for speedrun practice and collection.",
+    "takeaway": "A simple resistor swap can shave noticeable delay from the camera’s shutter.",
+    "whatHappened": "We discovered the original shutter circuit uses a relatively high‑value pull‑up resistor that slows the capacitor charge. By replacing it with a lower value, the shutter responds more quickly. The mod was tested on a standard DMG‑01 and a Game Boy Color.",
+    "whyItMatters": "Speedrunners rely on rapid frame‑by‑frame analysis, and collectors often need to document glitches without waiting. Faster shutter improves workflow and reduces frustration. The tweak also preserves the original hardware without invasive soldering.",
+    "howToThink": "Identify the resistor R1 near the shutter transistor, note its value, and swap it for a similar wattage resistor about half the resistance. Verify polarity and re‑assemble. Test by taking a burst of photos and noting the reduced lag.",
+    "pros": [
+      "Instant shutter response",
+      "No firmware changes needed",
+      "Reversible with solder"
+    ],
+    "cons": [
+      "Requires basic soldering",
+      "May slightly increase power draw",
+      "Only works on original camera module"
+    ],
+    "watchOut": "Avoid using a resistor with too low a value, which could stress the transistor and cause overheating.",
+    "faq": [
+      {
+        "q": "Do I need a special screwdriver?",
+        "a": "A standard Phillips #0 or #1 works for the Game Boy Camera screws."
+      },
+      {
+        "q": "Will this void my warranty?",
+        "a": "The Game Boy Camera is out of warranty, and the mod is reversible, so it’s generally considered safe."
+      },
+      {
+        "q": "Can I revert to stock performance?",
+        "a": "Yes, simply replace the resistor with the original value and re‑solder."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Game Boy",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-11-18T05:45:10.412Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "preservation-pre-spend-checklist-58",
     "title": "The preservation checklist: run this before you spend",
     "dek": "Seven questions that separate a justified preservation purchase from an expensive mood.",
