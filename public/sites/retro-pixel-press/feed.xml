@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Adding a Quick-Shift Mod to Your Sega Master System Controller</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/quick-shift-mod-sega-master-system-controller.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/quick-shift-mod-sega-master-system-controller.html</guid>
+      <pubDate>Wed, 18 Nov 2026 23:45:06 GMT</pubDate>
+      <description>A fast, reversible mod that gives your Master System controller a rapid‑fire button without soldering, perfect for collectors and speedrunners.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Modifying NES Controller Wiring for Smoother Input</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-modifying-nes-controller-wiring.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-modifying-nes-controller-wiring.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-replacing-nes-zapper-infrared-led-fo.html</guid>
       <pubDate>Tue, 17 Nov 2026 18:45:07 GMT</pubDate>
       <description>Swap the old infrared LED in your NES Zapper for a bright 940nm diode to restore crisp on-screen targeting.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Replacing Commodore 64 Power Supply Fuse for Reliable Boot</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/replace-commodore-64-power-supply-fuse.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/replace-commodore-64-power-supply-fuse.html</guid>
-      <pubDate>Tue, 17 Nov 2026 17:45:06 GMT</pubDate>
-      <description>Swap the aging fuse in your C64’s PSU to eliminate random boot failures without breaking the bank.</description>
     </item>
   </channel>
 </rss>

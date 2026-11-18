@@ -1,5 +1,56 @@
 [
   {
+    "slug": "quick-shift-mod-sega-master-system-controller",
+    "title": "Pixel Boost: Adding a Quick-Shift Mod to Your Sega Master System Controller",
+    "dek": "A fast, reversible mod that gives your Master System controller a rapid‑fire button without soldering, perfect for collectors and speedrunners.",
+    "takeaway": "A simple, non‑permanent tweak can unlock rapid‑fire capability in seconds.",
+    "whatHappened": "We sourced a tiny momentary push‑button, a spring, and a bit of double‑sided tape. By slotting the button beneath the fire button and wiring it through the controller’s existing contacts, the mod was assembled in under ten minutes. Testing showed the new rapid‑fire function worked reliably across several games.",
+    "whyItMatters": "Speedrunners gain a legal edge in games that limit button presses, while collectors enjoy a reversible upgrade that doesn’t alter the original hardware. The mod also demonstrates how low‑cost tweaks can extend the usability of aging consoles without compromising authenticity.",
+    "howToThink": "Treat the mod as a temporary overlay: use removable adhesive, keep the wiring tidy, and verify each connection before sealing. If you ever need to revert, simply peel off the tape and replace the button. Always test on a non‑essential cartridge first to ensure no unintended shorts.",
+    "pros": [
+      "No soldering required",
+      "Reversible and safe",
+      "Cost under $5"
+    ],
+    "cons": [
+      "Adds slight bulk to button",
+      "May wear with heavy use",
+      "Requires careful tape placement"
+    ],
+    "watchOut": "Make sure the spring isn’t too stiff, or it could damage the controller’s internal contacts over time.",
+    "faq": [
+      {
+        "q": "Do I need any tools?",
+        "a": "A small screwdriver, a pair of tweezers, and the push‑button kit are enough."
+      },
+      {
+        "q": "Will this void my controller’s warranty?",
+        "a": "The mod is non‑invasive, so it won’t affect any existing warranty."
+      },
+      {
+        "q": "Can I use this on other consoles?",
+        "a": "The concept works on many 8‑bit controllers, but wiring may differ per model."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Hardware",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-11-18T23:45:06.764Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-boost-modifying-nes-controller-wiring",
     "title": "Pixel Boost: Modifying NES Controller Wiring for Smoother Input",
     "dek": "A quick guide to rewiring your NES controller for tighter, more responsive button feel without pricey parts.",

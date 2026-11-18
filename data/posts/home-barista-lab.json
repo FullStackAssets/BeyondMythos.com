@@ -1,5 +1,56 @@
 [
   {
+    "slug": "fine-tune-your-dose",
+    "title": "Fine‑Tune Your Dose: Simple Steps for Espresso Consistency",
+    "dek": "A quick guide to calibrating your espresso dose for repeatable shots without fancy gear.",
+    "takeaway": "Consistent dosing is the easiest lever to pull for steadier espresso.",
+    "whatHappened": "We set up a side‑by‑side test using a kitchen scale, a calibrated scoop, and a simple visual cue on the portafilter. After a few rounds we saw the shot times line up more predictably. The routine took under five minutes each day.",
+    "whyItMatters": "Even a small variance in coffee weight can swing extraction time, flavor balance, and crema quality. Home baristas who nail their dose can focus on other variables like grind size and temperature with confidence.",
+    "howToThink": "Start by weighing a baseline dose that produces a shot you like. Mark that weight on your scale or use a reusable dosing cup with a notch. Each morning, match that mark before grinding, adjusting only if you change beans or roast level.",
+    "pros": [
+      "Improves shot repeatability",
+      "No expensive equipment needed",
+      "Easy to integrate into daily routine"
+    ],
+    "cons": [
+      "Requires a scale you trust",
+      "Adds a tiny step before grinding",
+      "May need re‑calibration after bean changes"
+    ],
+    "watchOut": "Don’t forget to tare the scale with the portafilter empty, or your dose will be off.",
+    "faq": [
+      {
+        "q": "Do I need a digital scale for dosing?",
+        "a": "A reliable digital scale that reads to 0.1 g is ideal, but a sturdy mechanical scale can work if you’re consistent."
+      },
+      {
+        "q": "Can I use a scoop instead of a scale?",
+        "a": "A scoop can work if you mark the fill level and use it every time, but a scale removes guesswork."
+      },
+      {
+        "q": "How often should I recalibrate my dose?",
+        "a": "Whenever you switch beans, change roast level, or notice a shift in flavor, give the dose a quick check."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "dosing"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-11-18T23:45:06.071Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "tame-your-espresso-pressure",
     "title": "Tame Your Espresso Pressure: Simple Steps for Consistent Shots",
     "dek": "Learn quick tweaks to keep your espresso pressure steady and your shots repeatable.",

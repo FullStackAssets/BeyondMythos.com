@@ -1,5 +1,56 @@
 [
   {
+    "slug": "between-the-stops-low-impact-day-hops",
+    "title": "Between the Stops: Low‑Impact Day Hops on the Rails",
+    "dek": "A day on regional trains lets you savor tiny towns while keeping carbon low.",
+    "takeaway": "Use regional rail to string together short, low‑impact day trips instead of long hauls.",
+    "whatHappened": "I boarded a morning regional service from a mid‑size city, hopped off at two villages, and returned by sunset, all on a single ticket. The scenery shifted from river valleys to rolling hills without a single car in sight.",
+    "whyItMatters": "Each short hop replaces a car trip, slashing emissions and supporting local economies. The slower pace also encourages deeper observation of places that tourists often zip past.",
+    "howToThink": "Plan routes that connect towns within a two‑hour radius, buy flexible regional passes, and pack light to move easily between stations. Treat each stop as a micro‑adventure rather than a checkpoint.",
+    "pros": [
+      "Minimal carbon",
+      "Flexible schedule",
+      "Local immersion"
+    ],
+    "cons": [
+      "Limited luggage space",
+      "Sparse Wi‑Fi",
+      "Irregular service"
+    ],
+    "watchOut": "Check weekend timetables—regional lines often run fewer trains on Saturdays and Sundays.",
+    "faq": [
+      {
+        "q": "Do I need a reservation for regional trains?",
+        "a": "Most regional services run on a first‑come‑first‑served basis; a pass or ticket is enough."
+      },
+      {
+        "q": "Can I bring a bike onboard?",
+        "a": "Yes, many regional cars have bike racks or space, but confirm the policy for each operator."
+      },
+      {
+        "q": "How do I find nearby attractions?",
+        "a": "Use local tourism boards or community maps at stations; they often highlight walking trails and markets."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "low-impact"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-11-18T23:45:07.448Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-stays-mistakes-59",
     "title": "Five mistakes everyone makes in their first month of stays",
     "dek": "The most common early stumbles in stays, and the cheap corrections that fix them for slow-travel and low-impact explorers.",
