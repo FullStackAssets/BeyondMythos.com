@@ -2309,8 +2309,29 @@
       "streamUrl": "https://beyondmythos.com/",
       "elevenlabsAgentId": null,
       "lastPostAt": "2026-11-18T20:45:44.515Z"
+    },
+    {
+      "id": "desk-setup-review-2-1795036515492",
+      "slug": "desk-setup-review-2",
+      "name": "Desk Setup Review",
+      "tagline": "Fresh takes for remote workers optimizing small workspaces.",
+      "nicheId": "desk-setup",
+      "audience": "remote workers optimizing small workspaces",
+      "categories": [
+        "Ergonomics",
+        "Lighting",
+        "Audio",
+        "Organization"
+      ],
+      "url": "https://beyondmythos.com/sites/desk-setup-review-2/",
+      "localUrl": "https://beyondmythos.com/sites/desk-setup-review-2/",
+      "design": "prism",
+      "postCount": 6,
+      "createdAt": "2026-11-18T21:15:09.757Z",
+      "streamUrl": "https://beyondmythos.com/",
+      "elevenlabsAgentId": null
     }
   ],
-  "lastGeneratedAt": "2026-11-18T20:15:47.854Z",
+  "lastGeneratedAt": "2026-11-18T21:15:09.757Z",
   "lastPostRunAt": "2026-11-18T20:45:44.524Z"
 }
