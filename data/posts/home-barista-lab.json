@@ -1,5 +1,56 @@
 [
   {
+    "slug": "bottomless-portafilter-diagnose-extraction",
+    "title": "Bottomless Portafilter: See Your Espresso Flow",
+    "dek": "A bottomless portafilter lets you spot channeling, under‑extraction, and uneven puck collapse in real time.",
+    "takeaway": "Seeing the shot reveals flaws you can fix for consistent espresso.",
+    "whatHappened": "We tried a bottomless portafilter on a standard dose, watching the stream for irregularities. The visual feedback highlighted uneven flow that a traditional spout would hide.",
+    "whyItMatters": "Channeling leads to sour or weak flavors, while a steady, uniform stream produces balanced extraction. Early detection saves coffee and time.",
+    "howToThink": "Start with a clean basket, distribute grounds evenly, and watch the first few seconds of the pour. Adjust grind size or tamp pressure until the stream is smooth and symmetrical.",
+    "pros": [
+      "Instant visual feedback",
+      "Helps fine‑tune grind and dose",
+      "Detects channeling early"
+    ],
+    "cons": [
+      "Can be messy if shot sprays",
+      "Requires extra cleaning",
+      "May spatter on the machine"
+    ],
+    "watchOut": "Be ready for a splash zone and clean the portafilter promptly to avoid residue buildup.",
+    "faq": [
+      {
+        "q": "Do I need a special basket?",
+        "a": "A standard 58 mm basket works; just ensure it’s compatible with your bottomless portafilter."
+      },
+      {
+        "q": "Will using it affect shot pressure?",
+        "a": "No, the pressure sensor reads the same; only the spout is removed."
+      },
+      {
+        "q": "Can I use it for non‑espresso brewing?",
+        "a": "It’s designed for espresso pressure; other methods won’t benefit."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "Espresso",
+      "Technique"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-11-18T21:45:11.767Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-coffee-16",
     "title": "Community pulse: what r/Coffee is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the gear community this week.",

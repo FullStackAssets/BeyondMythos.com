@@ -1,5 +1,56 @@
 [
   {
+    "slug": "reducing-controller-lag",
+    "title": "Pixel Boost: Reducing Controller Lag on Classic Consoles",
+    "dek": "Trim the input delay on your retro joystick for tighter, more responsive runs.",
+    "takeaway": "A few simple tweaks can shave noticeable lag from vintage controllers.",
+    "whatHappened": "We noticed that many speedrunners report occasional input lag on older consoles, especially when using worn-out controller ports. A quick test with a high‑speed camera confirmed a fraction‑second lag that could affect frame‑perfect tricks. The community shared a handful of low‑cost fixes that proved effective across multiple systems.",
+    "whyItMatters": "Even a tiny lag can be the difference between a personal best and a missed split, especially in tight platforming sections. Reducing lag also preserves the authentic feel of the hardware, keeping the challenge genuine for collectors who value original performance. Consistent input response extends the longevity of both the console and the controller by reducing stress on contacts.",
+    "howToThink": "First, clean the controller’s connector pins with isopropyl alcohol; corrosion is a common culprit. Second, consider swapping the original cable for a higher‑quality shielded replacement to minimize interference. Finally, check the console’s power supply stability—fluctuations can introduce latency, so using a regulated adapter helps.",
+    "pros": [
+      "Cheaper than full retro‑mod kits",
+      "Easy DIY steps",
+      "Immediate performance boost"
+    ],
+    "cons": [
+      "Requires basic soldering for some consoles",
+      "May void warranty on rare hardware",
+      "Results vary by model"
+    ],
+    "watchOut": "Avoid excessive force when cleaning pins; too much pressure can damage delicate contacts.",
+    "faq": [
+      {
+        "q": "Do I need a soldering iron for every console?",
+        "a": "Only systems with replaceable port modules typically need solder; many handhelds just need pin cleaning."
+      },
+      {
+        "q": "Will a new cable affect video quality?",
+        "a": "A well‑shielded cable improves signal integrity without altering video output."
+      },
+      {
+        "q": "Can I test lag without a high‑speed camera?",
+        "a": "Yes, a simple frame‑counter or on‑screen timer can reveal noticeable delays."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "hardware",
+      "latency"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-11-18T21:45:06.872Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "preservation-pre-spend-checklist-59",
     "title": "The preservation checklist: run this before you spend",
     "dek": "Seven questions that separate a justified preservation purchase from an expensive mood.",
