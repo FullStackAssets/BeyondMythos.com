@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Retro Glow: Installing RGB Backlight in Game Boy Color</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-glow-installing-rgb-backlight-gbc.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-glow-installing-rgb-backlight-gbc.html</guid>
+      <pubDate>Wed, 18 Nov 2026 11:45:11 GMT</pubDate>
+      <description>Give your Game Boy Color a vibrant new look with a simple RGB backlight mod that preserves battery life.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Swapping SNES Power Supply for Stable Voltage</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/snes-power-supply-swap.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/snes-power-supply-swap.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-replacing-turbografx-16-power-leads.html</guid>
       <pubDate>Fri, 30 Oct 2026 18:45:03 GMT</pubDate>
       <description>Swap the stock power leads on your TurboGrafx-16 for low‑resistance wire and shave seconds off every startup.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Replacing Sega Master System Power Switch for Quicker Starts</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/replace-master-system-power-switch.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/replace-master-system-power-switch.html</guid>
-      <pubDate>Fri, 30 Oct 2026 17:45:14 GMT</pubDate>
-      <description>Swap the aging power switch on your Master System for a snappier, more reliable startup.</description>
     </item>
   </channel>
 </rss>

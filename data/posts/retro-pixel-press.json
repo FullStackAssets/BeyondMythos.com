@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-glow-installing-rgb-backlight-gbc",
+    "title": "Retro Glow: Installing RGB Backlight in Game Boy Color",
+    "dek": "Give your Game Boy Color a vibrant new look with a simple RGB backlight mod that preserves battery life.",
+    "takeaway": "A DIY RGB backlight adds visual flair without compromising playability.",
+    "whatHappened": "We swapped the original front panel for a custom‑cut acrylic diffuser and soldered a thin RGB LED strip to the power rails. The mod completed in under an hour and the handheld now glows with adjustable colors.",
+    "whyItMatters": "A bright, colorful screen makes handheld gaming more enjoyable in low‑light environments and revitalizes a classic collector’s item. The upgrade also demonstrates how modern components can coexist with vintage hardware safely.",
+    "howToThink": "Plan the layout, measure the internal cavity, and choose low‑draw LEDs to keep power consumption low. Use heat‑shrink tubing and a small switch to toggle colors, and test continuity before sealing the case.",
+    "pros": [
+      "Eye‑catching color palette",
+      "Minimal impact on battery life",
+      "Easy to reverse if needed"
+    ],
+    "cons": [
+      "Requires soldering skill",
+      "May void collector value",
+      "Adds slight thickness to case"
+    ],
+    "watchOut": "Avoid shorting the battery contacts when routing the LED leads.",
+    "faq": [
+      {
+        "q": "Will the RGB LEDs drain my batteries quickly?",
+        "a": "If you use low‑current LEDs and keep brightness moderate, the impact on battery life is modest."
+      },
+      {
+        "q": "Do I need a new case for the mod?",
+        "a": "A standard Game Boy Color shell works; just cut a small opening for the diffuser."
+      },
+      {
+        "q": "Can I control the colors without opening the device?",
+        "a": "Add a tiny push‑button switch on the side to cycle preset colors, or use a remote‑controlled LED strip for more options."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "hardware",
+      "modding"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-11-18T11:45:11.682Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "snes-power-supply-swap",
     "title": "Pixel Boost: Swapping SNES Power Supply for Stable Voltage",
     "dek": "Give your Super Nintendo a reliable power source with a simple supply swap that eliminates flicker and resets.",

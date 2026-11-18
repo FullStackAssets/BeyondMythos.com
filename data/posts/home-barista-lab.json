@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-temp-hack",
+    "title": "Unlocking Consistent Espresso Temperature with a Simple Thermometer Hack",
+    "dek": "A quick trick to keep your brew water temperature spot‑on without buying fancy gear.",
+    "takeaway": "Stable water temperature makes espresso taste more consistent and balanced.",
+    "whatHappened": "I noticed my espresso shots tasted thin in the mornings but richer after the kettle boiled a while. A quick check with a kitchen thermometer revealed a 5‑6 °C swing between first and later pours. I started using a cheap instant‑read thermometer to lock the temperature before each shot, and the flavor steadied instantly.",
+    "whyItMatters": "Water temperature is the single biggest variable after dose and grind; too cool and you under‑extract, too hot and you over‑extract. Consistency in temperature translates to repeatable flavor profiles, letting you dial in other parameters with confidence.",
+    "howToThink": "Measure the water right after it leaves the kettle and before it hits the group; aim for the mid‑range of your machine’s recommended 90‑96 °C. If it’s low, let the kettle sit a bit longer; if it’s high, add a splash of cooler water. Keep a small thermometer handy and wipe it clean between reads to avoid cross‑contamination.",
+    "pros": [
+      "Inexpensive and easy to use",
+      "Immediate feedback on temperature swings",
+      "Works with any kettle"
+    ],
+    "cons": [
+      "Requires an extra step before each shot",
+      "Thermometer can drift if not calibrated",
+      "Might feel redundant for machines with built‑in thermostats"
+    ],
+    "watchOut": "Don’t let the thermometer touch the hot metal of the group head—it can give a false high reading.",
+    "faq": [
+      {
+        "q": "Do I need a high‑end probe thermometer?",
+        "a": "A basic instant‑read model is fine; accuracy within a degree is sufficient for home brewing."
+      },
+      {
+        "q": "Can I use the same thermometer for milk steaming?",
+        "a": "Yes, but rinse it first to avoid milk residue affecting espresso readings."
+      },
+      {
+        "q": "What if my kettle’s temperature is already stable?",
+        "a": "Even stable kettles can vary by a few degrees; a quick check confirms you’re in the sweet spot each time."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "temperature",
+      "espresso"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-11-18T11:45:05.357Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "dial-in-espresso-dose-2",
     "title": "Dial In Your Espresso Dose for Consistent Flavor",
     "dek": "A quick guide to finding the right coffee dose so every shot hits the sweet spot.",

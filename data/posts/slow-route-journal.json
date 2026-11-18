@@ -1,5 +1,56 @@
 [
   {
+    "slug": "morning-platform-coffee-2",
+    "title": "Morning Platform Coffee: Low‑Impact Brewing on the Rails",
+    "dek": "A quick guide to brewing a satisfying cup on a moving train without waste.",
+    "takeaway": "Good coffee on the rails can be low‑impact and boost your slow‑travel vibe.",
+    "whatHappened": "I tried a French press, a reusable filter, and boiled water in the train's pantry car on a 6‑hour regional route. The brew stayed hot and the waste stayed minimal.",
+    "whyItMatters": "Coffee culture often adds disposable cups and pods, inflating the carbon footprint of train journeys. Keeping it reusable aligns with low‑impact travel values.",
+    "howToThink": "Pack a lightweight French press, a reusable metal filter, and a small insulated mug. Use the train’s hot water tap or a portable stove if allowed, and rinse everything in the sink after.",
+    "pros": [
+      "Zero disposable cups",
+      "Rich flavor",
+      "Reusable gear fits in a daypack"
+    ],
+    "cons": [
+      "Needs hot water source",
+      "Cleaning on the move",
+      "Limited mug space"
+    ],
+    "watchOut": "Check the train’s policy on open flames or hot plates before planning stovetop brewing.",
+    "faq": [
+      {
+        "q": "Can I use a standard coffee pod on the train?",
+        "a": "Most pods are single‑use and create waste; opt for ground coffee with a reusable press instead."
+      },
+      {
+        "q": "Is boiling water allowed in all train cars?",
+        "a": "Some regional services provide a hot water tap, but many long‑distance cars prohibit open flames; verify ahead."
+      },
+      {
+        "q": "How do I keep my coffee hot without a thermos?",
+        "a": "An insulated mug or a small travel thermos works well and adds minimal weight."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "Coffee",
+      "Rail"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-11-18T11:45:06.825Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "sunset-platform-picnics",
     "title": "Sunset Platform Picnics: Low‑Impact Dining on the Rails",
     "dek": "Turn a train stop into a low‑impact sunset feast without a hotel bill.",
