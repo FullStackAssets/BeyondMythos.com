@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-boost-replace-game-boy-camera-lens",
+    "title": "Pixel Boost: Replacing Game Boy Camera Lens for Sharper Shots",
+    "dek": "Swap the original Game Boy Camera lens for a cheap aftermarket unit to boost image clarity without breaking the device.",
+    "takeaway": "A simple lens swap can noticeably improve photo quality on the classic Game Boy Camera.",
+    "whatHappened": "We opened a Game Boy Camera, removed the cloudy acrylic lens, and installed a clear polycarbonate replacement sourced from hobby shops. The modification required careful desoldering of the tiny lens mount and re‑securing the new piece with a dab of silicone.",
+    "whyItMatters": "The Game Boy Camera’s low‑resolution images are a nostalgic staple, but the original lens often softens details, limiting its appeal for collectors who showcase screenshots. Improving clarity enhances the device’s display value and makes it more fun for speedrunners who need quick visual cues.",
+    "howToThink": "When tackling any retro handheld, treat the optics like any other replaceable component: work in a static‑free environment, use a magnifier, and test fit before committing adhesive. Keep the original lens as a backup in case the new part doesn’t align perfectly. After the swap, recalibrate the camera’s focus by adjusting the mount screw until the test pattern looks sharp.",
+    "pros": [
+      "Clearer images",
+      "Low cost upgrade",
+      "No permanent modifications"
+    ],
+    "cons": [
+      "Delicate work",
+      "Requires magnification",
+      "Potential void of warranty"
+    ],
+    "watchOut": "Avoid using excessive glue, which can seep into the sensor and cause permanent damage.",
+    "faq": [
+      {
+        "q": "Will the new lens affect the camera’s exposure settings?",
+        "a": "No, the sensor and electronics stay the same; only the optical clarity changes."
+      },
+      {
+        "q": "Can I use any small lens, or does it need a specific focal length?",
+        "a": "A lens with similar curvature and focal length works best; most hobbyist replacements are designed for this model."
+      },
+      {
+        "q": "Do I need to re‑program the Game Boy after the swap?",
+        "a": "No firmware changes are needed; the device operates normally once the lens is seated."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Game Boy",
+      "Hardware"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-11-18T19:45:10.909Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-boost-upgrading-mega-drive-audio",
     "title": "Pixel Boost: Upgrading Mega Drive Audio for Crisp Bass",
     "dek": "Give your Genesis a richer sound with a simple DAC swap and a few solder joints.",

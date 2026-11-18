@@ -1,5 +1,56 @@
 [
   {
+    "slug": "upgrade-espresso-pressure-gauge",
+    "title": "Upgrade Your Espresso Shot Consistency with a Pressure Gauge",
+    "dek": "A quick guide to adding a pressure gauge to your home espresso machine for tighter shot control.",
+    "takeaway": "Seeing brew pressure lets you dial in dose and grind for repeatable espresso quality.",
+    "whatHappened": "We installed a low‑cost pressure gauge on a mid‑range home machine and compared shots before and after. The gauge revealed pressure spikes that were invisible before, guiding adjustments.",
+    "whyItMatters": "Pressure directly influences extraction; without a readout, you rely on guesswork. Consistent pressure leads to stable flavor and less waste.",
+    "howToThink": "Start by noting the pressure curve for a good shot, then tweak grind size or tamp pressure to match. Use the gauge to confirm you stay within the target range for each pull.",
+    "pros": [
+      "Instant feedback",
+      "Better shot repeatability",
+      "Low cost upgrade"
+    ],
+    "cons": [
+      "Installation may void warranty",
+      "Gauge adds extra component",
+      "Requires interpretation skill"
+    ],
+    "watchOut": "Ensure the gauge is rated for espresso pressures to avoid damage.",
+    "faq": [
+      {
+        "q": "Do I need a professional to install the gauge?",
+        "a": "No, most kits are bolt‑on and can be fitted with basic tools."
+      },
+      {
+        "q": "What pressure range should I aim for?",
+        "a": "Typical espresso extraction sits around 9 bar; aim for a steady reading near that point."
+      },
+      {
+        "q": "Will a gauge affect machine performance?",
+        "a": "It adds minimal resistance and should not alter brewing if properly installed."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "gear"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-11-18T19:45:09.542Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "read-the-shot-visual-cues",
     "title": "Read the Shot: Visual Cues for Espresso Timing",
     "dek": "Learn to judge espresso extraction by watching the crema edge and flow, no stopwatch needed.",

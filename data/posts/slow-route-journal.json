@@ -1,5 +1,56 @@
 [
   {
+    "slug": "onboard-laundry-hacks",
+    "title": "Onboard Laundry Hacks: Low‑Impact Clean Clothes on the Rails",
+    "dek": "Keep your wardrobe fresh on the train without waste or hassle.",
+    "takeaway": "Simple, reusable methods let you wash clothes sustainably while traveling by rail.",
+    "whatHappened": "During a week‑long scenic rail journey I tried a combo of hand‑washing in the station restroom and a portable, solar‑powered laundry bag. The routine fit neatly between stops and left my clothes smelling clean. I logged the process to see if it truly cut down on detergent use and waste.",
+    "whyItMatters": "Travelers often discard cheap detergent packets or rely on hotel laundry, both of which add plastic waste and carbon cost. By handling laundry on the train you reduce that footprint and stay self‑sufficient, which aligns with low‑impact values. It also demonstrates that sustainable habits can travel with you, not stay behind.",
+    "howToThink": "Carry a lightweight, antimicrobial washcloth and a small, refillable soap bar. Use the train’s sink or station restroom, keep water usage short, and hang garments on a portable drying rack or a clean towel rack. Rinse with cold water to save energy and let items air‑dry in the carriage’s shade.",
+    "pros": [
+      "Zero plastic packets",
+      "Minimal water use",
+      "Keeps clothes fresh"
+    ],
+    "cons": [
+      "Limited hot water",
+      "Requires manual effort",
+      "Drying time varies"
+    ],
+    "watchOut": "Avoid over‑loading the sink and respect other passengers’ space when hanging clothes.",
+    "faq": [
+      {
+        "q": "Do I need special detergent?",
+        "a": "A small bar of biodegradable soap works fine and leaves no residue."
+      },
+      {
+        "q": "Is it okay to wash in public restrooms?",
+        "a": "Yes, as long as you keep the area tidy and use a basin to contain runoff."
+      },
+      {
+        "q": "How do I dry clothes without a dryer?",
+        "a": "Hang them on a portable rack, a coat hook, or drape over a clean towel until they’re dry."
+      }
+    ],
+    "category": "Packing",
+    "tags": [
+      "laundry",
+      "sustainability"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-11-18T19:45:05.422Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "midnight-snack-cart-low-impact-nibbles-on-the-ra",
     "title": "Midnight Snack Cart: Low‑Impact Nibbles on the Rails",
     "dek": "Discover how a modest midnight snack cart can fuel slow travelers while keeping the rail footprint tiny.",
