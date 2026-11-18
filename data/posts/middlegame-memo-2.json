@@ -1,0 +1,308 @@
+[
+  {
+    "slug": "kings-indian-attack-revival",
+    "title": "Reviving the King's Indian Attack",
+    "category": "Openings",
+    "dek": "A flexible system that lets you sidestep theory while aiming for a kingside surge.",
+    "takeaway": "The KIA offers a solid, low‑theory weapon for players seeking consistent pressure.",
+    "whatHappened": "After a series of quiet pawn moves, White launches a classic pawn storm on the king side, catching many opponents off guard. The recent club tournament saw several players adopt the line and score well.",
+    "whyItMatters": "It provides a reliable plan without deep memorization, which is vital for busy adult players. Consistent structure also builds confidence in unfamiliar positions.",
+    "howToThink": "Focus on piece placement that supports a later f4‑f5 push, keep the knight on d2 ready to reroute, and watch for Black's central counterplay. When the pawn storm begins, calculate exchanges carefully to avoid premature weaknesses.",
+    "pros": [
+      "Low theory",
+      "Clear attacking plan",
+      "Works against many defenses"
+    ],
+    "cons": [
+      "Predictable if overused",
+      "Timing is critical",
+      "Less effective against early counterplay"
+    ],
+    "watchOut": "Don’t launch the pawn storm before you’ve secured the knight on f3.",
+    "faq": [
+      {
+        "q": "Is the KIA suitable against the French Defense?",
+        "a": "Yes, it sidesteps the main line and aims for a kingside attack after the usual pawn structure."
+      },
+      {
+        "q": "Do I need to learn many move orders?",
+        "a": "Only a handful; the core ideas repeat across most setups."
+      },
+      {
+        "q": "Can Black neutralize the attack with an early ...?",
+        "a": "Black can try ... but accurate play and timing keep the attack alive."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/chess community threads",
+        "url": "https://www.reddit.com/r/chess/"
+      },
+      {
+        "label": "Search interest: \"adult chess improvement plan\"",
+        "url": "https://duckduckgo.com/?q=adult%20chess%20improvement%20plan"
+      }
+    ],
+    "tags": [
+      "KIA",
+      "flexible"
+    ],
+    "publishedAt": "2026-11-18T03:15:20.792Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "intermezzo-power",
+    "title": "The Power of the Intermezzo",
+    "category": "Tactics",
+    "dek": "A tiny in‑between move can turn a losing line into a winning one.",
+    "takeaway": "Always scan for an intermezzo before committing to the obvious capture.",
+    "whatHappened": "In a recent online rapid game, a player faced a forced exchange that seemed winning for the opponent. By inserting a checking intermezzo, the tide flipped and the opponent blundered.",
+    "whyItMatters": "Intermezzo moves exploit hidden threats and force the opponent to respond, giving you the initiative. Recognizing them adds depth to tactical vision.",
+    "howToThink": "After each candidate move, ask ‘what if the opponent has a forcing reply first?’ Look for checks, captures, or threats that change the material balance. Practice by solving puzzles that explicitly include an intermezzo.",
+    "pros": [
+      "Creates surprise",
+      "Improves calculation depth",
+      "Often wins material"
+    ],
+    "cons": [
+      "Can be missed under time pressure",
+      "May complicate simple positions",
+      "Requires extra mental step"
+    ],
+    "watchOut": "Don’t force an intermezzo when the opponent already has a stronger continuation.",
+    "faq": [
+      {
+        "q": "When should I prioritize an intermezzo over a direct capture?",
+        "a": "When the direct capture leaves your king vulnerable or allows a counter‑attack, an intermezzo can defuse the danger."
+      },
+      {
+        "q": "Are intermezzo moves only checks?",
+        "a": "No, any forcing move—check, capture, or threat—that changes the dynamics qualifies."
+      },
+      {
+        "q": "How can I train this skill?",
+        "a": "Use puzzle sets labeled ‘intermezzo’ or deliberately insert a waiting move in your analysis."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/TournamentChess community threads",
+        "url": "https://www.reddit.com/r/TournamentChess/"
+      },
+      {
+        "label": "Search interest: \"tactics training routine\"",
+        "url": "https://duckduckgo.com/?q=tactics%20training%20routine"
+      }
+    ],
+    "tags": [
+      "intermezzo",
+      "tactics"
+    ],
+    "publishedAt": "2026-11-16T14:15:20.792Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "knight-bishop-endgame",
+    "title": "Knight vs Bishop Endgame Secrets",
+    "category": "Endgames",
+    "dek": "Understanding the subtle strengths of a knight against a bishop can save points in seemingly equal endings.",
+    "takeaway": "A knight can outplay a bishop when the board is cramped and pawn structure favors outposts.",
+    "whatHappened": "In a club match, a player with a knight against a bishop and four pawns managed to force a win by exploiting color weaknesses. The opponent underestimated the knight’s reach.",
+    "whyItMatters": "Many players dismiss the knight’s chances, leading to missed winning chances. Knowing the right conditions lets you convert draws into wins.",
+    "howToThink": "Identify dark‑square or light‑square weaknesses that match the knight’s color, aim to place the knight on an outpost, and restrict the bishop’s diagonal. Push pawns that limit the bishop’s mobility.",
+    "pros": [
+      "Knight thrives in closed positions",
+      "Can create fork threats",
+      "Works with pawn majority"
+    ],
+    "cons": [
+      "Struggles in open board",
+      "Limited long‑range",
+      "Can be outmatched by active bishop"
+    ],
+    "watchOut": "Avoid trading the knight for the bishop when the pawn structure is open and favors the bishop.",
+    "faq": [
+      {
+        "q": "What pawn structures favor the knight?",
+        "a": "Closed or locked pawn chains that create safe outpost squares for the knight."
+      },
+      {
+        "q": "Can I force a win with equal material?",
+        "a": "If you can secure an outpost and restrict the bishop, you often have a practical edge."
+      },
+      {
+        "q": "Should I exchange the bishop for the knight?",
+        "a": "Only if the resulting pawn ending is clearly winning; otherwise keep the tension."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/chessbeginners community threads",
+        "url": "https://www.reddit.com/r/chessbeginners/"
+      },
+      {
+        "label": "Search interest: \"endgame fundamentals\"",
+        "url": "https://duckduckgo.com/?q=endgame%20fundamentals"
+      }
+    ],
+    "tags": [
+      "knight",
+      "bishop"
+    ],
+    "publishedAt": "2026-11-15T01:15:20.792Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "daily-blitz-routine",
+    "title": "30‑Minute Daily Blitz Routine",
+    "category": "Study Plans",
+    "dek": "A short, focused blitz session can sharpen pattern recognition without burning out.",
+    "takeaway": "Consistent 30‑minute blitz practice yields steady improvement for busy adults.",
+    "whatHappened": "A group of evening‑class players adopted a 30‑minute blitz block before dinner and reported smoother calculation and better opening recall over a month.",
+    "whyItMatters": "Time‑boxed practice respects work‑life balance while keeping the brain in tactical mode. Regular exposure prevents skill decay.",
+    "howToThink": "Start with 10 minutes of warm‑up puzzles, play 10 minutes of rapid (5+0) games, then finish with a 10‑minute review of key moments. Focus on one theme each day.",
+    "pros": [
+      "Time efficient",
+      "Keeps motivation high",
+      "Reinforces patterns"
+    ],
+    "cons": [
+      "Limited deep analysis",
+      "May reinforce bad habits if unchecked",
+      "Risk of burnout if too intense"
+    ],
+    "watchOut": "Don’t skip the post‑game review; otherwise mistakes become entrenched.",
+    "faq": [
+      {
+        "q": "How often should I change the theme?",
+        "a": "Rotate themes weekly to cover openings, tactics, and endgames."
+      },
+      {
+        "q": "Is blitz suitable for endgame practice?",
+        "a": "Use it for quick conversion drills, but supplement with slower, deliberate study for complex endings."
+      },
+      {
+        "q": "What if I have less than 30 minutes?",
+        "a": "Even a 10‑minute focused puzzle burst is better than no practice."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/chess community threads",
+        "url": "https://www.reddit.com/r/chess/"
+      },
+      {
+        "label": "Search interest: \"adult chess improvement plan\"",
+        "url": "https://duckduckgo.com/?q=adult%20chess%20improvement%20plan"
+      }
+    ],
+    "tags": [
+      "blitz",
+      "routine"
+    ],
+    "publishedAt": "2026-11-13T12:15:20.792Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "sicilian-dragon-traps",
+    "title": "Avoiding the Sicilian Dragon Traps",
+    "category": "Openings",
+    "dek": "Spot the common pitfalls in the Yugoslav Attack and keep your king safe.",
+    "takeaway": "Knowing the typical traps lets you sidestep early tactical losses in the Dragon.",
+    "whatHappened": "A player entered a Yugoslav Attack line and fell into a quick forced mate after an unguarded queen side knight hop. After reviewing the trap, they adjusted move order and avoided the danger.",
+    "whyItMatters": "The Dragon is a popular weapon, and many club players fall into the same tactical snare. Recognizing it saves time and confidence.",
+    "howToThink": "Before launching the pawn storm, verify that your queen’s retreat squares are safe and that Black’s typical bishop sacrifice has been neutralized. Keep a pawn on d4 to block key lines.",
+    "pros": [
+      "Sharp play",
+      "Rich tactical possibilities",
+      "Well‑studied theory"
+    ],
+    "cons": [
+      "High risk of early tactics",
+      "Requires precise calculation",
+      "Can be demoralizing after a trap"
+    ],
+    "watchOut": "Never ignore Black’s typical bishop sacrifice; always calculate the forced line.",
+    "faq": [
+      {
+        "q": "What is the most common trap in the Yugoslav Attack?",
+        "a": "A premature Qb3 can be met by a bishop sacrifice on h3, leading to a forced mate."
+      },
+      {
+        "q": "Can I avoid the Dragon altogether?",
+        "a": "Yes, choose alternative Sicilian lines like the Najdorf or Sveshnikov."
+      },
+      {
+        "q": "How much theory do I need to stay safe?",
+        "a": "Understanding the key tactical motifs and typical piece placements is more important than memorizing long lines."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/TournamentChess community threads",
+        "url": "https://www.reddit.com/r/TournamentChess/"
+      },
+      {
+        "label": "Search interest: \"tactics training routine\"",
+        "url": "https://duckduckgo.com/?q=tactics%20training%20routine"
+      }
+    ],
+    "tags": [
+      "dragon",
+      "traps"
+    ],
+    "publishedAt": "2026-11-11T23:15:20.792Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "double-threat-patterns",
+    "title": "Pattern Spotting: Double Threats",
+    "category": "Tactics",
+    "dek": "Identify moves that hit two targets at once to swing the balance in any game.",
+    "takeaway": "Training to see double threats multiplies your tactical firepower.",
+    "whatHappened": "During a weekend tournament, a player spotted a knight fork that won material and the opponent’s queen, turning a losing position into a win.",
+    "whyItMatters": "Double threats are the backbone of many classic combos; missing them costs points, while spotting them creates winning chances.",
+    "howToThink": "When evaluating a candidate move, ask yourself what two enemy pieces or squares it attacks simultaneously. Visualize the opponent’s forced replies to each threat.",
+    "pros": [
+      "Creates immediate advantage",
+      "Easy to calculate once recognized",
+      "Applicable in many positions"
+    ],
+    "cons": [
+      "Can be overlooked under pressure",
+      "May lead to over‑optimism if opponent has a defense",
+      "Requires pattern memory"
+    ],
+    "watchOut": "Verify that both threats are genuine; a defended piece can nullify the fork.",
+    "faq": [
+      {
+        "q": "How do I train double‑threat recognition?",
+        "a": "Solve puzzles labeled ‘fork’ or ‘double attack’ and replay them without looking at the solution."
+      },
+      {
+        "q": "Are double threats only forks?",
+        "a": "No, they include discovered attacks, overloaded pieces, and any move that creates two simultaneous problems."
+      },
+      {
+        "q": "What if the opponent can parry one threat?",
+        "a": "Choose lines where the opponent cannot neutralize both without losing material or position."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/chessbeginners community threads",
+        "url": "https://www.reddit.com/r/chessbeginners/"
+      },
+      {
+        "label": "Search interest: \"endgame fundamentals\"",
+        "url": "https://duckduckgo.com/?q=endgame%20fundamentals"
+      }
+    ],
+    "tags": [
+      "forks",
+      "double-threats"
+    ],
+    "publishedAt": "2026-11-10T10:15:20.792Z",
+    "readMinutes": 2
+  }
+]
