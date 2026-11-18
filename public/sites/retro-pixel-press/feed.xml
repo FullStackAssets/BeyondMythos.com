@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Adding a Turbo Switch to Your Sega Genesis Controller</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-adding-turbo-switch-sega-genesis.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-adding-turbo-switch-sega-genesis.html</guid>
+      <pubDate>Wed, 18 Nov 2026 12:45:11 GMT</pubDate>
+      <description>Install a simple turbo switch on a Genesis pad for rapid fire without compromising feel.</description>
+    </item>
+    <item>
       <title>Retro Glow: Installing RGB Backlight in Game Boy Color</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-glow-installing-rgb-backlight-gbc.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-glow-installing-rgb-backlight-gbc.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-replacing-gba-battery-contacts.html</guid>
       <pubDate>Fri, 30 Oct 2026 19:45:10 GMT</pubDate>
       <description>Swap out corroded battery contacts on your GBA for smoother power delivery and fewer sudden shutdowns.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Replacing TurboGrafx-16 Power Leads for Faster Boot</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-replacing-turbografx-16-power-leads.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-replacing-turbografx-16-power-leads.html</guid>
-      <pubDate>Fri, 30 Oct 2026 18:45:03 GMT</pubDate>
-      <description>Swap the stock power leads on your TurboGrafx-16 for low‑resistance wire and shave seconds off every startup.</description>
     </item>
   </channel>
 </rss>

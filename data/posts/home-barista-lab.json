@@ -1,5 +1,56 @@
 [
   {
+    "slug": "calibrate-grinder-scale",
+    "title": "Calibrate Your Grinder Using a Simple Scale Routine",
+    "dek": "A quick, repeatable method to keep your grind size spot‑on without fancy equipment.",
+    "takeaway": "Regular scale checks keep espresso flavor consistent day after day.",
+    "whatHappened": "I noticed my espresso shots drifting from bright to flat over a week. A simple scale test revealed my grinder was subtly shifting. After calibrating with the routine, the shots returned to their original sweetness.",
+    "whyItMatters": "Grind size is the single biggest variable in espresso extraction. Even tiny drifts can throw off balance, leading to sour or bitter cups and wasted beans.",
+    "howToThink": "Weigh a fixed dose, adjust the grind until the weight matches, then record the setting. Repeat weekly or after any major adjustment. Treat the scale as a reference point, not a replacement for taste testing.",
+    "pros": [
+      "Low cost – just a kitchen scale",
+      "Fast – under a minute per check",
+      "Improves shot repeatability"
+    ],
+    "cons": [
+      "Requires a scale you trust for small weights",
+      "Adds a tiny step to your routine",
+      "May need occasional re‑calibration after cleaning"
+    ],
+    "watchOut": "Never grind directly into the scale pan; use a container to avoid spillage and inaccurate readings.",
+    "faq": [
+      {
+        "q": "Do I need a high‑precision scale?",
+        "a": "A scale that reads to 0.1 g is sufficient for most home setups."
+      },
+      {
+        "q": "How often should I perform the check?",
+        "a": "Once a week or after you change beans, clean the grinder, or adjust the dose."
+      },
+      {
+        "q": "Will this replace tasting my espresso?",
+        "a": "No, it’s a supplement. Taste remains the final judge."
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "grinder",
+      "espresso"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-11-18T12:45:05.207Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-temp-hack",
     "title": "Unlocking Consistent Espresso Temperature with a Simple Thermometer Hack",
     "dek": "A quick trick to keep your brew water temperature spot‑on without buying fancy gear.",

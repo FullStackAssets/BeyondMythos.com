@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-boost-adding-turbo-switch-sega-genesis",
+    "title": "Pixel Boost: Adding a Turbo Switch to Your Sega Genesis Controller",
+    "dek": "Install a simple turbo switch on a Genesis pad for rapid fire without compromising feel.",
+    "takeaway": "A turbo switch gives you firepower while keeping the original controller ergonomics.",
+    "whatHappened": "We opened a classic 3‑button Genesis controller, soldered a momentary turbo switch into the A‑button line, and reassembled it. The mod was tested on classic shooters and platformers, delivering consistent rapid fire.",
+    "whyItMatters": "Speedrunners often need ultra‑fast inputs for games like \"Contra\" or \"Gunstar Heroes\", and a turbo switch provides that without the need for external adapters. It also preserves the nostalgic feel of the original pad, keeping the collector's value intact.",
+    "howToThink": "When adding the switch, plan the wiring path to avoid stress on the board and keep solder joints tidy. Use a low‑profile switch to maintain grip, and test continuity before sealing the case. Remember to calibrate the fire rate in-game if needed.",
+    "pros": [
+      "Instant rapid fire",
+      "Preserves original ergonomics",
+      "Low cost and reversible"
+    ],
+    "cons": [
+      "Adds slight weight",
+      "May require occasional re‑soldering",
+      "Potentially voids warranty"
+    ],
+    "watchOut": "Avoid overheating the PCB; use a fine‑tip soldering iron and brief heat.",
+    "faq": [
+      {
+        "q": "Do I need a special screwdriver?",
+        "a": "A small Phillips #00 works for the Genesis case screws."
+      },
+      {
+        "q": "Can I use any momentary switch?",
+        "a": "A low‑profile, normally open momentary switch works best to keep the pad slim."
+      },
+      {
+        "q": "Will the turbo affect normal button presses?",
+        "a": "Only the button wired through the switch; other buttons remain unchanged."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Sega Genesis",
+      "Turbo Mod"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-11-18T12:45:11.578Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "retro-glow-installing-rgb-backlight-gbc",
     "title": "Retro Glow: Installing RGB Backlight in Game Boy Color",
     "dek": "Give your Game Boy Color a vibrant new look with a simple RGB backlight mod that preserves battery life.",

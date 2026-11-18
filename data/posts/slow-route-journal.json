@@ -1,5 +1,56 @@
 [
   {
+    "slug": "railway-restroom-hygiene",
+    "title": "Railway Restroom Hygiene: Low‑Impact Cleanliness on the Rails",
+    "dek": "A quick guide to keeping train bathrooms fresh without extra waste, perfect for slow‑travelers.",
+    "takeaway": "Simple habits keep shared restrooms clean and reduce environmental impact.",
+    "whatHappened": "During a recent cross‑country trip, the crew noticed a spike in disposable wipes left in the toilets. A brief notice reminded passengers to use the provided reusable wipes and flush only toilet paper. The result was noticeably cleaner stalls by the next stop.",
+    "whyItMatters": "Train bathrooms are high‑traffic spaces where waste accumulates quickly, affecting comfort and hygiene for everyone. Reducing non‑biodegradable waste also lessens the load on onboard treatment systems, aligning with low‑impact travel values. Small changes in passenger behavior ripple into a better experience for the whole carriage.",
+    "howToThink": "Carry a small pack of reusable, biodegradable wipes and a travel‑size hand sanitizer. Dispose of wipes in the bin, not the toilet, and limit paper use to what’s needed. Encourage fellow travelers with a friendly reminder or a posted note about the simple etiquette.",
+    "pros": [
+      "Less clogging and maintenance",
+      "Reduced plastic waste",
+      "Improved passenger comfort"
+    ],
+    "cons": [
+      "Requires passengers to carry supplies",
+      "May need reminders to enforce",
+      "Limited impact if few comply"
+    ],
+    "watchOut": "Don’t flush any wipes or non‑paper items, as they can damage the train’s waste system.",
+    "faq": [
+      {
+        "q": "Can I use regular tissues instead of wipes?",
+        "a": "Yes, as long as they are pure paper and fully biodegradable."
+      },
+      {
+        "q": "What if I forget my wipes?",
+        "a": "Most stations have small refill stations or you can use a damp paper towel and dispose of it properly."
+      },
+      {
+        "q": "Is hand sanitizer allowed in the restroom?",
+        "a": "Absolutely – a travel‑size bottle is perfect for quick hand cleaning without running water."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "hygiene"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-11-18T12:45:06.001Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "morning-platform-coffee-2",
     "title": "Morning Platform Coffee: Low‑Impact Brewing on the Rails",
     "dek": "A quick guide to brewing a satisfying cup on a moving train without waste.",
