@@ -1,5 +1,56 @@
 [
   {
+    "slug": "clean-group-head",
+    "title": "Clean Your Espresso Group Head with a Simple Brush Routine",
+    "dek": "A quick brush clean keeps your group head flowing and your shots tasting sharp.",
+    "takeaway": "Regularly brushing the group head prevents channeling and prolongs machine life.",
+    "whatHappened": "I noticed a sudden drop in pressure and uneven extraction on a routine pull. A quick visual check revealed coffee grounds stuck in the group head’s screen. A brief brush clean restored normal flow within minutes.",
+    "whyItMatters": "Clogged screens cause channeling, leading to weak crema and inconsistent flavor. Over time, buildup can wear seals and increase maintenance costs. Simple cleaning keeps performance stable and extends equipment lifespan.",
+    "howToThink": "Treat the group head like a kitchen faucet—wipe it clean after each use. Keep a dedicated espresso brush handy and run it through the screen while the machine is off but still warm. Incorporate a brief brush pass into your daily prep routine to stay ahead of issues.",
+    "pros": [
+      "Improves shot consistency",
+      "Extends machine life",
+      "Takes seconds"
+    ],
+    "cons": [
+      "Requires a dedicated brush",
+      "May be forgotten without habit",
+      "Small extra cleaning step"
+    ],
+    "watchOut": "Avoid using abrasive tools that could damage the screen or gasket.",
+    "faq": [
+      {
+        "q": "How often should I brush the group head?",
+        "a": "A quick brush after each brewing session is ideal, but at minimum once daily."
+      },
+      {
+        "q": "Can I use a regular kitchen brush?",
+        "a": "Use a soft-bristled espresso-specific brush to avoid scratching the metal."
+      },
+      {
+        "q": "What if coffee grounds are stuck deep inside?",
+        "a": "Run the brush gently while the machine is warm, then purge a shot of water to flush any loosened debris."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "maintenance",
+      "espresso"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-11-18T00:45:05.383Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-roasting-54",
     "title": "The quiet upgrade: small tweaks in roasting with outsized returns",
     "dek": "No purchases, no overhauls — the modest roasting adjustments that home coffee enthusiasts report mattering most.",

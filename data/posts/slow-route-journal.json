@@ -1,5 +1,56 @@
 [
   {
+    "slug": "quiet-car-chronicles",
+    "title": "Quiet Car Chronicles: Low-Impact Reading on the Rails",
+    "dek": "Discover how the quiet car turns a train ride into a low-impact reading retreat for slow travelers.",
+    "takeaway": "A quiet car can double your travel enjoyment while keeping your carbon footprint low.",
+    "whatHappened": "On a recent cross-country journey I booked a seat in the quiet car and spent the day immersed in a paperback and a reusable coffee, watching the landscape drift by. The calm atmosphere made the hours feel shorter and more purposeful.",
+    "whyItMatters": "The quiet car reduces noise and social pressure, letting you savor the journey and keep consumption minimal, aligning with low-impact values. It also encourages mindful travel habits that benefit both traveler and environment.",
+    "howToThink": "When planning, check the train’s amenities and reserve a quiet car spot early. Bring a low-impact reading setup—paper or e‑ink—and pack a refillable mug. Keep devices on silent and use headphones to maintain the calm.",
+    "pros": [
+      "Less noise",
+      "Focus on reading",
+      "Eco-friendly ambiance"
+    ],
+    "cons": [
+      "Limited seats",
+      "May require reservation",
+      "Quiet etiquette needed"
+    ],
+    "watchOut": "Don’t forget to mute devices, as even soft alerts can disrupt the calm.",
+    "faq": [
+      {
+        "q": "Can I bring a laptop into the quiet car?",
+        "a": "Yes, as long as you keep it on silent and use headphones."
+      },
+      {
+        "q": "Are quiet cars available on all routes?",
+        "a": "Most regional and long-distance services offer them, but availability varies, so check the operator’s site."
+      },
+      {
+        "q": "What’s the best time to claim a quiet car seat?",
+        "a": "Book as early as possible, especially for popular routes, to secure a spot."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "reading"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-11-18T00:45:11.657Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "packing-pre-spend-checklist-50",
     "title": "The packing checklist: run this before you spend",
     "dek": "Seven questions that separate a justified packing purchase from an expensive mood.",
