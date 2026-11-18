@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Upgrading Mega Drive Audio for Crisp Bass</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-upgrading-mega-drive-audio.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-upgrading-mega-drive-audio.html</guid>
+      <pubDate>Wed, 18 Nov 2026 18:45:05 GMT</pubDate>
+      <description>Give your Genesis a richer sound with a simple DAC swap and a few solder joints.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Upgrading SNES AV Cable for Crisper Video</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-upgrade-snes-av-cable.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-upgrade-snes-av-cable.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/upgrading-game-boy-color-link-cable.html</guid>
       <pubDate>Sat, 31 Oct 2026 01:45:09 GMT</pubDate>
       <description>Swap the original Game Boy Color link cable for a low‑capacitance version to cut lag and improve multiplayer responsiveness.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Upgrading Sega Genesis AV Cables for Crisper Video</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-upgrading-sega-genesis-av-cables.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-upgrading-sega-genesis-av-cables.html</guid>
-      <pubDate>Sat, 31 Oct 2026 00:45:11 GMT</pubDate>
-      <description>Swap the stock RCA leads for shielded, gold‑plated cables and instantly see sharper colors and fewer visual artifacts on your CRT or LCD.</description>
     </item>
   </channel>
 </rss>

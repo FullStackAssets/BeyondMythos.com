@@ -1,5 +1,56 @@
 [
   {
+    "slug": "balcony-microgreens-marathon",
+    "title": "Balcony Microgreens Marathon: Quick Greens for Small Spaces",
+    "dek": "Turn a sunny balcony rail into a rapid microgreen harvest that feeds your cravings and boosts indoor air.",
+    "takeaway": "Microgreens let apartment gardeners harvest fresh nutrition in days, using just a shallow tray.",
+    "whatHappened": "We set up a shallow tray filled with a light seed mix on a balcony railing and kept it misted daily. Within a week, tiny shoots burst forth, turning the rail into a green ribbon. The result was a vibrant, edible carpet ready to snip and toss into salads.",
+    "whyItMatters": "Fresh microgreens pack a punch of vitamins and a crisp texture that brightens any dish, especially when grocery store options are limited. For balcony dwellers, they provide a tangible, fast‑growing reward that justifies the modest effort. Plus, the visual growth encourages continued gardening enthusiasm.",
+    "howToThink": "Choose a shallow, well‑draining tray and line it with a reusable mat or soil‑free substrate. Scatter a thin layer of mixed microgreen seeds, press lightly, and mist until damp. Place the tray in a sunny spot (4‑6 hours of light) and keep the surface moist until seedlings reach 1‑2 inches, then harvest by cutting just above the base.",
+    "pros": [
+      "Fast harvest",
+      "Minimal space",
+      "Nutrient boost"
+    ],
+    "cons": [
+      "Short shelf life",
+      "Requires consistent moisture",
+      "Limited variety"
+    ],
+    "watchOut": "Avoid overwatering; soggy media can cause mold and root rot.",
+    "faq": [
+      {
+        "q": "How often should I water microgreens?",
+        "a": "Mist the surface once or twice daily to keep it evenly damp, but never soggy."
+      },
+      {
+        "q": "Can I reuse the same tray for multiple batches?",
+        "a": "Yes, rinse the tray thoroughly and start with a fresh seed layer each cycle."
+      },
+      {
+        "q": "Which seeds work best for balconies?",
+        "a": "Quick‑growing mixes like radish, mustard, and pea shoots thrive in shallow containers with plenty of light."
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "Microgreens",
+      "Balcony"
+    ],
+    "sources": [
+      {
+        "label": "r/houseplants community threads",
+        "url": "https://www.reddit.com/r/houseplants/"
+      },
+      {
+        "label": "Search interest: \"small space vegetables\"",
+        "url": "https://duckduckgo.com/?q=small%20space%20vegetables"
+      }
+    ],
+    "publishedAt": "2026-11-18T18:45:07.161Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "balcony-radish-rush-5",
     "title": "Balcony Radish Rush: Quick Crunch for Tiny Terraces",
     "dek": "Fast-growing radishes turn balcony pots into crisp snack stations in weeks.",

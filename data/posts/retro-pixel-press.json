@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-boost-upgrading-mega-drive-audio",
+    "title": "Pixel Boost: Upgrading Mega Drive Audio for Crisp Bass",
+    "dek": "Give your Genesis a richer sound with a simple DAC swap and a few solder joints.",
+    "takeaway": "A budget-friendly audio upgrade can make classic tunes sound modern without breaking the console.",
+    "whatHappened": "We opened a 1990s Mega Drive, desoldered the original audio chip, and installed a low‑cost DAC board that supports 16‑bit stereo. The mod took under an hour and the console powered up with noticeably clearer highs and tighter bass. Testing with a selection of iconic tracks confirmed the improvement was audible across the board.",
+    "whyItMatters": "Retro audio often gets overlooked, yet sound is a core part of the nostalgic experience. A clearer soundtrack can revive the thrill of old games for collectors and speedrunners alike, especially in music‑driven titles. The upgrade also extends the console’s relevance for modern HDMI adapters that benefit from clean line‑level signals.",
+    "howToThink": "Treat the audio path like any other component: identify the bottleneck, source a compatible replacement, and keep the wiring short. When soldering, prioritize a solid joint over speed to avoid intermittent noise. Finally, calibrate volume levels after the swap to protect both the TV and your ears.",
+    "pros": [
+      "Clearer sound",
+      "Simple tools only",
+      "Low cost"
+    ],
+    "cons": [
+      "Requires soldering",
+      "Void warranty",
+      "Slightly higher power draw"
+    ],
+    "watchOut": "Double‑check the polarity of the DAC board before powering up to avoid damaging the console’s power supply.",
+    "faq": [
+      {
+        "q": "Do I need a special screwdriver to open the Mega Drive?",
+        "a": "A standard Phillips #1 works fine for the screws on most revisions."
+      },
+      {
+        "q": "Can I revert to the original audio chip later?",
+        "a": "Yes, keep the original chip and note its orientation for a straightforward reinstall."
+      },
+      {
+        "q": "Will the DAC affect game timing or input lag?",
+        "a": "The audio upgrade runs independently of the CPU, so gameplay timing remains unchanged."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "audio",
+      "genesis"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-11-18T18:45:05.569Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-boost-upgrade-snes-av-cable",
     "title": "Pixel Boost: Upgrading SNES AV Cable for Crisper Video",
     "dek": "Swap your SNES’s cheap AV cable for a premium composite line and instantly sharpen colors without breaking the bank.",

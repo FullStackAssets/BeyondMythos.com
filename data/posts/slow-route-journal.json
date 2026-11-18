@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midnight-snack-cart-low-impact-nibbles-on-the-ra",
+    "title": "Midnight Snack Cart: Low‑Impact Nibbles on the Rails",
+    "dek": "Discover how a modest midnight snack cart can fuel slow travelers while keeping the rail footprint tiny.",
+    "takeaway": "A simple snack cart can satisfy cravings and stay eco‑friendly on night trains.",
+    "whatHappened": "On a recent overnight route, a small cart stocked with locally sourced nuts, dried fruit, and reusable water bottles rolled through the carriage at 2 am. Passengers swapped stories over the humble spread, and the cart’s solar‑powered lights barely drew any energy.",
+    "whyItMatters": "Food waste and single‑use packaging are common on long journeys; a low‑impact cart cuts both, supporting the slow‑travel ethic. It also nurtures community by turning a snack break into a shared, mindful moment.",
+    "howToThink": "Choose ingredients that travel well and have low embodied energy, like bulk nuts or locally baked biscuits. Power the cart with rechargeable LEDs or a small solar panel. Encourage riders to bring their own containers and offer a refill station for water.",
+    "pros": [
+      "Zero‑waste packaging",
+      "Supports local producers",
+      "Easy to staff"
+    ],
+    "cons": [
+      "Limited menu options",
+      "Requires upfront equipment",
+      "Depends on train power access"
+    ],
+    "watchOut": "Avoid over‑stocking perishable items that could spoil in the carriage environment.",
+    "faq": [
+      {
+        "q": "Can I run a snack cart on a regional train without extra power?",
+        "a": "Yes, a battery‑powered cart with LED lighting can operate for a full night on a single charge."
+      },
+      {
+        "q": "What snacks are best for low‑impact travel?",
+        "a": "Bulk nuts, dried fruit, whole‑grain crackers, and locally baked pastries with minimal packaging."
+      },
+      {
+        "q": "How do I handle waste on board?",
+        "a": "Provide clearly labeled bins for compostable and recyclable waste, and encourage passengers to bring reusable containers."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "snacks",
+      "night-train"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-11-18T18:45:06.377Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "twilight-train-tales",
     "title": "Twilight Train Tales: Low‑Impact Storytelling on the Rails",
     "dek": "Capture the magic of dusk aboard a moving carriage without leaving a carbon trace.",

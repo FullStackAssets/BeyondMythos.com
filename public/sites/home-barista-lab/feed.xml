@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/home-barista-lab/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Read the Shot: Visual Cues for Espresso Timing</title>
+      <link>https://www.beyondmythos.com/sites/home-barista-lab/posts/read-the-shot-visual-cues.html</link>
+      <guid>https://www.beyondmythos.com/sites/home-barista-lab/posts/read-the-shot-visual-cues.html</guid>
+      <pubDate>Wed, 18 Nov 2026 18:45:12 GMT</pubDate>
+      <description>Learn to judge espresso extraction by watching the crema edge and flow, no stopwatch needed.</description>
+    </item>
+    <item>
       <title>Master Your Brew Ratio: Scale‑Based Pour‑over Consistency</title>
       <link>https://www.beyondmythos.com/sites/home-barista-lab/posts/brew-ratio-pour-over-scale.html</link>
       <guid>https://www.beyondmythos.com/sites/home-barista-lab/posts/brew-ratio-pour-over-scale.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/home-barista-lab/posts/dial-in-espresso-flow-check.html</guid>
       <pubDate>Sat, 31 Oct 2026 00:45:12 GMT</pubDate>
       <description>A quick test to see if your espresso flow is on point, using just a timer and a cup.</description>
-    </item>
-    <item>
-      <title>Tame Your Espresso Drip with a Simple Portafilter Leak Test</title>
-      <link>https://www.beyondmythos.com/sites/home-barista-lab/posts/espresso-leak-test.html</link>
-      <guid>https://www.beyondmythos.com/sites/home-barista-lab/posts/espresso-leak-test.html</guid>
-      <pubDate>Fri, 30 Oct 2026 23:45:03 GMT</pubDate>
-      <description>A quick leak check can stop unwanted drips and improve shot consistency.</description>
     </item>
   </channel>
 </rss>

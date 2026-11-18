@@ -1,5 +1,56 @@
 [
   {
+    "slug": "read-the-shot-visual-cues",
+    "title": "Read the Shot: Visual Cues for Espresso Timing",
+    "dek": "Learn to judge espresso extraction by watching the crema edge and flow, no stopwatch needed.",
+    "takeaway": "Your eye can become a reliable timer for consistent espresso.",
+    "whatHappened": "During a busy morning I tried timing shots with a stopwatch, but the extra step slowed me down. I switched to watching the crema development and found the shots landed in the sweet spot more naturally.",
+    "whyItMatters": "Consistent timing impacts flavor balance; over‑extraction brings bitterness while under‑extraction leaves sourness. A visual method keeps the workflow smooth and reduces reliance on gadgets.",
+    "howToThink": "Observe the crema as it builds: a thin, glossy layer indicates the start; when it begins to darken and break, the shot is nearing completion. Aim for a steady, thin stream that fades just as the crema thins.",
+    "pros": [
+      "No extra tool needed",
+      "Keeps workflow fast",
+      "Improves sensory awareness"
+    ],
+    "cons": [
+      "Requires practice",
+      "Subjective at first",
+      "Harder in low light"
+    ],
+    "watchOut": "Don't let a dark crema fool you; a burnt taste can still hide in an over‑extracted shot.",
+    "faq": [
+      {
+        "q": "Can I use this method with a low‑pressure machine?",
+        "a": "Yes, the visual cues work with any machine that produces crema, though the timing window may differ."
+      },
+      {
+        "q": "What if my beans produce little crema?",
+        "a": "Focus on the stream color and flow steadiness; a pale crema still follows the same darkening pattern."
+      },
+      {
+        "q": "How long should I watch the shot?",
+        "a": "Watch from the moment the first drops appear until the stream thins; the visual cue replaces the numeric timer."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "technique"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-11-18T18:45:12.216Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "brew-ratio-pour-over-scale",
     "title": "Master Your Brew Ratio: Scale‑Based Pour‑over Consistency",
     "dek": "A quick guide to using a kitchen scale for consistent brew ratios in your daily pour‑over.",
