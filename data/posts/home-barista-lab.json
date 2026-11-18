@@ -1,5 +1,56 @@
 [
   {
+    "slug": "master-microfoam-tips",
+    "title": "Master Microfoam: From Milk to Latte Art",
+    "dek": "Learn how to create silky microfoam at home for latte art that rivals café standards.",
+    "takeaway": "Consistent microfoam starts with temperature, technique, and the right milk.",
+    "whatHappened": "I swapped my old stainless‑steel pitcher for a narrow‑bottomed one, adjusted the steam wand to a lower pressure, and practiced a 3‑second stretch‑and‑tap rhythm. Within a few attempts the foam turned glossy and held its shape for latte art.",
+    "whyItMatters": "Microfoam is the texture that carries flavor and visual appeal; without it, espresso drinks feel flat. Mastering it elevates your home barista game and makes every cup feel café‑grade.",
+    "howToThink": "Start with fresh, cold milk; heat to around 60‑65 °C, then introduce steam with the tip just below the surface, creating a vortex. Stretch the milk for a few seconds, then lower the wand to collapse larger bubbles, finishing with a quick tap and swirl.",
+    "pros": [
+      "Silky texture",
+      "Better latte art",
+      "Enhanced mouthfeel"
+    ],
+    "cons": [
+      "Requires practice",
+      "Sensitive to temperature",
+      "Equipment dependent"
+    ],
+    "watchOut": "Avoid overheating the milk, or it will scorch and lose sweetness.",
+    "faq": [
+      {
+        "q": "What type of milk works best for microfoam?",
+        "a": "Whole milk gives the richest foam, but 2% or barista‑blend alternatives also perform well."
+      },
+      {
+        "q": "How can I tell if the milk is at the right temperature?",
+        "a": "When the pitcher feels warm to the touch and the steam wand tip stops hissing, you’re in the 60‑65 °C range."
+      },
+      {
+        "q": "Do I need a special pitcher?",
+        "a": "A pitcher with a narrow base helps create a tight vortex, but any stainless steel pitcher will work with proper technique."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "latte art"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-11-18T16:45:10.408Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "boost-espresso-consistency-portafilter-cleaning",
     "title": "Boost Espresso Consistency with Proper Portafilter Cleaning",
     "dek": "A quick cleaning routine that keeps your portafilter from sabotaging shot after shot.",

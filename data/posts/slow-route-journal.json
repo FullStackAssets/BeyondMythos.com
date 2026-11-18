@@ -1,5 +1,56 @@
 [
   {
+    "slug": "eco-friendly-sleep-pods",
+    "title": "Eco-Friendly Sleep Pods: Low‑Impact Rest on the Rails",
+    "dek": "Sleep comfortably on a train without leaving a carbon trace, thanks to reusable, low‑energy pods.",
+    "takeaway": "Reusable sleep pods let slow‑travelers rest sustainably on long journeys.",
+    "whatHappened": "A regional rail operator introduced compact sleep pods made from recycled fabrics and solar‑powered LEDs. Travelers can book them for overnight legs, swapping out linens between trips.",
+    "whyItMatters": "Rest is essential for mindful travel, yet traditional bedding adds waste. Pods cut disposable linens and lower energy use, aligning comfort with low‑impact values.",
+    "howToThink": "Book a pod early, bring a small personal pillow, and reuse the provided blanket. Keep the pod tidy so the next rider enjoys the same low‑impact experience.",
+    "pros": [
+      "Quiet, insulated space",
+      "Reusable bedding reduces waste",
+      "Solar lighting saves energy"
+    ],
+    "cons": [
+      "Limited interior width",
+      "Requires advance reservation",
+      "Less personal privacy than a cabin"
+    ],
+    "watchOut": "Verify the pod’s fire‑safety rating before you settle in.",
+    "faq": [
+      {
+        "q": "Do I need to bring my own pillow?",
+        "a": "A compact pillow is optional; the pod includes a thin cushion you can reuse."
+      },
+      {
+        "q": "How is the pod cleaned between passengers?",
+        "a": "Staff swap out the blanket and wipe surfaces with eco‑friendly cleaners after each use."
+      },
+      {
+        "q": "Can I power my devices inside the pod?",
+        "a": "Each pod has a USB port powered by the train’s solar system for low‑draw gadgets."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "sustainability"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-11-18T16:45:05.502Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "railway-refill-stations",
     "title": "Railway Refill Stations: Low‑Impact Water Planning on the Rails",
     "dek": "Learn how to keep hydrated sustainably on long train journeys with refill stations and reusable bottles.",

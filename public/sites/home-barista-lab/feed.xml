@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/home-barista-lab/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Master Microfoam: From Milk to Latte Art</title>
+      <link>https://www.beyondmythos.com/sites/home-barista-lab/posts/master-microfoam-tips.html</link>
+      <guid>https://www.beyondmythos.com/sites/home-barista-lab/posts/master-microfoam-tips.html</guid>
+      <pubDate>Wed, 18 Nov 2026 16:45:10 GMT</pubDate>
+      <description>Learn how to create silky microfoam at home for latte art that rivals café standards.</description>
+    </item>
+    <item>
       <title>Boost Espresso Consistency with Proper Portafilter Cleaning</title>
       <link>https://www.beyondmythos.com/sites/home-barista-lab/posts/boost-espresso-consistency-portafilter-cleaning.html</link>
       <guid>https://www.beyondmythos.com/sites/home-barista-lab/posts/boost-espresso-consistency-portafilter-cleaning.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/home-barista-lab/posts/espresso-foam-pitch-test.html</guid>
       <pubDate>Fri, 30 Oct 2026 22:45:14 GMT</pubDate>
       <description>A quick way to gauge milk texture consistency before pulling your next shot.</description>
-    </item>
-    <item>
-      <title>Boost Espresso Consistency with a Simple Tamping Pressure Test</title>
-      <link>https://www.beyondmythos.com/sites/home-barista-lab/posts/espresso-tamping-precision-check.html</link>
-      <guid>https://www.beyondmythos.com/sites/home-barista-lab/posts/espresso-tamping-precision-check.html</guid>
-      <pubDate>Fri, 30 Oct 2026 21:45:10 GMT</pubDate>
-      <description>A quick tactile test to keep your tamp pressure steady and your shots repeatable.</description>
     </item>
   </channel>
 </rss>
