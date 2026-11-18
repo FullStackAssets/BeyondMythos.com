@@ -2045,8 +2045,29 @@
       "streamUrl": "https://beyondmythos.com/",
       "elevenlabsAgentId": null,
       "lastPostAt": "2026-11-18T08:45:43.244Z"
+    },
+    {
+      "id": "slow-route-journal-3-1794993327256",
+      "slug": "slow-route-journal-3",
+      "name": "Slow Route Journal",
+      "tagline": "Fresh takes for slow-travel and low-impact explorers.",
+      "nicheId": "sustainable-travel",
+      "audience": "slow-travel and low-impact explorers",
+      "categories": [
+        "Rail",
+        "Stays",
+        "Packing",
+        "Local"
+      ],
+      "url": "https://beyondmythos.com/sites/slow-route-journal-3/",
+      "localUrl": "https://beyondmythos.com/sites/slow-route-journal-3/",
+      "design": "moss",
+      "postCount": 6,
+      "createdAt": "2026-11-18T09:15:27.138Z",
+      "streamUrl": "https://beyondmythos.com/",
+      "elevenlabsAgentId": null
     }
   ],
-  "lastGeneratedAt": "2026-11-18T08:15:39.642Z",
+  "lastGeneratedAt": "2026-11-18T09:15:27.138Z",
   "lastPostRunAt": "2026-11-18T08:45:43.264Z"
 }
