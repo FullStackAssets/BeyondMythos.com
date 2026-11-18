@@ -1,0 +1,308 @@
+[
+  {
+    "slug": "dialing-in-double-shot",
+    "title": "Dialing In a Double Shot",
+    "category": "Espresso",
+    "dek": "Fine‑tune grind and pressure to hit target volume and flavor balance.",
+    "takeaway": "Consistent dosing and pressure unlock repeatable espresso quality.",
+    "whatHappened": "You pull a double shot, notice it runs too fast and tastes thin. Adjusting the grind size and tamp pressure slows the flow, yielding richer body. A quick shot chart helps track changes.",
+    "whyItMatters": "Espresso is highly sensitive to small variables; small tweaks can swing a shot from sour to balanced. Understanding the cause‑and‑effect loop builds confidence for home baristas.",
+    "howToThink": "Start with a baseline grind, measure shot time, then adjust one variable at a time. Keep notes on dose, grind, pressure, and time to spot patterns.",
+    "pros": [
+      "Improves consistency",
+      "Enhances flavor clarity",
+      "Builds skill confidence"
+    ],
+    "cons": [
+      "Time‑consuming trial",
+      "Requires precise grinder",
+      "May need recalibration often"
+    ],
+    "watchOut": "Avoid over‑tightening the tamp, which can choke flow and create bitterness.",
+    "faq": [
+      {
+        "q": "What shot time should I aim for?",
+        "a": "A typical double shot ranges from 25 to 30 seconds, but taste is the final guide."
+      },
+      {
+        "q": "Do I need a scale?",
+        "a": "A scale helps keep dose consistent, especially when adjusting grind."
+      },
+      {
+        "q": "Can I use the same grind for single and double shots?",
+        "a": "Usually not; doubles often need a slightly finer setting to maintain pressure."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "tags": [
+      "espresso",
+      "technique"
+    ],
+    "publishedAt": "2026-11-18T07:15:45.669Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "bloom-timing-bright",
+    "title": "Bloom Timing for Bright Flavors",
+    "category": "Pour-over",
+    "dek": "Give coffee grounds a brief splash to release trapped CO₂ before brewing.",
+    "takeaway": "A controlled bloom improves extraction uniformity and accentuates acidity.",
+    "whatHappened": "During a pour‑over you notice muted brightness. Adding a 30‑second bloom with twice the coffee weight of water awakens the beans, resulting in a livelier cup. The method is simple yet often overlooked.",
+    "whyItMatters": "CO₂ pockets cause uneven water flow, leading to under‑extracted zones. Releasing gas early ensures water reaches all particles equally, sharpening flavor nuances.",
+    "howToThink": "Pour just enough hot water to wet grounds, wait 30‑45 seconds, then continue with the normal pour. Adjust bloom duration if the coffee smells overly sour or flat.",
+    "pros": [
+      "Enhances acidity",
+      "Improves overall balance",
+      "Easy to implement"
+    ],
+    "cons": [
+      "Adds a few seconds to brew",
+      "Requires precise water temperature",
+      "May over‑bloom delicate beans"
+    ],
+    "watchOut": "Too long a bloom can leach excess acids, making the cup harsh.",
+    "faq": [
+      {
+        "q": "What water temperature for bloom?",
+        "a": "Around 93 °C (200 °F) works for most beans."
+      },
+      {
+        "q": "Do I need a special kettle?",
+        "a": "A gooseneck kettle offers control but any steady pour works."
+      },
+      {
+        "q": "Can I skip bloom with pre‑ground coffee?",
+        "a": "Bloom still helps, though pre‑ground beans have less trapped CO₂."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "tags": [
+      "pour-over",
+      "extraction"
+    ],
+    "publishedAt": "2026-11-16T18:15:45.669Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "roaster-temp-curve",
+    "title": "Home Roaster Temperature Curve Basics",
+    "category": "Roasting",
+    "dek": "Map temperature vs. time to steer bean development and flavor.",
+    "takeaway": "A simple curve lets you repeat desired roast levels without guesswork.",
+    "whatHappened": "Your first home roast hit a bitter end because the bean temperature rose too quickly. Plotting a gentle ramp to first crack and then a slower rise produced a clean medium roast. Visualizing the curve makes adjustments intuitive.",
+    "whyItMatters": "Temperature drives Maillard reactions and caramelization; controlling the rate prevents scorching and under‑development. Consistent curves translate to predictable flavor profiles.",
+    "howToThink": "Start with a 5‑minute ramp to 150 °C, hold for a minute, then rise to 200 °C for the final stage. Record the curve and tweak ramp speeds based on taste.",
+    "pros": [
+      "Predictable results",
+      "Reduces burnt notes",
+      "Facilitates experimentation"
+    ],
+    "cons": [
+      "Requires thermometer or thermocouple",
+      "Learning curve for curve design",
+      "May need software for tracking"
+    ],
+    "watchOut": "Avoid sudden spikes; they can scorch the bean surface instantly.",
+    "faq": [
+      {
+        "q": "Do I need a PID controller?",
+        "a": "A PID helps maintain target temps but manual control can work for simple curves."
+      },
+      {
+        "q": "What’s first crack?",
+        "a": "A audible pop indicating beans have reached ~196 °C, signaling the start of light roasts."
+      },
+      {
+        "q": "Can I use the same curve for dark roasts?",
+        "a": "Dark roasts need a longer final stage or higher peak temperature."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "tags": [
+      "roasting",
+      "temperature"
+    ],
+    "publishedAt": "2026-11-15T05:15:45.669Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "pid-matters-espresso",
+    "title": "Why a PID Matters in Espresso Machines",
+    "category": "Gear",
+    "dek": "Stable temperature control is the backbone of consistent espresso extraction.",
+    "takeaway": "A PID eliminates temperature swings that sabotage flavor balance.",
+    "whatHappened": "You brew espresso with a machine lacking PID and notice fluctuating shot temperatures, resulting in alternating sour and bitter cups. Installing a PID locks the boiler at target temperature, delivering steadier shots.",
+    "whyItMatters": "Even a few degrees shift changes extraction speed and solubility, altering perceived acidity and body. Consistency lets you dial in grind and dose without chasing temperature drift.",
+    "howToThink": "Choose a machine with built-in PID or retrofit one. Set the brew temperature, let the machine stabilize, then proceed with your usual routine. Monitor with a thermometer to verify stability.",
+    "pros": [
+      "Consistent shot temperature",
+      "Better flavor repeatability",
+      "Reduces trial‑and‑error"
+    ],
+    "cons": [
+      "Higher upfront cost",
+      "May require technical setup",
+      "Adds another parameter to monitor"
+    ],
+    "watchOut": "Never set the PID too high; overheating can cause channeling and bitterness.",
+    "faq": [
+      {
+        "q": "Can I add a PID to any machine?",
+        "a": "Most traditional boilers can be retrofitted, but check compatibility first."
+      },
+      {
+        "q": "What temperature range is typical?",
+        "a": "Between 90 °C and 96 °C (194‑205 °F) for most espresso blends."
+      },
+      {
+        "q": "Does PID affect steam?",
+        "a": "Some units separate brew and steam circuits; PID usually controls brew only."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "tags": [
+      "gear",
+      "temperature"
+    ],
+    "publishedAt": "2026-11-13T16:15:45.669Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "cleaning-group-head",
+    "title": "Cleaning the Group Head Without a Blind Filter",
+    "category": "Espresso",
+    "dek": "A quick brush and backflush routine keeps the group head clear of coffee oils.",
+    "takeaway": "Regular, simple cleaning prevents channeling and flavor drift.",
+    "whatHappened": "After weeks of use, your espresso tastes flat. A quick backflush using a blind filter substitute—a tightly packed espresso puck—followed by a brush scrub restores flow and flavor without specialized tools.",
+    "whyItMatters": "Coffee oils accumulate in the group head, creating uneven pressure and stale taste. Simple maintenance extends machine life and ensures each shot starts from a clean slate.",
+    "howToThink": "After pulling a shot, lock the portafilter, run water through the group for a few seconds, then repeat with a tightly packed puck. Finish with a brief brush of the screen and gasket.",
+    "pros": [
+      "No extra hardware needed",
+      "Fast routine",
+      "Improves shot consistency"
+    ],
+    "cons": [
+      "Requires careful puck packing",
+      "May miss deep residues",
+      "Needs regular repetition"
+    ],
+    "watchOut": "Avoid using abrasive brushes that can damage the screen or gasket.",
+    "faq": [
+      {
+        "q": "How often should I clean?",
+        "a": "A quick routine after each session and a deeper clean weekly works well."
+      },
+      {
+        "q": "Can I use regular paper filters?",
+        "a": "Paper filters are too porous; a solid puck mimics a blind filter better."
+      },
+      {
+        "q": "Is backflushing safe for all machines?",
+        "a": "Most pump‑based machines tolerate it, but check the manufacturer’s guide."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "tags": [
+      "espresso",
+      "maintenance"
+    ],
+    "publishedAt": "2026-11-12T03:15:45.669Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "metal-vs-paper-filter",
+    "title": "Choosing the Right Filter: Metal vs Paper",
+    "category": "Pour-over",
+    "dek": "Each filter type shapes body, clarity, and cleanup ease differently.",
+    "takeaway": "Match filter material to desired cup profile and workflow.",
+    "whatHappened": "You switch from paper to a reusable metal filter and notice a fuller mouthfeel but slightly muted acidity. Understanding the trade‑offs helps you decide when to use each for specific beans or taste goals.",
+    "whyItMatters": "Paper traps fine oils, yielding a cleaner cup; metal allows oils through, adding body. The choice influences perceived strength, clarity, and even health considerations like paper residue.",
+    "howToThink": "Use metal for bold, chocolatey beans where body shines, and paper for bright, floral coffees where clarity matters. Keep metal filters well‑rinsed to avoid oil buildup.",
+    "pros": [
+      "Metal: reusable, richer body",
+      "Paper: clean cup, easy disposal",
+      "Both: simple to swap"
+    ],
+    "cons": [
+      "Metal: can retain oils",
+      "Paper: adds waste",
+      "Both: may affect brew time"
+    ],
+    "watchOut": "Never reuse a paper filter; it disintegrates and can release fibers into the brew.",
+    "faq": [
+      {
+        "q": "Does filter thickness matter?",
+        "a": "Thicker metal meshes slow flow, increasing extraction; thin meshes speed it up."
+      },
+      {
+        "q": "Can I compost used paper filters?",
+        "a": "Yes, most are biodegradable and safe for compost."
+      },
+      {
+        "q": "Do metal filters need seasoning?",
+        "a": "Rinsing with hot water before first use removes manufacturing residues."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "tags": [
+      "pour-over",
+      "filter"
+    ],
+    "publishedAt": "2026-11-10T14:15:45.669Z",
+    "readMinutes": 2
+  }
+]

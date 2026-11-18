@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Home Barista Lab</title>
+    <link>https://beyondmythos.com/sites/home-barista-lab-3/</link>
+    <description>Fresh takes for home coffee enthusiasts.</description>
+    <item>
+      <title>Dialing In a Double Shot</title>
+      <link>https://beyondmythos.com/sites/home-barista-lab-3/posts/dialing-in-double-shot.html</link>
+      <guid>https://beyondmythos.com/sites/home-barista-lab-3/posts/dialing-in-double-shot.html</guid>
+      <pubDate>Wed, 18 Nov 2026 07:15:45 GMT</pubDate>
+      <description>Fine‑tune grind and pressure to hit target volume and flavor balance.</description>
+    </item>
+    <item>
+      <title>Bloom Timing for Bright Flavors</title>
+      <link>https://beyondmythos.com/sites/home-barista-lab-3/posts/bloom-timing-bright.html</link>
+      <guid>https://beyondmythos.com/sites/home-barista-lab-3/posts/bloom-timing-bright.html</guid>
+      <pubDate>Mon, 16 Nov 2026 18:15:45 GMT</pubDate>
+      <description>Give coffee grounds a brief splash to release trapped CO₂ before brewing.</description>
+    </item>
+    <item>
+      <title>Home Roaster Temperature Curve Basics</title>
+      <link>https://beyondmythos.com/sites/home-barista-lab-3/posts/roaster-temp-curve.html</link>
+      <guid>https://beyondmythos.com/sites/home-barista-lab-3/posts/roaster-temp-curve.html</guid>
+      <pubDate>Sun, 15 Nov 2026 05:15:45 GMT</pubDate>
+      <description>Map temperature vs. time to steer bean development and flavor.</description>
+    </item>
+    <item>
+      <title>Why a PID Matters in Espresso Machines</title>
+      <link>https://beyondmythos.com/sites/home-barista-lab-3/posts/pid-matters-espresso.html</link>
+      <guid>https://beyondmythos.com/sites/home-barista-lab-3/posts/pid-matters-espresso.html</guid>
+      <pubDate>Fri, 13 Nov 2026 16:15:45 GMT</pubDate>
+      <description>Stable temperature control is the backbone of consistent espresso extraction.</description>
+    </item>
+    <item>
+      <title>Cleaning the Group Head Without a Blind Filter</title>
+      <link>https://beyondmythos.com/sites/home-barista-lab-3/posts/cleaning-group-head.html</link>
+      <guid>https://beyondmythos.com/sites/home-barista-lab-3/posts/cleaning-group-head.html</guid>
+      <pubDate>Thu, 12 Nov 2026 03:15:45 GMT</pubDate>
+      <description>A quick brush and backflush routine keeps the group head clear of coffee oils.</description>
+    </item>
+    <item>
+      <title>Choosing the Right Filter: Metal vs Paper</title>
+      <link>https://beyondmythos.com/sites/home-barista-lab-3/posts/metal-vs-paper-filter.html</link>
+      <guid>https://beyondmythos.com/sites/home-barista-lab-3/posts/metal-vs-paper-filter.html</guid>
+      <pubDate>Tue, 10 Nov 2026 14:15:45 GMT</pubDate>
+      <description>Each filter type shapes body, clarity, and cleanup ease differently.</description>
+    </item>
+  </channel>
+</rss>
