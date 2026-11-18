@@ -1,5 +1,56 @@
 [
   {
+    "slug": "boost-espresso-crema-consistency-water-temp-chec",
+    "title": "Boost Your Espresso Crema Consistency with a Simple Water Temperature Check",
+    "dek": "A quick water temperature tweak can transform your crema from thin to velvety in minutes.",
+    "takeaway": "Consistent brew water temperature is the hidden lever for richer crema.",
+    "whatHappened": "I noticed my espresso shots had a pale, short-lived crema despite using the same beans and grind. A quick check revealed the machine’s thermostat was off by a few degrees. Adjusting the temperature restored a thick, caramel-colored crema.",
+    "whyItMatters": "Crema quality signals proper extraction and impacts flavor perception. Temperature swings can cause under‑extraction, leading to thin crema and sour notes. Keeping water temperature steady ensures repeatable taste and visual appeal.",
+    "howToThink": "Treat water temperature as a baseline, not a guess. Use a thermometer or the machine’s built‑in readout to confirm it sits near the optimal range. If it drifts, recalibrate or allow the machine to fully heat before pulling shots.",
+    "pros": [
+      "Richer crema",
+      "More consistent flavor",
+      "Simple low‑cost tweak"
+    ],
+    "cons": [
+      "Requires occasional temperature check",
+      "May need thermostat adjustment",
+      "Not a fix for other extraction issues"
+    ],
+    "watchOut": "Avoid overheating, as too high a temperature can scorch the coffee and produce bitter crema.",
+    "faq": [
+      {
+        "q": "What is the ideal brew water temperature for espresso?",
+        "a": "Around 93 °C (200 °F) is a common target, but a few degrees up or down can be fine depending on the bean."
+      },
+      {
+        "q": "How can I measure the temperature without a thermometer?",
+        "a": "Many home machines display the temperature; otherwise, a quick dip of a food‑grade thermometer into the boiler water after a purge works."
+      },
+      {
+        "q": "Will changing temperature affect my grind size?",
+        "a": "It can shift extraction balance, so you may need minor grind tweaks after a temperature adjustment."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "crema",
+      "temperature"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-11-18T01:45:09.314Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "clean-group-head",
     "title": "Clean Your Espresso Group Head with a Simple Brush Routine",
     "dek": "A quick brush clean keeps your group head flowing and your shots tasting sharp.",

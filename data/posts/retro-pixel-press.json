@@ -1,5 +1,56 @@
 [
   {
+    "slug": "restoring-snes-controller-buttons",
+    "title": "Pixel Boost: Restoring SNES Controller Buttons for Tactile Precision",
+    "dek": "Give your SNES controller a crisp, clicky feel without breaking the bank.",
+    "takeaway": "A simple button restoration revives responsiveness and prolongs the console’s lifespan.",
+    "whatHappened": "After years of heavy button mashing, the SNES controller’s rubber pads dulled and the clicks grew mushy. A quick disassembly revealed oxidized contacts and worn pads. Replacing the pads and cleaning the contacts brought the original snap back.",
+    "whyItMatters": "A responsive controller is essential for precision platforming and competitive speedruns, where split‑second inputs matter. Restoring hardware also reduces e‑waste by keeping classic gear functional. Collectors appreciate a well‑maintained feel that matches the era’s authenticity.",
+    "howToThink": "Start by documenting the button layout before removal. Use isopropyl alcohol and a soft brush to clean contacts, then install aftermarket silicone pads for consistent pressure. Reassemble carefully, testing each button before sealing the shell.",
+    "pros": [
+      "Restores original feel",
+      "Low cost solution",
+      "Extends controller life"
+    ],
+    "cons": [
+      "Requires tiny screwdrivers",
+      "Potential for lost screws",
+      "Time‑consuming for novices"
+    ],
+    "watchOut": "Avoid applying excessive force on the plastic hinges—they can crack under pressure.",
+    "faq": [
+      {
+        "q": "Do I need a soldering iron?",
+        "a": "No, the SNES controller uses pressure‑contact pads, so cleaning and pad replacement are solder‑free."
+      },
+      {
+        "q": "Can I use generic silicone pads?",
+        "a": "Yes, any thin silicone sheet cut to size works, but ensure it’s non‑conductive."
+      },
+      {
+        "q": "How often should I service the controller?",
+        "a": "A quick clean every few years keeps the contacts fresh, especially if you game frequently."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "controller",
+      "maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-11-18T01:45:05.138Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-preservation-55",
     "title": "The quiet upgrade: small tweaks in preservation with outsized returns",
     "dek": "No purchases, no overhauls — the modest preservation adjustments that retro game collectors and speedrunners report mattering most.",

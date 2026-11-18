@@ -1,5 +1,56 @@
 [
   {
+    "slug": "eco-friendly-train-spotting-2",
+    "title": "Eco-Friendly Train Spotting: Low-Impact Wildlife Watching on the Rails",
+    "dek": "Discover how to turn a rail journey into a low-impact wildlife safari, with tips for quiet observation and minimal footprint.",
+    "takeaway": "You can enjoy rail travel while spotting local fauna without disturbing the environment.",
+    "whatHappened": "On a recent weekend trip from Zurich to Milan, I kept my eyes peeled for the alpine marmots and migratory birds that frequent the valley tracks. By sitting in a quiet car and using a simple field guide, I logged several sightings without stepping off the train.",
+    "whyItMatters": "Rail routes often cross biodiverse habitats, offering rare chances to observe wildlife from a low-impact platform. Engaging with these moments deepens travelers' connection to place and reinforces the ethos of gentle exploration.",
+    "howToThink": "Plan ahead by researching the species that inhabit the corridor you'll traverse. Bring a compact binoculars or a smartphone app for identification, and keep noise to a minimum. Record notes or sketches to cement the experience without leaving waste.",
+    "pros": [
+      "Zero emissions observation",
+      "Easy to fit into any itinerary",
+      "Enhances environmental awareness"
+    ],
+    "cons": [
+      "Limited visibility in tunnels",
+      "Requires prior research",
+      "May miss nocturnal species"
+    ],
+    "watchOut": "Avoid disturbing animals by staying seated and keeping windows closed in sensitive zones.",
+    "faq": [
+      {
+        "q": "Can I spot wildlife from any train?",
+        "a": "Visibility varies; open-window regional services and scenic routes offer the best chances."
+      },
+      {
+        "q": "Do I need special equipment?",
+        "a": "A small pair of binoculars and a field guide or app are sufficient."
+      },
+      {
+        "q": "Is it legal to photograph animals from the train?",
+        "a": "Yes, as long as you respect privacy rules and avoid flash that could startle the wildlife."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "wildlife",
+      "rail"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-11-18T01:45:08.000Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-car-chronicles",
     "title": "Quiet Car Chronicles: Low-Impact Reading on the Rails",
     "dek": "Discover how the quiet car turns a train ride into a low-impact reading retreat for slow travelers.",
