@@ -2265,8 +2265,29 @@
       "streamUrl": "https://beyondmythos.com/",
       "elevenlabsAgentId": null,
       "lastPostAt": "2026-11-18T18:45:45.777Z"
+    },
+    {
+      "id": "hive-mind-herald-2-1795029326500",
+      "slug": "hive-mind-herald-2",
+      "name": "Hive Mind Herald",
+      "tagline": "Fresh takes for backyard beekeepers.",
+      "nicheId": "beekeeping",
+      "audience": "backyard beekeepers",
+      "categories": [
+        "Hives",
+        "Seasons",
+        "Health",
+        "Harvest"
+      ],
+      "url": "https://beyondmythos.com/sites/hive-mind-herald-2/",
+      "localUrl": "https://beyondmythos.com/sites/hive-mind-herald-2/",
+      "design": "cinema",
+      "postCount": 6,
+      "createdAt": "2026-11-18T19:15:26.354Z",
+      "streamUrl": "https://beyondmythos.com/",
+      "elevenlabsAgentId": null
     }
   ],
-  "lastGeneratedAt": "2026-11-18T18:15:42.204Z",
+  "lastGeneratedAt": "2026-11-18T19:15:26.354Z",
   "lastPostRunAt": "2026-11-18T18:45:45.786Z"
 }
