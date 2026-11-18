@@ -1,5 +1,56 @@
 [
   {
+    "slug": "optimize-espresso-preinfusion",
+    "title": "Master Pre‑infusion Timing for Consistent Espresso Shots",
+    "dek": "Fine‑tune your pre‑infusion to smooth out pressure spikes and boost shot uniformity.",
+    "takeaway": "A few seconds of controlled pre‑infusion can level extraction and improve flavor balance.",
+    "whatHappened": "I noticed my espresso sometimes tasted thin or overly bitter, even with the same beans and grind. By adding a brief, low‑pressure pre‑infusion before the full pump, the shot became richer and more consistent.",
+    "whyItMatters": "Pre‑infusion lets water saturate the puck evenly, reducing channeling and balancing extraction across the coffee bed. Consistent saturation translates to steadier flavor and crema.",
+    "howToThink": "Start with a 2‑second pause at about 30% pump pressure, then ramp to full pressure. Adjust the pause by a second up or down until you see a smooth flow and balanced taste.",
+    "pros": [
+      "More even extraction",
+      "Improved crema stability",
+      "Easier to dial in recipes"
+    ],
+    "cons": [
+      "Adds a step to the routine",
+      "May require pressure‑adjustable machine",
+      "Too long pause can over‑extract"
+    ],
+    "watchOut": "Avoid extending pre‑infusion beyond a few seconds, or you’ll risk soggy grounds and muted acidity.",
+    "faq": [
+      {
+        "q": "Do I need a machine with programmable pressure?",
+        "a": "A machine that lets you control pressure or pause the pump is ideal, but many home units can be manually timed with a stop‑watch."
+      },
+      {
+        "q": "Can I use pre‑infusion with a standard portafilter?",
+        "a": "Yes, the technique works with any portafilter; just control the pump or use a flow‑restrictor if needed."
+      },
+      {
+        "q": "How often should I adjust pre‑infusion time?",
+        "a": "Re‑evaluate whenever you change beans, grind size, or dose, as each variable shifts the optimal pause."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "technique"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-11-18T03:45:08.122Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-pour-over-mistakes-53",
     "title": "Five mistakes everyone makes in their first month of pour-over",
     "dek": "The most common early stumbles in pour-over, and the cheap corrections that fix them for home coffee enthusiasts.",

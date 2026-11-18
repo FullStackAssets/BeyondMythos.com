@@ -1,5 +1,56 @@
 [
   {
+    "slug": "balcony-strawberry-surge",
+    "title": "Balcony Strawberry Surge: Sweet Harvest in Small Spaces",
+    "dek": "Turn your balcony into a berry haven with simple tricks for a juicy strawberry harvest.",
+    "takeaway": "You can grow tasty strawberries on a balcony with minimal space and effort.",
+    "whatHappened": "We set out a few strawberry runners in lightweight fabric pots on a sunny balcony during early spring. Within weeks the plants sent out runners and began flowering, hinting at a promising harvest.",
+    "whyItMatters": "Fresh strawberries cut down grocery trips and add a burst of vitamin‑rich fruit to apartment life. Growing them at home also adds color and a sensory boost to compact outdoor spaces.",
+    "howToThink": "Choose ever‑bearing or day‑neutral varieties that fruit repeatedly. Use a container at least 12 inches deep with well‑draining mix, and keep soil evenly moist but not soggy. Position the pots where they get 6‑8 hours of sun and feed with a balanced liquid fertilizer every few weeks.",
+    "pros": [
+      "Fresh flavor",
+      "Compact footprint",
+      "Boosts mood"
+    ],
+    "cons": [
+      "Limited yield",
+      "Seasonal",
+      "Requires regular watering"
+    ],
+    "watchOut": "Avoid water‑logged soil, which can rot roots and invite fungal problems.",
+    "faq": [
+      {
+        "q": "Do I need a special pot for strawberries?",
+        "a": "A lightweight, breathable fabric or plastic pot with drainage holes works fine."
+      },
+      {
+        "q": "How often should I water?",
+        "a": "Keep the soil consistently moist, watering when the top inch feels dry."
+      },
+      {
+        "q": "Can I grow strawberries indoors?",
+        "a": "They need plenty of direct sunlight, so a sunny balcony is usually the best spot."
+      }
+    ],
+    "category": "Seasonal",
+    "tags": [
+      "Seasonal",
+      "Strawberries"
+    ],
+    "sources": [
+      {
+        "label": "r/houseplants community threads",
+        "url": "https://www.reddit.com/r/houseplants/"
+      },
+      {
+        "label": "Search interest: \"small space vegetables\"",
+        "url": "https://duckduckgo.com/?q=small%20space%20vegetables"
+      }
+    ],
+    "publishedAt": "2026-11-18T03:45:06.027Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-urbangardening-19",
     "title": "Community pulse: what r/UrbanGardening is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the seasonal community this week.",
