@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-boost-repairing-nes-controller-dpad-spring",
+    "title": "Pixel Boost: Reinforcing NES Controller D‑Pad Springs for Tighter Turns",
+    "dek": "A quick guide to strengthen the D‑Pad springs in your classic NES controller, restoring crisp directional input for both collectors and speedrunners.",
+    "takeaway": "Tightening the D‑Pad springs revives precise movement without expensive replacements.",
+    "whatHappened": "We discovered a common wobble in many aging NES controllers caused by fatigued D‑Pad springs, leading to sloppy inputs during fast runs. A simple spring reinforcement restores the original feel.",
+    "whyItMatters": "Precise D‑Pad control can shave crucial frames in platformers and is a hallmark of well‑preserved hardware. Maintaining original components also keeps the console's authenticity for collectors.",
+    "howToThink": "First, open the controller and assess the spring condition, then add a thin stainless‑steel shim or replace with a matching spring. Reassemble carefully, testing each direction. This low‑cost tweak avoids a full controller replacement.",
+    "pros": [
+      "Restores original feel",
+      "Cost‑effective",
+      "Extends controller life"
+    ],
+    "cons": [
+      "Requires soldering skill",
+      "Potential void of warranty",
+      "Risk of over‑tightening"
+    ],
+    "watchOut": "Avoid compressing the springs too much, which can make the D‑Pad stiff and damage the housing.",
+    "faq": [
+      {
+        "q": "Do I need a soldering iron?",
+        "a": "A fine‑tip soldering iron helps secure the shim, but many users succeed with just a press‑fit if the spring is sturdy."
+      },
+      {
+        "q": "Can I use any metal shim?",
+        "a": "A thin stainless‑steel shim works best; avoid soft metals that may deform under pressure."
+      },
+      {
+        "q": "Will this affect the controller's resale value?",
+        "a": "A well‑documented, reversible modification is generally accepted by collectors and can even boost value if done cleanly."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "NES",
+      "Controller"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-11-18T02:45:09.888Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "restoring-snes-controller-buttons",
     "title": "Pixel Boost: Restoring SNES Controller Buttons for Tactile Precision",
     "dek": "Give your SNES controller a crisp, clicky feel without breaking the bank.",
