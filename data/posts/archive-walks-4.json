@@ -1,0 +1,308 @@
+[
+  {
+    "slug": "walking-through-town-archives",
+    "title": "Walking Through Town Archives: A Hands‑On Guide",
+    "category": "Archives",
+    "dek": "Explore how a simple stroll can uncover hidden municipal records and spark community stories.",
+    "takeaway": "A short walk in your town hall's archive can reveal untapped narratives for any local historian.",
+    "whatHappened": "A group of volunteers organized a 30‑minute walk‑through of the city’s historical records room, noting the layout and accessibility of key collections. They documented the experience with photos and brief notes on each shelf.",
+    "whyItMatters": "Understanding the physical arrangement of archives helps archivists improve signage and researchers locate material faster. It also encourages casual visitors to engage with primary sources they might otherwise ignore.",
+    "howToThink": "Treat the archive like a neighborhood: start at the entrance, identify landmarks such as the newspaper microfilm, and map your route. Bring a notebook to record aisle numbers and any barriers you encounter, then share the map with your local history group.",
+    "pros": [
+      "Boosts discoverability",
+      "Encourages community involvement",
+      "Low cost"
+    ],
+    "cons": [
+      "Time‑limited access",
+      "Potential for overcrowding",
+      "Requires coordination"
+    ],
+    "watchOut": "Check the archive’s opening hours and any photography restrictions before you go.",
+    "faq": [
+      {
+        "q": "Do I need an appointment?",
+        "a": "Many public archives allow walk‑ins, but a quick call can prevent surprises."
+      },
+      {
+        "q": "Can I take photos of documents?",
+        "a": "Policies vary; some allow non‑flash photography while others require a request."
+      },
+      {
+        "q": "What should I bring?",
+        "a": "A notebook, pen, and a reusable bag for any handouts or flyers."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/AskHistorians community threads",
+        "url": "https://www.reddit.com/r/AskHistorians/"
+      },
+      {
+        "label": "Search interest: \"local history research\"",
+        "url": "https://duckduckgo.com/?q=local%20history%20research"
+      }
+    ],
+    "tags": [
+      "archive-tour",
+      "community"
+    ],
+    "publishedAt": "2026-11-18T15:16:12.844Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "mapping-heritage-sites",
+    "title": "Mapping Heritage Sites for Walkable History",
+    "category": "Maps",
+    "dek": "Turn old maps into modern routes that guide walkers through a town’s historic landmarks.",
+    "takeaway": "Layering historic maps onto current GIS tools creates walkable heritage trails anyone can follow.",
+    "whatHappened": "A local history club digitized a 19th‑century plat map and overlaid it onto a contemporary street map. They marked former factories, schools, and churches, then printed a printable route.",
+    "whyItMatters": "Visualizing past structures in present geography helps residents see how the built environment evolved. It also provides a concrete framework for storytelling walks.",
+    "howToThink": "Start with a clear, high‑resolution historic map, georeference it in free GIS software, and trace key points of interest. Export the route as a PDF or share it via a mobile map app for easy navigation.",
+    "pros": [
+      "Clear visual context",
+      "Reusable for multiple tours",
+      "Free tools available"
+    ],
+    "cons": [
+      "Requires basic GIS skill",
+      "Historic maps may be incomplete",
+      "Potential copyright limits"
+    ],
+    "watchOut": "Ensure the historic map is in the public domain or that you have permission to reproduce it.",
+    "faq": [
+      {
+        "q": "Which software is best for beginners?",
+        "a": "QGIS offers a user‑friendly interface and extensive tutorials."
+      },
+      {
+        "q": "How accurate are old maps?",
+        "a": "They often lack precise scale, so treat them as guides rather than exact measurements."
+      },
+      {
+        "q": "Can I share the map publicly?",
+        "a": "Yes, if the source material is public domain or you have clearance."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/Genealogy community threads",
+        "url": "https://www.reddit.com/r/Genealogy/"
+      },
+      {
+        "label": "Search interest: \"old map archives\"",
+        "url": "https://duckduckgo.com/?q=old%20map%20archives"
+      }
+    ],
+    "tags": [
+      "heritage-maps",
+      "walks"
+    ],
+    "publishedAt": "2026-11-17T02:16:12.844Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "landmark-archives-tour",
+    "title": "Landmark Archives Tour: From Pillars to Papers",
+    "category": "Landmarks",
+    "dek": "Combine a walking tour of historic buildings with on‑site archival research for a richer experience.",
+    "takeaway": "Visiting a landmark and its associated records in one trip deepens contextual understanding.",
+    "whatHappened": "A small group visited the old railway depot, then entered the nearby municipal archive to examine original timetables and construction permits. They matched physical features of the building with archival sketches.",
+    "whyItMatters": "Seeing the physical site alongside its documentary evidence bridges the gap between tangible heritage and paper trails. It also highlights gaps in the archival record that can guide future collection efforts.",
+    "howToThink": "Identify a landmark, locate its related files in the nearest archive, and schedule a back‑to‑back visit. Take photos of the building, then compare them with plans or photographs from the archive.",
+    "pros": [
+      "Creates vivid narrative",
+      "Highlights archival gaps",
+      "Engages multiple senses"
+    ],
+    "cons": [
+      "Logistics can be tricky",
+      "May need permission for interior access",
+      "Time constraints"
+    ],
+    "watchOut": "Confirm that the archive holds records for the specific landmark before planning the trip.",
+    "faq": [
+      {
+        "q": "Do I need special permission to photograph the building?",
+        "a": "Public exteriors are generally fine, but interior shots may need consent."
+      },
+      {
+        "q": "What if the archive lacks the records?",
+        "a": "Contact the archivist ahead of time; they may suggest alternate collections."
+      },
+      {
+        "q": "How long should the combined visit last?",
+        "a": "Allocate at least an hour for the building and another hour for the archive."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/urbanexploration community threads",
+        "url": "https://www.reddit.com/r/urbanexploration/"
+      },
+      {
+        "label": "Search interest: \"community archive project\"",
+        "url": "https://duckduckgo.com/?q=community%20archive%20project"
+      }
+    ],
+    "tags": [
+      "landmark-walk",
+      "archives"
+    ],
+    "publishedAt": "2026-11-15T13:16:12.844Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "researching-oral-histories-on-foot",
+    "title": "Researching Oral Histories on Foot: A Field‑Work Blueprint",
+    "category": "Research",
+    "dek": "Use a walking route to interview long‑time residents and capture stories tied to specific sites.",
+    "takeaway": "Walking while interviewing anchors memories to place, making oral histories more vivid and verifiable.",
+    "whatHappened": "A researcher plotted a 2‑mile loop through the historic district and stopped at five key intersections to record short interviews with longtime shop owners. Each stop was logged with GPS coordinates and a brief description of the site’s past use.",
+    "whyItMatters": "Linking personal recollections to precise locations adds spatial depth to oral histories, aiding future scholars and mapmakers. It also encourages participants to recall details tied to familiar surroundings.",
+    "howToThink": "Plan a route, obtain consent for recordings, and carry a portable recorder or smartphone. After each interview, note the address, current landmark, and any visible remnants of the story told.",
+    "pros": [
+      "Adds spatial context",
+      "Engages interviewees actively",
+      "Creates reusable data set"
+    ],
+    "cons": [
+      "Weather dependent",
+      "Requires consent forms",
+      "May need repeat visits"
+    ],
+    "watchOut": "Respect privacy; avoid recording on private property without explicit permission.",
+    "faq": [
+      {
+        "q": "Do I need a formal release form?",
+        "a": "A simple consent statement covering recording and future use is advisable."
+      },
+      {
+        "q": "What equipment is recommended?",
+        "a": "A smartphone with a good microphone or a handheld digital recorder works well."
+      },
+      {
+        "q": "How many interviews can I fit into a short walk?",
+        "a": "Aim for 3‑5 concise interviews to keep the walk manageable."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/AskHistorians community threads",
+        "url": "https://www.reddit.com/r/AskHistorians/"
+      },
+      {
+        "label": "Search interest: \"local history research\"",
+        "url": "https://duckduckgo.com/?q=local%20history%20research"
+      }
+    ],
+    "tags": [
+      "oral-history",
+      "fieldwork"
+    ],
+    "publishedAt": "2026-11-14T00:16:12.844Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "digitizing-archives-on-walks",
+    "title": "Digitizing Archives on Walks: Portable Scanning Strategies",
+    "category": "Archives",
+    "dek": "Turn a regular archive visit into a mobile digitization session with lightweight tools.",
+    "takeaway": "Portable scanners let archivists capture fragile documents on site, reducing the need for later trips.",
+    "whatHappened": "An archivist equipped a tablet‑based scanner and a small tripod for a scheduled walk‑through of a regional history center’s photo collection. Over the course of the visit, they digitized ten high‑resolution images while noting preservation concerns.",
+    "whyItMatters": "Immediate digitization curtails handling time and preserves content before further wear occurs. It also accelerates the workflow for making materials available online.",
+    "howToThink": "Select a lightweight scanner, test its lighting in the archive’s ambient conditions, and set a clear naming convention before you start. Scan only what the archive’s policy permits and log each file’s location.",
+    "pros": [
+      "Reduces handling",
+      "Speeds up access",
+      "Low equipment cost"
+    ],
+    "cons": [
+      "Battery limits",
+      "May need permission",
+      "File management overhead"
+    ],
+    "watchOut": "Always follow the archive’s digitization policy to avoid copyright or preservation issues.",
+    "faq": [
+      {
+        "q": "Can I scan directly onto a USB drive?",
+        "a": "Yes, many portable scanners support external storage for quick transfer."
+      },
+      {
+        "q": "What resolution is sufficient for archival photos?",
+        "a": "300 dpi is a common baseline for preserving detail without excessive file size."
+      },
+      {
+        "q": "Do I need special lighting?",
+        "a": "Natural or soft LED lighting works well; avoid harsh glare that can obscure text."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/Genealogy community threads",
+        "url": "https://www.reddit.com/r/Genealogy/"
+      },
+      {
+        "label": "Search interest: \"old map archives\"",
+        "url": "https://duckduckgo.com/?q=old%20map%20archives"
+      }
+    ],
+    "tags": [
+      "digitization",
+      "mobile"
+    ],
+    "publishedAt": "2026-11-12T11:16:12.844Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "community-archival-trail-planning",
+    "title": "Community Archival Trail Planning: Steps for a Sustainable Walk",
+    "category": "Maps",
+    "dek": "Build a collaborative trail that links local archives, historic sites, and community stories.",
+    "takeaway": "A co‑created trail fosters ownership and ensures the walk reflects diverse local histories.",
+    "whatHappened": "A neighborhood association hosted a planning workshop, inviting archivists, residents, and school teachers to map out points of interest. Together they drafted a trail that visits three archives, two historic homes, and a former market square.",
+    "whyItMatters": "Involving stakeholders creates a trail that resonates with a broad audience and highlights under‑represented narratives. It also provides a framework for future events and educational programs.",
+    "howToThink": "Start with a brainstorming session to list potential stops, then prioritize based on accessibility and story richness. Use a simple mapping tool to plot the route, and assign a point‑person for each location’s upkeep.",
+    "pros": [
+      "Broad community buy‑in",
+      "Highlights varied histories",
+      "Easy to update"
+    ],
+    "cons": [
+      "Requires coordination",
+      "Potential for conflicting priorities",
+      "Maintenance needed"
+    ],
+    "watchOut": "Keep the trail’s length manageable to maintain interest and avoid fatigue.",
+    "faq": [
+      {
+        "q": "How many stops are ideal for a casual walk?",
+        "a": "Four to six stops keep the experience engaging without becoming a marathon."
+      },
+      {
+        "q": "Can I include virtual stops?",
+        "a": "Yes, QR codes linking to online archives add flexibility."
+      },
+      {
+        "q": "What signage is recommended?",
+        "a": "Simple, weather‑proof signs with a brief description and QR code work well."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/urbanexploration community threads",
+        "url": "https://www.reddit.com/r/urbanexploration/"
+      },
+      {
+        "label": "Search interest: \"community archive project\"",
+        "url": "https://duckduckgo.com/?q=community%20archive%20project"
+      }
+    ],
+    "tags": [
+      "trail-planning",
+      "community"
+    ],
+    "publishedAt": "2026-11-10T22:16:12.844Z",
+    "readMinutes": 2
+  }
+]
