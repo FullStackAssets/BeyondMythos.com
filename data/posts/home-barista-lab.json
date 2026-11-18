@@ -1,5 +1,56 @@
 [
   {
+    "slug": "dial-in-espresso-dose-2",
+    "title": "Dial In Your Espresso Dose for Consistent Flavor",
+    "dek": "A quick guide to finding the right coffee dose so every shot hits the sweet spot.",
+    "takeaway": "The right dose is the backbone of repeatable espresso quality.",
+    "whatHappened": "You noticed that two otherwise identical shots tasted different, and the culprit turned out to be a small shift in the amount of coffee you packed. Even a few grams can swing the balance between bright and bitter. Adjusting the dose back to a consistent target restored the flavor you expect.",
+    "whyItMatters": "Espresso is a finely balanced extraction; dose directly influences brew ratio, pressure, and flow. Consistency in dose removes one major source of variability, letting you fine‑tune other parameters with confidence. It also helps you compare beans without the noise of changing coffee amounts.",
+    "howToThink": "Treat the dose like a baseline rather than a fixed rule—measure, record, and repeat. Start with a common range (e.g., 18‑20 g for a double) and adjust in small increments while tasting. Keep a simple log so you can see how flavor shifts as the gram count changes.",
+    "pros": [
+      "Better flavor balance",
+      "More repeatable shots",
+      "Simplifies dialing in"
+    ],
+    "cons": [
+      "Requires a scale",
+      "May need grinder adjustment",
+      "Adds another variable to track"
+    ],
+    "watchOut": "Avoid over‑dosing, which can choke the flow and produce harsh, over‑extracted coffee.",
+    "faq": [
+      {
+        "q": "Do I need a digital scale for dosing?",
+        "a": "A reliable scale is the easiest way to hit the same gram count every time and is worth the modest investment."
+      },
+      {
+        "q": "How often should I re‑calibrate my dose?",
+        "a": "Check it whenever you change beans, adjust the grinder, or notice a flavor shift in your shots."
+      },
+      {
+        "q": "Can I use a scoop instead of a scale?",
+        "a": "Spoons are too inconsistent for espresso; a scale ensures the precision needed for repeatable results."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "dose"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-11-18T10:45:05.930Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "timing-the-pull-stopwatch",
     "title": "Timing the Pull: Use a Stopwatch for Better Espresso Consistency",
     "dek": "A quick guide to using a simple stopwatch to fine‑tune your espresso extraction and boost flavor consistency.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "sunset-platform-picnics",
+    "title": "Sunset Platform Picnics: Low‑Impact Dining on the Rails",
+    "dek": "Turn a train stop into a low‑impact sunset feast without a hotel bill.",
+    "takeaway": "A simple snack on the platform can enrich your journey while keeping your carbon footprint tiny.",
+    "whatHappened": "I pulled the train into a small rural station just as the sun dipped behind the hills. With a reusable container, a few locally sourced treats, and a folding blanket, I settled on the platform and ate while the world softened to dusk.",
+    "whyItMatters": "Eating on the platform reduces the need for extra meals in stations or restaurants, cutting waste and supporting nearby producers when you buy local. It also transforms idle waiting time into a memorable, sensory experience.",
+    "howToThink": "Scout stations ahead of time via timetables, look for benches or low walls, and pack a compact, zero‑waste snack. Bring a lightweight blanket for comfort, and be mindful of train schedules so you can re‑board safely.",
+    "pros": [
+      "Zero extra travel cost",
+      "Supports local food vendors",
+      "Creates a unique memory"
+    ],
+    "cons": [
+      "Weather dependent",
+      "Limited seating options",
+      "Requires planning"
+    ],
+    "watchOut": "Make sure you’re clear of the platform edge and that the train isn’t scheduled to depart while you’re eating.",
+    "faq": [
+      {
+        "q": "Can I bring hot food on a platform?",
+        "a": "Yes, as long as it’s in a sealed container and you clean up any spills promptly."
+      },
+      {
+        "q": "What if the train arrives early?",
+        "a": "Keep an eye on the arrival board and set a phone alarm a few minutes before the expected time."
+      },
+      {
+        "q": "Is it okay to use a portable stove?",
+        "a": "Generally no; open flames are prohibited on platforms for safety reasons."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "snack",
+      "sunset"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-11-18T10:45:05.122Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "cafe-car-conversations",
     "title": "Café Car Conversations: Low‑Impact Socializing on the Rails",
     "dek": "Discover how to turn your train carriage into a friendly hub without leaving a carbon footprint.",

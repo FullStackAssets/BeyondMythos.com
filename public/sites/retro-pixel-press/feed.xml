@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Swapping SNES Power Supply for Stable Voltage</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/snes-power-supply-swap.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/snes-power-supply-swap.html</guid>
+      <pubDate>Wed, 18 Nov 2026 10:45:06 GMT</pubDate>
+      <description>Give your Super Nintendo a reliable power source with a simple supply swap that eliminates flicker and resets.</description>
+    </item>
+    <item>
       <title>Retro Glow: Simple CRT Calibration for Authentic Arcade Feel</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/crt-calibration-quickfix.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/crt-calibration-quickfix.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/replace-master-system-power-switch.html</guid>
       <pubDate>Fri, 30 Oct 2026 17:45:14 GMT</pubDate>
       <description>Swap the aging power switch on your Master System for a snappier, more reliable startup.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Replacing Mega Drive Cartridge Edge Connectors for Faster Loading</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-replace-mega-drive-cartridge-edges.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-replace-mega-drive-cartridge-edges.html</guid>
-      <pubDate>Fri, 30 Oct 2026 16:45:15 GMT</pubDate>
-      <description>Swap out old Mega Drive cartridge edge contacts for a reliable link, shaving seconds off load times for your speed runs.</description>
     </item>
   </channel>
 </rss>

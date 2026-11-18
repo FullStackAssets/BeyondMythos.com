@@ -1,5 +1,56 @@
 [
   {
+    "slug": "snes-power-supply-swap",
+    "title": "Pixel Boost: Swapping SNES Power Supply for Stable Voltage",
+    "dek": "Give your Super Nintendo a reliable power source with a simple supply swap that eliminates flicker and resets.",
+    "takeaway": "A fresh power supply can dramatically improve stability without any mods to the console itself.",
+    "whatHappened": "We noticed intermittent screen flicker and occasional soft resets on an aging SNES during a marathon run. The original power brick showed signs of wear, prompting a quick replacement with a modern, regulated unit. After the swap, the console booted cleanly and stayed steady throughout extended play sessions.",
+    "whyItMatters": "Power instability is a hidden killer for both collectors who want to preserve hardware and speedrunners who need consistent performance. Replacing the supply is a low‑cost fix that prevents data loss, saves cartridges from stress, and keeps the console ready for competitive runs.",
+    "howToThink": "Treat the power brick as a consumable component—inspect it for heat, noise, or voltage sag. When in doubt, compare the old unit’s output label with a modern regulated 9 V, 1 A supply that matches polarity. Plug it in, verify the console powers up cleanly, and run a quick test level to confirm stability.",
+    "pros": [
+      "Immediate stability boost",
+      "No internal modifications needed",
+      "Inexpensive and widely available"
+    ],
+    "cons": [
+      "Requires opening the original brick for disposal",
+      "Potential need for a new AC adapter if you prefer wall‑wart style",
+      "Original aesthetic is lost"
+    ],
+    "watchOut": "Make sure the replacement supply has the exact polarity and voltage rating to avoid damaging the console.",
+    "faq": [
+      {
+        "q": "Can I use any 9 V power supply?",
+        "a": "Choose one that is regulated, provides at least 1 A, and matches the center‑positive polarity of the original SNES brick."
+      },
+      {
+        "q": "Do I need to modify the SNES console itself?",
+        "a": "No, the swap is external; you simply replace the brick that plugs into the console’s power port."
+      },
+      {
+        "q": "Will this affect the console’s warranty?",
+        "a": "The SNES is long out of warranty, and the power brick is a replaceable accessory, so there’s no warranty impact."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Power",
+      "Stability"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-11-18T10:45:06.615Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "crt-calibration-quickfix",
     "title": "Retro Glow: Simple CRT Calibration for Authentic Arcade Feel",
     "dek": "Learn a quick, no‑tool method to adjust your CRT’s geometry and color for that genuine arcade glow.",
