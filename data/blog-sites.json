@@ -1935,8 +1935,29 @@
       "streamUrl": "https://beyondmythos.com/",
       "elevenlabsAgentId": null,
       "lastPostAt": "2026-11-18T03:45:42.368Z"
+    },
+    {
+      "id": "crumb-craft-weekly-2-1794975315500",
+      "slug": "crumb-craft-weekly-2",
+      "name": "Crumb Craft Weekly",
+      "tagline": "Fresh takes for home bakers and sourdough beginners.",
+      "nicheId": "home-baking",
+      "audience": "home bakers and sourdough beginners",
+      "categories": [
+        "Bread",
+        "Pastry",
+        "Tools",
+        "Troubleshooting"
+      ],
+      "url": "https://beyondmythos.com/sites/crumb-craft-weekly-2/",
+      "localUrl": "https://beyondmythos.com/sites/crumb-craft-weekly-2/",
+      "design": "ember",
+      "postCount": 6,
+      "createdAt": "2026-11-18T04:15:09.585Z",
+      "streamUrl": "https://beyondmythos.com/",
+      "elevenlabsAgentId": null
     }
   ],
-  "lastGeneratedAt": "2026-11-18T03:15:10.165Z",
+  "lastGeneratedAt": "2026-11-18T04:15:09.585Z",
   "lastPostRunAt": "2026-11-18T03:45:42.376Z"
 }
