@@ -1,0 +1,308 @@
+[
+  {
+    "slug": "nes-flash-mod",
+    "title": "NES Flash Mod Revives Classic Cartridges",
+    "category": "Hardware",
+    "dek": "A plug‑in flash board lets collectors load ROMs onto original NES carts, blending nostalgia with modern convenience.",
+    "takeaway": "Flash mods give old hardware new life without sacrificing authenticity.",
+    "whatHappened": "A small vendor released a flash board that plugs into the NES cartridge slot, allowing users to write multiple ROMs onto a single shell. The board uses standard flash chips and a simple USB interface for PC transfers.",
+    "whyItMatters": "It lets collectors keep their shelves tidy while still playing a library of titles on genuine hardware. The ability to swap games quickly also benefits speedrunners who need instant access to multiple runs.",
+    "howToThink": "Consider the trade‑off between preserving original chips and the convenience of a flash board. Keep a backup of any original ROMs before swapping, and test each game for compatibility before a timed run.",
+    "pros": [
+      "Preserves cartridge feel",
+      "Fast game swapping",
+      "Works with most NES models"
+    ],
+    "cons": [
+      "Requires soldering skill",
+      "Potential void of warranty",
+      "Limited to NES era"
+    ],
+    "watchOut": "Flash boards can corrupt a cartridge if power is interrupted during write.",
+    "faq": [
+      {
+        "q": "Do I need to open the cartridge?",
+        "a": "Most boards snap into the slot, but some models require a brief opening to insert the chip."
+      },
+      {
+        "q": "Can I use the board on a PAL NES?",
+        "a": "Yes, as long as the board’s firmware matches the console’s region."
+      },
+      {
+        "q": "Is the original ROM data retained?",
+        "a": "Only if you back it up before overwriting; the board does not preserve it automatically."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "tags": [
+      "NES",
+      "Flash Mod"
+    ],
+    "publishedAt": "2026-11-18T13:15:51.802Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "crt-latency-advantage",
+    "title": "Why CRTs Still Beat LCDs for Speedrunning",
+    "category": "Speedruns",
+    "dek": "Legacy CRTs deliver lower input lag and true scanlines, giving racers a tactile edge over modern displays.",
+    "takeaway": "A CRT’s instant response can shave precious frames off a run.",
+    "whatHappened": "Several competitive speedrunning events switched to CRT monitors after runners reported smoother inputs. The displays use phosphor decay that eliminates the processing delay typical of LCD panels.",
+    "whyItMatters": "Lower latency translates directly into tighter control, especially in high‑speed platformers where each frame counts. The visual clarity of scanlines also helps players track sprite positions more precisely.",
+    "howToThink": "If you already own a CRT, calibrate its geometry and ensure the refresh rate matches the game’s native output. When buying a used CRT, check for aging phosphor or burn‑in that could affect brightness.",
+    "pros": [
+      "Near‑zero input lag",
+      "Authentic scanline look",
+      "Stable refresh rates"
+    ],
+    "cons": [
+      "Bulky and heavy",
+      "Potential screen burn‑in",
+      "Limited resolution"
+    ],
+    "watchOut": "Older CRTs may emit higher voltage; handle with care and avoid opening the chassis.",
+    "faq": [
+      {
+        "q": "Can I use a CRT with modern consoles?",
+        "a": "Yes, via HDMI‑to‑RGB adapters that preserve the native signal."
+      },
+      {
+        "q": "Do CRTs work with handheld emulators?",
+        "a": "Only if the emulator outputs analog RGB; most handhelds do not."
+      },
+      {
+        "q": "Is there a risk of eye strain?",
+        "a": "The flicker is generally lower than early LCDs, but prolonged sessions should still include breaks."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "tags": [
+      "CRT",
+      "Latency"
+    ],
+    "publishedAt": "2026-11-17T00:15:51.802Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "manual-digitization-guide",
+    "title": "Digitizing Retro Game Manuals Without Losing Charm",
+    "category": "Preservation",
+    "dek": "A step‑by‑step guide to scanning and archiving old game manuals while keeping their tactile feel intact.",
+    "takeaway": "Proper digitization preserves both content and the collectible’s aura.",
+    "whatHappened": "Collectors have begun using high‑resolution flatbed scanners to create PDF archives of their manuals. The process includes gentle dusting, a low‑compression scan, and optional OCR for searchable text.",
+    "whyItMatters": "Physical manuals degrade over time, and many are needed for verification in speedrunning categories. Digital copies safeguard the information and make it shareable without risking the original.",
+    "howToThink": "Use a scanner with a transparent lid to avoid pressure on the spine, and scan at 300‑400 dpi to balance file size and readability. Store the PDFs in a redundant cloud folder and keep a backup on an external drive.",
+    "pros": [
+      "Preserves content forever",
+      "Enables searchable archives",
+      "Reduces handling wear"
+    ],
+    "cons": [
+      "Initial time investment",
+      "Requires careful handling",
+      "Potential loss of paper texture"
+    ],
+    "watchOut": "Avoid scanning with flash; strong light can cause fading on delicate paper.",
+    "faq": [
+      {
+        "q": "Do I need a special scanner?",
+        "a": "A decent flatbed scanner with a transparency lid is sufficient."
+      },
+      {
+        "q": "Can I scan a folded booklet?",
+        "a": "It's best to keep pages flat; gentle weights can help without damaging the binding."
+      },
+      {
+        "q": "Is OCR reliable for old fonts?",
+        "a": "Modern OCR handles many retro fonts, but manual correction may be needed for accuracy."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "tags": [
+      "Manuals",
+      "Archiving"
+    ],
+    "publishedAt": "2026-11-15T11:15:51.802Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "retro-snes-indie-launch",
+    "title": "Indie Studio Drops New SNES‑Era Cartridge",
+    "category": "Indie",
+    "dek": "A modern indie team released a fresh platformer on authentic SNES cartridges, reviving the 16‑bit experience for collectors.",
+    "takeaway": "New releases on original hardware prove the retro market is still vibrant.",
+    "whatHappened": "The studio partnered with a boutique manufacturer to press 2,000 limited‑run cartridges, complete with authentic label art and a custom PCB that mimics the original 65816 architecture. The game ships with a printed manual and a cardboard box designed to match 1990s packaging.",
+    "whyItMatters": "Physical releases create a tangible connection to the era and give speedrunners fresh content to master on period‑correct hardware. The limited run also adds a collectible aspect that digital releases lack.",
+    "howToThink": "If you’re adding the cartridge to a collection, verify the seal and check the cartridge label for printing quality. For runners, test the game’s frame‑rate on both original and modern TV setups to understand any timing quirks.",
+    "pros": [
+      "Authentic SNES feel",
+      "Unique new content",
+      "Collectible packaging"
+    ],
+    "cons": [
+      "Higher price than digital copy",
+      "Limited availability",
+      "Potential compatibility issues on newer TVs"
+    ],
+    "watchOut": "Some early batches had solder bridges that cause intermittent glitches; inspect the PCB if possible.",
+    "faq": [
+      {
+        "q": "Does it run on all SNES models?",
+        "a": "It works on original and clone consoles that support standard cartridge dimensions."
+      },
+      {
+        "q": "Is a save‑state feature included?",
+        "a": "No; the game uses the original battery‑backed SRAM system."
+      },
+      {
+        "q": "Can I play it on an emulator?",
+        "a": "Yes, the ROM is available for legal emulation after purchase."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "tags": [
+      "SNES",
+      "Indie"
+    ],
+    "publishedAt": "2026-11-13T22:15:51.802Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "gameboy-battery-revive",
+    "title": "Breathing New Life into Game Boy Batteries",
+    "category": "Hardware",
+    "dek": "A simple reconditioning method extends the life of original Game Boy AA batteries for collectors and players alike.",
+    "takeaway": "Proper recharging can revive old batteries without replacing them outright.",
+    "whatHappened": "Enthusiasts discovered that cycling a depleted AA battery through a slow charge‑discharge routine restores much of its original capacity. The process uses a standard charger set to a low current and a resistor to limit draw during discharge.",
+    "whyItMatters": "Original batteries are often corroded or weak, leading to intermittent power loss during play or speedrun attempts. Reviving them reduces waste and preserves the authenticity of using period‑correct power sources.",
+    "howToThink": "Charge the battery at 0.5 A until it reaches full voltage, then discharge through a 10 Ω resistor for about an hour. Repeat the cycle a few times and test voltage under load before installing in the console.",
+    "pros": [
+      "Cost‑effective",
+      "Reduces waste",
+      "Maintains period‑correct power"
+    ],
+    "cons": [
+      "Requires a charger with current control",
+      "Time‑consuming process",
+      "Not all batteries recover fully"
+    ],
+    "watchOut": "Never attempt to recharge a battery that shows leakage or corrosion; replace it safely.",
+    "faq": [
+      {
+        "q": "Can I use rechargeable AA cells?",
+        "a": "Yes, but ensure they match the original voltage and have low self‑discharge."
+      },
+      {
+        "q": "How many cycles are safe?",
+        "a": "A handful of reconditioning cycles is fine; beyond that, capacity will gradually decline."
+      },
+      {
+        "q": "Will reconditioned batteries affect game speed?",
+        "a": "No, voltage remains within spec, so timing stays unchanged."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "tags": [
+      "Game Boy",
+      "Batteries"
+    ],
+    "publishedAt": "2026-11-12T09:15:51.802Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "input-turbo-toolkit",
+    "title": "Turbo Toolkit Streamlines Frame‑Perfect Inputs",
+    "category": "Speedruns",
+    "dek": "A lightweight software suite lets runners craft and replay precise input sequences on classic consoles.",
+    "takeaway": "Automated input tools can help practice and verify frame‑perfect tricks without cheating live runs.",
+    "whatHappened": "Developers released an open‑source toolkit that captures controller inputs, edits them frame by frame, and replays them via a USB‑to‑controller adapter. It works with NES, SNES, and Sega Genesis consoles and integrates with popular streaming software.",
+    "whyItMatters": "Practicing difficult tricks becomes less tedious when a runner can replay a perfect sequence repeatedly, focusing on timing and positioning. The tool also provides an objective way to demonstrate a trick’s feasibility for community verification.",
+    "howToThink": "Use the toolkit to record a baseline run, edit the frames where the trick occurs, and test the edited input on actual hardware. Keep the edited runs for personal study; avoid using them in official timed attempts to maintain integrity.",
+    "pros": [
+      "Precise frame editing",
+      "Cross‑platform support",
+      "Integrates with stream overlays"
+    ],
+    "cons": [
+      "Requires a compatible adapter",
+      "Learning curve for editing UI",
+      "Not a substitute for skill development"
+    ],
+    "watchOut": "Using the tool during an official run is considered cheating; reserve it for practice and analysis.",
+    "faq": [
+      {
+        "q": "Is the toolkit legal for competition?",
+        "a": "It is allowed for practice but prohibited in live timed runs according to most speedrun rules."
+      },
+      {
+        "q": "Can it emulate analog inputs?",
+        "a": "Yes, it supports analog stick values for supported consoles."
+      },
+      {
+        "q": "Do I need a special PC?",
+        "a": "Any modern computer with USB ports can run the software."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "tags": [
+      "Toolkit",
+      "Practice"
+    ],
+    "publishedAt": "2026-11-10T20:15:51.802Z",
+    "readMinutes": 2
+  }
+]

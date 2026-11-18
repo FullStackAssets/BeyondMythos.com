@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Retro Pixel Press</title>
+    <link>https://beyondmythos.com/sites/retro-pixel-press-3/</link>
+    <description>Fresh takes for retro game collectors and speedrunners.</description>
+    <item>
+      <title>NES Flash Mod Revives Classic Cartridges</title>
+      <link>https://beyondmythos.com/sites/retro-pixel-press-3/posts/nes-flash-mod.html</link>
+      <guid>https://beyondmythos.com/sites/retro-pixel-press-3/posts/nes-flash-mod.html</guid>
+      <pubDate>Wed, 18 Nov 2026 13:15:51 GMT</pubDate>
+      <description>A plug‑in flash board lets collectors load ROMs onto original NES carts, blending nostalgia with modern convenience.</description>
+    </item>
+    <item>
+      <title>Why CRTs Still Beat LCDs for Speedrunning</title>
+      <link>https://beyondmythos.com/sites/retro-pixel-press-3/posts/crt-latency-advantage.html</link>
+      <guid>https://beyondmythos.com/sites/retro-pixel-press-3/posts/crt-latency-advantage.html</guid>
+      <pubDate>Tue, 17 Nov 2026 00:15:51 GMT</pubDate>
+      <description>Legacy CRTs deliver lower input lag and true scanlines, giving racers a tactile edge over modern displays.</description>
+    </item>
+    <item>
+      <title>Digitizing Retro Game Manuals Without Losing Charm</title>
+      <link>https://beyondmythos.com/sites/retro-pixel-press-3/posts/manual-digitization-guide.html</link>
+      <guid>https://beyondmythos.com/sites/retro-pixel-press-3/posts/manual-digitization-guide.html</guid>
+      <pubDate>Sun, 15 Nov 2026 11:15:51 GMT</pubDate>
+      <description>A step‑by‑step guide to scanning and archiving old game manuals while keeping their tactile feel intact.</description>
+    </item>
+    <item>
+      <title>Indie Studio Drops New SNES‑Era Cartridge</title>
+      <link>https://beyondmythos.com/sites/retro-pixel-press-3/posts/retro-snes-indie-launch.html</link>
+      <guid>https://beyondmythos.com/sites/retro-pixel-press-3/posts/retro-snes-indie-launch.html</guid>
+      <pubDate>Fri, 13 Nov 2026 22:15:51 GMT</pubDate>
+      <description>A modern indie team released a fresh platformer on authentic SNES cartridges, reviving the 16‑bit experience for collectors.</description>
+    </item>
+    <item>
+      <title>Breathing New Life into Game Boy Batteries</title>
+      <link>https://beyondmythos.com/sites/retro-pixel-press-3/posts/gameboy-battery-revive.html</link>
+      <guid>https://beyondmythos.com/sites/retro-pixel-press-3/posts/gameboy-battery-revive.html</guid>
+      <pubDate>Thu, 12 Nov 2026 09:15:51 GMT</pubDate>
+      <description>A simple reconditioning method extends the life of original Game Boy AA batteries for collectors and players alike.</description>
+    </item>
+    <item>
+      <title>Turbo Toolkit Streamlines Frame‑Perfect Inputs</title>
+      <link>https://beyondmythos.com/sites/retro-pixel-press-3/posts/input-turbo-toolkit.html</link>
+      <guid>https://beyondmythos.com/sites/retro-pixel-press-3/posts/input-turbo-toolkit.html</guid>
+      <pubDate>Tue, 10 Nov 2026 20:15:51 GMT</pubDate>
+      <description>A lightweight software suite lets runners craft and replay precise input sequences on classic consoles.</description>
+    </item>
+  </channel>
+</rss>
