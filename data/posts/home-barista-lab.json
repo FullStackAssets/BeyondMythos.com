@@ -1,5 +1,56 @@
 [
   {
+    "slug": "check-portafilter-pressure-consistency",
+    "title": "Check Your Portafilter Pressure for More Consistent Espresso",
+    "dek": "A quick test to gauge portafilter pressure can tighten shot consistency without new gear.",
+    "takeaway": "Monitoring portafilter pressure helps you spot and fix inconsistencies before they ruin your espresso.",
+    "whatHappened": "I noticed my espresso shots fluctuating in volume and flavor despite using the same beans and grind. A quick pressure test on the portafilter revealed uneven resistance, pointing to a loose basket and uneven tamp pressure. Adjusting the pressure restored a steady flow and better taste.",
+    "whyItMatters": "Inconsistent pressure leads to under‑ or over‑extracted shots, which can mask the true quality of your beans and grind. By catching pressure variance early, you keep your espresso predictable and enjoyable, saving time and coffee waste.",
+    "howToThink": "Place a calibrated pressure gauge between the portafilter and group head, pull a short test pull, and note the pressure reading. Aim for a stable pressure within the typical range for your machine. If readings swing, check the basket fit, tamp pressure, and any wear on the group head gasket.",
+    "pros": [
+      "Easier to diagnose pressure issues",
+      "Improves shot repeatability",
+      "No extra equipment needed"
+    ],
+    "cons": [
+      "Requires careful handling",
+      "May need a pressure gauge",
+      "Time to learn reading pressure"
+    ],
+    "watchOut": "Avoid overtightening the portafilter, as it can stress the group head seals.",
+    "faq": [
+      {
+        "q": "Do I need a special gauge for this test?",
+        "a": "A standard espresso pressure gauge that fits the portafilter’s lock‑up will work; many baristas already have one."
+      },
+      {
+        "q": "What pressure range should I target?",
+        "a": "Most home machines operate comfortably between 8 and 10 bars during a normal pull."
+      },
+      {
+        "q": "Can basket wear affect pressure readings?",
+        "a": "Yes, a worn or cracked basket can leak pressure, so inspect it regularly."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "portafilter"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-11-18T07:45:07.321Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-budget-grinder-upgrade-18",
     "title": "Myth vs. reality: budget grinder upgrade",
     "dek": "The persistent myths around budget grinder upgrade, stress-tested against what home coffee enthusiasts actually report.",

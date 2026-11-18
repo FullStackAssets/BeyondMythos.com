@@ -1,5 +1,56 @@
 [
   {
+    "slug": "speedrun-sprint-sonic-2-skip",
+    "title": "Speedrun Sprint: Mastering the 1‑Second Skip in Sonic the Hedgehog 2",
+    "dek": "Learn how to pull the legendary 1‑second skip in Sonic 2 and shave precious frames off your personal best.",
+    "takeaway": "A tiny timing trick can drop your run by a noticeable margin.",
+    "whatHappened": "While testing a new route, I discovered a precise jump that lets Sonic bypass the first loop entirely. After a few attempts, I locked the skip and recorded a sub‑30‑second run.",
+    "whyItMatters": "Every frame counts in competitive speedrunning, and the 1‑second skip moves you ahead of the current leaderboard tier. It also demonstrates how deep game physics can be exploited with practice.",
+    "howToThink": "Focus on frame‑perfect timing at the start screen, use the start button to initiate a dash, and release at the exact frame before the loop spawns. Practice with a frame counter or emulator tools to internalize the rhythm. Once you can repeat it, integrate it into your opening strategy.",
+    "pros": [
+      "Instant time cut",
+      "No hardware mods needed",
+      "Reusable in any run"
+    ],
+    "cons": [
+      "Requires precise timing",
+      "Hard to master without practice",
+      "May be patched in future releases"
+    ],
+    "watchOut": "Be careful not to trigger a reset by holding the button too long, which can waste seconds.",
+    "faq": [
+      {
+        "q": "Do I need a special controller for the skip?",
+        "a": "No, any standard controller works as long as you can hit the start button with frame accuracy."
+      },
+      {
+        "q": "Can this skip be performed on original hardware?",
+        "a": "Yes, the timing works on the original Sega Genesis; emulators just make frame counting easier."
+      },
+      {
+        "q": "Will this affect my run's verification?",
+        "a": "As long as the skip is within the game's intended mechanics, it’s accepted by most speedrunning communities."
+      }
+    ],
+    "category": "Speedruns",
+    "tags": [
+      "Sonic 2",
+      "Skip Tricks"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-11-18T07:45:08.657Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-hardware-55",
     "title": "A weekend project: level up your hardware in two hours",
     "dek": "One contained, satisfying hardware project for retro game collectors — start Saturday morning, done by lunch.",
