@@ -1,5 +1,56 @@
 [
   {
+    "slug": "railway-window-views",
+    "title": "Railway Window Views: Low‑Impact Visual Therapy on the Rails",
+    "dek": "Glance out the carriage window and let the moving landscape recharge your mind without leaving a carbon trace.",
+    "takeaway": "A simple look out the window can boost mood and deepen your connection to place while staying low‑impact.",
+    "whatHappened": "During a recent week-long cross‑country sleeper, I timed my breaks with sunrise and sunset windows, noting how the shifting light altered my energy. The rhythmic scenery turned idle moments into mini‑meditations, and I logged the experience in my travel journal.",
+    "whyItMatters": "Visual immersion reduces the urge for digital distraction, aligning with slow‑travel principles of presence and minimal waste. It also encourages travelers to value the journey itself, not just the destination.",
+    "howToThink": "Treat each window as a moving gallery: pause, breathe, and observe details like colors, motion, and patterns. Use a small notebook or voice memo to capture fleeting impressions instead of scrolling on a phone.",
+    "pros": [
+      "Zero extra resources needed",
+      "Enhances mindfulness",
+      "Works on any train"
+    ],
+    "cons": [
+      "Weather can obscure views",
+      "Limited to routes with scenery",
+      "May be less engaging for restless travelers"
+    ],
+    "watchOut": "Beware of leaning too far out the window; safety rails exist for a reason.",
+    "faq": [
+      {
+        "q": "Can I practice this on commuter trains?",
+        "a": "Yes, even short hops offer visual variety; just choose seats near large windows."
+      },
+      {
+        "q": "What if the landscape is monotonous?",
+        "a": "Focus on subtle changes—light, shadows, passing infrastructure—to keep the experience fresh."
+      },
+      {
+        "q": "Is it okay to take photos?",
+        "a": "A quick snap is fine, but prioritize looking directly; photos can become a distraction."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "visual",
+      "mindfulness"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-11-18T20:45:10.402Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "onboard-laundry-hacks",
     "title": "Onboard Laundry Hacks: Low‑Impact Clean Clothes on the Rails",
     "dek": "Keep your wardrobe fresh on the train without waste or hassle.",

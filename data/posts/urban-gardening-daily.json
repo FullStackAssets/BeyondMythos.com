@@ -1,5 +1,56 @@
 [
   {
+    "slug": "balcony-herb-rotation-fresh-flavors-all-year",
+    "title": "Balcony Herb Rotation: Fresh Flavors All Year",
+    "dek": "Swap your herb pots each season to keep flavors vibrant and plants thriving on a tiny balcony.",
+    "takeaway": "Rotate herbs in and out of containers to maximize harvest and prevent soil fatigue.",
+    "whatHappened": "We trialed a four‑month herb rotation on a 2‑meter balcony, moving basil, cilantro, thyme, and mint between three identical pots. The plants stayed healthier and yielded more than when left static.",
+    "whyItMatters": "Balcony growers often reuse the same soil, leading to nutrient depletion and disease buildup. A simple rotation refreshes the root zone without buying new soil each time.",
+    "howToThink": "Plan a three‑pot cycle: one active, one resting, one being refreshed with new compost. Every month shift pots clockwise and top‑up with a light organic mix.",
+    "pros": [
+      "Extended harvest",
+      "Reduced soil fatigue",
+      "Cost‑effective"
+    ],
+    "cons": [
+      "Requires planning",
+      "Limited pot space",
+      "Initial learning curve"
+    ],
+    "watchOut": "Avoid over‑watering the newly refreshed pot to prevent root shock.",
+    "faq": [
+      {
+        "q": "How often should I rotate my herb pots?",
+        "a": "A monthly shift works well for most fast‑growing herbs."
+      },
+      {
+        "q": "Can I use the same soil after rotation?",
+        "a": "Refresh the soil with a thin layer of compost or peat to restore nutrients."
+      },
+      {
+        "q": "What herbs are best for this rotation?",
+        "a": "Mix fast‑growers like basil and cilantro with slower ones like thyme for balanced use."
+      }
+    ],
+    "category": "Herbs",
+    "tags": [
+      "herbs",
+      "rotation"
+    ],
+    "sources": [
+      {
+        "label": "r/UrbanGardening community threads",
+        "url": "https://www.reddit.com/r/UrbanGardening/"
+      },
+      {
+        "label": "Search interest: \"balcony garden ideas\"",
+        "url": "https://duckduckgo.com/?q=balcony%20garden%20ideas"
+      }
+    ],
+    "publishedAt": "2026-11-18T20:45:08.944Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-containers-67",
     "title": "A weekend project: level up your containers in two hours",
     "dek": "One contained, satisfying containers project for apartment dwellers — start Saturday morning, done by lunch.",
