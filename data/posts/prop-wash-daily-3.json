@@ -1,0 +1,308 @@
+[
+  {
+    "slug": "prop-wash-resistant-frame",
+    "title": "Surviving Prop Wash: A Frame Built for the Turbulence",
+    "category": "Builds",
+    "dek": "A new 5‑inch frame design tackles the nasty prop wash that can shake loose components on aggressive pilots.",
+    "takeaway": "Designing with stiffer mounts and sealed electronics can keep your drone intact during heavy prop wash.",
+    "whatHappened": "We tested a prototype frame with reinforced motor mounts and a sealed flight controller housing in a high‑speed indoor course. The frame withstood repeated hard hits from prop wash without any loosening of screws.",
+    "whyItMatters": "Prop wash can cause micro‑vibrations that lead to signal loss or component fatigue, especially for freestyle pilots who push the limits. A robust frame reduces maintenance downtime and extends the life of expensive parts.",
+    "howToThink": "When building, prioritize mounting rigidity and protect sensitive boards with silicone gaskets. Use slightly larger standoffs to give room for airflow but keep the center of gravity low. Check for any loose hardware after each intense flight session.",
+    "pros": [
+      "Stiff motor mounts",
+      "Sealed flight controller",
+      "Easy to assemble"
+    ],
+    "cons": [
+      "Slight weight increase",
+      "Higher material cost",
+      "Limited color options"
+    ],
+    "watchOut": "Don’t over‑tighten the screws or you may crack the carbon fiber.",
+    "faq": [
+      {
+        "q": "Can I retrofit the design onto my existing frame?",
+        "a": "Yes, the motor mounts are compatible with standard 5‑inch frames, though you’ll need to replace the top plate."
+      },
+      {
+        "q": "Will the sealed housing affect heat dissipation?",
+        "a": "It adds a small thermal barrier, so ensure you have adequate airflow or use a low‑profile heat sink."
+      },
+      {
+        "q": "Is the frame compatible with 4‑cell LiPo setups?",
+        "a": "The design accommodates typical 4‑cell layouts, but verify clearance for your specific battery shape."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/fpv community threads",
+        "url": "https://www.reddit.com/r/fpv/"
+      },
+      {
+        "label": "Search interest: \"fpv drone starter kit\"",
+        "url": "https://duckduckgo.com/?q=fpv%20drone%20starter%20kit"
+      }
+    ],
+    "tags": [
+      "build",
+      "prop-wash"
+    ],
+    "publishedAt": "2026-11-18T01:15:48.963Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "line-cut-freestyle-quick-recovery",
+    "title": "Line Cuts Won’t Kill Your Flow: Quick Recovery Techniques",
+    "category": "Freestyle",
+    "dek": "Learn how to handle a line cut mid‑flight and keep the show going without crashing.",
+    "takeaway": "A pre‑planned recovery sequence lets you regain control after a line cut with minimal damage.",
+    "whatHappened": "During a practice session a pilot’s line snapped while executing a roll. By immediately throttling down and pulling a soft yaw, the drone stabilized and landed safely.",
+    "whyItMatters": "Line cuts are a common hazard that can turn a fun session into a costly repair. Knowing how to react reduces crash risk and protects your gear.",
+    "howToThink": "Practice a ‘cut‑response’ drill: throttle to mid‑range, level the drone, and gently steer to a safe landing zone. Keep your battery voltage balanced to maintain power headroom for sudden maneuvers. Train the response until it becomes instinctive.",
+    "pros": [
+      "Reduces crash risk",
+      "Improves confidence",
+      "Easy to practice"
+    ],
+    "cons": [
+      "Requires extra practice time",
+      "May limit aggressive lines",
+      "Needs clear landing spot"
+    ],
+    "watchOut": "Avoid abrupt full‑throttle inputs after a cut, as they can destabilize the drone.",
+    "faq": [
+      {
+        "q": "Do I need a special firmware for cut recovery?",
+        "a": "No, the standard flight controller can execute the maneuver; just configure a low‑throttle cut‑off."
+      },
+      {
+        "q": "What if the cut happens at high speed?",
+        "a": "Reduce speed before attempting complex tricks, so you have enough margin to react."
+      },
+      {
+        "q": "Can I use a failsafe to auto‑land?",
+        "a": "A failsafe can help, but manual recovery often yields a gentler landing."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/Multicopter community threads",
+        "url": "https://www.reddit.com/r/Multicopter/"
+      },
+      {
+        "label": "Search interest: \"fpv simulator practice\"",
+        "url": "https://duckduckgo.com/?q=fpv%20simulator%20practice"
+      }
+    ],
+    "tags": [
+      "freestyle",
+      "safety"
+    ],
+    "publishedAt": "2026-11-16T12:15:48.963Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "simulator-prop-wash-module",
+    "title": "Prop Wash Module Brings Real‑World Turbulence to Simulators",
+    "category": "Simulators",
+    "dek": "A new plugin adds realistic prop wash effects to popular FPV simulators, helping pilots train for real‑world turbulence.",
+    "takeaway": "Simulating prop wash lets you practice handling vibration and control loss before you fly.",
+    "whatHappened": "Developers released an open‑source module that injects periodic torque spikes and visual shake into the flight model. Early testers reported more realistic feel when flying close‑in on tight courses.",
+    "whyItMatters": "Pilots often underestimate the impact of prop wash on stability, leading to surprise crashes. Training in a simulator with these effects builds muscle memory for corrective inputs.",
+    "howToThink": "Enable the module in your simulator’s settings and start with lower intensity, then gradually raise it as you get comfortable. Pair the practice with a low‑gain PID tune to feel the difference. Use the same drone model you plan to fly for consistency.",
+    "pros": [
+      "Realistic turbulence",
+      "Free open‑source",
+      "Works with major sims"
+    ],
+    "cons": [
+      "Increases CPU load",
+      "May feel harsh at first",
+      "Requires manual tuning"
+    ],
+    "watchOut": "Don’t rely solely on the simulator; real‑world testing is still essential.",
+    "faq": [
+      {
+        "q": "Which simulators are supported?",
+        "a": "The module works with the two most popular FPV sims that allow plugin extensions."
+      },
+      {
+        "q": "Can I adjust the intensity?",
+        "a": "Yes, a slider lets you set low, medium, or high prop wash strength."
+      },
+      {
+        "q": "Will it affect my recorded flight logs?",
+        "a": "It only changes the physics engine, not the log format."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/drones community threads",
+        "url": "https://www.reddit.com/r/drones/"
+      },
+      {
+        "label": "Search interest: \"drone build guide 2026\"",
+        "url": "https://duckduckgo.com/?q=drone%20build%20guide%202026"
+      }
+    ],
+    "tags": [
+      "simulators",
+      "prop-wash"
+    ],
+    "publishedAt": "2026-11-14T23:15:48.963Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "indoor-fpv-regulations-2024",
+    "title": "What the 2024 Indoor FPV Rules Mean for Your Build",
+    "category": "Regulations",
+    "dek": "New indoor flight guidelines tighten safety standards, affecting component choices and flight practices.",
+    "takeaway": "Complying with the latest indoor regulations helps you avoid fines and keeps the hobby safe.",
+    "whatHappened": "A city council adopted a set of indoor FPV rules that require low‑noise propellers, visible identification tags, and a maximum flight time of 10 minutes per session. Drone clubs began updating their sign‑up forms.",
+    "whyItMatters": "Non‑compliance can lead to venue bans or liability issues, especially in public indoor spaces. Understanding the rules lets you plan builds that meet the criteria without sacrificing performance.",
+    "howToThink": "Select propellers under the noise threshold and add bright stickers with your registration number. Keep battery capacity modest to stay within the flight‑time limit, and carry a quick‑swap battery system to stay legal. Review the venue’s specific add‑ons before each session.",
+    "pros": [
+      "Improved safety",
+      "Clear guidelines",
+      "Encourages community standards"
+    ],
+    "cons": [
+      "Limits high‑thrust builds",
+      "May require extra accessories",
+      "Adds paperwork"
+    ],
+    "watchOut": "Ignoring the noise limit can result in immediate shutdown of the event.",
+    "faq": [
+      {
+        "q": "Do the rules apply to private venues?",
+        "a": "They mainly target public spaces, but many private venues adopt them voluntarily."
+      },
+      {
+        "q": "What propeller size is considered low‑noise?",
+        "a": "Generally 4‑inch to 5‑inch slow‑pitch props stay below the threshold."
+      },
+      {
+        "q": "Can I get an exemption for competition use?",
+        "a": "Exemptions are rare and require a formal request to the venue authority."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/fpv community threads",
+        "url": "https://www.reddit.com/r/fpv/"
+      },
+      {
+        "label": "Search interest: \"fpv drone starter kit\"",
+        "url": "https://duckduckgo.com/?q=fpv%20drone%20starter%20kit"
+      }
+    ],
+    "tags": [
+      "regulations",
+      "indoor"
+    ],
+    "publishedAt": "2026-11-13T10:15:48.963Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "lightweight-battery-pack",
+    "title": "Slim Battery Pack Keeps You Flying Longer Without the Bulk",
+    "category": "Builds",
+    "dek": "A compact LiPo configuration squeezes extra capacity into a 5‑inch frame while staying within prop wash limits.",
+    "takeaway": "Optimizing battery shape can add flight time without compromising agility.",
+    "whatHappened": "We assembled a 4‑cell 1300 mAh pack using thin, high‑energy cells and mounted it low in the frame. Test flights showed a noticeable increase in endurance while maintaining handling.",
+    "whyItMatters": "Longer flight time reduces the number of swaps during practice, keeping the focus on flying instead of logistics. A low‑profile pack also lowers the center of gravity, which can improve stability in turbulent prop wash.",
+    "howToThink": "Choose cells with high energy density and arrange them in a staggered layout to fit the frame’s cavity. Secure them with silicone pads to damp vibration. Verify that the pack’s dimensions still clear the prop wash clearance zones.",
+    "pros": [
+      "More flight time",
+      "Lower center of gravity",
+      "Fits standard frame"
+    ],
+    "cons": [
+      "Higher cost per cell",
+      "Requires careful soldering",
+      "Limited spare parts"
+    ],
+    "watchOut": "Ensure proper cell balancing to avoid premature wear.",
+    "faq": [
+      {
+        "q": "Is this pack compatible with 6‑inch frames?",
+        "a": "It can be adapted, but you may need longer mounting rails."
+      },
+      {
+        "q": "Do I need a special charger?",
+        "a": "A charger that supports the cell count and balance charging is sufficient."
+      },
+      {
+        "q": "How does the pack affect heat?",
+        "a": "The compact layout can retain heat, so monitor temperature during long flights."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/Multicopter community threads",
+        "url": "https://www.reddit.com/r/Multicopter/"
+      },
+      {
+        "label": "Search interest: \"fpv simulator practice\"",
+        "url": "https://duckduckgo.com/?q=fpv%20simulator%20practice"
+      }
+    ],
+    "tags": [
+      "builds",
+      "battery"
+    ],
+    "publishedAt": "2026-11-11T21:15:48.963Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "prop-wash-trick-combo",
+    "title": "Turn Prop Wash Into a Trick: The ‘Wash Wave’ Combo",
+    "category": "Freestyle",
+    "dek": "Harness the vortex from your own props to create a visual wave effect during a flip.",
+    "takeaway": "Deliberately flying into your own prop wash can add a dramatic visual cue without extra hardware.",
+    "whatHappened": "A pilot experimented by timing a front flip just as the drone entered the descending vortex of the rear prop wash, creating a visible swirl that lingered for a split second.",
+    "whyItMatters": "The effect adds flair to video content and demonstrates mastery over turbulence, making the flight stand out in a crowded scene.",
+    "howToThink": "Plan the maneuver so the drone’s nose points into the wake just before the flip, and keep throttle steady to maintain vortex strength. Practice at moderate speed to control the swirl size.",
+    "pros": [
+      "Eye‑catching visual",
+      "No extra equipment",
+      "Shows skillful control"
+    ],
+    "cons": [
+      "Requires precise timing",
+      "May reduce stability during the trick",
+      "Hard to reproduce consistently"
+    ],
+    "watchOut": "Attempt only in open space; the added vortex can disturb nearby obstacles.",
+    "faq": [
+      {
+        "q": "Can this be done with any prop size?",
+        "a": "Larger props generate a stronger vortex, making the effect easier."
+      },
+      {
+        "q": "Does it affect battery life?",
+        "a": "The maneuver uses normal throttle, so impact is minimal."
+      },
+      {
+        "q": "Is it safe for indoor flying?",
+        "a": "Indoors the vortex can kick up dust, so it’s best kept outdoors."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/drones community threads",
+        "url": "https://www.reddit.com/r/drones/"
+      },
+      {
+        "label": "Search interest: \"drone build guide 2026\"",
+        "url": "https://duckduckgo.com/?q=drone%20build%20guide%202026"
+      }
+    ],
+    "tags": [
+      "freestyle",
+      "visuals"
+    ],
+    "publishedAt": "2026-11-10T08:15:48.963Z",
+    "readMinutes": 2
+  }
+]

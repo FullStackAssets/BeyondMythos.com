@@ -1869,8 +1869,29 @@
       "streamUrl": "https://beyondmythos.com/",
       "elevenlabsAgentId": null,
       "lastPostAt": "2026-11-18T00:45:42.600Z"
+    },
+    {
+      "id": "prop-wash-daily-3-1794964548964",
+      "slug": "prop-wash-daily-3",
+      "name": "Prop Wash Daily",
+      "tagline": "Fresh takes for FPV drone pilots and builders.",
+      "nicheId": "fpv-drones",
+      "audience": "FPV drone pilots and builders",
+      "categories": [
+        "Builds",
+        "Freestyle",
+        "Simulators",
+        "Regulations"
+      ],
+      "url": "https://beyondmythos.com/sites/prop-wash-daily-3/",
+      "localUrl": "https://beyondmythos.com/sites/prop-wash-daily-3/",
+      "design": "ember",
+      "postCount": 6,
+      "createdAt": "2026-11-18T01:15:38.685Z",
+      "streamUrl": "https://beyondmythos.com/",
+      "elevenlabsAgentId": null
     }
   ],
-  "lastGeneratedAt": "2026-11-18T00:15:44.929Z",
+  "lastGeneratedAt": "2026-11-18T01:15:38.685Z",
   "lastPostRunAt": "2026-11-18T00:45:42.611Z"
 }
