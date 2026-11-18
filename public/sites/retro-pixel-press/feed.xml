@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Modifying NES Controller Wiring for Smoother Input</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-modifying-nes-controller-wiring.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-modifying-nes-controller-wiring.html</guid>
+      <pubDate>Wed, 18 Nov 2026 22:45:10 GMT</pubDate>
+      <description>A quick guide to rewiring your NES controller for tighter, more responsive button feel without pricey parts.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Reducing Controller Lag on Classic Consoles</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/reducing-controller-lag.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/reducing-controller-lag.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/replace-commodore-64-power-supply-fuse.html</guid>
       <pubDate>Tue, 17 Nov 2026 17:45:06 GMT</pubDate>
       <description>Swap the aging fuse in your C64’s PSU to eliminate random boot failures without breaking the bank.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Replacing Game Boy Pocket LCD Backlight for Brighter Play</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/replace-game-boy-pocket-lcd-backlight.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/replace-game-boy-pocket-lcd-backlight.html</guid>
-      <pubDate>Sun, 01 Nov 2026 17:45:18 GMT</pubDate>
-      <description>Swap the original dim LCD backlight in your Game Boy Pocket for a modern LED unit and see your retro world in crisp, vivid light.</description>
     </item>
   </channel>
 </rss>

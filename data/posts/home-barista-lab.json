@@ -1,5 +1,56 @@
 [
   {
+    "slug": "tame-your-espresso-pressure",
+    "title": "Tame Your Espresso Pressure: Simple Steps for Consistent Shots",
+    "dek": "Learn quick tweaks to keep your espresso pressure steady and your shots repeatable.",
+    "takeaway": "Stable pressure yields repeatable flavor without extra gear.",
+    "whatHappened": "We noticed many home baristas struggle with pressure spikes when the pump kicks in, leading to thin or bitter shots. A quick check of the pressure regulator and a few routine habits can smooth out the flow.",
+    "whyItMatters": "Inconsistent pressure changes extraction time, which directly alters taste balance. Consistency lets you dial in beans once and enjoy reliable results daily.",
+    "howToThink": "Treat pressure like a rhythm: check the regulator before each session, warm up the machine, and use a consistent tamp pressure. Small habit changes keep the pump humming evenly.",
+    "pros": [
+      "Better flavor stability",
+      "No extra equipment needed",
+      "Easy to adopt"
+    ],
+    "cons": [
+      "Requires routine checks",
+      "May need regulator adjustment",
+      "Can be overlooked by beginners"
+    ],
+    "watchOut": "Never force the pump if pressure spikes; let the machine settle to avoid channeling.",
+    "faq": [
+      {
+        "q": "Can I use a pressure gauge to monitor my espresso?",
+        "a": "A gauge gives you a visual readout and helps you spot spikes, but the same habits work without one."
+      },
+      {
+        "q": "How often should I clean the pressure regulator?",
+        "a": "A monthly wipe-down of the regulator’s vent and a quarterly deeper clean keep it responsive."
+      },
+      {
+        "q": "Does coffee grind size affect pressure?",
+        "a": "Yes, a finer grind raises resistance and pressure, so adjust grind in tandem with pressure tweaks."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "pressure-control"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-11-18T22:45:06.100Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "bottomless-portafilter-diagnose-extraction",
     "title": "Bottomless Portafilter: See Your Espresso Flow",
     "dek": "A bottomless portafilter lets you spot channeling, under‑extraction, and uneven puck collapse in real time.",

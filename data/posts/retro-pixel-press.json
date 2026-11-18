@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-boost-modifying-nes-controller-wiring",
+    "title": "Pixel Boost: Modifying NES Controller Wiring for Smoother Input",
+    "dek": "A quick guide to rewiring your NES controller for tighter, more responsive button feel without pricey parts.",
+    "takeaway": "A simple wiring tweak can sharpen NES controller response for both collectors and speedrunners.",
+    "whatHappened": "We discovered that the original NES controller wiring can develop loose connections over time, leading to intermittent button presses. By opening the controller and reseating the internal solder joints, the input becomes consistently crisp.",
+    "whyItMatters": "Reliable button response is crucial for preserving the authenticity of the original gaming experience and for achieving competitive times in speedruns. Fixing the wiring extends the controller's lifespan, keeping your classic hardware playable.",
+    "howToThink": "When you notice missed inputs, assume a contact issue before replacing the whole controller. Strip back the plastic, locate the solder points, and apply a fresh solder joint with a modest iron. Test each button before reassembly to confirm the fix.",
+    "pros": [
+      "Cost-effective fix",
+      "Restores original feel",
+      "Extends controller life"
+    ],
+    "cons": [
+      "Requires soldering skill",
+      "Potential to damage if mishandled",
+      "No visual upgrade"
+    ],
+    "watchOut": "Be careful not to overheat the plastic housing while soldering, as it can warp and affect button ergonomics.",
+    "faq": [
+      {
+        "q": "Will this void any remaining warranty?",
+        "a": "NES controllers are out of warranty, so the modification has no warranty implications."
+      },
+      {
+        "q": "Do I need a specific type of solder?",
+        "a": "A thin rosin-core solder works well; avoid lead-free varieties that can be brittle for tiny joints."
+      },
+      {
+        "q": "Can I apply this to other 8-bit controllers?",
+        "a": "The same principle works for most 80s-era controllers with similar wiring, though pin layouts may vary."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "NES",
+      "Controller Mod"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-11-18T22:45:10.226Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "reducing-controller-lag",
     "title": "Pixel Boost: Reducing Controller Lag on Classic Consoles",
     "dek": "Trim the input delay on your retro joystick for tighter, more responsive runs.",
