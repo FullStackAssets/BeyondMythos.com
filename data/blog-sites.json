@@ -1847,8 +1847,29 @@
       "streamUrl": "https://beyondmythos.com/",
       "elevenlabsAgentId": null,
       "lastPostAt": "2026-11-17T23:46:01.434Z"
+    },
+    {
+      "id": "plug-in-practical-2-1794960945088",
+      "slug": "plug-in-practical-2",
+      "name": "Plug In Practical",
+      "tagline": "Fresh takes for EV owners and prospective electric car buyers.",
+      "nicheId": "electric-vehicles",
+      "audience": "EV owners and prospective electric car buyers",
+      "categories": [
+        "Charging",
+        "Range",
+        "Ownership",
+        "Deals"
+      ],
+      "url": "https://beyondmythos.com/sites/plug-in-practical-2/",
+      "localUrl": "https://beyondmythos.com/sites/plug-in-practical-2/",
+      "design": "moss",
+      "postCount": 6,
+      "createdAt": "2026-11-18T00:15:44.929Z",
+      "streamUrl": "https://beyondmythos.com/",
+      "elevenlabsAgentId": null
     }
   ],
-  "lastGeneratedAt": "2026-11-17T22:15:10.593Z",
+  "lastGeneratedAt": "2026-11-18T00:15:44.929Z",
   "lastPostRunAt": "2026-11-17T23:46:01.455Z"
 }
