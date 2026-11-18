@@ -1,0 +1,308 @@
+[
+  {
+    "slug": "tactile-switch-revamp",
+    "title": "The New Tactile Switch Revamp",
+    "category": "Switches",
+    "dek": "A fresh tactile switch line lands with a smoother stem and refined spring, aiming to balance clicky feel and quiet operation.",
+    "takeaway": "The revamp offers a middle ground for tactile lovers who want less ping without losing feedback.",
+    "whatHappened": "The manufacturer launched the series last month, swapping the traditional plastic housing for a polymer blend and tweaking the spring weight. Early reviewers note a softer bottom-out and a cleaner sound profile.",
+    "whyItMatters": "Switch feel drives the typing experience, and a well‑tuned tactile can reduce fatigue while preserving the satisfying bump. The new materials also promise longer lifespan under heavy use.",
+    "howToThink": "When choosing a switch, match the spring weight to your typing pressure and consider the housing material for sound preferences. Test a few units before committing to a full build to confirm the perceived bump.",
+    "pros": [
+      "Smoother bottom‑out",
+      "Reduced ping",
+      "Durable polymer housing"
+    ],
+    "cons": [
+      "Higher price point",
+      "Limited color options",
+      "May feel too soft for click fans"
+    ],
+    "watchOut": "The softer spring can feel under‑responsive if you habitually type with a light touch.",
+    "faq": [
+      {
+        "q": "Is the new switch compatible with existing PCBs?",
+        "a": "Yes, it uses the standard MX mount."
+      },
+      {
+        "q": "Do the switches require lubing?",
+        "a": "Lubing is optional but can enhance smoothness further."
+      },
+      {
+        "q": "Can I swap stems for different keycaps?",
+        "a": "The stem geometry remains MX‑compatible, so any MX keycap fits."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/MechanicalKeyboards community threads",
+        "url": "https://www.reddit.com/r/MechanicalKeyboards/"
+      },
+      {
+        "label": "Search interest: \"best budget mechanical keyboard\"",
+        "url": "https://duckduckgo.com/?q=best%20budget%20mechanical%20keyboard"
+      }
+    ],
+    "tags": [
+      "tactile",
+      "new-release"
+    ],
+    "publishedAt": "2026-11-18T14:15:57.920Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "vintage-pbt-set",
+    "title": "Vintage PBT Set Takes the Spotlight",
+    "category": "Keycaps",
+    "dek": "A retro‑inspired PBT set resurfaces, offering deep‑dye colors and a matte texture that resists shine after months of use.",
+    "takeaway": "The set proves that classic materials still win in durability and feel.",
+    "whatHappened": "The set was released through a limited run, featuring double‑shot legends and a muted color palette reminiscent of early 2000s keyboards. Community unboxings highlighted the consistent texture across all rows.",
+    "whyItMatters": "PBT’s resistance to shine keeps the keys looking fresh, while double‑shot legends prevent fading. For builders, the set offers a reliable aesthetic without frequent replacement.",
+    "howToThink": "Pair the set with a matte‑finished case to maintain a cohesive look, and consider keycap profile (e.g., OEM vs SA) for ergonomics. Verify the set includes the necessary sizes for your layout.",
+    "pros": [
+      "No shine over time",
+      "Double‑shot legends",
+      "Rich color palette"
+    ],
+    "cons": [
+      "Limited artisan options",
+      "Higher cost than ABS",
+      "May feel chunky on small boards"
+    ],
+    "watchOut": "Some caps have a tighter fit on certain stems, so test a few before a full swap.",
+    "faq": [
+      {
+        "q": "Are the caps compatible with Cherry MX stems?",
+        "a": "Yes, they follow the MX cross‑stem design."
+      },
+      {
+        "q": "Do the legends wear off with heavy use?",
+        "a": "The double‑shot process makes them highly resistant to wear."
+      },
+      {
+        "q": "Is the set available in different profiles?",
+        "a": "Only the OEM profile is offered in this release."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/CustomKeyboards community threads",
+        "url": "https://www.reddit.com/r/CustomKeyboards/"
+      },
+      {
+        "label": "Search interest: \"keyboard switch guide\"",
+        "url": "https://duckduckgo.com/?q=keyboard%20switch%20guide"
+      }
+    ],
+    "tags": [
+      "pbt",
+      "vintage"
+    ],
+    "publishedAt": "2026-11-17T01:15:57.920Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "low-profile-build",
+    "title": "Low‑Profile Build: Space‑Saving Performance",
+    "category": "Builds",
+    "dek": "A compact low‑profile keyboard shows how to maximize desk real‑estate without sacrificing typing comfort.",
+    "takeaway": "Low‑profile parts can deliver a comfortable experience in a smaller footprint.",
+    "whatHappened": "A builder assembled a 65% low‑profile board using a thin PCB, low‑travel switches, and a slim case. The build was documented on a forum, highlighting the tight tolerances required for the shallow mounts.",
+    "whyItMatters": "Desk space is premium for many users, and a low‑profile board frees up room while keeping a full‑size typing feel. The reduced key travel can also lessen finger fatigue for long sessions.",
+    "howToThink": "Check that your keycaps match the low‑profile stems, and verify the stabilizer clearance before soldering. Use a thin plate to maintain uniform flex and avoid wobble.",
+    "pros": [
+      "Compact size",
+      "Reduced finger travel",
+      "Sleek aesthetic"
+    ],
+    "cons": [
+      "Fewer aftermarket parts",
+      "Stiffer stabilizer tuning",
+      "Potentially louder clicks"
+    ],
+    "watchOut": "Low‑profile switches can feel harsher if not lubed properly.",
+    "faq": [
+      {
+        "q": "Can I use standard MX keycaps?",
+        "a": "Only low‑profile compatible caps will fit correctly."
+      },
+      {
+        "q": "Do low‑profile switches need a different PCB?",
+        "a": "Yes, the PCB must have shallow cutouts for the switches."
+      },
+      {
+        "q": "Is hot‑swap possible with this build?",
+        "a": "Hot‑swap sockets are available for low‑profile switches, but ensure they match the PCB."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/BudgetKeebs community threads",
+        "url": "https://www.reddit.com/r/BudgetKeebs/"
+      },
+      {
+        "label": "Search interest: \"first custom keyboard build\"",
+        "url": "https://duckduckgo.com/?q=first%20custom%20keyboard%20build"
+      }
+    ],
+    "tags": [
+      "low‑profile",
+      "compact"
+    ],
+    "publishedAt": "2026-11-15T12:15:57.920Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "hot-swap-pcb-gb",
+    "title": "Hot‑Swap PCB Group Buy Gains Momentum",
+    "category": "Group Buys",
+    "dek": "A community‑driven hot‑swap PCB for 75% layouts hits its funding goal, promising easy switch swaps for future upgrades.",
+    "takeaway": "The PCB lowers the barrier to experimenting with different switches.",
+    "whatHappened": "The group buy launched on a popular keyboard forum, offering a PCB with Kailh hot‑swap sockets, integrated RGB, and a flexible firmware. The campaign reached its target within weeks, indicating strong interest.",
+    "whyItMatters": "Hot‑swap capability means builders can test multiple switch types without soldering, extending the lifespan of a single board. It also encourages modular experimentation, which aligns with the maker ethos.",
+    "howToThink": "When ordering, confirm the PCB supports your desired layout and firmware (e.g., QMK). Plan for compatible keycaps and stabilizers, as the hot‑swap sockets may affect clearance.",
+    "pros": [
+      "No solder required",
+      "Future‑proof switch upgrades",
+      "Integrated RGB"
+    ],
+    "cons": [
+      "Slightly higher PCB cost",
+      "Potential socket wear over time",
+      "Firmware setup may be complex"
+    ],
+    "watchOut": "Repeated hot‑swapping can loosen sockets, so handle switches gently.",
+    "faq": [
+      {
+        "q": "Is the PCB compatible with VIA?",
+        "a": "Yes, it ships with VIA‑compatible firmware."
+      },
+      {
+        "q": "Can I use tactile switches with the hot‑swap sockets?",
+        "a": "All MX‑compatible switches, including tactile, work fine."
+      },
+      {
+        "q": "Do I need a special plate?",
+        "a": "A compatible plate is recommended to maintain stability."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/MechanicalKeyboards community threads",
+        "url": "https://www.reddit.com/r/MechanicalKeyboards/"
+      },
+      {
+        "label": "Search interest: \"best budget mechanical keyboard\"",
+        "url": "https://duckduckgo.com/?q=best%20budget%20mechanical%20keyboard"
+      }
+    ],
+    "tags": [
+      "hot‑swap",
+      "group‑buy"
+    ],
+    "publishedAt": "2026-11-13T23:15:57.920Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "lubing-trends-2024",
+    "title": "Lubing Trends: What’s Hot in 2024",
+    "category": "Switches",
+    "dek": "Lubing techniques evolve, with new greases and tools shaping smoother keystrokes across tactile and linear switches.",
+    "takeaway": "Modern lubes and precision applicators make consistent results more reachable.",
+    "whatHappened": "Recent forum threads highlight a shift toward thin synthetic greases for tactile switches and thicker oils for linear types. Builders report noticeable reduction in scratch and a quieter bottom‑out.",
+    "whyItMatters": "Consistent lubing improves switch feel, reduces wear, and can lower noise—key factors for both typing and gaming environments. Choosing the right viscosity prevents over‑lubing, which can dull the tactile bump.",
+    "howToThink": "Start with a small amount of lube on a brush, apply to the spring and housing interior, and test each switch before full assembly. Keep a clean workspace to avoid contaminating the lube.",
+    "pros": [
+      "Smoother keystroke",
+      "Reduced noise",
+      "Longer switch life"
+    ],
+    "cons": [
+      "Time‑intensive process",
+      "Risk of over‑lubing",
+      "Requires practice with tools"
+    ],
+    "watchOut": "Using petroleum‑based lubes on POM stems can cause discoloration over time.",
+    "faq": [
+      {
+        "q": "Do I need a lube gun for keyboard switches?",
+        "a": "A brush is sufficient for most DIY lubing tasks."
+      },
+      {
+        "q": "Is lubing necessary for clicky switches?",
+        "a": "Lubing can quiet the bottom‑out but may reduce the click feel."
+      },
+      {
+        "q": "Can I reuse leftover lube?",
+        "a": "Store it in a sealed container to maintain consistency."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/CustomKeyboards community threads",
+        "url": "https://www.reddit.com/r/CustomKeyboards/"
+      },
+      {
+        "label": "Search interest: \"keyboard switch guide\"",
+        "url": "https://duckduckgo.com/?q=keyboard%20switch%20guide"
+      }
+    ],
+    "tags": [
+      "lubing",
+      "technique"
+    ],
+    "publishedAt": "2026-11-12T10:15:57.920Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "artisan-keycaps-market",
+    "title": "Artisan Keycaps Market: Supply vs Demand",
+    "category": "Keycaps",
+    "dek": "The artisan keycap scene sees a surge in limited runs, prompting collectors to weigh rarity against cost.",
+    "takeaway": "Scarcity drives price, but quality remains the primary purchase driver.",
+    "whatHappened": "Several designers released 50‑piece drops on crowdfunding platforms, selling out within hours. Secondary markets now list the same pieces at marked‑up prices, reflecting collector demand.",
+    "whyItMatters": "Understanding market dynamics helps builders decide whether to invest in a piece now or wait for resale. It also highlights the importance of supporting creators directly rather than inflating aftermarket prices.",
+    "howToThink": "Evaluate the design’s uniqueness, material (resin vs metal), and your personal attachment before buying. If you’re budget‑conscious, consider group buys that aggregate demand to lower per‑unit cost.",
+    "pros": [
+      "Unique aesthetics",
+      "Supports independent artists",
+      "High resale value"
+    ],
+    "cons": [
+      "Limited availability",
+      "Often pricey",
+      "Quality varies between makers"
+    ],
+    "watchOut": "Some listings lack authentic photos, so verify provenance before purchasing.",
+    "faq": [
+      {
+        "q": "Are artisan caps compatible with all keyboards?",
+        "a": "They use standard MX stems, but size and profile vary."
+      },
+      {
+        "q": "Do I need a special keycap puller?",
+        "a": "A standard puller works, though larger caps may need extra care."
+      },
+      {
+        "q": "Can I resell an artisan cap?",
+        "a": "Yes, but market prices fluctuate based on rarity."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/BudgetKeebs community threads",
+        "url": "https://www.reddit.com/r/BudgetKeebs/"
+      },
+      {
+        "label": "Search interest: \"first custom keyboard build\"",
+        "url": "https://duckduckgo.com/?q=first%20custom%20keyboard%20build"
+      }
+    ],
+    "tags": [
+      "artisan",
+      "collectibles"
+    ],
+    "publishedAt": "2026-11-10T21:15:57.920Z",
+    "readMinutes": 2
+  }
+]
