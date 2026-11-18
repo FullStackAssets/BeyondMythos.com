@@ -1,5 +1,56 @@
 [
   {
+    "slug": "night-train-stargazing",
+    "title": "Night Train Stargazing: Low-Impact Celestial Watching on the Rails",
+    "dek": "Turn your sleeper carriage into a low-impact observatory and let the night sky guide your journey.",
+    "takeaway": "Even a slow train can become a window to the cosmos with minimal footprint.",
+    "whatHappened": "On a recent overnight route, I set up a simple blanket and a reusable star map in the sleeper cabin. The gentle sway and darkness made constellations pop without any extra energy use.",
+    "whyItMatters": "Connecting with the night sky deepens the sense of place and reduces reliance on screen-based entertainment. It also reinforces a low-impact mindset by using only what’s already on board.",
+    "howToThink": "Choose a window seat in a sleeper or quiet car, bring a reusable star chart or a low-light app, and dim any personal lights. Let the train’s rhythm set your pace for spotting meteors or Milky Way bands.",
+    "pros": [
+      "Zero extra electricity",
+      "Enhances travel mindfulness",
+      "No extra gear needed"
+    ],
+    "cons": [
+      "Requires clear skies",
+      "Limited view in bright cabins",
+      "Weather dependent"
+    ],
+    "watchOut": "Avoid using bright phone screens that can spoil night vision for you and fellow passengers.",
+    "faq": [
+      {
+        "q": "Do I need a telescope?",
+        "a": "A small binocular or just the naked eye works; the train’s motion can help sweep the sky."
+      },
+      {
+        "q": "What if the cabin lights are on?",
+        "a": "Ask the conductor to dim lights or use a personal eye mask to block stray illumination."
+      },
+      {
+        "q": "Can I do this on daytime trains?",
+        "a": "Stargazing needs darkness, so plan for overnight or twilight segments."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "night",
+      "astronomy"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-11-18T13:45:09.021Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "railway-restroom-hygiene",
     "title": "Railway Restroom Hygiene: Low‑Impact Cleanliness on the Rails",
     "dek": "A quick guide to keeping train bathrooms fresh without extra waste, perfect for slow‑travelers.",

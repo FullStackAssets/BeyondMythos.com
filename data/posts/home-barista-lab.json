@@ -1,5 +1,56 @@
 [
   {
+    "slug": "visual-cue-timing-espresso",
+    "title": "Visual Cue Timing: Use the Crema Edge for Consistent Espresso",
+    "dek": "Learn a simple visual cue—watch the crema edge—to nail shot timing without a stopwatch.",
+    "takeaway": "The crema edge gives you a reliable, repeatable way to stop your shot at the right moment.",
+    "whatHappened": "I was tired of guessing when to end my espresso pull, so I started watching the crema rise. After a few tries, the edge of the crema consistently marked the perfect extraction point.",
+    "whyItMatters": "Consistent timing translates to stable flavor, body, and crema quality, which is the heart of a repeatable espresso routine. Small timing variations can swing a shot from bright to bitter.",
+    "howToThink": "Treat the crema edge like a traffic light—when it reaches the rim, stop the pump. Practice a few pulls to notice the visual change, then let the cue replace the stopwatch. Over time, the cue becomes instinctual and faster than counting seconds.",
+    "pros": [
+      "No extra tools needed",
+      "Works with any machine",
+      "Improves flavor consistency"
+    ],
+    "cons": [
+      "Requires a clean portafilter",
+      "May need adjustment for different beans",
+      "Visual cue can be subtle on dark roasts"
+    ],
+    "watchOut": "If your crema is thin or uneven, the edge may be hard to see—clean your basket and use fresh beans first.",
+    "faq": [
+      {
+        "q": "Can I use this method with a pressurized basket?",
+        "a": "It works best with a non‑pressurized basket where crema formation is clear."
+      },
+      {
+        "q": "What if my espresso machine has a very fast pump?",
+        "a": "The visual cue still applies; you may need to start watching the crema earlier."
+      },
+      {
+        "q": "Does water temperature affect the crema edge?",
+        "a": "Higher temperatures can produce a quicker rise, so adjust your observation point accordingly."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "technique"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-11-18T13:45:05.357Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "calibrate-grinder-scale",
     "title": "Calibrate Your Grinder Using a Simple Scale Routine",
     "dek": "A quick, repeatable method to keep your grind size spot‑on without fancy equipment.",

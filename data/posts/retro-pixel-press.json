@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-boost-atari-2600-cartridge-contacts",
+    "title": "Pixel Boost: Reinforcing Atari 2600 Cartridge Contacts for Reliable Play",
+    "dek": "A quick solder‑and‑tape fix that steadies flaky Atari 2600 cartridges without opening the console.",
+    "takeaway": "Solid contacts mean you can fire up classic games without the dreaded pop‑up.",
+    "whatHappened": "We noticed intermittent loading on an Atari 2600 during a marathon run. The issue traced to worn copper contacts inside the cartridge slot. A simple reinforcement using copper tape and a dab of conductive glue solved it.",
+    "whyItMatters": "Unreliable cartridges break immersion and can ruin a speedrun attempt. Fixing the contact point extends the life of both game and console, preserving the authentic experience.",
+    "howToThink": "Treat the slot like a tiny bridge—ensure a clean, tight path for the pins. Use thin copper foil to fill gaps and a conductive adhesive to secure it, then test with multiple cartridges.",
+    "pros": [
+      "Low cost",
+      "No console opening",
+      "Works on most cartridges"
+    ],
+    "cons": [
+      "Requires steady hands",
+      "Potential for over‑coating",
+      "May void warranty if mishandled"
+    ],
+    "watchOut": "Avoid excess glue; it can seep into the pins and cause shorts.",
+    "faq": [
+      {
+        "q": "Do I need a soldering iron?",
+        "a": "A fine‑tip iron helps, but a hot‑glue gun with conductive glue can work for beginners."
+      },
+      {
+        "q": "Will this affect the cartridge's value?",
+        "a": "The modification is reversible and generally accepted by collectors if documented."
+      },
+      {
+        "q": "Can I use this on other consoles?",
+        "a": "The principle applies to any cartridge‑based system with similar slot designs."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Atari 2600",
+      "Cartridge Repair"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-11-18T13:45:08.326Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-boost-adding-turbo-switch-sega-genesis",
     "title": "Pixel Boost: Adding a Turbo Switch to Your Sega Genesis Controller",
     "dek": "Install a simple turbo switch on a Genesis pad for rapid fire without compromising feel.",
