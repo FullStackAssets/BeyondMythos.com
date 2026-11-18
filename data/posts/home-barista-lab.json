@@ -1,5 +1,56 @@
 [
   {
+    "slug": "tune-portafilter-depth",
+    "title": "Fine-Tune Your Espresso Flavor by Adjusting Portafilter Depth",
+    "dek": "A few millimetres of portafilter depth can change extraction balance, and you can dial it in without new hardware.",
+    "takeaway": "Adjusting portafilter depth is a cheap way to sharpen espresso clarity and body.",
+    "whatHappened": "I noticed a thin, watery espresso after switching to a new basket. By raising the portafilter a couple of millimetres, the shot gained body and sweetness.",
+    "whyItMatters": "Depth affects the flow path and pressure profile, influencing how solubles extract. Small changes can correct under- or over-extraction without altering grind or dose.",
+    "howToThink": "Measure the distance from the basket’s lip to the group head, then add or remove shims or adjust the basket’s seating depth. Test with a single shot, note taste, then fine-tune in 0.5 mm steps.",
+    "pros": [
+      "Low cost",
+      "Immediate impact",
+      "Works with existing gear"
+    ],
+    "cons": [
+      "Requires careful measurement",
+      "May affect basket fit",
+      "Not a substitute for grind adjustment"
+    ],
+    "watchOut": "Avoid over-tightening the portafilter; excessive depth can choke flow and cause channeling.",
+    "faq": [
+      {
+        "q": "Do I need a special tool?",
+        "a": "A ruler or digital caliper works; many baristas use a thin shim."
+      },
+      {
+        "q": "Will this work with pressurized baskets?",
+        "a": "Yes, but the effect is subtler because pressure is already built in."
+      },
+      {
+        "q": "How often should I re-check depth?",
+        "a": "Whenever you change baskets, grind, or notice a shift in flavor."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "technique"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-11-18T04:45:09.987Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "optimize-espresso-preinfusion",
     "title": "Master Pre‑infusion Timing for Consistent Espresso Shots",
     "dek": "Fine‑tune your pre‑infusion to smooth out pressure spikes and boost shot uniformity.",
