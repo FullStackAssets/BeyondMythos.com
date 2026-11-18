@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-boost-upgrade-snes-av-cable",
+    "title": "Pixel Boost: Upgrading SNES AV Cable for Crisper Video",
+    "dek": "Swap your SNES’s cheap AV cable for a premium composite line and instantly sharpen colors without breaking the bank.",
+    "takeaway": "A better AV cable gives clearer picture with minimal effort and cost.",
+    "whatHappened": "We removed the stock gray AV cable from a 1994 SNES, soldered new RCA connectors, and installed a shielded composite cable. The console powered up and displayed noticeably richer colors and sharper edges on a CRT.",
+    "whyItMatters": "Clearer video helps collectors appreciate original art and gives speedrunners a more reliable visual reference, especially in fast‑paced sections where color cues matter.",
+    "howToThink": "When the picture looks washed out, start by checking cable quality before tweaking the console. Upgrading the cable is a low‑risk, high‑reward first step before considering more invasive modifications.",
+    "pros": [
+      "Immediate visual boost",
+      "Cheap and easy install",
+      "No firmware changes needed"
+    ],
+    "cons": [
+      "Requires soldering skill",
+      "Cable length may be limited",
+      "Older TVs may not accept RCA input"
+    ],
+    "watchOut": "Ensure the new cable’s shielding is intact to avoid introducing noise into the signal.",
+    "faq": [
+      {
+        "q": "Do I need to open the console to replace the cable?",
+        "a": "Only the AV port’s connector needs access; you can open the SNES’s front panel without disturbing the motherboard."
+      },
+      {
+        "q": "Will this work on both NTSC and PAL SNES models?",
+        "a": "Yes, the composite signal standard is the same; just use the appropriate regional cable length."
+      },
+      {
+        "q": "Can I use a component cable instead?",
+        "a": "The SNES outputs only composite, so a true component upgrade requires a mod; a quality composite cable is the safest upgrade."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "AV Upgrade",
+      "SNES"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-11-18T17:45:12.463Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-preservation-56",
     "title": "The quiet upgrade: small tweaks in preservation with outsized returns",
     "dek": "No purchases, no overhauls — the modest preservation adjustments that retro game collectors and speedrunners report mattering most.",

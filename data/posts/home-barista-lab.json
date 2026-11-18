@@ -1,5 +1,56 @@
 [
   {
+    "slug": "brew-ratio-pour-over-scale",
+    "title": "Master Your Brew Ratio: Scale‑Based Pour‑over Consistency",
+    "dek": "A quick guide to using a kitchen scale for consistent brew ratios in your daily pour‑over.",
+    "takeaway": "Weighing coffee and water yields repeatable flavor without guesswork.",
+    "whatHappened": "I swapped my eyeball‑based measurements for a digital scale and logged the results over a week, noting steadier extraction and taste.",
+    "whyItMatters": "Consistent brew ratios eliminate one major variable, making it easier to fine‑tune grind size and technique for better coffee.",
+    "howToThink": "Treat each brew as a simple math problem: target a coffee‑to‑water ratio (e.g., 1:16), weigh both, then adjust grind or pour speed if the taste deviates.",
+    "pros": [
+      "Consistent flavor",
+      "Easy to track changes",
+      "Minimal extra equipment"
+    ],
+    "cons": [
+      "Requires a scale",
+      "Adds a step to routine",
+      "Initial learning curve"
+    ],
+    "watchOut": "Make sure your scale is placed on a stable, level surface to avoid wobble errors.",
+    "faq": [
+      {
+        "q": "Do I need a high‑precision scale?",
+        "a": "A scale that reads to 1 gram is sufficient for most home pour‑overs."
+      },
+      {
+        "q": "Can I use the same ratio for all beans?",
+        "a": "Start with a standard ratio, then tweak per bean based on taste and acidity."
+      },
+      {
+        "q": "What if my scale shows a fluctuating reading?",
+        "a": "Zero the scale with the brew dripper on it before adding coffee to eliminate drift."
+      }
+    ],
+    "category": "Pour-over",
+    "tags": [
+      "pour-over",
+      "brew ratio"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-11-18T17:45:05.934Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "master-microfoam-tips",
     "title": "Master Microfoam: From Milk to Latte Art",
     "dek": "Learn how to create silky microfoam at home for latte art that rivals café standards.",

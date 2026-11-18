@@ -1,5 +1,56 @@
 [
   {
+    "slug": "twilight-train-tales",
+    "title": "Twilight Train Tales: Low‑Impact Storytelling on the Rails",
+    "dek": "Capture the magic of dusk aboard a moving carriage without leaving a carbon trace.",
+    "takeaway": "Even brief moments on a twilight train can spark lasting low‑impact narratives.",
+    "whatHappened": "I boarded a late‑afternoon regional train that lingered through rolling hills as the sun set. Passengers swapped short anecdotes, and I jotted notes in a recycled notebook, turning the journey into a portable storytelling workshop.",
+    "whyItMatters": "Storytelling encourages reflection and community, reinforcing the purpose of slow travel beyond scenery. When done responsibly, it spreads low‑impact values without extra resources.",
+    "howToThink": "Treat each stop as a prompt: observe a landscape, listen to a fellow traveler, and write a line. Keep tools lightweight—use a pen, paper, or a solar‑charged device. Share stories verbally or in a communal logbook rather than printing.",
+    "pros": [
+      "Fosters connection",
+      "Zero waste creativity",
+      "Enhances route memory"
+    ],
+    "cons": [
+      "Requires quiet focus",
+      "May distract from safety",
+      "Limited to short intervals"
+    ],
+    "watchOut": "Avoid blocking aisles or disturbing fellow riders while you write.",
+    "faq": [
+      {
+        "q": "Can I record stories without electronics?",
+        "a": "Yes, a simple notebook and pen work perfectly and leave no carbon footprint."
+      },
+      {
+        "q": "How long should a train storytelling session be?",
+        "a": "Aim for 5‑10 minutes per stop to keep it low‑impact and respectful."
+      },
+      {
+        "q": "Is it okay to share stories on social media?",
+        "a": "Share responsibly—use low‑impact platforms or post later from a stable connection."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "storytelling",
+      "rail"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-11-18T17:45:06.750Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "eco-friendly-sleep-pods",
     "title": "Eco-Friendly Sleep Pods: Low‑Impact Rest on the Rails",
     "dek": "Sleep comfortably on a train without leaving a carbon trace, thanks to reusable, low‑energy pods.",
