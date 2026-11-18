@@ -1,5 +1,56 @@
 [
   {
+    "slug": "tamping-pressure-sweet-spot",
+    "title": "Tamping Pressure: Find Your Sweet Spot for Consistent Espresso",
+    "dek": "A quick guide to dialing in tamping force for steadier shots without fancy equipment.",
+    "takeaway": "Consistent tamp pressure is key to repeatable espresso extraction.",
+    "whatHappened": "I was pulling a batch of espresso and noticed the shots varied wildly despite using the same beans and grind. After checking everything else, I realized my tamp pressure was all over the place.",
+    "whyItMatters": "Uneven tamping creates channeling, leading to under-extracted or over-extracted coffee, which hurts flavor and crema. Controlling pressure gives you a stable puck and more predictable results.",
+    "howToThink": "Treat tamping like a repeatable step: aim for about 30lb of force, use a calibrated tamper or a bathroom scale to gauge your pressure, and keep the tamp level each time.",
+    "pros": [
+      "Better shot consistency",
+      "Improved flavor balance",
+      "Easier troubleshooting"
+    ],
+    "cons": [
+      "Requires habit change",
+      "May need a scale or gauge",
+      "Can feel tedious at first"
+    ],
+    "watchOut": "Don't over-compact the grounds; too much pressure can choke water flow.",
+    "faq": [
+      {
+        "q": "How can I gauge tamp pressure without a scale?",
+        "a": "Press the tamper against a kitchen countertop; you should feel a firm, steady resistance similar to squeezing a firm rubber ball."
+      },
+      {
+        "q": "Is 30lb the only correct pressure?",
+        "a": "It's a common target, but the exact number can vary with basket size and personal taste; the goal is consistency."
+      },
+      {
+        "q": "Will a heavier tamper help?",
+        "a": "A heavier tamper can make reaching the target pressure easier, but you still need to press evenly."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "tamping",
+      "espresso-tips"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-11-18T08:45:09.947Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "check-portafilter-pressure-consistency",
     "title": "Check Your Portafilter Pressure for More Consistent Espresso",
     "dek": "A quick test to gauge portafilter pressure can tighten shot consistency without new gear.",

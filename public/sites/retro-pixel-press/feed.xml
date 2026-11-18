@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Zap It: Fixing NES Zapper Lag with a Tiny Solder</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/zap-it-fixing-nes-zapper-lag.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/zap-it-fixing-nes-zapper-lag.html</guid>
+      <pubDate>Wed, 18 Nov 2026 08:45:04 GMT</pubDate>
+      <description>A quick solder‑and‑wire tweak that restores snappy aim to your NES Zapper.</description>
+    </item>
+    <item>
       <title>Speedrun Sprint: Mastering the 1‑Second Skip in Sonic the Hedgehog 2</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/speedrun-sprint-sonic-2-skip.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/speedrun-sprint-sonic-2-skip.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/c64-power-switch-replacement.html</guid>
       <pubDate>Fri, 30 Oct 2026 15:45:04 GMT</pubDate>
       <description>Swap the Commodore 64&apos;s aging power switch for a new tactile one and shave seconds off every startup.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Replacing Atari 2600 Joystick Contacts for Smoother Inputs</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-replacing-atari-2600-joystick-contac.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-replacing-atari-2600-joystick-contac.html</guid>
-      <pubDate>Fri, 30 Oct 2026 14:45:10 GMT</pubDate>
-      <description>Swap out the worn contacts in your Atari 2600 joystick for tighter, more reliable directional control.</description>
     </item>
   </channel>
 </rss>

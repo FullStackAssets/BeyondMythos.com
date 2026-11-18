@@ -1,5 +1,56 @@
 [
   {
+    "slug": "quiet-car-book-club",
+    "title": "Quiet Car Book Club: Low-Impact Literary Journeys on the Rails",
+    "dek": "Turn a slow train ride into a traveling book club, swapping stories and sustainability tips.",
+    "takeaway": "Sharing books on board deepens connections while keeping your carbon footprint low.",
+    "whatHappened": "I joined a quiet-car carriage on a weekend regional line, invited fellow passengers to exchange favorite short reads, and we spent the journey discussing themes and swapping copies.",
+    "whyItMatters": "Travel is a chance to connect beyond screens; low-impact literary swaps foster community and reduce the need for new printed material.",
+    "howToThink": "Carry a lightweight, reusable book bag, choose public-domain or paperback titles, and propose a short 10-minute discussion at a scenic stop to keep the exchange casual.",
+    "pros": [
+      "Fosters community",
+      "Reduces new book purchases",
+      "Fits into slow-travel rhythm"
+    ],
+    "cons": [
+      "Requires willing participants",
+      "Limited space in quiet car",
+      "Potential noise if discussion runs long"
+    ],
+    "watchOut": "Be mindful of fellow travelers who may prefer silence; keep voices low and discussions brief.",
+    "faq": [
+      {
+        "q": "Do I need to bring my own books?",
+        "a": "Yes, bring a couple of lightweight paperbacks or a fully charged e‑reader."
+      },
+      {
+        "q": "How much space does a book swap take?",
+        "a": "A small tote or backpack is enough to hold a few titles without crowding the seat."
+      },
+      {
+        "q": "What if no one wants to join?",
+        "a": "Start with a friendly invitation; even a single conversation can spark interest for the next stop."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "community"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-11-18T08:45:04.108Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "packing-pre-spend-checklist-51",
     "title": "The packing checklist: run this before you spend",
     "dek": "Seven questions that separate a justified packing purchase from an expensive mood.",

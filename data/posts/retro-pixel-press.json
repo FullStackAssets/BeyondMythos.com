@@ -1,5 +1,56 @@
 [
   {
+    "slug": "zap-it-fixing-nes-zapper-lag",
+    "title": "Zap It: Fixing NES Zapper Lag with a Tiny Solder",
+    "dek": "A quick solder‑and‑wire tweak that restores snappy aim to your NES Zapper.",
+    "takeaway": "A simple solder joint can eliminate the lag that turns light‑gun games into guessing games.",
+    "whatHappened": "We discovered that the Zapper’s internal trigger switch often loses contact after years of use. A thin piece of copper shim re‑established the connection, cutting the response delay dramatically.",
+    "whyItMatters": "Light‑gun precision is essential for high‑score runs and casual fun alike. Without reliable input, speedrunners miss critical shots, and collectors lose the authentic feel of classic arcade ports.",
+    "howToThink": "When a Zapper feels sluggish, inspect the trigger contacts for oxidation or loose wires. A small copper shim or a fresh solder joint often restores the original snap. Keep the repair reversible so you can revert if needed.",
+    "pros": [
+      "Restores original responsiveness",
+      "Low‑cost materials",
+      "No need for new hardware"
+    ],
+    "cons": [
+      "Requires basic soldering",
+      "Potential void of warranty",
+      "Risk of damaging PCB if mishandled"
+    ],
+    "watchOut": "Make sure the console is unplugged and the Zapper is disconnected before opening it.",
+    "faq": [
+      {
+        "q": "Will this fix affect the Zapper’s safety?",
+        "a": "The fix only touches the trigger circuit and does not impact the light sensor, so safety remains unchanged."
+      },
+      {
+        "q": "Can I use any type of copper shim?",
+        "a": "A thin, flexible copper foil works best; avoid thick pieces that could short nearby traces."
+      },
+      {
+        "q": "Is this repair reversible?",
+        "a": "Yes—desolder the shim and re‑apply the original contacts if you ever need to revert."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "NES",
+      "Light Gun"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-11-18T08:45:04.972Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "speedrun-sprint-sonic-2-skip",
     "title": "Speedrun Sprint: Mastering the 1‑Second Skip in Sonic the Hedgehog 2",
     "dek": "Learn how to pull the legendary 1‑second skip in Sonic 2 and shave precious frames off your personal best.",
