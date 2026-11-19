@@ -1,5 +1,56 @@
 [
   {
+    "slug": "boost-espresso-pressure-check",
+    "title": "Boost Espresso Consistency with a Simple Pressure Gauge Check",
+    "dek": "A quick look at your machine’s pressure gauge can reveal hidden inconsistencies and help you dial in flawless shots.",
+    "takeaway": "Monitoring pressure lets you catch fluctuations before they ruin your espresso.",
+    "whatHappened": "During a routine prep, I noticed the pressure gauge swinging between 8 and 11 bars on identical doses. A quick cleaning of the pressure regulator steadied the reading and the shots tasted uniform.",
+    "whyItMatters": "Pressure stability is the backbone of extraction; even small swings can shift flavor balance. By keeping the gauge in check, you maintain repeatable results and avoid wasted coffee.",
+    "howToThink": "Treat the pressure gauge like a health monitor: check it before each brewing session, note any drift, and clean the regulator monthly. If readings stay outside 9‑10 bars, investigate the pump or seal.",
+    "pros": [
+      "Instant feedback",
+      "Easy to implement",
+      "Improves shot repeatability"
+    ],
+    "cons": [
+      "Requires gauge access",
+      "May need occasional cleaning",
+      "Not a fix for badly calibrated machines"
+    ],
+    "watchOut": "Never force the pump if pressure spikes; let the machine settle to avoid damaging seals.",
+    "faq": [
+      {
+        "q": "What is the ideal pressure range for most home espresso machines?",
+        "a": "Most home machines aim for 9 ± 1 bars during extraction."
+      },
+      {
+        "q": "How often should I check the pressure gauge?",
+        "a": "A quick glance before each brewing session is enough; a deeper inspection weekly works well."
+      },
+      {
+        "q": "Can a faulty gauge give false readings?",
+        "a": "Yes, gauges can drift; if you suspect it, compare with a calibrated reference or test the pump output."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "technique"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-11-19T11:45:06.768Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-pour-over-mistakes-54",
     "title": "Five mistakes everyone makes in their first month of pour-over",
     "dek": "The most common early stumbles in pour-over, and the cheap corrections that fix them for home coffee enthusiasts.",

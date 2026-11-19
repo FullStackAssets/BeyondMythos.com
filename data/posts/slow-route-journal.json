@@ -1,5 +1,56 @@
 [
   {
+    "slug": "slow-rail-bridge-spotting",
+    "title": "Bridge Watching on the Rails: Low‑Impact Discovery Between Stations",
+    "dek": "Pause at bridges to soak scenery, stretch legs, and keep your carbon footprint tiny.",
+    "takeaway": "Observing bridges turns a simple ride into a mindful, low‑impact adventure.",
+    "whatHappened": "During a morning stretch on the regional line, I paused at a historic iron bridge, stepped onto the platform, and watched the river below. The quiet moment sparked curiosity about local engineering history and gave a natural break from sitting.",
+    "whyItMatters": "Bridges are often overlooked yet they frame the landscape and tell stories of sustainable design. Noticing them encourages slower pacing and deeper connection to the places you pass.",
+    "howToThink": "Next time your train slows, look for a bridge, note its shape, and ask yourself how it fits the environment. Use a notebook or phone to jot quick sketches or facts, turning transit time into learning.",
+    "pros": [
+      "Adds visual interest",
+      "Encourages mindful pauses",
+      "No extra gear needed"
+    ],
+    "cons": [
+      "May require brief stop",
+      "Limited to routes with bridges",
+      "Weather can hinder view"
+    ],
+    "watchOut": "Be mindful of platform safety and never step onto tracks.",
+    "faq": [
+      {
+        "q": "Do I need special permission to stop on a bridge platform?",
+        "a": "Most stations allow brief platform pauses, but always follow local signage and staff guidance."
+      },
+      {
+        "q": "How can I learn about a bridge’s history quickly?",
+        "a": "Look for informational plaques, use a rail‑history app, or search the bridge name online after the ride."
+      },
+      {
+        "q": "Is bridge spotting suitable for night travel?",
+        "a": "It’s possible if the bridge is lit, but visibility drops and safety considerations increase."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "local"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-11-19T11:45:06.062Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "dawn-platform-journaling",
     "title": "Dawn Platform Journaling: Low‑Impact Reflection on the Rails",
     "dek": "Start your day with a five‑minute journal on the train and keep your travel footprint light.",

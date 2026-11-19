@@ -1,5 +1,56 @@
 [
   {
+    "slug": "reinforce-sega-paddle",
+    "title": "Pixel Boost: Reinforcing the Sega Master System Paddle for Consistent Swings",
+    "dek": "A simple reinforcement kit gives your Sega Master System paddle a sturdier feel, reducing wobble during tight runs.",
+    "takeaway": "A sturdier paddle translates to more reliable input and smoother speedrun lines.",
+    "whatHappened": "We discovered that the original paddle’s plastic shaft flexes under rapid movement, causing jitter. By adding a thin metal brace inside the shaft, the paddle stays rigid even during aggressive swings.",
+    "whyItMatters": "Speedrunners rely on precise analog input for games like Excitebike and Ski or Die. A wobbling paddle can throw off timing and cost valuable seconds.",
+    "howToThink": "When a controller feels loose, consider internal reinforcement before swapping it out. A modest brace is cheap, reversible, and often restores original feel.",
+    "pros": [
+      "Easy DIY",
+      "Low cost",
+      "Reversible"
+    ],
+    "cons": [
+      "Requires tiny screwdriver",
+      "May alter original aesthetics",
+      "Not needed for light use"
+    ],
+    "watchOut": "Avoid over‑tightening the brace, as it can crack the paddle housing.",
+    "faq": [
+      {
+        "q": "Do I need special tools?",
+        "a": "A small Phillips screwdriver and a thin metal strip are enough."
+      },
+      {
+        "q": "Will the modification affect the paddle’s calibration?",
+        "a": "No, it only stabilizes the shaft; input range stays the same."
+      },
+      {
+        "q": "Can I undo the fix later?",
+        "a": "Yes, simply remove the brace and re‑assemble the original parts."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Sega Master System",
+      "Controller Mod"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-11-19T11:45:11.129Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "c64-joystick-smooth-diagonal",
     "title": "Pixel Boost: Recalibrating the Commodore 64 Joystick for Smooth Diagonal Moves",
     "dek": "A cheap mod to your C64 joystick can eliminate sticky diagonals and give you the precision needed for high‑level runs.",

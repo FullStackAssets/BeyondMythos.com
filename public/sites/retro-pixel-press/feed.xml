@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Reinforcing the Sega Master System Paddle for Consistent Swings</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/reinforce-sega-paddle.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/reinforce-sega-paddle.html</guid>
+      <pubDate>Thu, 19 Nov 2026 11:45:11 GMT</pubDate>
+      <description>A simple reinforcement kit gives your Sega Master System paddle a sturdier feel, reducing wobble during tight runs.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Recalibrating the Commodore 64 Joystick for Smooth Diagonal Moves</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/c64-joystick-smooth-diagonal.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/c64-joystick-smooth-diagonal.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/weekend-project-hardware-55.html</guid>
       <pubDate>Wed, 18 Nov 2026 06:45:04 GMT</pubDate>
       <description>One contained, satisfying hardware project for retro game collectors — start Saturday morning, done by lunch.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Tweaking Game Boy Camera Shutter for Snappier Shots</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/game-boy-camera-shutter-mod.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/game-boy-camera-shutter-mod.html</guid>
-      <pubDate>Wed, 18 Nov 2026 05:45:10 GMT</pubDate>
-      <description>A quick guide to reducing the lag on your Game Boy Camera’s shutter, so you can capture frames faster for speedrun practice and collection.</description>
     </item>
   </channel>
 </rss>
