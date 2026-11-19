@@ -2397,8 +2397,29 @@
       "streamUrl": "https://beyondmythos.com/",
       "elevenlabsAgentId": null,
       "lastPostAt": "2026-11-19T00:45:44.764Z"
+    },
+    {
+      "id": "vanward-bound-3-1795050974201",
+      "slug": "vanward-bound-3",
+      "name": "Vanward Bound",
+      "tagline": "Fresh takes for van dwellers and weekend overlanders.",
+      "nicheId": "van-life",
+      "audience": "van dwellers and weekend overlanders",
+      "categories": [
+        "Builds",
+        "Power",
+        "Routes",
+        "Cooking"
+      ],
+      "url": "https://beyondmythos.com/sites/vanward-bound-3/",
+      "localUrl": "https://beyondmythos.com/sites/vanward-bound-3/",
+      "design": "ember",
+      "postCount": 6,
+      "createdAt": "2026-11-19T01:16:14.026Z",
+      "streamUrl": "https://beyondmythos.com/",
+      "elevenlabsAgentId": null
     }
   ],
-  "lastGeneratedAt": "2026-11-19T00:15:51.342Z",
+  "lastGeneratedAt": "2026-11-19T01:16:14.026Z",
   "lastPostRunAt": "2026-11-19T00:45:44.780Z"
 }
