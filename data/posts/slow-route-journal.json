@@ -1,5 +1,56 @@
 [
   {
+    "slug": "sunset-platform-reading",
+    "title": "Sunset Platform Reading: Low‑Impact Literary Moments on the Rails",
+    "dek": "Turn evening train stops into quiet reading rituals that boost mindfulness and cut your carbon footprint.",
+    "takeaway": "A simple stop‑over reading habit enriches slow travel without adding waste.",
+    "whatHappened": "While waiting for the last regional train home, I pulled out a pocket‑sized poetry booklet and let the fading light frame each line. The calm lingered long after the train pulled away.",
+    "whyItMatters": "Reading on a platform replaces screen time, reduces energy use, and deepens your connection to the journey’s rhythm. It also showcases how tiny habits can amplify the low‑impact ethos of slow travel.",
+    "howToThink": "Carry a small, reusable book or a downloaded e‑book on a solar‑charged device. Choose a spot with natural light, set a timer for 10‑15 minutes, and let the ambient sounds become your soundtrack. When the train arrives, close gently and store the book back in your bag.",
+    "pros": [
+      "Zero waste, just words",
+      "Boosts mindfulness during idle time",
+      "Easy to integrate with any itinerary"
+    ],
+    "cons": [
+      "Requires a lightweight reading material",
+      "May be disrupted by noisy crowds",
+      "Limited if stations lack seating"
+    ],
+    "watchOut": "Beware of sudden announcements that can break concentration—keep your reading brief and flexible.",
+    "faq": [
+      {
+        "q": "Do I need a physical book?",
+        "a": "A pocket‑size paper book works well, but any low‑energy e‑reader or phone with solar power is fine."
+      },
+      {
+        "q": "What if the platform is crowded?",
+        "a": "Find a quieter corner or lean against the railing; even a few lines read aloud can be grounding."
+      },
+      {
+        "q": "How long should a reading session be?",
+        "a": "Aim for 10‑15 minutes—long enough to settle in, short enough to stay alert for the train."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "reading"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-11-19T06:45:05.349Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "slow-train-cooking",
     "title": "Slow Train Cooking: Low‑Impact Meals on the Rails",
     "dek": "Whipping up zero‑waste, low‑impact meals from a train pantry keeps your journey tasty and sustainable.",

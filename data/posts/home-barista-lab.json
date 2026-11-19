@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-tamp-technique",
+    "title": "Master Your Espresso Tamping: Simple Hand Technique",
+    "dek": "A quick guide to consistent tamping that boosts shot stability without buying new gear.",
+    "takeaway": "Even pressure and a level tamp can dramatically improve espresso uniformity.",
+    "whatHappened": "I tried two tamping styles—light fingertip press and a firm, even press—on the same beans. The firm, level tamp produced a richer crema and steadier flow.",
+    "whyItMatters": "Tamping influences how water extracts coffee; uneven pressure creates channeling, leading to weak flavor and inconsistent shots. Home baristas can fix this with technique alone.",
+    "howToThink": "Focus on a flat surface, apply steady pressure until the tamper feels locked, then give a brief twist to polish the puck. Consistency comes from muscle memory, so practice with a scale or a tamping guide.",
+    "pros": [
+      "Better flavor balance",
+      "More consistent flow",
+      "No extra equipment needed"
+    ],
+    "cons": [
+      "Requires practice",
+      "Can be tiring initially",
+      "May expose old grind inconsistencies"
+    ],
+    "watchOut": "Avoid over‑compressing the puck, which can choke the shot and increase pressure.",
+    "faq": [
+      {
+        "q": "How much pressure should I apply?",
+        "a": "Aim for a firm, even pressure that feels solid; you don’t need a measured weight."
+      },
+      {
+        "q": "Do I need a calibrated tamper?",
+        "a": "A flat, sturdy tamper works; calibration helps but isn’t essential for home use."
+      },
+      {
+        "q": "What if my shots still taste thin?",
+        "a": "Check grind size and dose; tamping is just one piece of the extraction puzzle."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "tamping",
+      "espresso-technique"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-11-19T06:45:12.523Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "dial-in-espresso-shot-brew-ratio",
     "title": "Dial in Your Espresso Shot with a Simple Brew Ratio Check",
     "dek": "A quick ratio audit can reveal hidden imbalances and sharpen every shot you pull.",

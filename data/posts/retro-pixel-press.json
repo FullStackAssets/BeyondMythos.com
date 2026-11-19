@@ -1,5 +1,56 @@
 [
   {
+    "slug": "tuning-light-gun-sensitivity",
+    "title": "Pixel Boost: Tuning Light Gun Sensitivity for Tight Speedrun Shots",
+    "dek": "Fine‑tune your retro light gun to hit targets consistently without sacrificing speed.",
+    "takeaway": "A simple potentiometer tweak can dramatically improve aim reliability for speedruns.",
+    "whatHappened": "While testing a classic rail shooter, we discovered the gun’s trigger latency varied wildly. Swapping the original sensor for a newer, low‑lag module and adjusting the built‑in potentiometer steadied the response. The result was a noticeably smoother, more predictable aim.",
+    "whyItMatters": "Speedrunners rely on split‑second precision; any drift can cost a run. Consistent input also preserves the original feel of the hardware, keeping the experience authentic. A stable light gun lets you focus on strategy instead of fighting the controller.",
+    "howToThink": "Start by locating the adjustable potentiometer on your gun’s circuit board. Rotate it clockwise in small increments while testing in‑game, watching for a tighter clustering of hit points. If the gun feels too sluggish, back off slightly until the response feels snappy yet controllable. Once satisfied, secure the knob with a dab of epoxy to lock the setting.",
+    "pros": [
+      "Sharper aim",
+      "Minimal parts needed",
+      "Retains original aesthetics"
+    ],
+    "cons": [
+      "Requires soldering skill",
+      "Potential void of warranty",
+      "May need calibration per TV type"
+    ],
+    "watchOut": "Avoid over‑tightening the potentiometer, which can make the gun unresponsive and frustrate gameplay.",
+    "faq": [
+      {
+        "q": "Do I need a specific replacement sensor?",
+        "a": "Any compatible light‑sensor board designed for the same console era will work; verify pin alignment before soldering."
+      },
+      {
+        "q": "Will this mod affect the gun’s compatibility with other games?",
+        "a": "The change only alters response speed, so it remains usable across titles that use the same light‑gun protocol."
+      },
+      {
+        "q": "Is epoxy necessary?",
+        "a": "It isn’t mandatory, but it prevents the knob from drifting after repeated use."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "light‑gun",
+      "modding"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-11-19T06:45:06.811Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "light-gun-trigger-fine-tune",
     "title": "Pixel Boost: Fine-Tuning Light Gun Trigger Pull for Consistent Frames",
     "dek": "Adjust your retro light gun’s trigger tension to shave off missed shots without compromising durability.",
