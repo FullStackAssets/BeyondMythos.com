@@ -1,0 +1,308 @@
+[
+  {
+    "slug": "start-a-quiet-money-ledger",
+    "title": "How to Start a Quiet Money Ledger",
+    "category": "Budgeting",
+    "dek": "A no‑noise guide to building a simple ledger that captures every dollar without the spreadsheet overwhelm.",
+    "takeaway": "A basic ledger gives you clarity and control, even if you’re new to tracking money.",
+    "whatHappened": "Many savers skip detailed tracking, assuming it’s too time‑consuming. By creating a quiet ledger with just a notebook or a minimalist app, they quickly see where cash flows.",
+    "whyItMatters": "Visibility of every transaction stops hidden waste and builds confidence for larger financial moves. It also creates a habit that supports future investing.",
+    "howToThink": "Start with three columns—date, description, amount—and record daily. Keep entries brief and reconcile weekly to keep the system painless.",
+    "pros": [
+      "Simple to set up",
+      "Low tech barrier",
+      "Immediate insight"
+    ],
+    "cons": [
+      "Manual entry can be tedious",
+      "Hard to aggregate categories",
+      "Risk of missed entries"
+    ],
+    "watchOut": "Don’t let the ledger become a chore; set a short daily reminder.",
+    "faq": [
+      {
+        "q": "Do I need a digital app?",
+        "a": "A paper notebook works, but an app adds backup and search."
+      },
+      {
+        "q": "How detailed should entries be?",
+        "a": "Just enough to identify the source—date, merchant, amount."
+      },
+      {
+        "q": "Can I skip days?",
+        "a": "Consistency matters; a missed day makes patterns harder to spot."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/personalfinance community threads",
+        "url": "https://www.reddit.com/r/personalfinance/"
+      },
+      {
+        "label": "Search interest: \"zero based budget guide\"",
+        "url": "https://duckduckgo.com/?q=zero%20based%20budget%20guide"
+      }
+    ],
+    "tags": [
+      "ledger",
+      "budget"
+    ],
+    "publishedAt": "2026-11-19T03:16:12.114Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "track-monthly-expenses",
+    "title": "Tracking Monthly Expenses Without Spreadsheet Fatigue",
+    "category": "Budgeting",
+    "dek": "A quick method to capture monthly spending patterns using a quiet ledger and a handful of categories.",
+    "takeaway": "A handful of expense buckets reveal the biggest drains without complex charts.",
+    "whatHappened": "First‑time budgeters often over‑categorize, leading to paralysis. By limiting categories to essentials, they can log expenses faster and still see trends.",
+    "whyItMatters": "Understanding the top three expense drivers helps you cut waste and allocate more toward savings or investments.",
+    "howToThink": "Pick five core categories—housing, food, transport, discretionary, savings—and tally each expense into the nearest bucket each week.",
+    "pros": [
+      "Fast logging",
+      "Clear priorities",
+      "Easy to review"
+    ],
+    "cons": [
+      "Less granular insight",
+      "May lump dissimilar items",
+      "Requires weekly check‑in"
+    ],
+    "watchOut": "Avoid vague categories that hide recurring small costs.",
+    "faq": [
+      {
+        "q": "How many categories are optimal?",
+        "a": "Five to seven keeps it manageable."
+      },
+      {
+        "q": "What about irregular expenses?",
+        "a": "Add them to a ‘misc’ bucket and review quarterly."
+      },
+      {
+        "q": "Should I use cash envelopes?",
+        "a": "Envelopes can reinforce limits, but the ledger still tracks total spend."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/Frugal community threads",
+        "url": "https://www.reddit.com/r/Frugal/"
+      },
+      {
+        "label": "Search interest: \"emergency fund strategy\"",
+        "url": "https://duckduckgo.com/?q=emergency%20fund%20strategy"
+      }
+    ],
+    "tags": [
+      "expenses",
+      "tracking"
+    ],
+    "publishedAt": "2026-11-17T14:16:12.114Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "pay-off-high-interest-debt",
+    "title": "Quietly Paying Off High‑Interest Debt",
+    "category": "Debt",
+    "dek": "A low‑drama approach to eliminate costly credit card balances using a simple ledger and the debt‑snowball twist.",
+    "takeaway": "Prioritizing the highest‑rate debt saves money and frees cash for saving.",
+    "whatHappened": "Many savers focus on paying minimums, letting interest compound. By listing each debt, rate, and balance in the ledger, they can allocate extra cash to the highest rate.",
+    "whyItMatters": "Reducing interest expense directly boosts net worth and improves credit health, creating room for future investments.",
+    "howToThink": "Update the ledger monthly, mark the debt you target, and redirect any surplus from budget categories to that payment.",
+    "pros": [
+      "Interest savings",
+      "Clear progress markers",
+      "Boosts morale"
+    ],
+    "cons": [
+      "Requires discipline",
+      "May delay other goals",
+      "Needs regular updates"
+    ],
+    "watchOut": "Don’t sacrifice emergency savings just to accelerate debt payments.",
+    "faq": [
+      {
+        "q": "Is snowball or avalanche better?",
+        "a": "Avalanche (highest rate first) saves interest, while snowball builds momentum; choose what fits you."
+      },
+      {
+        "q": "How much extra should I pay?",
+        "a": "Any amount above the minimum helps; start with a realistic figure."
+      },
+      {
+        "q": "What if my income fluctuates?",
+        "a": "Adjust the ledger each month to match cash flow, keeping minimums covered."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/Bogleheads community threads",
+        "url": "https://www.reddit.com/r/Bogleheads/"
+      },
+      {
+        "label": "Search interest: \"index fund investing basics\"",
+        "url": "https://duckduckgo.com/?q=index%20fund%20investing%20basics"
+      }
+    ],
+    "tags": [
+      "debt",
+      "payoff"
+    ],
+    "publishedAt": "2026-11-16T01:16:12.114Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "auto-invest-with-robo-advisors",
+    "title": "Auto‑Investing for First‑Timers via Robo‑Advisors",
+    "category": "Investing",
+    "dek": "Set it and forget it: using automated portfolios to grow savings without daily market watching.",
+    "takeaway": "Automation removes emotion and gets money working while you focus on budgeting.",
+    "whatHappened": "New investors often stall over asset selection. Robo‑advisors provide diversified portfolios with low fees, funded automatically from a bank account.",
+    "whyItMatters": "Consistent contributions harness compounding, and the hands‑off model reduces the temptation to time the market.",
+    "howToThink": "Link your quiet ledger’s surplus line to a robo‑advisor, set a monthly contribution, and let the system rebalance.",
+    "pros": [
+      "Low effort",
+      "Diversified by default",
+      "Transparent fees"
+    ],
+    "cons": [
+      "Limited customization",
+      "May have minimum balances",
+      "Less personal control"
+    ],
+    "watchOut": "Watch for hidden fees in premium tiers; stick with the basic plan if you’re just starting.",
+    "faq": [
+      {
+        "q": "Do I need a brokerage account?",
+        "a": "Robo‑advisors are brokerages that manage the account for you."
+      },
+      {
+        "q": "How often should I adjust contributions?",
+        "a": "Review quarterly or when your budget changes."
+      },
+      {
+        "q": "Is this safe for market downturns?",
+        "a": "Diversification and long‑term horizon smooth volatility."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/personalfinance community threads",
+        "url": "https://www.reddit.com/r/personalfinance/"
+      },
+      {
+        "label": "Search interest: \"zero based budget guide\"",
+        "url": "https://duckduckgo.com/?q=zero%20based%20budget%20guide"
+      }
+    ],
+    "tags": [
+      "investing",
+      "robo"
+    ],
+    "publishedAt": "2026-11-14T12:16:12.114Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "use-spreadsheet-templates",
+    "title": "Using Minimal Spreadsheet Templates for Quiet Money",
+    "category": "Tools",
+    "dek": "A stripped‑down spreadsheet that captures income, expenses, and net flow without overwhelming formulas.",
+    "takeaway": "A clean template offers the best of both worlds: digital convenience and simplicity.",
+    "whatHappened": "Budgeters sometimes avoid spreadsheets fearing complexity. A template with fixed rows and simple sum formulas lets anyone track cash without learning Excel.",
+    "whyItMatters": "Digital records are searchable and easy to back up, while the template’s simplicity keeps the habit sustainable.",
+    "howToThink": "Download a template, fill the pre‑set categories weekly, and let the totals auto‑calculate. Keep a copy in cloud storage for access anywhere.",
+    "pros": [
+      "Automatic totals",
+      "Accessible on any device",
+      "Easy backup"
+    ],
+    "cons": [
+      "Requires basic computer skill",
+      "May tempt over‑customization",
+      "Not as tactile as paper"
+    ],
+    "watchOut": "Don’t add unnecessary columns; extra fields re‑introduce complexity.",
+    "faq": [
+      {
+        "q": "Can I use Google Sheets?",
+        "a": "Yes, it works online and autosaves."
+      },
+      {
+        "q": "Do I need formulas?",
+        "a": "Simple SUM rows are enough; no macros needed."
+      },
+      {
+        "q": "How often should I update?",
+        "a": "Weekly updates keep data fresh without burden."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/Frugal community threads",
+        "url": "https://www.reddit.com/r/Frugal/"
+      },
+      {
+        "label": "Search interest: \"emergency fund strategy\"",
+        "url": "https://duckduckgo.com/?q=emergency%20fund%20strategy"
+      }
+    ],
+    "tags": [
+      "tools",
+      "spreadsheet"
+    ],
+    "publishedAt": "2026-11-12T23:16:12.114Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "review-annual-financial-health",
+    "title": "Annual Financial Health Review in a Quiet Ledger",
+    "category": "Budgeting",
+    "dek": "A once‑a‑year deep‑dive that turns your quiet ledger data into actionable next‑year goals.",
+    "takeaway": "An annual review turns raw numbers into a roadmap for saving and investing.",
+    "whatHappened": "Many savers collect data all year but never synthesize it. By pulling the ledger’s yearly totals, they spot trends and set realistic targets.",
+    "whyItMatters": "Seeing the full picture reveals where you over‑spent, where you saved, and how much you can allocate to new goals like investing or debt reduction.",
+    "howToThink": "Summarize each category, compare to the previous year, and write three concrete goals—e.g., increase emergency fund by $X or start a $Y investment plan.",
+    "pros": [
+      "Clear progress view",
+      "Goal‑focused",
+      "Motivates habit continuity"
+    ],
+    "cons": [
+      "Time‑consuming once a year",
+      "May expose uncomfortable gaps",
+      "Needs disciplined follow‑through"
+    ],
+    "watchOut": "Avoid setting goals that ignore your cash flow reality; keep them achievable.",
+    "faq": [
+      {
+        "q": "When is the best time for a review?",
+        "a": "After tax season, when records are fresh."
+      },
+      {
+        "q": "What metrics matter most?",
+        "a": "Net cash flow, savings rate, debt‑to‑income ratio."
+      },
+      {
+        "q": "How to keep momentum after the review?",
+        "a": "Break goals into monthly actions and track them in the ledger."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/Bogleheads community threads",
+        "url": "https://www.reddit.com/r/Bogleheads/"
+      },
+      {
+        "label": "Search interest: \"index fund investing basics\"",
+        "url": "https://duckduckgo.com/?q=index%20fund%20investing%20basics"
+      }
+    ],
+    "tags": [
+      "review",
+      "planning"
+    ],
+    "publishedAt": "2026-11-11T10:16:12.114Z",
+    "readMinutes": 2
+  }
+]
