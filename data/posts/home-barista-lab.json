@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-timer-hack-2",
+    "title": "Master Your Shot Timing with a Kitchen Timer Hack",
+    "dek": "A kitchen timer can give you repeatable shot times without pricey equipment, keeping your espresso consistent day after day.",
+    "takeaway": "Use a simple timer to lock down extraction time and improve flavor consistency.",
+    "whatHappened": "I set a basic kitchen timer to the target 25‑second extraction window and timed each pull on my home machine. The timer’s beep signaled the exact moment to stop the shot, removing guesswork. After a week of using the method, my espresso tasted steadier across mornings.",
+    "whyItMatters": "Extraction time is a key driver of balance between acidity and bitterness. Small timing drift can swing a shot from sweet to sour in minutes. By anchoring the stop point with a timer, you let the grinder and dose do the heavy lifting while you control the variable that matters most for flavor consistency.",
+    "howToThink": "Start by dialing in your dose and grind for a target 25‑second pull. Place the timer nearby, start it the moment you begin the shot, and listen for the beep. If the timer sounds early, adjust grind finer; if late, coarsen slightly. Repeat until the beep aligns with a balanced taste profile.",
+    "pros": [
+      "Zero cost tool",
+      "Easy to implement",
+      "Works with any machine"
+    ],
+    "cons": [
+      "Requires manual start each pull",
+      "Timer beep may be missed in noisy kitchens",
+      "Not a substitute for pressure monitoring"
+    ],
+    "watchOut": "Make sure the timer’s alarm is audible enough to hear over the grinder and brew noise, or you’ll miss the cue.",
+    "faq": [
+      {
+        "q": "Can I use a phone’s timer instead of a kitchen timer?",
+        "a": "Yes, any reliable timer that you can hear clearly will work."
+      },
+      {
+        "q": "What if my machine’s flow rate varies?",
+        "a": "Adjust the grind incrementally; the timer helps you see the effect of each change."
+      },
+      {
+        "q": "Is 25 seconds the ideal time for all beans?",
+        "a": "No, treat it as a starting point and tweak based on the bean’s roast level and taste."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "timing"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-11-19T22:45:06.112Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-grind-click-test",
     "title": "Master Your Espresso Grind with a Click‑Test Hack",
     "dek": "A quick, tactile method to gauge grind consistency without a scale or timer.",

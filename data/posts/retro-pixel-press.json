@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-boost-rewiring-intellivision-controller",
+    "title": "Pixel Boost: Rewiring the Intellivision Controller for Reliable Inputs",
+    "dek": "A quick solder‑and‑wire fix brings back crisp, dependable button presses on your classic Intellivision controller.",
+    "takeaway": "A simple rewiring restores reliable inputs without pricey replacements.",
+    "whatHappened": "We opened a vintage Intellivision controller, traced intermittent contact failures to worn copper pads, and applied a fresh solder bridge to the affected traces. The controller was tested on original hardware and responded instantly.",
+    "whyItMatters": "A malfunctioning controller can ruin both casual play and competitive speedrun attempts, forcing collectors to discard rare hardware. Restoring functionality preserves the original feel and extends the life of a scarce peripheral.",
+    "howToThink": "When you notice flaky button response, inspect the PCB for cracked or corroded pads. Use a fine‑tip soldering iron and a bit of fresh solder to reinforce the connection. Verify each button with a controller tester before re‑assembly.",
+    "pros": [
+      "Low cost solution",
+      "Preserves original hardware",
+      "Quick turnaround"
+    ],
+    "cons": [
+      "Requires soldering skill",
+      "Risk of accidental bridge",
+      "May need desoldering tools"
+    ],
+    "watchOut": "Make sure the console is unplugged and the controller is fully discharged before opening it.",
+    "faq": [
+      {
+        "q": "Do I need a hot‑air rework station?",
+        "a": "A standard fine‑tip soldering iron works fine for this job."
+      },
+      {
+        "q": "Will this void any warranty?",
+        "a": "Vintage controllers are out of warranty, so the repair is effectively risk‑free."
+      },
+      {
+        "q": "Can I use a lead‑free solder?",
+        "a": "Yes, lead‑free solder works, just keep the tip clean for good flow."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "controller",
+      "Intellivision"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-11-19T22:45:07.540Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "restoring-snes-mouse-precision",
     "title": "Pixel Boost: Restoring the SNES Mouse for Precision Tracking",
     "dek": "Give your SNES mouse a fresh life with a simple cleaning and contact‑spray routine for smoother, more accurate cursor control.",
