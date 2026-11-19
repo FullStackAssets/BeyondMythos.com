@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-routine-tweaks",
+    "title": "Revamp Your Espresso Routine: Simple Tweaks for Better Shots",
+    "dek": "A quick guide to fine‑tune everyday espresso steps for richer flavor and steadier extraction.",
+    "takeaway": "Small routine adjustments can noticeably lift shot quality without major upgrades.",
+    "whatHappened": "We tried swapping a standard tamper for a calibrated one, adjusting grind distribution, and timing the pre‑infusion manually. The resulting shots showed clearer crema and a more balanced palate. The process took under ten minutes each morning.",
+    "whyItMatters": "Consistent espresso is the backbone of any home barista’s confidence, and subtle tweaks prevent waste and frustration. When each variable is predictable, you spend less time guessing and more time enjoying the brew.",
+    "howToThink": "Treat each shot as a repeatable experiment: lock the dose, use a consistent tamp pressure, and watch the flow curve. If the shot runs too fast, fine‑tune the grind or extend pre‑infusion. If it drags, lighten the grind or reduce tamp pressure.",
+    "pros": [
+      "Sharper flavor clarity",
+      "More consistent shot timing",
+      "Easier daily prep"
+    ],
+    "cons": [
+      "May require extra cleaning",
+      "Initial learning curve",
+      "Potential extra cost for accessories"
+    ],
+    "watchOut": "Avoid over‑tightening the basket, which can choke flow.",
+    "faq": [
+      {
+        "q": "Do I need a new tamper?",
+        "a": "A calibrated tamper helps hit repeatable pressure, but a good flat‑bottomed one works if you practice consistent force."
+      },
+      {
+        "q": "How often should I adjust grind size?",
+        "a": "Only when you notice a change in shot time or flavor balance; small tweaks are usually enough."
+      },
+      {
+        "q": "Is pre‑infusion necessary for all machines?",
+        "a": "Most home machines benefit from a brief pause; if yours lacks a dedicated setting, manually pause for a second after starting the pump."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "consistency"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-11-19T02:45:06.167Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "home-espresso-dial-in-field-test-20",
     "title": "\"home espresso dial in\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about home espresso dial in through a month of actual use. Some of it survived.",

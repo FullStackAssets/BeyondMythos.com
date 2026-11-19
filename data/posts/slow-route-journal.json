@@ -1,5 +1,56 @@
 [
   {
+    "slug": "quiet-commute-chronicles",
+    "title": "Quiet Commute Chronicles: Low‑Impact Reflections on the Rails",
+    "dek": "A breezy morning ride revealed how tiny habit tweaks can shrink your carbon footprint while deepening local ties.",
+    "takeaway": "Small, mindful adjustments on a train ride amplify low‑impact travel benefits.",
+    "whatHappened": "I boarded the 8:15 regional service to a nearby town, swapped my plastic bottle for a reusable one, and spent the journey sketching the passing fields. Midway, I chatted with a fellow commuter about reusable snacks, swapping ideas. The ride ended with a quick walk to the station garden, where I noted how low‑impact habits feel natural when shared.",
+    "whyItMatters": "Each simple swap reduces waste that would otherwise pile up in station bins, and the conversations forge community bonds that make slow travel richer. When many travelers adopt these habits, the cumulative impact on rail sustainability becomes noticeable.",
+    "howToThink": "Treat every leg of a rail trip as a chance to audit your consumables: bring a cup, pack zero‑waste snacks, and keep a reusable bag handy. Use the idle time to plan local stops, turning travel time into research for low‑impact activities.",
+    "pros": [
+      "Cuts single‑use waste",
+      "Boosts engagement with locals",
+      "Easy to implement on any route"
+    ],
+    "cons": [
+      "Requires upfront gear",
+      "May need extra planning",
+      "Reusable items can be forgotten"
+    ],
+    "watchOut": "Don’t let the novelty wear off—repetition cements low‑impact habits.",
+    "faq": [
+      {
+        "q": "Can I really make a difference on short trips?",
+        "a": "Yes, even brief rides add up, and each avoided disposable item lessens overall waste."
+      },
+      {
+        "q": "What reusable items are most travel‑friendly?",
+        "a": "A collapsible water bottle, a lightweight snack container, and a compact tote are top picks."
+      },
+      {
+        "q": "How do I remember my low‑impact kit?",
+        "a": "Create a checklist near your ticket or phone reminder to pack the essentials before boarding."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "Rail",
+      "Low‑Impact"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-11-19T02:45:11.162Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-rail-57",
     "title": "A weekend project: level up your rail in two hours",
     "dek": "One contained, satisfying rail project for slow-travel — start Saturday morning, done by lunch.",

@@ -5,6 +5,13 @@
     <link>https://beyondmythos.com/sites/smart-habitat-2/</link>
     <description>Fresh takes for smart-home tinkerers and privacy-minded automators.</description>
     <item>
+      <title>Ask the forge: your lighting questions, answered</title>
+      <link>https://beyondmythos.com/sites/smart-habitat-2/posts/ask-the-forge-lighting-4.html</link>
+      <guid>https://beyondmythos.com/sites/smart-habitat-2/posts/ask-the-forge-lighting-4.html</guid>
+      <pubDate>Thu, 19 Nov 2026 02:45:43 GMT</pubDate>
+      <description>Straight answers to the lighting questions smart-home tinkerers and privacy-minded automators keep asking, minus the hedging.</description>
+    </item>
+    <item>
       <title>The quiet upgrade: small tweaks in local control with outsized returns</title>
       <link>https://beyondmythos.com/sites/smart-habitat-2/posts/quiet-upgrade-local-control-4.html</link>
       <guid>https://beyondmythos.com/sites/smart-habitat-2/posts/quiet-upgrade-local-control-4.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://beyondmythos.com/sites/smart-habitat-2/posts/privacy-motion-sensor.html</guid>
       <pubDate>Tue, 17 Nov 2026 22:15:16 GMT</pubDate>
       <description>Detect movement without sending raw video to the cloud, keeping your home private.</description>
-    </item>
-    <item>
-      <title>Energy‑Smart Lighting Routines</title>
-      <link>https://beyondmythos.com/sites/smart-habitat-2/posts/energy-smart-lighting.html</link>
-      <guid>https://beyondmythos.com/sites/smart-habitat-2/posts/energy-smart-lighting.html</guid>
-      <pubDate>Mon, 16 Nov 2026 09:15:16 GMT</pubDate>
-      <description>Lights that dim or turn off based on daylight and occupancy, trimming waste without dimming comfort.</description>
     </item>
   </channel>
 </rss>

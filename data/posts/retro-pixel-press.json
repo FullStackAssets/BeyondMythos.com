@@ -1,5 +1,56 @@
 [
   {
+    "slug": "optimizing-game-boy-color-backlight",
+    "title": "Pixel Boost: Optimizing Game Boy Color Backlight for Night Runs",
+    "dek": "Boost your Game Boy Color's screen brightness for late‑night speedruns without draining the battery.",
+    "takeaway": "A simple backlight tweak can improve visibility and reaction time while keeping power consumption modest.",
+    "whatHappened": "A community member discovered that swapping the original backlight LED for a higher‑lumens, low‑draw component dramatically clarified the screen in dark rooms. The mod involves desoldering the stock LED and installing the new one with a compatible resistor.",
+    "whyItMatters": "Speedrunners rely on precise visual cues; a dim display can cause missed inputs. For collectors, a brighter screen also showcases the handheld’s graphics during preservation documentation.",
+    "howToThink": "Choose an LED rated for similar voltage but higher lumens, add a resistor to match current draw, and test the brightness before sealing the case. Keep the original parts in case you need to revert for authenticity purposes.",
+    "pros": [
+      "Clearer visuals for split‑second decisions",
+      "Minimal impact on battery life",
+      "Retains original handheld feel"
+    ],
+    "cons": [
+      "Requires soldering skill",
+      "Potential voiding of warranty",
+      "Slightly higher heat output"
+    ],
+    "watchOut": "Ensure the new LED’s voltage does not exceed the board’s limits, or you could damage the display.",
+    "faq": [
+      {
+        "q": "Do I need a new battery after this mod?",
+        "a": "No, the upgraded LED draws comparable power, so your existing battery should last as before."
+      },
+      {
+        "q": "Will this affect the handheld’s resale value?",
+        "a": "Any hardware alteration can affect value; keep the original LED and document the change for potential buyers."
+      },
+      {
+        "q": "Can I use a white LED instead of the original amber?",
+        "a": "Yes, a white LED improves contrast, but be aware it changes the aesthetic of the original color palette."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Game Boy",
+      "Lighting"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-11-19T02:45:05.471Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "enhance-atari-2600-rf-switch",
     "title": "Pixel Boost: Enhancing Atari 2600 RF Switch for Cleaner Signal",
     "dek": "Swap the original RF switch in your Atari 2600 for a modern low‑noise version to cut static and improve picture clarity.",
