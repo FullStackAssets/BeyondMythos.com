@@ -2375,8 +2375,29 @@
       "streamUrl": "https://beyondmythos.com/",
       "elevenlabsAgentId": null,
       "lastPostAt": "2026-11-18T23:45:44.566Z"
+    },
+    {
+      "id": "grain-journal-2-1795047356914",
+      "slug": "grain-journal-2",
+      "name": "Grain Journal",
+      "tagline": "Fresh takes for film photographers shooting analog.",
+      "nicheId": "film-photography",
+      "audience": "film photographers shooting analog",
+      "categories": [
+        "Cameras",
+        "Film Stocks",
+        "Developing",
+        "Scanning"
+      ],
+      "url": "https://beyondmythos.com/sites/grain-journal-2/",
+      "localUrl": "https://beyondmythos.com/sites/grain-journal-2/",
+      "design": "zine",
+      "postCount": 6,
+      "createdAt": "2026-11-19T00:15:51.342Z",
+      "streamUrl": "https://beyondmythos.com/",
+      "elevenlabsAgentId": null
     }
   ],
-  "lastGeneratedAt": "2026-11-18T23:15:36.346Z",
+  "lastGeneratedAt": "2026-11-19T00:15:51.342Z",
   "lastPostRunAt": "2026-11-18T23:45:44.575Z"
 }
