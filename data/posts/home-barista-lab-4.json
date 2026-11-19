@@ -1,0 +1,308 @@
+[
+  {
+    "slug": "new-portafilter-basket",
+    "title": "Why a New Portafilter Basket Can Revive Your Espresso",
+    "category": "Espresso",
+    "dek": "A fresh basket tweaks flow, flavor, and consistency without a full machine overhaul.",
+    "takeaway": "Swap baskets to fine‑tune shot volume and taste.",
+    "whatHappened": "I installed a slightly larger basket on my existing machine and noticed a smoother extraction within a few pulls.",
+    "whyItMatters": "Basket size directly influences pressure distribution, which changes the balance of acidity and body in the cup.",
+    "howToThink": "Start with the manufacturer’s recommended size, then experiment by moving one step up or down, noting taste shifts and shot time.",
+    "pros": [
+      "Easy install",
+      "Low cost",
+      "Immediate impact"
+    ],
+    "cons": [
+      "May need new tamp pressure",
+      "Potential over‑extraction",
+      "Limited size range"
+    ],
+    "watchOut": "Avoid using a basket that exceeds the machine’s clearance, or you risk damage.",
+    "faq": [
+      {
+        "q": "Can I use any basket size?",
+        "a": "Stick to sizes the machine supports; oversized baskets can cause leaks."
+      },
+      {
+        "q": "Do I need to recalibrate my grinder?",
+        "a": "A modest grind tweak helps match the new flow rate."
+      },
+      {
+        "q": "Will the basket wear out?",
+        "a": "Metal baskets last long, but filter screens need regular cleaning."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "tags": [
+      "espresso",
+      "parts"
+    ],
+    "publishedAt": "2026-11-19T05:15:52.415Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "flat-bottom-dripper-switch",
+    "title": "Flat‑Bottom Dripper vs. Cone: When to Switch",
+    "category": "Pour-over",
+    "dek": "Flat‑bottom drippers give a fuller body, but cone models excel at clarity.",
+    "takeaway": "Choose the dripper shape based on the brew profile you crave.",
+    "whatHappened": "I swapped my trusty V60 for a flat‑bottom Kalita and the resulting cup felt rounder and richer.",
+    "whyItMatters": "The broader bed promotes even saturation, which can highlight sweetness, while a narrow cone emphasizes brightness.",
+    "howToThink": "Match the dripper to the bean origin: darker beans often benefit from a flat bed, lighter beans from a conical shape.",
+    "pros": [
+      "Even extraction",
+      "Richer mouthfeel",
+      "Stable flow"
+    ],
+    "cons": [
+      "Longer brew time",
+      "More coffee needed",
+      "Less nuanced clarity"
+    ],
+    "watchOut": "Do not over‑fill the filter; a packed bed can cause channeling.",
+    "faq": [
+      {
+        "q": "Do I need a different grind?",
+        "a": "A slightly coarser grind works better with flat beds."
+      },
+      {
+        "q": "Can I use the same filter?",
+        "a": "Flat‑bottom filters are shaped differently; use the right size."
+      },
+      {
+        "q": "Is cleaning harder?",
+        "a": "Flat filters collect more oils; rinse thoroughly after each brew."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "tags": [
+      "pour-over",
+      "dripper"
+    ],
+    "publishedAt": "2026-11-17T16:15:52.415Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "home-drum-roaster-journey",
+    "title": "First Spins in a Home Drum Roaster",
+    "category": "Roasting",
+    "dek": "A small drum roaster opens the door to custom roast profiles without commercial gear.",
+    "takeaway": "Even a modest drum roaster lets you experiment with roast levels at home.",
+    "whatHappened": "I loaded green beans into a 0.5‑kg drum roaster, ran a light roast, and heard the distinct crack of the first and second pops.",
+    "whyItMatters": "Controlling heat and airflow in a drum gives you a consistent roast curve, which translates to predictable flavor development.",
+    "howToThink": "Start with low heat, observe the bean color, and adjust airflow to manage the second crack; keep notes for each batch.",
+    "pros": [
+      "Consistent heat",
+      "Scalable batches",
+      "Hands‑on control"
+    ],
+    "cons": [
+      "Noise level",
+      "Learning curve",
+      "Requires ventilation"
+    ],
+    "watchOut": "Vent the roasting area; smoke can set off alarms.",
+    "faq": [
+      {
+        "q": "Can I roast any bean?",
+        "a": "Most beans work, but some require longer dwell times."
+      },
+      {
+        "q": "Do I need a cooling tray?",
+        "a": "A simple metal colander with a fan works fine."
+      },
+      {
+        "q": "How often clean the drum?",
+        "a": "After each roast, brush out chaff to avoid buildup."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "tags": [
+      "roasting",
+      "gear"
+    ],
+    "publishedAt": "2026-11-16T03:15:52.415Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "smart-scale-bt-evaluation",
+    "title": "Smart Scales with Bluetooth: Worth the Buzz?",
+    "category": "Gear",
+    "dek": "Bluetooth scales promise data logging, but do they improve daily brewing?",
+    "takeaway": "A smart scale can streamline tracking, yet basic accuracy remains key.",
+    "whatHappened": "I paired a Bluetooth scale with my phone app, logged several pour‑over recipes, and compared the data to my manual notes.",
+    "whyItMatters": "Accurate weight is the backbone of repeatable coffee; the added connectivity helps spot trends over time.",
+    "howToThink": "Use the scale for precise dosing, then let the app handle timestamps and temperature logs if you find that useful.",
+    "pros": [
+      "Data export",
+      "Timer integration",
+      "Easy sharing"
+    ],
+    "cons": [
+      "Battery dependence",
+      "App glitches",
+      "Higher price"
+    ],
+    "watchOut": "Ensure the scale’s surface stays dry; moisture skews readings.",
+    "faq": [
+      {
+        "q": "Is the Bluetooth lag an issue?",
+        "a": "Latency is minimal for brewing; it’s not a problem for espresso shots."
+      },
+      {
+        "q": "Can I use it without the app?",
+        "a": "Yes, it functions as a regular scale."
+      },
+      {
+        "q": "Does it need calibration?",
+        "a": "A quick zero‑check before each session keeps it accurate."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "tags": [
+      "gear",
+      "scale"
+    ],
+    "publishedAt": "2026-11-14T14:15:52.415Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "group-head-backflush-routine",
+    "title": "Backflushing Your Group Head: A Simple Routine",
+    "category": "Espresso",
+    "dek": "Regular backflushes keep the brew path clear and extend machine life.",
+    "takeaway": "A weekly backflush prevents coffee oil buildup and taste drift.",
+    "whatHappened": "I added a 30‑second backflush with detergent to my weekly maintenance and noticed cleaner taste within a month.",
+    "whyItMatters": "Coffee oils can polymerize inside the group, leading to bitter notes and reduced pressure consistency.",
+    "howToThink": "Run the backflush cycle with a blind filter, add a pinch of espresso detergent, then rinse thoroughly.",
+    "pros": [
+      "Improves flavor",
+      "Reduces clogging",
+      "Prolongs machine"
+    ],
+    "cons": [
+      "Uses detergent",
+      "Takes extra time",
+      "Requires blind filter"
+    ],
+    "watchOut": "Never skip the final rinse; residue can affect next shots.",
+    "faq": [
+      {
+        "q": "How often should I backflush?",
+        "a": "Once a week is a good baseline for home use."
+      },
+      {
+        "q": "Do I need special detergent?",
+        "a": "A small amount of espresso‑specific cleaning powder works."
+      },
+      {
+        "q": "Can I backflush without a blind filter?",
+        "a": "A blind filter is essential to create pressure."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "tags": [
+      "espresso",
+      "maintenance"
+    ],
+    "publishedAt": "2026-11-13T01:15:52.415Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "chemex-grind-adjustment",
+    "title": "Grind Size Tweaks for a Perfect Chemex",
+    "category": "Pour-over",
+    "dek": "A subtle grind shift can turn a thin Chemex brew into a silky, balanced cup.",
+    "takeaway": "Fine‑tune grind by a notch to control extraction time.",
+    "whatHappened": "I moved from a medium‑coarse to a slightly finer setting on my burr grinder; the brew time rose, and the cup gained body.",
+    "whyItMatters": "Extraction time governs how much soluble material dissolves; too fast yields sourness, too slow yields bitterness.",
+    "howToThink": "Target a brew time of around four minutes; adjust grind in small steps and taste each change.",
+    "pros": [
+      "More control",
+      "Better balance",
+      "Consistent results"
+    ],
+    "cons": [
+      "Requires precise grinder",
+      "May need recalibration",
+      "Longer brew"
+    ],
+    "watchOut": "Avoid over‑grinding; a too‑fine setting can cause channeling.",
+    "faq": [
+      {
+        "q": "What grind size is ideal?",
+        "a": "A texture similar to sea salt works well for Chemex."
+      },
+      {
+        "q": "Do I need to change dose?",
+        "a": "Keep the coffee‑to‑water ratio steady; only adjust grind."
+      },
+      {
+        "q": "Can I use a blade grinder?",
+        "a": "Blade grinders lack consistency, making fine adjustments difficult."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "tags": [
+      "pour-over",
+      "grind"
+    ],
+    "publishedAt": "2026-11-11T12:15:52.415Z",
+    "readMinutes": 2
+  }
+]
