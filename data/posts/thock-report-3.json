@@ -1,0 +1,308 @@
+[
+  {
+    "slug": "tactile-switch-trends-2024",
+    "title": "Tactile Switch Trends 2024",
+    "category": "Switches",
+    "dek": "A quick look at the tactile switches gaining traction this year.",
+    "takeaway": "New tactile designs focus on refined feel without sacrificing durability.",
+    "whatHappened": "Several manufacturers released updated tactile stems with smoother sliders and modest actuation forces. The market saw a surge in limited‑run variants featuring matte finishes.",
+    "whyItMatters": "Builders seeking a distinct thock benefit from these refinements, while retailers get fresh inventory to attract enthusiasts.",
+    "howToThink": "When choosing a tactile, weigh actuation force, housing material, and sound profile. Test a few samples before committing to a bulk purchase.",
+    "pros": [
+      "Improved smoothness",
+      "Consistent actuation",
+      "Modern aesthetics"
+    ],
+    "cons": [
+      "Higher price than basic models",
+      "Limited availability",
+      "Potential compatibility issues with older PCBs"
+    ],
+    "watchOut": "Stock can disappear quickly during launch windows.",
+    "faq": [
+      {
+        "q": "Do newer tactile switches require different lubing?",
+        "a": "They generally accept the same lubes, but thinner formulations work better with tighter tolerances."
+      },
+      {
+        "q": "Are they compatible with standard MX plates?",
+        "a": "Yes, they follow the MX cross‑compatible dimensions."
+      },
+      {
+        "q": "Will they affect typing speed?",
+        "a": "Feel changes may require a short adjustment period, but speed impact is minimal."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/MechanicalKeyboards community threads",
+        "url": "https://www.reddit.com/r/MechanicalKeyboards/"
+      },
+      {
+        "label": "Search interest: \"best budget mechanical keyboard\"",
+        "url": "https://duckduckgo.com/?q=best%20budget%20mechanical%20keyboard"
+      }
+    ],
+    "tags": [
+      "tactile",
+      "switches"
+    ],
+    "publishedAt": "2026-11-19T07:16:19.470Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "pbt-keycap-profiles-2024",
+    "title": "PBT Keycap Profiles to Watch",
+    "category": "Keycaps",
+    "dek": "Which PBT profiles are shaping the sound and feel of builds this season.",
+    "takeaway": "High‑grade PBT with sculpted profiles delivers a deeper thock and better durability.",
+    "whatHappened": "Multiple vendors launched new SA and XDA PBT sets with tighter tolerances and vibrant dye‑sublimated legends. The community responded with rapid unboxing streams.",
+    "whyItMatters": "Keycaps are a major factor in acoustic signature; upgraded PBT reduces shine and adds weight, enhancing the thock.",
+    "howToThink": "Match the profile to your typing style: SA for a pronounced curve, XDA for a flatter feel. Verify legend clarity before ordering.",
+    "pros": [
+      "Durable material",
+      "Rich sound profile",
+      "Variety of colors"
+    ],
+    "cons": [
+      "Thicker keycaps can affect stabilizer clearance",
+      "Higher cost than ABS",
+      "Limited retro legends"
+    ],
+    "watchOut": "Some sets may have inconsistent legend depth, affecting readability.",
+    "faq": [
+      {
+        "q": "Can I mix PBT profiles on one board?",
+        "a": "Yes, but mismatched heights may feel uneven."
+      },
+      {
+        "q": "Do PBT caps need special lubing?",
+        "a": "Lubing is optional; they generally slide well without it."
+      },
+      {
+        "q": "Is dye‑sublimation fade‑proof?",
+        "a": "It’s more resistant than pad printing, though prolonged UV exposure can soften colors."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/CustomKeyboards community threads",
+        "url": "https://www.reddit.com/r/CustomKeyboards/"
+      },
+      {
+        "label": "Search interest: \"keyboard switch guide\"",
+        "url": "https://duckduckgo.com/?q=keyboard%20switch%20guide"
+      }
+    ],
+    "tags": [
+      "pbt",
+      "keycaps"
+    ],
+    "publishedAt": "2026-11-17T18:16:19.470Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "hotswap-vs-soldered-build-debate",
+    "title": "Hotswap vs Soldered: Build Decision Guide",
+    "category": "Builds",
+    "dek": "We break down the pros and cons of hotswap sockets versus soldered PCBs.",
+    "takeaway": "Hotswap offers flexibility for testing, while soldered builds deliver the most solid performance.",
+    "whatHappened": "The market now offers premium hotswap sockets with gold plating, and solder-friendly PCBs with generous silk screens. Builders are experimenting with both approaches.",
+    "whyItMatters": "Choosing the right method influences upgrade cycles, maintenance, and long‑term reliability.",
+    "howToThink": "If you plan frequent switch swaps, start with hotswap; for a permanent, high‑end board, solder for optimal contact and reduced latency.",
+    "pros": [
+      "Easy swapability",
+      "Less risk of solder bridges",
+      "Ideal for prototyping"
+    ],
+    "cons": [
+      "Potentially higher socket resistance",
+      "May wear over time",
+      "Limited to certain PCB layouts"
+    ],
+    "watchOut": "Cheap hotswap sockets can develop intermittent connections under heavy typing.",
+    "faq": [
+      {
+        "q": "Can I convert a hotswap board to soldered later?",
+        "a": "Yes, by desoldering the sockets and installing solder points."
+      },
+      {
+        "q": "Do hotswap boards affect thock sound?",
+        "a": "Sockets add a slight dampening, but the difference is subtle."
+      },
+      {
+        "q": "Is soldering difficult for beginners?",
+        "a": "With a good iron and practice, basic soldering is manageable."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/BudgetKeebs community threads",
+        "url": "https://www.reddit.com/r/BudgetKeebs/"
+      },
+      {
+        "label": "Search interest: \"first custom keyboard build\"",
+        "url": "https://duckduckgo.com/?q=first%20custom%20keyboard%20build"
+      }
+    ],
+    "tags": [
+      "hotswap",
+      "solder"
+    ],
+    "publishedAt": "2026-11-16T05:16:19.470Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "group-buy-foam-mods-2024",
+    "title": "Group‑Buy Foam Mods: What’s New",
+    "category": "Group Buys",
+    "dek": "An overview of the latest foam mod kits hitting group‑buy platforms.",
+    "takeaway": "Modern foam kits improve acoustic dampening without sacrificing key travel.",
+    "whatHappened": "Several crowd‑funded projects released layered foam inserts for case, plate, and PCB, using open‑cell and closed‑cell materials. Early reviewers note a deeper, more consistent thock.",
+    "whyItMatters": "Foam mods are a cost‑effective way to upgrade sound and feel, appealing to builders who want a premium feel without a full case swap.",
+    "howToThink": "Select foam density based on desired sound; softer foam for muted tones, firmer for a snappier response. Ensure cuts match your case dimensions.",
+    "pros": [
+      "Enhanced sound insulation",
+      "Improved key stability",
+      "Affordable upgrade"
+    ],
+    "cons": [
+      "Installation adds build time",
+      "Potential compression over years",
+      "May affect plate resonance"
+    ],
+    "watchOut": "Over‑compressing foam can lead to a mushy feel.",
+    "faq": [
+      {
+        "q": "Is foam compatible with all case materials?",
+        "a": "Generally yes, though metal cases may need extra padding to avoid rattles."
+      },
+      {
+        "q": "Do I need to replace foam after a while?",
+        "a": "It can lose elasticity after prolonged use; replacement is optional."
+      },
+      {
+        "q": "Can foam affect RGB lighting?",
+        "a": "Thick foam may dim side‑lighting, but most kits are designed to be transparent enough."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/MechanicalKeyboards community threads",
+        "url": "https://www.reddit.com/r/MechanicalKeyboards/"
+      },
+      {
+        "label": "Search interest: \"best budget mechanical keyboard\"",
+        "url": "https://duckduckgo.com/?q=best%20budget%20mechanical%20keyboard"
+      }
+    ],
+    "tags": [
+      "foam",
+      "group-buy"
+    ],
+    "publishedAt": "2026-11-14T16:16:19.470Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "lubing-switches-quick-guide",
+    "title": "Lubing Switches: A Quick Guide",
+    "category": "Switches",
+    "dek": "Essential steps to lubricate switches for a smoother, quieter thock.",
+    "takeaway": "Proper lubing reduces friction and refines acoustic profile with minimal effort.",
+    "whatHappened": "The community has refined a three‑step process: disassembly, lube application, and reassembly. New brush‑on lubes simplify the task.",
+    "whyItMatters": "A well‑lubed switch can dramatically improve feel and reduce ping, aligning with the thock aesthetic.",
+    "howToThink": "Use a thin, high‑viscosity lube for tactile stems and a slightly thicker one for linear sliders. Apply sparingly to avoid gummy feel.",
+    "pros": [
+      "Smoother keystroke",
+      "Reduced noise",
+      "Customizable feel"
+    ],
+    "cons": [
+      "Time‑consuming for large batches",
+      "Risk of over‑lubing",
+      "Requires additional tools"
+    ],
+    "watchOut": "Too much lube can make switches feel sluggish.",
+    "faq": [
+      {
+        "q": "Can I reuse lube on old switches?",
+        "a": "Re‑lubing is possible, but old residue may affect performance."
+      },
+      {
+        "q": "Is a brush better than a syringe?",
+        "a": "Brushes work well for stems; syringes are preferred for springs."
+      },
+      {
+        "q": "Do I need to lube stabilizers too?",
+        "a": "Yes, applying lube to stabilizer housing and inserts reduces rattle."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/CustomKeyboards community threads",
+        "url": "https://www.reddit.com/r/CustomKeyboards/"
+      },
+      {
+        "label": "Search interest: \"keyboard switch guide\"",
+        "url": "https://duckduckgo.com/?q=keyboard%20switch%20guide"
+      }
+    ],
+    "tags": [
+      "lubing",
+      "switches"
+    ],
+    "publishedAt": "2026-11-13T03:16:19.470Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "sound-dampening-case-materials",
+    "title": "Sound‑Dampening Case Materials Compared",
+    "category": "Builds",
+    "dek": "Which case materials give the best thock without breaking the bank.",
+    "takeaway": "Aluminum with internal foam offers a balanced blend of rigidity and acoustic dampening.",
+    "whatHappened": "Manufacturers introduced hybrid cases combining CNC‑machined aluminum frames with removable foam liners. Reviewers highlight consistent thock across different keycap sets.",
+    "whyItMatters": "Case material influences vibration transmission; choosing the right combo can enhance the overall acoustic signature.",
+    "howToThink": "If budget allows, opt for a metal frame with foam inserts; otherwise, high‑quality polycarbonate with silicone pads also works well.",
+    "pros": [
+      "Solid build quality",
+      "Improved acoustic isolation",
+      "Customizable interior"
+    ],
+    "cons": [
+      "Higher cost than pure plastic",
+      "Adds weight",
+      "Installation may require extra steps"
+    ],
+    "watchOut": "Metal cases can amplify high‑frequency squeaks if foam is omitted.",
+    "faq": [
+      {
+        "q": "Can I add foam to an existing case?",
+        "a": "Yes, cut foam to fit and secure with adhesive or clips."
+      },
+      {
+        "q": "Do metal cases affect RGB diffusion?",
+        "a": "Metal can reflect light, so side‑lighting may appear sharper."
+      },
+      {
+        "q": "Is polycarbonate lighter than aluminum?",
+        "a": "Generally, polycarbonate cases are lighter but may feel less rigid."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/BudgetKeebs community threads",
+        "url": "https://www.reddit.com/r/BudgetKeebs/"
+      },
+      {
+        "label": "Search interest: \"first custom keyboard build\"",
+        "url": "https://duckduckgo.com/?q=first%20custom%20keyboard%20build"
+      }
+    ],
+    "tags": [
+      "case",
+      "acoustics"
+    ],
+    "publishedAt": "2026-11-11T14:16:19.470Z",
+    "readMinutes": 2
+  }
+]

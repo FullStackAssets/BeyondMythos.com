@@ -2529,8 +2529,29 @@
       "streamUrl": "https://beyondmythos.com/",
       "elevenlabsAgentId": null,
       "lastPostAt": "2026-11-19T06:45:45.111Z"
+    },
+    {
+      "id": "thock-report-3-1795072579471",
+      "slug": "thock-report-3",
+      "name": "Thock Report",
+      "tagline": "Fresh takes for mechanical keyboard builders and enthusiasts.",
+      "nicheId": "mechanical-keyboards",
+      "audience": "mechanical keyboard builders and enthusiasts",
+      "categories": [
+        "Switches",
+        "Keycaps",
+        "Builds",
+        "Group Buys"
+      ],
+      "url": "https://beyondmythos.com/sites/thock-report-3/",
+      "localUrl": "https://beyondmythos.com/sites/thock-report-3/",
+      "design": "aurora",
+      "postCount": 6,
+      "createdAt": "2026-11-19T07:16:11.053Z",
+      "streamUrl": "https://beyondmythos.com/",
+      "elevenlabsAgentId": null
     }
   ],
-  "lastGeneratedAt": "2026-11-19T06:16:11.406Z",
+  "lastGeneratedAt": "2026-11-19T07:16:11.053Z",
   "lastPostRunAt": "2026-11-19T06:45:45.120Z"
 }
