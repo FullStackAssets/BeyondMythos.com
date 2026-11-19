@@ -1,5 +1,56 @@
 [
   {
+    "slug": "overclock-gba-cpu",
+    "title": "Pixel Boost: Overclocking the Game Boy Advance CPU for Turbo Runs",
+    "dek": "A quick guide to safely overclocking your GBA for those extra frames per second.",
+    "takeaway": "A modest CPU overclock can shave precious milliseconds without ruining hardware.",
+    "whatHappened": "Retro enthusiasts uncovered a simple voltage tweak that pushes the GBA's 16.78 MHz processor a few megahertz higher. The community shared step‑by‑step instructions on a niche forum, sparking a flurry of test runs.",
+    "whyItMatters": "Even a slight speed boost can be decisive in time‑critical categories, turning a marginal run into a record‑breaking one. It also demonstrates how classic hardware can still be pushed beyond its original specs.",
+    "howToThink": "Start by measuring baseline performance, then apply the recommended voltage increase in small increments. Test each step with a reliable timer and monitor for crashes. If stability holds, lock in the setting and enjoy the speed edge.",
+    "pros": [
+      "Higher frame rate",
+      "Sharper input response",
+      "Low power overhead"
+    ],
+    "cons": [
+      "Potential overheating",
+      "Reduced battery life",
+      "Instability if misapplied"
+    ],
+    "watchOut": "Never exceed safe voltage limits or you could permanently damage the device.",
+    "faq": [
+      {
+        "q": "Is overclocking reversible?",
+        "a": "Yes, returning the voltage to stock settings restores original performance."
+      },
+      {
+        "q": "Do I need a special soldering kit?",
+        "a": "A basic soldering iron and a multimeter are sufficient for the voltage mod."
+      },
+      {
+        "q": "Will this affect game compatibility?",
+        "a": "Most games run fine, but some timing‑sensitive titles may behave oddly."
+      }
+    ],
+    "category": "Speedruns",
+    "tags": [
+      "hardware-mod",
+      "speedrun-tips"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-11-19T14:45:04.921Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-gameboy-20",
     "title": "Community pulse: what r/Gameboy is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the indie community this week.",

@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Overclocking the Game Boy Advance CPU for Turbo Runs</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/overclock-gba-cpu.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/overclock-gba-cpu.html</guid>
+      <pubDate>Thu, 19 Nov 2026 14:45:04 GMT</pubDate>
+      <description>A quick guide to safely overclocking your GBA for those extra frames per second.</description>
+    </item>
+    <item>
       <title>Community pulse: what r/Gameboy is debating this week</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/community-pulse-gameboy-20.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/community-pulse-gameboy-20.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/crt-calibration-quickfix.html</guid>
       <pubDate>Wed, 18 Nov 2026 09:45:06 GMT</pubDate>
       <description>Learn a quick, no‑tool method to adjust your CRT’s geometry and color for that genuine arcade glow.</description>
-    </item>
-    <item>
-      <title>Zap It: Fixing NES Zapper Lag with a Tiny Solder</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/zap-it-fixing-nes-zapper-lag.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/zap-it-fixing-nes-zapper-lag.html</guid>
-      <pubDate>Wed, 18 Nov 2026 08:45:04 GMT</pubDate>
-      <description>A quick solder‑and‑wire tweak that restores snappy aim to your NES Zapper.</description>
     </item>
   </channel>
 </rss>

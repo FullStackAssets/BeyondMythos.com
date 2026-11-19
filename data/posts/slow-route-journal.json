@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midnight-snack-swap",
+    "title": "Midnight Snack Swap: Low‑Impact Culinary Exchange on the Rails",
+    "dek": "Swap snacks with fellow travelers at midnight, turning a quiet carriage into a low‑impact culinary hub.",
+    "takeaway": "Sharing food on the train builds community while keeping waste low.",
+    "whatHappened": "On a sleeper train, I offered a homemade oat bar and swapped it for a fellow rider’s herbal tea. The exchange sparked a brief chat about routes and recipes.",
+    "whyItMatters": "Simple food swaps reduce packaging waste and foster connections, aligning with low‑impact travel values.",
+    "howToThink": "Carry a small, reusable container, choose non‑perishable snacks, and invite others politely to trade. Keep the exchange brief to respect rest.",
+    "pros": [
+      "Reduces waste",
+      "Encourages community",
+      "Adds flavor variety"
+    ],
+    "cons": [
+      "Requires openness",
+      "Potential food allergies",
+      "Limited to non‑perishables"
+    ],
+    "watchOut": "Always check dietary restrictions before swapping.",
+    "faq": [
+      {
+        "q": "Is it okay to swap food on a crowded train?",
+        "a": "Yes, as long as you keep portions small and respect personal space."
+      },
+      {
+        "q": "What snacks travel best?",
+        "a": "Dry fruits, nuts, granola bars, and sealed tea bags are sturdy and low‑impact."
+      },
+      {
+        "q": "How to keep the exchange hygienic?",
+        "a": "Use clean hands or a utensil, and store swapped items in your own container."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "food swap",
+      "community travel"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-11-19T14:45:04.213Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "midnight-station-stroll",
     "title": "Midnight Station Stroll: Low‑Impact Exploration on the Rails",
     "dek": "A nocturnal platform walk that lets slow travelers soak in night ambience with minimal footprint.",

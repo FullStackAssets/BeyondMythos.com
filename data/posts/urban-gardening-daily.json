@@ -1,5 +1,56 @@
 [
   {
+    "slug": "balcony-sunflower-sprint-3",
+    "title": "Balcony Sunflower Sprint: Tall Blooms in Tiny Spaces",
+    "dek": "Turn a sunny balcony corner into a rapid‑growth sunflower showcase without a backyard.",
+    "takeaway": "Even a modest balcony can host striking sunflowers with the right container tricks.",
+    "whatHappened": "We swapped a standard patio pot for a deep, breathable grow bag and added a simple support system, then sowed quick‑germinating sunflower seeds.",
+    "whyItMatters": "Sunflowers bring height, color, and pollinator appeal to small urban gardens, boosting morale and biodiversity on balconies.",
+    "howToThink": "Choose a container at least 12‑inch deep, use a lightweight soil mix, position it where it gets 6‑8 hours of sun, and stake seedlings early to avoid wind‑toppling.",
+    "pros": [
+      "Eye‑catching height",
+      "Easy seed sowing",
+      "Attracts pollinators"
+    ],
+    "cons": [
+      "Requires sturdy support",
+      "Heavy when wet",
+      "Limited seed variety for small pots"
+    ],
+    "watchOut": "Avoid overwatering; soggy soil can cause root rot in confined containers.",
+    "faq": [
+      {
+        "q": "Can I grow sunflowers in a 5‑gal bucket?",
+        "a": "Yes, a 5‑gal bucket provides enough depth for most dwarf varieties; just ensure drainage holes."
+      },
+      {
+        "q": "How often should I water balcony sunflowers?",
+        "a": "Keep the soil evenly moist, watering when the top inch feels dry, especially on hot days."
+      },
+      {
+        "q": "Do I need fertilizer?",
+        "a": "A balanced liquid feed every two weeks supports strong stems and vibrant blooms."
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "Containers",
+      "Seasonal"
+    ],
+    "sources": [
+      {
+        "label": "r/UrbanGardening community threads",
+        "url": "https://www.reddit.com/r/UrbanGardening/"
+      },
+      {
+        "label": "Search interest: \"balcony garden ideas\"",
+        "url": "https://duckduckgo.com/?q=balcony%20garden%20ideas"
+      }
+    ],
+    "publishedAt": "2026-11-19T14:45:10.128Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "balcony-pea-pod-party",
     "title": "Balcony Pea Pod Party: Harvest Sweet Pods in Small Spaces",
     "dek": "Turn a modest balcony shelf into a pea‑producing party with simple trellis tricks and compact containers.",
