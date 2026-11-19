@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Turbo-Tune Your Retro Light Gun for Precision Speedruns</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/turbo-tune-retro-light-gun.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/turbo-tune-retro-light-gun.html</guid>
+      <pubDate>Thu, 19 Nov 2026 00:45:10 GMT</pubDate>
+      <description>Learn how a simple sensor tweak can tighten aim, cut lag, and give your classic light-gun games a speedrunning edge.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Adding a Quick-Shift Mod to Your Sega Master System Controller</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/quick-shift-mod-sega-master-system-controller.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/quick-shift-mod-sega-master-system-controller.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/five-speedruns-mistakes-57.html</guid>
       <pubDate>Tue, 17 Nov 2026 19:45:04 GMT</pubDate>
       <description>The most common early stumbles in speedruns, and the cheap corrections that fix them for retro game collectors and speedrunners.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Replacing NES Zapper Infrared LED for Sharper Aim</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-replacing-nes-zapper-infrared-led-fo.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-replacing-nes-zapper-infrared-led-fo.html</guid>
-      <pubDate>Tue, 17 Nov 2026 18:45:07 GMT</pubDate>
-      <description>Swap the old infrared LED in your NES Zapper for a bright 940nm diode to restore crisp on-screen targeting.</description>
     </item>
   </channel>
 </rss>

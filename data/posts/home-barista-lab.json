@@ -1,5 +1,56 @@
 [
   {
+    "slug": "fine-tune-espresso-temperature",
+    "title": "Fine‑Tune Your Espresso Temperature: Simple Steps for Consistent Extraction",
+    "dek": "A quick guide to measuring and stabilizing brew water temperature for espresso, so every shot hits the sweet spot.",
+    "takeaway": "Consistent espresso temperature is the foundation of repeatable flavor.",
+    "whatHappened": "You notice that two consecutive shots from the same beans taste noticeably different, even though grind and dose are unchanged. The culprit is a fluctuating group‑head temperature during the brew cycle.",
+    "whyItMatters": "Temperature swings alter extraction efficiency, leading to over‑ or under‑extracted flavors. In home setups, even a few degrees can shift the balance between bright acidity and bitter overload.",
+    "howToThink": "Start by measuring the group‑head temperature with a calibrated thermometer before each brew. Aim for a stable 92‑94 °C range, and let the machine warm up fully before pulling shots. If the temperature drifts, consider a PID controller or a thermal sleeve to lock it in place.",
+    "pros": [
+      "Better flavor balance",
+      "More repeatable shots",
+      "Easier troubleshooting"
+    ],
+    "cons": [
+      "Requires a reliable thermometer",
+      "Adds an extra step to routine",
+      "May need hardware upgrade"
+    ],
+    "watchOut": "Avoid overheating the water; too high a temperature can scorch delicate coffee notes.",
+    "faq": [
+      {
+        "q": "Do I need a pricey thermometer?",
+        "a": "A basic digital kitchen thermometer works fine; just ensure it’s calibrated and can read up to 100 °C."
+      },
+      {
+        "q": "Can I control temperature without a PID?",
+        "a": "Yes—pre‑heat the portafilter, let the machine idle until the display shows a steady temperature, and use a thermal sleeve if needed."
+      },
+      {
+        "q": "What if my machine’s temperature still drifts?",
+        "a": "Check for scale buildup, verify the heating element’s condition, and consider descaling or contacting the manufacturer."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "temperature"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-11-19T00:45:06.176Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "fine-tune-your-dose",
     "title": "Fine‑Tune Your Dose: Simple Steps for Espresso Consistency",
     "dek": "A quick guide to calibrating your espresso dose for repeatable shots without fancy gear.",

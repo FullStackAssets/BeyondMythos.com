@@ -5,6 +5,13 @@
     <link>https://beyondmythos.com/sites/smart-habitat-2/</link>
     <description>Fresh takes for smart-home tinkerers and privacy-minded automators.</description>
     <item>
+      <title>Myth vs. reality: local smart home no cloud</title>
+      <link>https://beyondmythos.com/sites/smart-habitat-2/posts/myth-vs-reality-local-smart-home-no-cloud-2.html</link>
+      <guid>https://beyondmythos.com/sites/smart-habitat-2/posts/myth-vs-reality-local-smart-home-no-cloud-2.html</guid>
+      <pubDate>Thu, 19 Nov 2026 00:45:44 GMT</pubDate>
+      <description>The persistent myths around local smart home no cloud, stress-tested against what smart-home tinkerers and privacy-minded automators actually report.</description>
+    </item>
+    <item>
       <title>A weekend project: level up your sensors in two hours</title>
       <link>https://beyondmythos.com/sites/smart-habitat-2/posts/weekend-project-sensors-4.html</link>
       <guid>https://beyondmythos.com/sites/smart-habitat-2/posts/weekend-project-sensors-4.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://beyondmythos.com/sites/smart-habitat-2/posts/offline-voice-assistant.html</guid>
       <pubDate>Sat, 14 Nov 2026 20:15:16 GMT</pubDate>
       <description>Run voice commands on a Raspberry Pi so nothing leaves your Wi‑Fi network.</description>
-    </item>
-    <item>
-      <title>Offline Automation Routines</title>
-      <link>https://beyondmythos.com/sites/smart-habitat-2/posts/offline-automation-routines.html</link>
-      <guid>https://beyondmythos.com/sites/smart-habitat-2/posts/offline-automation-routines.html</guid>
-      <pubDate>Fri, 13 Nov 2026 07:15:16 GMT</pubDate>
-      <description>Design automations that run entirely on your local hub, sidestepping cloud latency and outages.</description>
     </item>
   </channel>
 </rss>

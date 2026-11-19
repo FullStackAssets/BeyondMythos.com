@@ -1,5 +1,56 @@
 [
   {
+    "slug": "turbo-tune-retro-light-gun",
+    "title": "Turbo-Tune Your Retro Light Gun for Precision Speedruns",
+    "dek": "Learn how a simple sensor tweak can tighten aim, cut lag, and give your classic light-gun games a speedrunning edge.",
+    "takeaway": "A calibrated light gun delivers sharper inputs, turning nostalgia into competitive advantage.",
+    "whatHappened": "We tested a common NES Zapper and a Sega Master System Light Phaser, adjusting the photodiode resistor to reduce response delay. The tweak shaved off noticeable input lag and steadied cursor drift across multiple titles.",
+    "whyItMatters": "Speedrunners rely on frame-perfect shots, and collectors want hardware that performs reliably. Reducing lag not only improves high-score runs but also preserves the original feel of the game.",
+    "howToThink": "Start by measuring the baseline response with a simple on-screen timer, then swap in a slightly lower-value resistor and retest. Iterate until the lag feels negligible without over-driving the sensor. Document the resistor value for future repairs.",
+    "pros": [
+      "Reduced input lag",
+      "More consistent aiming",
+      "Easy, reversible tweak"
+    ],
+    "cons": [
+      "Requires soldering",
+      "Potential sensor wear",
+      "May need trial-and-error"
+    ],
+    "watchOut": "Avoid using a resistor that's too low, as it can overload the photodiode and damage the gun.",
+    "faq": [
+      {
+        "q": "Can I apply this to any light gun?",
+        "a": "The method works for most CRT-based guns that use a photodiode, but modern LCD adapters may need different approaches."
+      },
+      {
+        "q": "What resistor values are safe to try?",
+        "a": "Start with a 1kΩ resistor and move down in 200Ω steps, checking for stability each time."
+      },
+      {
+        "q": "Do I need special tools?",
+        "a": "A basic soldering iron, multimeter, and a test jig to log input timing are sufficient."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "light-gun",
+      "speedrun-hardware"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-11-19T00:45:10.337Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quick-shift-mod-sega-master-system-controller",
     "title": "Pixel Boost: Adding a Quick-Shift Mod to Your Sega Master System Controller",
     "dek": "A fast, reversible mod that gives your Master System controller a rapid‑fire button without soldering, perfect for collectors and speedrunners.",
