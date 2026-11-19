@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-boost-upgrading-tg16-controller",
+    "title": "Pixel Boost: Upgrading the TurboGrafx-16 Controller for Crisp Inputs",
+    "dek": "A simple mod to the TG‑16 gamepad restores tight, responsive controls for modern speedrunning.",
+    "takeaway": "A fresh controller upgrade can shave off precious frames without breaking authenticity.",
+    "whatHappened": "We swapped the original membrane contacts with a set of conductive foam pads and added a small spring to the D‑pad. The result was a noticeably snappier response during test runs of Bonk's Adventure.",
+    "whyItMatters": "Speedrunners rely on every millisecond, and a sluggish pad can ruin a perfect run. Preserving the original feel while improving reliability keeps the hardware playable for future generations.",
+    "howToThink": "When retro hardware feels sluggish, consider contact resistance and mechanical travel. Upgrading with low‑profile conductive materials often restores original specs. Test each direction after mod to ensure consistent feel.",
+    "pros": [
+      "Improved input latency",
+      "Retains original aesthetic",
+      "Low cost materials"
+    ],
+    "cons": [
+      "Requires soldering skills",
+      "Potential void of warranty",
+      "May alter original feel slightly"
+    ],
+    "watchOut": "Ensure the replacement pads do not press too hard, which could damage the PCB contacts.",
+    "faq": [
+      {
+        "q": "Do I need special tools?",
+        "a": "A fine‑tip soldering iron, tweezers, and thin conductive foam are sufficient."
+      },
+      {
+        "q": "Will the mod affect the console's compatibility?",
+        "a": "No, the changes are confined to the controller and do not interact with the TG‑16 hardware."
+      },
+      {
+        "q": "Can I revert the controller back to stock?",
+        "a": "Yes, by removing the pads and reinstalling the original membrane, though the original may show wear."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "controller-mod",
+      "speedrun"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-11-19T12:45:10.334Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "reinforce-sega-paddle",
     "title": "Pixel Boost: Reinforcing the Sega Master System Paddle for Consistent Swings",
     "dek": "A simple reinforcement kit gives your Sega Master System paddle a sturdier feel, reducing wobble during tight runs.",

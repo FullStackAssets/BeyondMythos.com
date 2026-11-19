@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Upgrading the TurboGrafx-16 Controller for Crisp Inputs</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-upgrading-tg16-controller.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-upgrading-tg16-controller.html</guid>
+      <pubDate>Thu, 19 Nov 2026 12:45:10 GMT</pubDate>
+      <description>A simple mod to the TG‑16 gamepad restores tight, responsive controls for modern speedrunning.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Reinforcing the Sega Master System Paddle for Consistent Swings</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/reinforce-sega-paddle.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/reinforce-sega-paddle.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/speedrun-sprint-sonic-2-skip.html</guid>
       <pubDate>Wed, 18 Nov 2026 07:45:08 GMT</pubDate>
       <description>Learn how to pull the legendary 1‑second skip in Sonic 2 and shave precious frames off your personal best.</description>
-    </item>
-    <item>
-      <title>A weekend project: level up your hardware in two hours</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/weekend-project-hardware-55.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/weekend-project-hardware-55.html</guid>
-      <pubDate>Wed, 18 Nov 2026 06:45:04 GMT</pubDate>
-      <description>One contained, satisfying hardware project for retro game collectors — start Saturday morning, done by lunch.</description>
     </item>
   </channel>
 </rss>

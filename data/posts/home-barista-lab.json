@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-quick-timer-hack",
+    "title": "Speed Up Your Espresso Pull with a Simple Timer Reset",
+    "dek": "A tiny habit tweak that steadies shot times and sharpens flavor without new gear.",
+    "takeaway": "Reset your timer after each pull to lock in consistent extraction windows.",
+    "whatHappened": "I noticed my shot times drifting after a busy morning, leading to uneven flavors. By pausing the timer between pulls and resetting it, the variance vanished within minutes.",
+    "whyItMatters": "Consistent shot duration is a reliable proxy for stable water flow and temperature, both critical for balanced espresso. Small timing drift can mean over‑ or under‑extraction, impacting taste and crema.",
+    "howToThink": "Treat the timer as a resettable checkpoint: stop it the moment you start the next shot, clear the display, then start fresh. This forces you to notice any lag in the pump or grinder and adjust immediately.",
+    "pros": [
+      "Zero cost",
+      "Instant feedback",
+      "Improves routine awareness"
+    ],
+    "cons": [
+      "Requires discipline",
+      "May feel redundant to seasoned baristas",
+      "Only addresses timing, not grind or dose"
+    ],
+    "watchOut": "Don’t let the timer reset become a distraction—focus on the coffee, not the numbers.",
+    "faq": [
+      {
+        "q": "Do I need a fancy timer?",
+        "a": "A basic kitchen stopwatch or phone timer works fine; the key is the reset habit."
+      },
+      {
+        "q": "Will this fix bitter shots?",
+        "a": "It helps by keeping extraction time steady, but grind size and dose still matter."
+      },
+      {
+        "q": "Can I apply this to pour‑over?",
+        "a": "Yes—resetting a timer between pours can improve consistency there too."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "routine"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-11-19T12:45:05.312Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "boost-espresso-pressure-check",
     "title": "Boost Espresso Consistency with a Simple Pressure Gauge Check",
     "dek": "A quick look at your machine’s pressure gauge can reveal hidden inconsistencies and help you dial in flawless shots.",

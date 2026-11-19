@@ -1,5 +1,56 @@
 [
   {
+    "slug": "first-light-watch",
+    "title": "First Light Watch: Low‑Impact Observation on the Rails",
+    "dek": "Catch the sunrise from a moving carriage and learn how quiet observation fuels sustainable travel.",
+    "takeaway": "Early‑morning rail rides reveal subtle rhythms that guide low‑impact journeys.",
+    "whatHappened": "I boarded a regional train at dawn, seat by the window, and let the landscape unfold. The light painted fields in gold while the train hummed softly, creating a meditative backdrop for note‑taking and sketching.",
+    "whyItMatters": "These quiet moments sharpen awareness of the environment, encouraging travelers to tread lightly and respect the spaces they pass. Observing rather than rushing deepens the connection to place, a core principle of low‑impact travel.",
+    "howToThink": "Treat each sunrise ride as a field study: note wind direction, wildlife activity, and local sounds. Use a small notebook or voice memo to capture impressions without disrupting the flow. Translate these observations into future route choices that prioritize scenic, low‑traffic corridors.",
+    "pros": [
+      "Free natural light for photography",
+      "Minimal crowds at dawn",
+      "Calm atmosphere for reflection"
+    ],
+    "cons": [
+      "Limited onboard services early morning",
+      "Potentially colder carriage temperatures",
+      "Schedule rigidity may require early wake‑up"
+    ],
+    "watchOut": "Be mindful of platform safety as visibility can be low before sunrise.",
+    "faq": [
+      {
+        "q": "Do I need a seat reservation for early morning trains?",
+        "a": "Many regional services operate on a first‑come, first‑served basis, but a reservation guarantees a window seat for sunrise views."
+      },
+      {
+        "q": "What gear should I bring for a dawn ride?",
+        "a": "A lightweight scarf, a compact notebook, and a small flashlight are sufficient."
+      },
+      {
+        "q": "Is it safe to travel alone at that hour?",
+        "a": "Yes, provided you stay on well‑lit platforms and keep personal belongings secure."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "sunrise"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-11-19T12:45:08.890Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "slow-rail-bridge-spotting",
     "title": "Bridge Watching on the Rails: Low‑Impact Discovery Between Stations",
     "dek": "Pause at bridges to soak scenery, stretch legs, and keep your carbon footprint tiny.",

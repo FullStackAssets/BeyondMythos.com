@@ -5,6 +5,13 @@
     <link>https://beyondmythos.com/sites/smart-habitat-2/</link>
     <description>Fresh takes for smart-home tinkerers and privacy-minded automators.</description>
     <item>
+      <title>Five mistakes everyone makes in their first month of routines</title>
+      <link>https://beyondmythos.com/sites/smart-habitat-2/posts/five-routines-mistakes-5.html</link>
+      <guid>https://beyondmythos.com/sites/smart-habitat-2/posts/five-routines-mistakes-5.html</guid>
+      <pubDate>Thu, 19 Nov 2026 12:45:44 GMT</pubDate>
+      <description>The most common early stumbles in routines, and the cheap corrections that fix them for smart-home tinkerers and privacy-minded automators.</description>
+    </item>
+    <item>
       <title>&quot;home assistant beginner guide&quot; in practice: a real-world field test</title>
       <link>https://beyondmythos.com/sites/smart-habitat-2/posts/home-assistant-beginner-guide-field-test-2.html</link>
       <guid>https://beyondmythos.com/sites/smart-habitat-2/posts/home-assistant-beginner-guide-field-test-2.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://beyondmythos.com/sites/smart-habitat-2/posts/weekend-project-sensors-2.html</guid>
       <pubDate>Wed, 18 Nov 2026 07:45:42 GMT</pubDate>
       <description>One contained, satisfying sensors project for smart-home tinkerers — start Saturday morning, done by lunch.</description>
-    </item>
-    <item>
-      <title>Community pulse: what r/smarthome is debating this week</title>
-      <link>https://beyondmythos.com/sites/smart-habitat-2/posts/community-pulse-smarthome.html</link>
-      <guid>https://beyondmythos.com/sites/smart-habitat-2/posts/community-pulse-smarthome.html</guid>
-      <pubDate>Wed, 18 Nov 2026 06:45:43 GMT</pubDate>
-      <description>The arguments, consensus shifts, and quietly useful threads from the lighting community this week.</description>
     </item>
   </channel>
 </rss>
