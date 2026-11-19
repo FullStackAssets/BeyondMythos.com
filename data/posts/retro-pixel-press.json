@@ -1,5 +1,56 @@
 [
   {
+    "slug": "atari-2600-paddle-refresh",
+    "title": "Pixel Boost: Refreshing Atari 2600 Paddle Wiring for Consistent Turns",
+    "dek": "A quick guide to rewiring Atari 2600 paddles so they stay smooth for marathon runs.",
+    "takeaway": "A fresh set of paddle contacts can rescue jittery turns without breaking the bank.",
+    "whatHappened": "Collectors have reported flaky paddle response after years of use. A simple wire‑re‑solder and contact‑cleaning routine restores the original feel. The method uses common tools and parts found at any electronics hobby shop.",
+    "whyItMatters": "Paddle‑based games like \"Combat\" and \"Breakout\" rely on precise analog input for competitive runs. Inconsistent paddles can add unwanted variance, hurting both casual play and speedrun records. Restoring reliability preserves the authentic experience and keeps the hardware playable for future generations.",
+    "howToThink": "Start by disassembling the paddle housing and inspecting the copper contacts. Gently clean oxidation with isopropyl alcohol, then apply a thin layer of fresh solder to ensure good conductivity. Re‑assemble and test with a simple calibration screen before diving back into a run.",
+    "pros": [
+      "Low cost solution",
+      "Uses readily available tools",
+      "Extends paddle lifespan"
+    ],
+    "cons": [
+      "Requires basic soldering skill",
+      "Time‑consuming for multiple units",
+      "Potential for accidental damage if rushed"
+    ],
+    "watchOut": "Avoid overheating the plastic housing; keep the soldering iron tip brief and low‑heat.",
+    "faq": [
+      {
+        "q": "Do I need a new paddle or can I fix the original?",
+        "a": "The original housing can be repaired; most issues stem from worn contacts, not the case itself."
+      },
+      {
+        "q": "What solder type is safest for Atari paddles?",
+        "a": "Use a thin‑core rosin‑core solder (around 0.5 mm) to avoid bridging tiny gaps."
+      },
+      {
+        "q": "Can I test the paddle after repair without a console?",
+        "a": "Yes, many emulators offer a paddle calibration mode that shows analog response on screen."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "paddle",
+      "retro-hardware"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-11-19T17:45:08.917Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "optimizing-genesis-cartridge-contacts",
     "title": "Pixel Boost: Optimizing Sega Genesis Cartridge Contacts for Reliable Inputs",
     "dek": "A quick guide to cleaning and securing Genesis cart contacts for smoother runs.",

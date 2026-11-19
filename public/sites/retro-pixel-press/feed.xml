@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Refreshing Atari 2600 Paddle Wiring for Consistent Turns</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/atari-2600-paddle-refresh.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/atari-2600-paddle-refresh.html</guid>
+      <pubDate>Thu, 19 Nov 2026 17:45:08 GMT</pubDate>
+      <description>A quick guide to rewiring Atari 2600 paddles so they stay smooth for marathon runs.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Optimizing Sega Genesis Cartridge Contacts for Reliable Inputs</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/optimizing-genesis-cartridge-contacts.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/optimizing-genesis-cartridge-contacts.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-adding-turbo-switch-sega-genesis.html</guid>
       <pubDate>Wed, 18 Nov 2026 12:45:11 GMT</pubDate>
       <description>Install a simple turbo switch on a Genesis pad for rapid fire without compromising feel.</description>
-    </item>
-    <item>
-      <title>Retro Glow: Installing RGB Backlight in Game Boy Color</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-glow-installing-rgb-backlight-gbc.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-glow-installing-rgb-backlight-gbc.html</guid>
-      <pubDate>Wed, 18 Nov 2026 11:45:11 GMT</pubDate>
-      <description>Give your Game Boy Color a vibrant new look with a simple RGB backlight mod that preserves battery life.</description>
     </item>
   </channel>
 </rss>

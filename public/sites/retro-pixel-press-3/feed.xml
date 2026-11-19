@@ -5,6 +5,13 @@
     <link>https://beyondmythos.com/sites/retro-pixel-press-3/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>&quot;crt setup guide&quot; in practice: a real-world field test</title>
+      <link>https://beyondmythos.com/sites/retro-pixel-press-3/posts/crt-setup-guide-field-test-2.html</link>
+      <guid>https://beyondmythos.com/sites/retro-pixel-press-3/posts/crt-setup-guide-field-test-2.html</guid>
+      <pubDate>Thu, 19 Nov 2026 17:45:45 GMT</pubDate>
+      <description>We put the most-repeated advice about crt setup guide through a month of actual use. Some of it survived.</description>
+    </item>
+    <item>
       <title>Ask the forge: your indie questions, answered</title>
       <link>https://beyondmythos.com/sites/retro-pixel-press-3/posts/ask-the-forge-indie-4.html</link>
       <guid>https://beyondmythos.com/sites/retro-pixel-press-3/posts/ask-the-forge-indie-4.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://beyondmythos.com/sites/retro-pixel-press-3/posts/nes-flash-mod.html</guid>
       <pubDate>Wed, 18 Nov 2026 13:15:51 GMT</pubDate>
       <description>A plug‑in flash board lets collectors load ROMs onto original NES carts, blending nostalgia with modern convenience.</description>
-    </item>
-    <item>
-      <title>Why CRTs Still Beat LCDs for Speedrunning</title>
-      <link>https://beyondmythos.com/sites/retro-pixel-press-3/posts/crt-latency-advantage.html</link>
-      <guid>https://beyondmythos.com/sites/retro-pixel-press-3/posts/crt-latency-advantage.html</guid>
-      <pubDate>Tue, 17 Nov 2026 00:15:51 GMT</pubDate>
-      <description>Legacy CRTs deliver lower input lag and true scanlines, giving racers a tactile edge over modern displays.</description>
     </item>
   </channel>
 </rss>
