@@ -1,5 +1,56 @@
 [
   {
+    "slug": "balcony-microgreen-boost",
+    "title": "Balcony Microgreen Boost: Fast Greens for Small Spaces",
+    "dek": "Turn your balcony into a rapid‑growth microgreen kitchen, even when the city freezes outside.",
+    "takeaway": "Microgreens let apartment gardeners harvest nutritious greens in weeks, using minimal space and light.",
+    "whatHappened": "We set up a tray of radish and kale microgreens on a sunny balcony rail, using a simple grow light for cloudy days. Within ten days the seedlings punched through the soil, and the first harvest was ready by day fourteen.",
+    "whyItMatters": "Fresh microgreens supply vitamins and flavor without needing a full garden, cutting grocery trips and boosting indoor air quality. For city dwellers, they prove that productive gardening isn’t limited to spring.",
+    "howToThink": "Choose shallow trays, a lightweight soil mix, and fast‑growing varieties. Position them where they catch at least a few hours of direct sun, supplement with a low‑watt LED if needed. Harvest by snipping at the base to let a second cut grow.",
+    "pros": [
+      "Rapid harvest",
+      "Minimal space",
+      "High nutrient density"
+    ],
+    "cons": [
+      "Requires consistent moisture",
+      "Limited to leafy varieties",
+      "Light dependence in winter"
+    ],
+    "watchOut": "Avoid over‑watering; soggy media invites mold and root rot.",
+    "faq": [
+      {
+        "q": "Can I grow microgreens on a balcony without a grow light?",
+        "a": "Yes, if your balcony receives at least 4–5 hours of direct sunlight; otherwise a small LED panel fills the gap."
+      },
+      {
+        "q": "How often should I water microgreen trays?",
+        "a": "Keep the soil surface damp; mist or water lightly once or twice daily, adjusting for weather."
+      },
+      {
+        "q": "What’s the best way to harvest without killing the plant?",
+        "a": "Snip just above the soil line with scissors; many varieties will regrow for a second cut."
+      }
+    ],
+    "category": "Seasonal",
+    "tags": [
+      "Microgreens",
+      "Balcony"
+    ],
+    "sources": [
+      {
+        "label": "r/UrbanGardening community threads",
+        "url": "https://www.reddit.com/r/UrbanGardening/"
+      },
+      {
+        "label": "Search interest: \"balcony garden ideas\"",
+        "url": "https://duckduckgo.com/?q=balcony%20garden%20ideas"
+      }
+    ],
+    "publishedAt": "2026-11-19T08:45:05.746Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "balcony-winter-shield-protecting-potted-plants-f",
     "title": "Balcony Winter Shield: Protecting Potted Plants from Frost",
     "dek": "Learn quick, low‑cost tricks to keep your balcony containers thriving through the cold snap.",

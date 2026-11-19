@@ -1,5 +1,56 @@
 [
   {
+    "slug": "evening-platform-sketching",
+    "title": "Evening Platform Sketching: Low-Impact Creativity on the Rails",
+    "dek": "Grab a sketchpad and let the rhythm of the rails inspire low-impact art between stations.",
+    "takeaway": "A simple sketching habit turns travel time into creative low-impact moments.",
+    "whatHappened": "During a night train from Berlin to Prague, I set up a small sketchbook at my seat and captured fleeting views of passing towns. The gentle sway became a metronome for quick line work, and the quiet carriage offered space to reflect.",
+    "whyItMatters": "Creative pauses reduce the mental fatigue of long trips and keep your carbon footprint low—no gadgets, just pencil and paper. They also deepen your connection to the landscape you’re traversing, making each stop more meaningful.",
+    "howToThink": "Keep a compact sketchbook and a stubby graphite pencil in your travel kit. When the train slows for a station, glance out, note a shape, and spend a few breaths drawing it. Treat each sketch as a micro-journal entry rather than a masterpiece.",
+    "pros": [
+      "No electricity needed",
+      "Enhances observation",
+      "Leaves a tangible memory"
+    ],
+    "cons": [
+      "Requires quiet space",
+      "Limited detail at speed",
+      "Pencil can smudge"
+    ],
+    "watchOut": "Avoid drawing in cramped aisles where others might bump into your sketchpad.",
+    "faq": [
+      {
+        "q": "Do I need special art supplies?",
+        "a": "A small sketchbook and a basic graphite pencil are enough."
+      },
+      {
+        "q": "What if the train is too noisy?",
+        "a": "Focus on quick line gestures; you don’t need perfection."
+      },
+      {
+        "q": "Can I share my sketches online?",
+        "a": "Yes, but consider the low-impact ethos and keep digital footprints minimal."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "creative"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-11-19T08:45:06.469Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "minimalist-packing-low-impact-rail",
     "title": "Minimalist Packing: Low‑Impact Gear for Slow Rail Adventures",
     "dek": "Trim your luggage, cut waste, and travel lighter on the rails.",

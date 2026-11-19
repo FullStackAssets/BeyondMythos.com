@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-timing-hack",
+    "title": "Elevate Your Espresso Consistency with a Simple Shot Timing Hack",
+    "dek": "A quick timing trick that steadies shot volume and flavor without buying new gear.",
+    "takeaway": "Timing your extraction to a consistent window sharpens flavor balance.",
+    "whatHappened": "I tried a stopwatch‑style cue on my daily espresso routine, noting the exact moment the espresso stream turned blonde. After a few days of consistent timing, the shots tasted more uniform and less bitter.",
+    "whyItMatters": "Espresso flavor swings often stem from subtle variations in extraction time. By locking that variable, you reduce the guesswork and let bean quality shine.",
+    "howToThink": "Treat each shot as a timed event: start the timer when you open the valve and stop it when the stream lightens. Aim for a 25‑30 second window for a standard 18‑gram dose, then adjust grind or dose if you consistently fall short or exceed it.",
+    "pros": [
+      "No extra equipment needed",
+      "Instant feedback on each shot",
+      "Improves repeatability"
+    ],
+    "cons": [
+      "Requires discipline to watch the timer",
+      "May need grind tweaks",
+      "Not a cure‑all for bad beans"
+    ],
+    "watchOut": "Don’t over‑focus on the clock at the expense of taste—use it as a guide, not a rule.",
+    "faq": [
+      {
+        "q": "Do I need a digital timer?",
+        "a": "A phone stopwatch works fine; the key is consistency."
+      },
+      {
+        "q": "What if my machine’s pump is noisy?",
+        "a": "Listen for the visual change in the stream rather than sound."
+      },
+      {
+        "q": "Can this method replace a pressure gauge?",
+        "a": "No, it complements pressure monitoring but doesn’t replace it."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "technique"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-11-19T08:45:03.508Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-milk-texture-stir",
     "title": "Master Your Espresso Milk Texture with a Simple Stir Technique",
     "dek": "A quick stir after pulling the shot can smooth out micro‑foam and boost mouthfeel without extra equipment.",

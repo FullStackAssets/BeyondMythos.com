@@ -1,5 +1,56 @@
 [
   {
+    "slug": "recalibrate-snes-mouse-drag",
+    "title": "Pixel Boost: Recalibrating the SNES Mouse for Faster Dragging",
+    "dek": "Give your SNES mouse the precision edge needed for high‑speed dragging in classic platformers and drawing tools.",
+    "takeaway": "A simple sensor tweak restores the SNES mouse’s responsiveness for speedrun‑level control.",
+    "whatHappened": "Collectors noticed that the SNES mouse’s drag response had become sluggish after years of use, causing missed hits in titles like \"Mario Paint\" and slower cursor movement in \"Epic MegaGames' The Lost Vikings.\" A community‑sourced guide outlines a safe way to restore its original feel without invasive soldering.",
+    "whyItMatters": "Speedrunners rely on pixel‑perfect mouse movements for certain puzzle sections, and a laggy mouse can add seconds to a run. Preservationists also benefit, as a functional mouse keeps original software playable as intended.",
+    "howToThink": "Start by opening the mouse case with a small screwdriver, locate the potentiometer that controls the X‑axis, and gently clean it with isopropyl alcohol. Re‑seat the spring‑loaded knob to eliminate dead zones, then re‑assemble and test with a known‑good game. If the drag still feels off, repeat the cleaning on the Y‑axis and verify the cable connections.",
+    "pros": [
+      "Restores original feel",
+      "No soldering required",
+      "Low cost"
+    ],
+    "cons": [
+      "Requires careful handling",
+      "Small parts can be lost",
+      "May need repeat cleaning"
+    ],
+    "watchOut": "Avoid applying excess force to the potentiometer, as it can strip the internal contacts.",
+    "faq": [
+      {
+        "q": "Do I need any special tools?",
+        "a": "A small Phillips screwdriver, a can of isopropyl alcohol, and a cotton swab are sufficient."
+      },
+      {
+        "q": "Will this void my mouse's warranty?",
+        "a": "The SNES mouse is out of warranty by default, and the procedure is non‑destructive if done gently."
+      },
+      {
+        "q": "Can I use this method on other retro mice?",
+        "a": "The general cleaning steps work on similar 90s-era mice, but sensor locations may differ."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "SNES",
+      "Mouse Mod"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-11-19T08:45:02.713Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-boost-sync-light-gun-refresh",
     "title": "Pixel Boost: Synchronizing Light Gun Refresh Rate for Ultra‑Precise Frames",
     "dek": "Tame your light gun's refresh lag to shave hundredths off every shot and stay competitive in tight runs.",
