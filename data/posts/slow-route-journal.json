@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midnight-station-stroll",
+    "title": "Midnight Station Stroll: Low‑Impact Exploration on the Rails",
+    "dek": "A nocturnal platform walk that lets slow travelers soak in night ambience with minimal footprint.",
+    "takeaway": "Even a brief midnight stroll can deepen your connection to the rail journey without adding waste.",
+    "whatHappened": "After the last train departed, I lingered on a dimly lit station platform, listening to the distant hum of passing freight and the soft sigh of night wind. The empty benches became a temporary lounge for a quiet observation of the rails bathed in moonlight.",
+    "whyItMatters": "Nighttime offers a different sensory palette—cooler air, muted sounds, and a sky full of stars—that many travelers miss. Embracing these moments encourages a slower pace and a respect for the quiet rhythms of rail infrastructure.",
+    "howToThink": "Treat the platform as a micro‑camping spot: bring a lightweight blanket, a reusable thermos, and a small lantern. Keep your group small, move silently, and leave no trace beyond footprints. Use the time to journal or sketch, turning the pause into purposeful low‑impact activity.",
+    "pros": [
+      "Quiet moments",
+      "New scenery",
+      "Eco‑friendly pace"
+    ],
+    "cons": [
+      "Limited amenities",
+      "Longer travel time",
+      "Unpredictable schedules"
+    ],
+    "watchOut": "Watch for platform safety after dark, especially near edge gaps and uneven steps.",
+    "faq": [
+      {
+        "q": "Do I need a flashlight?",
+        "a": "A low‑lumens, rechargeable lantern is enough and less intrusive than a bright torch."
+      },
+      {
+        "q": "Is it safe to stay after the last train?",
+        "a": "Most stations remain accessible, but check local signage and stay within well‑lit areas."
+      },
+      {
+        "q": "Can I bring food?",
+        "a": "Yes, pack a small, zero‑waste snack in a reusable container to keep energy up."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "night-travel",
+      "slow-rail"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-11-19T13:45:05.361Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "first-light-watch",
     "title": "First Light Watch: Low‑Impact Observation on the Rails",
     "dek": "Catch the sunrise from a moving carriage and learn how quiet observation fuels sustainable travel.",

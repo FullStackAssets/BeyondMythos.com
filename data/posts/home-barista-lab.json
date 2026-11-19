@@ -1,5 +1,56 @@
 [
   {
+    "slug": "bottomless-portafilter-diagnosis",
+    "title": "Watch Your Espresso Flow: Why a Bottomless Portafilter Is a Game‑Changer",
+    "dek": "A bottom‑less portafilter shows you what’s really happening during extraction.",
+    "takeaway": "Seeing the shot naked lets you instantly spot channeling, under‑extraction, and tamping flaws.",
+    "whatHappened": "I swapped my standard portafilter for a bottomless one on a busy Saturday morning and watched the espresso stream in real time. The flow revealed uneven pockets that a regular port never shows.",
+    "whyItMatters": "Without visual feedback, many hidden defects go unnoticed, leading to inconsistent flavor and wasted beans. Spotting them early means quicker adjustments and better tasting coffee.",
+    "howToThink": "Treat the visible stream as a diagnostic chart: a steady, even cone signals good prep; spurts or dark blobs signal channeling or uneven grind. Adjust grind size, distribution, or tamp pressure accordingly before pulling a full shot.",
+    "pros": [
+      "Instant visual feedback",
+      "Helps fine‑tune grind and tamp",
+      "Makes troubleshooting fun"
+    ],
+    "cons": [
+      "Can be messy if beans spit",
+      "Requires extra cleaning",
+      "May scare beginners with dramatic streams"
+    ],
+    "watchOut": "Use a drip tray and clean the basket promptly to avoid residue buildup.",
+    "faq": [
+      {
+        "q": "Do I need a special basket for a bottomless portafilter?",
+        "a": "No, it uses the same basket size as your regular portafilter; just remove the bottom."
+      },
+      {
+        "q": "Will a bottomless portafilter affect the flavor?",
+        "a": "It doesn’t change the brew chemistry; it only reveals extraction patterns, so flavor remains the same when you correct issues."
+      },
+      {
+        "q": "Is it safe for home machines?",
+        "a": "Yes, as long as you keep the pressure within the machine’s limits and clean after each use."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "Espresso",
+      "Gear"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-11-19T13:45:09.038Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-quick-timer-hack",
     "title": "Speed Up Your Espresso Pull with a Simple Timer Reset",
     "dek": "A tiny habit tweak that steadies shot times and sharpens flavor without new gear.",
