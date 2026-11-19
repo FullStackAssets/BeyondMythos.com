@@ -2815,8 +2815,29 @@
       "streamUrl": "https://beyondmythos.com/",
       "elevenlabsAgentId": null,
       "lastPostAt": "2026-11-19T19:46:04.109Z"
+    },
+    {
+      "id": "switchback-signal-2-1795119323938",
+      "slug": "switchback-signal-2",
+      "name": "Switchback Signal",
+      "tagline": "Fresh takes for trail runners and ultrarunning hopefuls.",
+      "nicheId": "trail-running",
+      "audience": "trail runners and ultrarunning hopefuls",
+      "categories": [
+        "Training",
+        "Shoes",
+        "Nutrition",
+        "Races"
+      ],
+      "url": "https://beyondmythos.com/sites/switchback-signal-2/",
+      "localUrl": "https://beyondmythos.com/sites/switchback-signal-2/",
+      "design": "zine",
+      "postCount": 6,
+      "createdAt": "2026-11-19T20:15:14.920Z",
+      "streamUrl": "https://beyondmythos.com/",
+      "elevenlabsAgentId": null
     }
   ],
-  "lastGeneratedAt": "2026-11-19T19:15:40.299Z",
+  "lastGeneratedAt": "2026-11-19T20:15:14.920Z",
   "lastPostRunAt": "2026-11-19T19:46:04.122Z"
 }
