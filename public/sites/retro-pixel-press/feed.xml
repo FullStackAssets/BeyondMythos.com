@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Boosting Game Gear LCD Contrast for Clearer Play</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/game-gear-lcd-contrast-fix.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/game-gear-lcd-contrast-fix.html</guid>
+      <pubDate>Thu, 19 Nov 2026 20:45:06 GMT</pubDate>
+      <description>A quick tweak to the Game Gear’s LCD can dramatically improve visibility without pricey mods.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Reviving the Atari 5200 Controller for Reliable Play</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/revive-atari-5200-controller.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/revive-atari-5200-controller.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/restoring-cartridge-labels.html</guid>
       <pubDate>Wed, 18 Nov 2026 15:45:05 GMT</pubDate>
       <description>Give old game cartridges a fresh look without harming the internals.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Reinserting SNES Controller Battery for Longer Play</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-reinsert-snes-battery.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-reinsert-snes-battery.html</guid>
-      <pubDate>Wed, 18 Nov 2026 14:45:07 GMT</pubDate>
-      <description>Swap the aging SNES controller battery for a fresh coin cell and keep your gamepad humming for years.</description>
     </item>
   </channel>
 </rss>

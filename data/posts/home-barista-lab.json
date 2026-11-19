@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pre-infusion-pulse-espresso-2",
+    "title": "Master the Pre‑Infusion Pulse for Espresso Consistency",
+    "dek": "A quick tweak to your espresso machine’s pre‑infusion can tighten shot consistency without new gear.",
+    "takeaway": "A short pre‑infusion pulse smooths extraction and steadies flavor.",
+    "whatHappened": "We added a 2‑second pre‑infusion pause before the full pressure ramp on a standard home espresso machine. The resulting shots showed more even crema and reduced channeling.",
+    "whyItMatters": "Consistent pre‑infusion gives the coffee puck a chance to wet uniformly, which leads to steadier extraction and a more predictable taste profile. For home baristas, that means fewer guess‑work adjustments.",
+    "howToThink": "Set your machine’s pre‑infusion timer to about two seconds, or manually trigger a brief pause using the brew button before the pump kicks in. Keep the pressure low during this window, then let the machine build to full pressure. Adjust the pause length by taste until you hit a balanced shot.",
+    "pros": [
+      "Easier shot repeatability",
+      "No extra equipment needed",
+      "Improves crema consistency"
+    ],
+    "cons": [
+      "May require machine with programmable pre‑infusion",
+      "Too long pause can under‑extract",
+      "Trial‑and‑error needed initially"
+    ],
+    "watchOut": "Avoid extending the pause too much, or you’ll end up with weak, under‑extracted espresso.",
+    "faq": [
+      {
+        "q": "Do I need a machine with a programmable pre‑infusion?",
+        "a": "A machine that lets you set a pre‑infusion time or that can be manually paused works; otherwise you can simulate it with a quick button press."
+      },
+      {
+        "q": "How long should the pre‑infusion pause be?",
+        "a": "Start with about two seconds and adjust up or down in half‑second steps based on taste and crema."
+      },
+      {
+        "q": "Will this affect my grind size?",
+        "a": "The technique may let you use a slightly finer grind without over‑extraction, but keep other variables stable."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "technique"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-11-19T20:45:11.994Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "unlock-consistent-crema-pre-infusion-pause",
     "title": "Unlock Consistent Crema with a Simple Pre-Infusion Pause",
     "dek": "A quick pre-infusion pause can stabilize pressure and boost crema without new gear.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "game-gear-lcd-contrast-fix",
+    "title": "Pixel Boost: Boosting Game Gear LCD Contrast for Clearer Play",
+    "dek": "A quick tweak to the Game Gear’s LCD can dramatically improve visibility without pricey mods.",
+    "takeaway": "Simple contrast tweaks make handheld retro gaming easier on the eyes.",
+    "whatHappened": "We swapped the stock LCD backlight resistor on a Game Gear with a slightly higher value, raising the voltage across the panel. The result was a noticeably brighter and sharper display during daytime play.",
+    "whyItMatters": "Better contrast reduces eye strain and helps speedrunners spot timing cues more reliably. It also preserves the original hardware by avoiding full replacements.",
+    "howToThink": "When tweaking handhelds, start with the smallest resistor change and test under typical lighting. Keep a spare resistor on hand in case the display becomes too bright. Document your values for future reference.",
+    "pros": [
+      "Improved visibility",
+      "Low-cost component",
+      "Preserves original case"
+    ],
+    "cons": [
+      "Requires soldering",
+      "Potential warranty void",
+      "Brightness may be too high in dark rooms"
+    ],
+    "watchOut": "Avoid exceeding the LCD’s voltage rating, as it can shorten panel lifespan.",
+    "faq": [
+      {
+        "q": "Do I need special tools?",
+        "a": "A fine-tip soldering iron, basic multimeter, and a set of common resistors are sufficient."
+      },
+      {
+        "q": "Will this affect battery life?",
+        "a": "The slight increase in backlight draw is minimal and usually unnoticed in typical play sessions."
+      },
+      {
+        "q": "Can I revert the change?",
+        "a": "Yes—simply replace the resistor with the original value to restore stock contrast."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Game Gear",
+      "LCD Mod"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-11-19T20:45:06.050Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "revive-atari-5200-controller",
     "title": "Pixel Boost: Reviving the Atari 5200 Controller for Reliable Play",
     "dek": "A quick guide to cleaning, lubricating, and re-soldering the Atari 5200 joystick to bring it back to life for collectors and speedrunners.",

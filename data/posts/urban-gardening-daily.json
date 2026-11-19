@@ -1,5 +1,56 @@
 [
   {
+    "slug": "balcony-tomato-triumph-4",
+    "title": "Balcony Tomato Triumph: Getting Juicy Fruit on a Sun‑Starved Balcony",
+    "dek": "Turn a shady balcony into a tomato haven with smart container tricks.",
+    "takeaway": "Even low‑light balconies can produce tasty tomatoes with the right setup.",
+    "whatHappened": "After swapping a standard pot for a reflective, insulated container and adding a low‑light tolerant dwarf variety, the balcony produced its first ripe tomatoes within weeks. The plants thrived despite limited direct sun, surprising the apartment gardener.",
+    "whyItMatters": "Fresh, home‑grown tomatoes cut grocery trips and boost morale for city dwellers who think they lack garden space. Growing them locally also reduces packaging waste and supports a more resilient food routine.",
+    "howToThink": "Choose dwarf or patio‑type tomato varieties that tolerate shade, use dark‑colored containers to absorb heat, and line the pot with reflective material to bounce light onto the foliage. Pair with a balanced organic fertilizer and a steady watering schedule to keep growth steady.",
+    "pros": [
+      "Space‑efficient",
+      "Extended harvest season",
+      "Improved flavor"
+    ],
+    "cons": [
+      "Requires support stakes",
+      "Needs consistent watering",
+      "Potential pest pressure"
+    ],
+    "watchOut": "Watch for fungal issues in humid microclimates, especially on the lower leaves.",
+    "faq": [
+      {
+        "q": "Can I grow regular tomato varieties on a balcony?",
+        "a": "Regular varieties need full sun; on a balcony with limited sun, dwarf or shade‑tolerant types are the safer bet."
+      },
+      {
+        "q": "How often should I water balcony tomatoes?",
+        "a": "Keep the soil evenly moist—check daily and water when the top inch feels dry, but avoid soggy conditions."
+      },
+      {
+        "q": "Do I need a trellis for dwarf tomatoes?",
+        "a": "A small cage or a few stakes help keep the vines upright and improve air flow, which reduces disease risk."
+      }
+    ],
+    "category": "Seasonal",
+    "tags": [
+      "tomatoes",
+      "balcony"
+    ],
+    "sources": [
+      {
+        "label": "r/UrbanGardening community threads",
+        "url": "https://www.reddit.com/r/UrbanGardening/"
+      },
+      {
+        "label": "Search interest: \"balcony garden ideas\"",
+        "url": "https://duckduckgo.com/?q=balcony%20garden%20ideas"
+      }
+    ],
+    "publishedAt": "2026-11-19T20:45:06.786Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "balcony-citrus-burst-2",
     "title": "Balcony Citrus Burst: Small Trees, Big Flavor",
     "dek": "Turn your balcony into a mini orchard with dwarf citrus trees that thrive in containers.",

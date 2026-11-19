@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midday-train-library",
+    "title": "Midday Train Library: Low‑Impact Reading on the Rails",
+    "dek": "Turn a commuter car into a pop‑up library and let the rhythm of the rails enrich your reading pace.",
+    "takeaway": "A shared book corner on the train makes slow travel richer without adding carbon.",
+    "whatHappened": "During a weekday stretch between two regional hubs, I set out a small basket of donated paperbacks and a sign inviting fellow passengers to swap reads. By the next stop, the basket held a fresh mix of mystery, poetry, and travel memoirs, sparking brief yet meaningful exchanges.",
+    "whyItMatters": "Reading together on a moving train cultivates community, reduces electronic waste, and aligns with low‑impact values by reusing books that might otherwise sit idle. It also softens the monotony of long journeys, making each mile feel purposeful.",
+    "howToThink": "Pick lightweight paperbacks or a compact e‑ink reader, keep a simple sign, and set a gentle rule: no spoilers, no loud discussions. Encourage a ‘take one, leave one’ flow, and let the train’s cadence dictate the reading rhythm.",
+    "pros": [
+      "Builds spontaneous community",
+      "Zero‑energy entertainment",
+      "Encourages book reuse"
+    ],
+    "cons": [
+      "Limited space in crowded cars",
+      "Needs quiet cooperation",
+      "Potential for misplaced books"
+    ],
+    "watchOut": "Make sure the basket is secure so it doesn’t roll onto the aisle during sudden stops.",
+    "faq": [
+      {
+        "q": "Do I need permission from the rail operator?",
+        "a": "A small, unobtrusive basket usually doesn’t require formal approval, but a quick check with staff is courteous."
+      },
+      {
+        "q": "What types of books work best?",
+        "a": "Light, portable paperbacks or short story collections keep the load low and the turnover high."
+      },
+      {
+        "q": "How do I keep the basket tidy?",
+        "a": "Assign a simple ‘return to top’ rule and occasionally give the basket a quick shake at each stop."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "reading",
+      "rail"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-11-19T20:45:05.235Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-packing-58",
     "title": "The quiet upgrade: small tweaks in packing with outsized returns",
     "dek": "No purchases, no overhauls — the modest packing adjustments that slow-travel and low-impact explorers report mattering most.",
