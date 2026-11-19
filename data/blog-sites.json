@@ -2661,8 +2661,29 @@
       "streamUrl": "https://beyondmythos.com/",
       "elevenlabsAgentId": null,
       "lastPostAt": "2026-11-19T12:45:45.546Z"
+    },
+    {
+      "id": "garage-gym-signal-2-1795094111778",
+      "slug": "garage-gym-signal-2",
+      "name": "Garage Gym Signal",
+      "tagline": "Fresh takes for home gym builders and strength-training beginners.",
+      "nicheId": "home-fitness",
+      "audience": "home gym builders and strength-training beginners",
+      "categories": [
+        "Programming",
+        "Equipment",
+        "Recovery",
+        "Space"
+      ],
+      "url": "https://beyondmythos.com/sites/garage-gym-signal-2/",
+      "localUrl": "https://beyondmythos.com/sites/garage-gym-signal-2/",
+      "design": "zine",
+      "postCount": 6,
+      "createdAt": "2026-11-19T13:15:11.607Z",
+      "streamUrl": "https://beyondmythos.com/",
+      "elevenlabsAgentId": null
     }
   ],
-  "lastGeneratedAt": "2026-11-19T12:15:24.690Z",
+  "lastGeneratedAt": "2026-11-19T13:15:11.607Z",
   "lastPostRunAt": "2026-11-19T12:45:45.566Z"
 }
