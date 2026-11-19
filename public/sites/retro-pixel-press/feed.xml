@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Optimizing Sega Genesis Cartridge Contacts for Reliable Inputs</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/optimizing-genesis-cartridge-contacts.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/optimizing-genesis-cartridge-contacts.html</guid>
+      <pubDate>Thu, 19 Nov 2026 16:45:06 GMT</pubDate>
+      <description>A quick guide to cleaning and securing Genesis cart contacts for smoother runs.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Enhancing NES Controller Contact for Flawless Inputs</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-nes-controller-mod-3.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-nes-controller-mod-3.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-glow-installing-rgb-backlight-gbc.html</guid>
       <pubDate>Wed, 18 Nov 2026 11:45:11 GMT</pubDate>
       <description>Give your Game Boy Color a vibrant new look with a simple RGB backlight mod that preserves battery life.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Swapping SNES Power Supply for Stable Voltage</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/snes-power-supply-swap.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/snes-power-supply-swap.html</guid>
-      <pubDate>Wed, 18 Nov 2026 10:45:06 GMT</pubDate>
-      <description>Give your Super Nintendo a reliable power source with a simple supply swap that eliminates flicker and resets.</description>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,13 @@
     <link>https://beyondmythos.com/sites/retro-pixel-press-3/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Ask the forge: your indie questions, answered</title>
+      <link>https://beyondmythos.com/sites/retro-pixel-press-3/posts/ask-the-forge-indie-4.html</link>
+      <guid>https://beyondmythos.com/sites/retro-pixel-press-3/posts/ask-the-forge-indie-4.html</guid>
+      <pubDate>Thu, 19 Nov 2026 16:45:45 GMT</pubDate>
+      <description>Straight answers to the indie questions retro game collectors and speedrunners keep asking, minus the hedging.</description>
+    </item>
+    <item>
       <title>The quiet upgrade: small tweaks in preservation with outsized returns</title>
       <link>https://beyondmythos.com/sites/retro-pixel-press-3/posts/quiet-upgrade-preservation-4.html</link>
       <guid>https://beyondmythos.com/sites/retro-pixel-press-3/posts/quiet-upgrade-preservation-4.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://beyondmythos.com/sites/retro-pixel-press-3/posts/crt-latency-advantage.html</guid>
       <pubDate>Tue, 17 Nov 2026 00:15:51 GMT</pubDate>
       <description>Legacy CRTs deliver lower input lag and true scanlines, giving racers a tactile edge over modern displays.</description>
-    </item>
-    <item>
-      <title>Digitizing Retro Game Manuals Without Losing Charm</title>
-      <link>https://beyondmythos.com/sites/retro-pixel-press-3/posts/manual-digitization-guide.html</link>
-      <guid>https://beyondmythos.com/sites/retro-pixel-press-3/posts/manual-digitization-guide.html</guid>
-      <pubDate>Sun, 15 Nov 2026 11:15:51 GMT</pubDate>
-      <description>A step‑by‑step guide to scanning and archiving old game manuals while keeping their tactile feel intact.</description>
     </item>
   </channel>
 </rss>

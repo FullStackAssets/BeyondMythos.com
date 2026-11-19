@@ -1,5 +1,56 @@
 [
   {
+    "slug": "evening-train-window-gazing",
+    "title": "Evening Train Window Gazing: Low‑Impact Stargazing on the Rails",
+    "dek": "Turn the night train into a portable planetarium with simple, low‑impact stargazing tips.",
+    "takeaway": "A quiet sky from a moving carriage can deepen your travel mindfulness without extra gear.",
+    "whatHappened": "On a recent cross‑country night service I set up a small blanket and a reusable coffee cup by the window. As the train slipped past low‑light towns, the sky opened up, revealing constellations I’d only seen in books. I recorded a few quick sketches and noted the shifting horizon.",
+    "whyItMatters": "Stargazing on a train adds a layer of wonder to otherwise routine travel, encouraging passengers to look up instead of scrolling down. It also demonstrates that low‑impact experiences don’t need special destinations—just a willing eye and a dark sky.",
+    "howToThink": "Choose routes that run through low‑population areas after sunset and avoid seats near bright LED strips. Bring a reusable eye mask for brief darkness, and use a simple star‑map app set to offline mode. Let the rhythm of the rails guide your breathing as you trace constellations.",
+    "pros": [
+      "Zero extra emissions",
+      "No extra cost",
+      "Boosts night‑time awareness"
+    ],
+    "cons": [
+      "Limited view in tunnels",
+      "Urban light pollution",
+      "Requires clear skies"
+    ],
+    "watchOut": "Sudden carriage lights can wash out stars, so dim your screen and use a small cloth to block stray beams.",
+    "faq": [
+      {
+        "q": "Do I need a telescope?",
+        "a": "No, the naked eye plus a clear window is enough for bright constellations."
+      },
+      {
+        "q": "What if the train is crowded?",
+        "a": "Pick a seat on the far side of the carriage where windows are less likely to be obstructed."
+      },
+      {
+        "q": "Is it safe to write while the train moves?",
+        "a": "Yes, just keep your head against the seat back and avoid leaning over the edge."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "Rail",
+      "Stargazing"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-11-19T16:45:06.798Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "afternoon-platform-gardening",
     "title": "Afternoon Platform Gardening: Low‑Impact Green Touch on the Rails",
     "dek": "We planted a tiny herb garden on a quiet midday stop, proving small green acts fit slow‑travel.",

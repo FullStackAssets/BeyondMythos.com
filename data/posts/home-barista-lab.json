@@ -1,5 +1,56 @@
 [
   {
+    "slug": "stabilize-espresso-temperature",
+    "title": "Stabilize Your Espresso Shot Temperature with a Simple Thermometer Trick",
+    "dek": "Keep your espresso brewing at the sweet spot by using a quick thermometer check before each shot.",
+    "takeaway": "A quick temperature check can lock in flavor consistency day after day.",
+    "whatHappened": "I noticed my espresso tasted flat on cooler mornings and bright on hot afternoons. Adding a handheld thermometer to the pre‑brew routine revealed temperature swings of several degrees.",
+    "whyItMatters": "Espresso extraction is highly sensitive to water temperature; even a few degrees can shift balance between acidity and bitterness, affecting repeatability.",
+    "howToThink": "Treat temperature like a dial you set before each pull. Measure the group head water temperature, adjust the machine’s thermostat or wait a moment for stabilization, then pull. Consistency follows.",
+    "pros": [
+      "Easy to implement",
+      "Low cost tool",
+      "Immediate feedback"
+    ],
+    "cons": [
+      "Requires a separate device",
+      "Adds a tiny step",
+      "Thermometer must be calibrated occasionally"
+    ],
+    "watchOut": "Don’t let the thermometer touch the metal portafilter; it can give a falsely high reading.",
+    "faq": [
+      {
+        "q": "Do I need an expensive coffee thermometer?",
+        "a": "A basic digital kitchen thermometer with a narrow probe works fine for espresso temperature checks."
+      },
+      {
+        "q": "How often should I calibrate the thermometer?",
+        "a": "Check it against boiling water occasionally; if it reads 100 °C (212 °F) at a rolling boil, you’re good."
+      },
+      {
+        "q": "What temperature range should I aim for?",
+        "a": "Most home machines perform best between 90‑96 °C (194‑205 °F); stay within that window."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "temperature",
+      "espresso"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-11-19T16:45:07.508Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "visual-grind-cue",
     "title": "Spot the Difference: Simple Visual Cue for Perfect Espresso Grind",
     "dek": "A quick visual trick helps you nail grind consistency for espresso without expensive tools.",

@@ -1,5 +1,55 @@
 [
   {
+    "slug": "optimizing-genesis-cartridge-contacts",
+    "title": "Pixel Boost: Optimizing Sega Genesis Cartridge Contacts for Reliable Inputs",
+    "dek": "A quick guide to cleaning and securing Genesis cart contacts for smoother runs.",
+    "takeaway": "Clean contacts mean fewer input glitches and more consistent speedrun splits.",
+    "whatHappened": "Collectors noticed intermittent lag on classic Genesis titles during marathon runs. A community thread identified dusty or oxidized cartridge pins as the culprit. Members experimented with contact cleaners and gentle polishing to restore reliability.",
+    "whyItMatters": "Unreliable cartridge contacts can corrupt save states, cause frame‑drops, and break the flow of a timed run. For preservationists, stable hardware ensures the original experience stays intact. Speedrunners depend on every millisecond, so eliminating input hiccups is essential.",
+    "howToThink": "Start with a soft brush to remove surface dust, then apply a tiny amount of electronics‑grade contact cleaner to the pins. Gently rub with a lint‑free cloth or cotton swab, avoiding excess liquid. Re‑insert the cartridge and test with a quick run to confirm smooth input response.",
+    "pros": [
+      "Restores original performance",
+      "Low‑cost materials\",\"Easy DIY"
+    ],
+    "cons": [
+      "Requires careful handling",
+      "Potential for over‑application of cleaner",
+      "May need repeat maintenance"
+    ],
+    "watchOut": "Avoid using abrasive tools that could damage delicate pins.",
+    "faq": [
+      {
+        "q": "Can I use regular household cleaner?",
+        "a": "Stick to electronics‑grade contact cleaners; household products may leave residues."
+      },
+      {
+        "q": "How often should I clean my carts?",
+        "a": "Whenever you notice input lag or after extended storage in dusty environments."
+      },
+      {
+        "q": "Will cleaning affect my warranty?",
+        "a": "Most vintage hardware is out of warranty, but gentle cleaning won’t harm the cartridge."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "hardware",
+      "genesis"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-11-19T16:45:06.106Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "retro-nes-controller-mod-3",
     "title": "Pixel Boost: Enhancing NES Controller Contact for Flawless Inputs",
     "dek": "A quick guide to improving NES controller reliability for marathon runs.",
