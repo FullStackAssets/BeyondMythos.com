@@ -1,0 +1,308 @@
+[
+  {
+    "slug": "kodak-portra-400-resurgence",
+    "title": "Kodak Portra 400 Makes a Comeback",
+    "category": "Film Stocks",
+    "dek": "Kodak’s Portra 400 is back in the spotlight, proving that classic color still wins in a digital age.",
+    "takeaway": "Portra 400 remains a versatile, reliable color film for both portraits and street work.",
+    "whatHappened": "Recent reissues and renewed retailer support have made Portra 400 more accessible. Photographers are sharing fresh scans on social media, sparking a wave of interest.",
+    "whyItMatters": "A reliable color stock reduces the need for heavy post‑processing, letting photographers focus on composition. Its forgiving exposure latitude helps newcomers avoid costly mistakes.",
+    "howToThink": "Treat Portra 400 as a workhorse: shoot at box speed for street, push a stop for low light, and bracket when unsure. Embrace its subtle grain for a timeless look.",
+    "pros": [
+      "Excellent skin tones",
+      "Wide exposure latitude",
+      "Consistent grain"
+    ],
+    "cons": [
+      "Higher cost than budget films",
+      "Limited availability in some regions",
+      "Less punchy contrast than modern alternatives"
+    ],
+    "watchOut": "Store it in a cool, dry place; heat can quickly degrade its color fidelity.",
+    "faq": [
+      {
+        "q": "Can Portra 400 be pushed safely?",
+        "a": "Yes, a single stop push is common and retains acceptable grain."
+      },
+      {
+        "q": "Is it good for low‑light street shots?",
+        "a": "At box speed (ISO 400) it handles typical street lighting; consider a push if you need faster shutter speeds."
+      },
+      {
+        "q": "How does it compare to Fuji Pro 400H?",
+        "a": "Portra leans toward warmer tones and finer grain, while Pro 400H offers cooler palettes."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/analog community threads",
+        "url": "https://www.reddit.com/r/analog/"
+      },
+      {
+        "label": "Search interest: \"best 35mm film stocks\"",
+        "url": "https://duckduckgo.com/?q=best%2035mm%20film%20stocks"
+      }
+    ],
+    "tags": [
+      "color",
+      "portrait"
+    ],
+    "publishedAt": "2026-11-19T08:15:16.968Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "leica-m6-street-legacy",
+    "title": "Why the Leica M6 Still Rules the Street",
+    "category": "Cameras",
+    "dek": "The mechanical charm of the Leica M6 gives street shooters a tactile edge over silent digital bodies.",
+    "takeaway": "M6’s manual focus and quiet shutter keep you invisible while delivering razor‑sharp frames.",
+    "whatHappened": "A recent surge in vintage market activity has pushed M6 prices up, yet many photographers still favor its simplicity. Workshops are emphasizing rangefinder discipline as a creative catalyst.",
+    "whyItMatters": "Learning to estimate distance sharpens compositional instincts, a skill that translates to any camera. The lack of electronic distractions forces you to engage fully with the scene.",
+    "howToThink": "Use the built‑in light meter as a guide, then trust your eye for contrast. Keep a small set of focal lengths (35mm, 50mm, 75mm) to stay nimble on the street.",
+    "pros": [
+      "Quiet shutter",
+      "Precise manual focus",
+      "Robust build"
+    ],
+    "cons": [
+      "No built‑in ISO meter",
+      "Requires manual exposure calculation",
+      "Higher acquisition cost"
+    ],
+    "watchOut": "Battery life is limited to the meter; carry spares or rely on external meters.",
+    "faq": [
+      {
+        "q": "Can I use modern lenses on the M6?",
+        "a": "Yes, Leica M‑mount lenses from any era work, though older lenses may need manual aperture control."
+      },
+      {
+        "q": "Is the M6 good for low‑light?",
+        "a": "Its maximum aperture depends on the lens; fast lenses (f/1.4) make low‑light work feasible."
+      },
+      {
+        "q": "Do I need a separate light meter?",
+        "a": "The built‑in meter is sufficient for most situations, but a handheld meter adds precision."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/filmphotography community threads",
+        "url": "https://www.reddit.com/r/filmphotography/"
+      },
+      {
+        "label": "Search interest: \"film camera buying guide\"",
+        "url": "https://duckduckgo.com/?q=film%20camera%20buying%20guide"
+      }
+    ],
+    "tags": [
+      "rangefinder",
+      "street"
+    ],
+    "publishedAt": "2026-11-17T19:15:16.968Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "flatbed-vs-drum-scanning",
+    "title": "Flatbed vs Drum: Choosing a Film Scanner",
+    "category": "Scanning",
+    "dek": "Flatbeds offer convenience, but drum scanners still hold the edge for ultimate detail.",
+    "takeaway": "Pick a flatbed for everyday workflow; choose a drum when you need the highest resolution and tonal range.",
+    "whatHappened": "Advances in sensor technology have narrowed the quality gap, and newer flatbeds now include infrared dust‑removal. Drum units remain niche due to cost and maintenance.",
+    "whyItMatters": "A scanner’s dynamic range determines how much of the film’s shadow and highlight detail you retain. For archival work, preserving that range is crucial.",
+    "howToThink": "Start with a flatbed that supports 48‑MP scans for most projects. Reserve a drum for large‑format negatives or when you plan to make large prints.",
+    "pros": [
+      "Flatbeds are affordable",
+      "Flatbeds handle multiple formats",
+      "Flatbeds are easy to operate"
+    ],
+    "cons": [
+      "Flatbeds have lower dynamic range",
+      "Flatbeds may struggle with fine grain",
+      "Flatbeds lack true optical resolution of drums"
+    ],
+    "watchOut": "Avoid scanning dirty film on a flatbed; dust can appear as stubborn specks without infrared cleaning.",
+    "faq": [
+      {
+        "q": "Do I need a separate software for dust removal?",
+        "a": "Many flatbeds include built‑in infrared cleaning, but third‑party tools can refine results."
+      },
+      {
+        "q": "Can a drum scan color slide film?",
+        "a": "Yes, but you’ll need a dedicated slide adapter and proper color management."
+      },
+      {
+        "q": "Is scanning at the highest resolution always best?",
+        "a": "Higher resolution yields larger files; choose based on final output size and storage capacity."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/Darkroom community threads",
+        "url": "https://www.reddit.com/r/Darkroom/"
+      },
+      {
+        "label": "Search interest: \"home film scanning\"",
+        "url": "https://duckduckgo.com/?q=home%20film%20scanning"
+      }
+    ],
+    "tags": [
+      "scanner",
+      "workflow"
+    ],
+    "publishedAt": "2026-11-16T06:15:16.968Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "silver-gelatin-print-revival",
+    "title": "Silver‑Gelatin Prints Are Back in Darkrooms",
+    "category": "Darkroom",
+    "dek": "A wave of new chemicals and paper blends is revitalizing traditional black‑and‑white printing.",
+    "takeaway": "Modern silver‑gelatin papers deliver richer contrast while staying true to classic aesthetics.",
+    "whatHappened": "Manufacturers have reintroduced high‑contrast papers with extended shelf life, prompting workshops to showcase their capabilities. Enthusiasts are swapping digital prints for tactile, archival prints.",
+    "whyItMatters": "A physical print offers a tactile connection to the image that screens cannot replicate. Longevity of silver‑gelatin ensures your work can be displayed for decades.",
+    "howToThink": "Experiment with variable contrast filters to fine‑tune tonal range. Keep a log of exposure times for each paper to build a reliable workflow.",
+    "pros": [
+      "Archival durability",
+      "Rich tonal depth",
+      "Hands‑on creative control"
+    ],
+    "cons": [
+      "Requires darkroom space",
+      "Chemical handling safety needed",
+      "Prints take longer than digital output"
+    ],
+    "watchOut": "Never mix chemicals in containers that previously held different solutions; cross‑contamination ruins paper batches.",
+    "faq": [
+      {
+        "q": "Can I use modern LED safelights with any paper?",
+        "a": "Most silver‑gelatin papers are safe under deep red or amber LEDs; check the paper’s specifications."
+      },
+      {
+        "q": "How long should I store developed prints?",
+        "a": "Store them flat in a cool, dry environment; proper storage can preserve them for many decades."
+      },
+      {
+        "q": "Do I need a dedicated enlarger for variable contrast?",
+        "a": "A standard enlarger works; the key is using the appropriate contrast filter series."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/analog community threads",
+        "url": "https://www.reddit.com/r/analog/"
+      },
+      {
+        "label": "Search interest: \"best 35mm film stocks\"",
+        "url": "https://duckduckgo.com/?q=best%2035mm%20film%20stocks"
+      }
+    ],
+    "tags": [
+      "black‑and‑white",
+      "print"
+    ],
+    "publishedAt": "2026-11-14T17:15:16.968Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "ilford-hp5-plus-400",
+    "title": "Ilford HP5 Plus 400: Classic B&W for Today",
+    "category": "Film Stocks",
+    "dek": "HP5 Plus 400 continues to be a go‑to grainy black‑white film for versatile shooting conditions.",
+    "takeaway": "Its wide exposure latitude makes HP5 Plus forgiving for both daylight and low‑light scenes.",
+    "whatHappened": "Recent batches have shown consistent grain structure, and photographers are pairing it with modern scanning workflows to retain its characteristic look.",
+    "whyItMatters": "A film that tolerates over‑ and under‑exposure reduces the pressure of precise metering, especially in fast‑moving street environments.",
+    "howToThink": "Shoot at ISO 400 for normal lighting; consider pushing to 800 for night shots, accepting a modest increase in grain. Use a fine‑grain developer if you prefer smoother tones.",
+    "pros": [
+      "Wide latitude",
+      "Distinctive grain",
+      "Good contrast"
+    ],
+    "cons": [
+      "Grain can be heavy for fine art",
+      "Requires careful handling in high humidity",
+      "Limited color rendition (black‑white only)"
+    ],
+    "watchOut": "Avoid prolonged exposure to heat; it accelerates emulsion aging and can shift contrast.",
+    "faq": [
+      {
+        "q": "Is HP5 Plus suitable for portrait work?",
+        "a": "Yes, its tonal range renders skin textures nicely, especially when developed normally."
+      },
+      {
+        "q": "Can I develop HP5 Plus at 20°C instead of 20°C?",
+        "a": "Standard development is at 20°C; lower temperatures increase development time but can soften grain."
+      },
+      {
+        "q": "What paper pairs best with HP5 Plus scans?",
+        "a": "A medium‑contrast fiber paper preserves the film’s texture while delivering rich blacks."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/filmphotography community threads",
+        "url": "https://www.reddit.com/r/filmphotography/"
+      },
+      {
+        "label": "Search interest: \"film camera buying guide\"",
+        "url": "https://duckduckgo.com/?q=film%20camera%20buying%20guide"
+      }
+    ],
+    "tags": [
+      "black‑and-white",
+      "grain"
+    ],
+    "publishedAt": "2026-11-13T04:15:16.968Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "large-format-4x5-modern",
+    "title": "Large‑Format 4×5 Cameras Find Their Place in Modern Work",
+    "category": "Cameras",
+    "dek": "The deliberate pace of 4×5 shooting forces thoughtful composition and yields unmatched detail.",
+    "takeaway": "A 4×5 system delivers image quality that digital sensors struggle to match, especially for large prints.",
+    "whatHappened": "A new wave of affordable lenses and modular backs has lowered the entry barrier. Photographers are using 4×5 for both fine‑art projects and documentary work.",
+    "whyItMatters": "The sheer size of the negative captures subtle tonal gradations, giving prints a depth that can’t be replicated digitally. The process also slows you down, encouraging intentional framing.",
+    "howToThink": "Plan your shots carefully: scout locations, set up a tripod, and use a light meter for precise exposure. Embrace the limited number of frames as a creative constraint.",
+    "pros": [
+      "Exceptional resolution",
+      "Rich tonal gradation",
+      "Deliberate shooting process"
+    ],
+    "cons": [
+      "Bulky equipment",
+      "Higher film cost per exposure",
+      "Long setup time"
+    ],
+    "watchOut": "Guard against light leaks; the larger the sheet, the more surface area for potential exposure errors.",
+    "faq": [
+      {
+        "q": "Do I need a special holder for each film size?",
+        "a": "Yes, each sheet size requires its own film holder; 4×5 holders are widely available."
+      },
+      {
+        "q": "Can I use modern digital backs on a 4×5?",
+        "a": "Digital backs exist for large format, but they are niche and expensive."
+      },
+      {
+        "q": "Is focusing critical with large format?",
+        "a": "Precise focusing is essential; use a focusing rail and a loupe for accuracy."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/Darkroom community threads",
+        "url": "https://www.reddit.com/r/Darkroom/"
+      },
+      {
+        "label": "Search interest: \"home film scanning\"",
+        "url": "https://duckduckgo.com/?q=home%20film%20scanning"
+      }
+    ],
+    "tags": [
+      "large‑format",
+      "detail"
+    ],
+    "publishedAt": "2026-11-11T15:15:16.968Z",
+    "readMinutes": 2
+  }
+]
