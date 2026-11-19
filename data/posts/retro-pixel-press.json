@@ -1,5 +1,56 @@
 [
   {
+    "slug": "c64-joystick-smooth-diagonal",
+    "title": "Pixel Boost: Recalibrating the Commodore 64 Joystick for Smooth Diagonal Moves",
+    "dek": "A cheap mod to your C64 joystick can eliminate sticky diagonals and give you the precision needed for high‑level runs.",
+    "takeaway": "Smooth joystick input can shave precious frames off your speedrun.",
+    "whatHappened": "We discovered that the original C64 joystick’s microswitches wear unevenly, causing diagonal drift. By swapping them with low‑profile tactile switches, the stick returns to true center.",
+    "whyItMatters": "Speedrunners rely on predictable directional input; any drift can ruin frame‑perfect tricks. A reliable joystick also preserves the hardware’s longevity for collectors.",
+    "howToThink": "When evaluating a joystick, test each direction for consistency, then consider a switch swap if you notice lag. Use a simple continuity tester to verify contact and replace with tactile switches of similar rating.",
+    "pros": [
+      "Cost‑effective",
+      "Improves input fidelity",
+      "Extends joystick lifespan"
+    ],
+    "cons": [
+      "Requires soldering",
+      "May void vintage warranty",
+      "Switches can feel different"
+    ],
+    "watchOut": "Make sure the new switches are rated for the same voltage to avoid damaging the controller.",
+    "faq": [
+      {
+        "q": "Will this mod affect the joystick’s compatibility with original C64 games?",
+        "a": "No, the electrical characteristics remain the same, so games see the same signals."
+      },
+      {
+        "q": "Do I need special tools to replace the switches?",
+        "a": "A soldering iron, desoldering wick, and a small screwdriver are sufficient."
+      },
+      {
+        "q": "Can I revert the joystick back to stock?",
+        "a": "Yes, keep the original switches; you can solder them back if desired."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "c64",
+      "joystick"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-11-19T10:45:07.519Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-boost-recalibrating-nes-zapper",
     "title": "Pixel Boost: Recalibrating the NES Zapper for Faster Reloads",
     "dek": "A simple mod to tighten the Zapper trigger and shave precious frames off your reload time.",

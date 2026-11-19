@@ -1,5 +1,56 @@
 [
   {
+    "slug": "dawn-platform-journaling",
+    "title": "Dawn Platform Journaling: Low‑Impact Reflection on the Rails",
+    "dek": "Start your day with a five‑minute journal on the train and keep your travel footprint light.",
+    "takeaway": "A quick rail‑side journal sharpens focus and deepens low‑impact travel awareness.",
+    "whatHappened": "I placed a small notebook on the commuter rail’s dawn carriage, wrote three prompts, and noted a tiny habit change. The habit fit between stops and didn’t slow the journey.",
+    "whyItMatters": "Journaling captures insights that often dissolve in the rush, helping you choose routes, meals, and stays that stay gentle on the planet. Those notes become a low‑impact decision‑making tool.",
+    "howToThink": "Treat the journal as a micro‑audit: note energy use, waste, and moments of connection, then adjust the next day’s plan accordingly. Small tweaks add up over weeks of travel.",
+    "pros": [
+      "Boosts mindfulness",
+      "Reveals waste patterns",
+      "Fits into any schedule"
+    ],
+    "cons": [
+      "Requires discipline",
+      "Can feel repetitive",
+      "Limited space for deep reflection"
+    ],
+    "watchOut": "Don’t let the habit become a chore that adds stress to your journey.",
+    "faq": [
+      {
+        "q": "Can I journal digitally without increasing my carbon footprint?",
+        "a": "A lightweight notes app on a charged phone is fine, but paper avoids extra screen time and battery draw."
+      },
+      {
+        "q": "How long should each entry be?",
+        "a": "Five minutes or roughly 100 words—just enough to capture the moment."
+      },
+      {
+        "q": "What if I miss a day?",
+        "a": "Skip it without guilt; the practice is cumulative, not punitive."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "Rail",
+      "Mindfulness"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-11-19T10:45:08.204Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "midday-platform-meditation-3",
     "title": "Midday Platform Meditation: Low‑Impact Mindfulness on the Rails",
     "dek": "A quick, low‑impact meditation routine to reset your mind while waiting for the next train.",

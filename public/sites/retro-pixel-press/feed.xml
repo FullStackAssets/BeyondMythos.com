@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Recalibrating the Commodore 64 Joystick for Smooth Diagonal Moves</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/c64-joystick-smooth-diagonal.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/c64-joystick-smooth-diagonal.html</guid>
+      <pubDate>Thu, 19 Nov 2026 10:45:07 GMT</pubDate>
+      <description>A cheap mod to your C64 joystick can eliminate sticky diagonals and give you the precision needed for high‑level runs.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Recalibrating the NES Zapper for Faster Reloads</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-recalibrating-nes-zapper.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-recalibrating-nes-zapper.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/game-boy-camera-shutter-mod.html</guid>
       <pubDate>Wed, 18 Nov 2026 05:45:10 GMT</pubDate>
       <description>A quick guide to reducing the lag on your Game Boy Camera’s shutter, so you can capture frames faster for speedrun practice and collection.</description>
-    </item>
-    <item>
-      <title>The preservation checklist: run this before you spend</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/preservation-pre-spend-checklist-58.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/preservation-pre-spend-checklist-58.html</guid>
-      <pubDate>Wed, 18 Nov 2026 04:45:03 GMT</pubDate>
-      <description>Seven questions that separate a justified preservation purchase from an expensive mood.</description>
     </item>
   </channel>
 </rss>
