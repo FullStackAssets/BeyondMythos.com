@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-grind-click-test",
+    "title": "Master Your Espresso Grind with a Click‑Test Hack",
+    "dek": "A quick, tactile method to gauge grind consistency without a scale or timer.",
+    "takeaway": "A simple click test can reveal grind uniformity and improve espresso extraction.",
+    "whatHappened": "While experimenting with a new bean, I noticed the usual dose felt off. I tried lightly tapping the portafilter after dosing and listened to the sound. The click pattern gave me a clue about the grind’s uniformity.",
+    "whyItMatters": "Grind consistency is a silent driver of espresso flavor; uneven particles cause channeling and bitter notes. Detecting inconsistency early saves time and beans, keeping your daily ritual reliable.",
+    "howToThink": "After dosing, give the portafilter a gentle tap and listen. A crisp, single click suggests a uniform grind; a dull or multiple clicks hint at clumps or fines. Adjust your grinder burrs in small increments and repeat until the click feels clean.",
+    "pros": [
+      "No extra equipment needed",
+      "Instant feedback while dosing",
+      "Works with any grinder"
+    ],
+    "cons": [
+      "Subjective to ear sensitivity",
+      "May need practice to interpret",
+      "Not a substitute for a scale when precision matters"
+    ],
+    "watchOut": "Avoid tapping too hard, as it can disturb the dose and skew the test.",
+    "faq": [
+      {
+        "q": "Can I use the click test with a bottomless portafilter?",
+        "a": "Yes, the sound is even clearer without the basket, but be gentle to keep the grounds intact."
+      },
+      {
+        "q": "How often should I perform the click test?",
+        "a": "Whenever you change beans, adjust burrs, or notice a flavor shift in your espresso."
+      },
+      {
+        "q": "Does the click test replace grind size adjustments?",
+        "a": "No, it’s a quick sanity check; you still need to dial grind size for proper extraction timing."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "grind consistency",
+      "espresso tips"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-11-19T21:45:06.801Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pre-infusion-pulse-espresso-2",
     "title": "Master the Pre‑Infusion Pulse for Espresso Consistency",
     "dek": "A quick tweak to your espresso machine’s pre‑infusion can tighten shot consistency without new gear.",

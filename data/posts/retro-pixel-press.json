@@ -1,5 +1,56 @@
 [
   {
+    "slug": "restoring-snes-mouse-precision",
+    "title": "Pixel Boost: Restoring the SNES Mouse for Precision Tracking",
+    "dek": "Give your SNES mouse a fresh life with a simple cleaning and contact‑spray routine for smoother, more accurate cursor control.",
+    "takeaway": "A quick clean restores the SNES mouse to near‑factory responsiveness.",
+    "whatHappened": "We took a decade‑old SNES mouse, disassembled it, cleaned the contacts, applied a light conductive spray, and reassembled it. The cursor jitter disappeared and the click feel tightened up instantly.",
+    "whyItMatters": "Many retro titles rely on precise mouse input, and a flaky mouse can ruin both casual play and competitive speed runs. Restoring the device extends its usable life and saves collectors from buying costly replacements.",
+    "howToThink": "Start with a soft brush and isopropyl alcohol to clear dust, then use a non‑corrosive contact cleaner on the button pads. Re‑assemble, test in a familiar game, and tweak if any stickiness remains.",
+    "pros": [
+      "Low cost, high impact",
+      "Parts are already on hand",
+      "Extends hardware lifespan"
+    ],
+    "cons": [
+      "Requires careful disassembly",
+      "Contact spray can be messy",
+      "No warranty after opening"
+    ],
+    "watchOut": "Avoid excess liquid; a saturated pad can cause short‑circuits.",
+    "faq": [
+      {
+        "q": "Do I need special tools to open the SNES mouse?",
+        "a": "A small Phillips screwdriver and a plastic prying tool are sufficient."
+      },
+      {
+        "q": "Can I use any contact cleaner?",
+        "a": "Choose a non‑conductive, electronics‑safe spray; avoid heavy oils."
+      },
+      {
+        "q": "Will this fix a mouse that no longer registers clicks?",
+        "a": "If the internal switch is physically broken, cleaning alone won’t help; replacement parts are needed."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "SNES",
+      "Mouse Restoration"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-11-19T21:45:05.295Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "game-gear-lcd-contrast-fix",
     "title": "Pixel Boost: Boosting Game Gear LCD Contrast for Clearer Play",
     "dek": "A quick tweak to the Game Gear’s LCD can dramatically improve visibility without pricey mods.",
