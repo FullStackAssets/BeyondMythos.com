@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-nes-controller-mod-3",
+    "title": "Pixel Boost: Enhancing NES Controller Contact for Flawless Inputs",
+    "dek": "A quick guide to improving NES controller reliability for marathon runs.",
+    "takeaway": "Better contact means fewer missed inputs and smoother runs.",
+    "whatHappened": "We discovered that oxidized contacts in original NES controllers cause intermittent button failures during long speedrun sessions. A simple cleaning and a tiny conductive pad restore consistency.",
+    "whyItMatters": "Even a single missed jump can cost seconds, breaking personal bests. Reliable hardware lets runners focus on strategy, not troubleshooting.",
+    "howToThink": "Treat your controller like a racing wheel—regular maintenance, clean contacts, and consider a thin conductive shim to ensure each press registers instantly.",
+    "pros": [
+      "Restores original feel",
+      "Low cost",
+      "Easy DIY"
+    ],
+    "cons": [
+      "Requires soldering skill",
+      "May void collector value",
+      "Time‑consuming"
+    ],
+    "watchOut": "Avoid over‑pressing the pads; too much pressure can damage the plastic housing.",
+    "faq": [
+      {
+        "q": "Do I need a soldering iron?",
+        "a": "A fine‑tip soldering iron helps apply the conductive pad, but some DIY kits use pressure‑fit pads that skip soldering."
+      },
+      {
+        "q": "Will this affect the controller's resale value?",
+        "a": "Any modification can lower collector value; keep an untouched backup if resale is a concern."
+      },
+      {
+        "q": "Can I use the same trick on other consoles?",
+        "a": "The principle works for most vintage controllers with similar contact plates, though pad sizes may vary."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "NES",
+      "Controller"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-11-19T15:45:05.708Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "overclock-gba-cpu",
     "title": "Pixel Boost: Overclocking the Game Boy Advance CPU for Turbo Runs",
     "dek": "A quick guide to safely overclocking your GBA for those extra frames per second.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "visual-grind-cue",
+    "title": "Spot the Difference: Simple Visual Cue for Perfect Espresso Grind",
+    "dek": "A quick visual trick helps you nail grind consistency for espresso without expensive tools.",
+    "takeaway": "Use a simple visual reference to gauge grind uniformity before every pull.",
+    "whatHappened": "While troubleshooting flaky espresso shots, we tried a cheap visual test using a pinch of coffee on a white plate. The test revealed uneven particles that were missed by feel alone.",
+    "whyItMatters": "Inconsistent grind leads to channeling and uneven extraction, which wrecks flavor. A reliable visual cue lets you catch problems early, saving beans and time.",
+    "howToThink": "Spread a pinch of ground coffee on a white plate, observe the sheen and particle size, and compare to a reference photo of ideal espresso grind. If the grind looks too coarse or clumpy, adjust your grinder a notch finer and re‑check before brewing.",
+    "pros": [
+      "No extra equipment",
+      "Instant feedback",
+      "Improves shot consistency"
+    ],
+    "cons": [
+      "Subjective perception",
+      "Requires reference image",
+      "May not catch minute variations"
+    ],
+    "watchOut": "Don’t rely solely on the visual cue; taste and brew data still matter.",
+    "faq": [
+      {
+        "q": "Can I use this trick with any grinder?",
+        "a": "Yes, the visual cue works with manual and electric grinders alike, as long as you have a consistent reference."
+      },
+      {
+        "q": "How often should I check the grind?",
+        "a": "Before each espresso session, especially after changing beans or adjusting grind settings."
+      },
+      {
+        "q": "What if my lighting is poor?",
+        "a": "Use natural daylight or a bright lamp to ensure the grind texture is clearly visible."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "grind"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-11-19T15:45:09.388Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-pour-over-technique-20",
     "title": "Myth vs. reality: pour over technique",
     "dek": "The persistent myths around pour over technique, stress-tested against what home coffee enthusiasts actually report.",
