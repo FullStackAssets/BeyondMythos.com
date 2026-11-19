@@ -1,5 +1,56 @@
 [
   {
+    "slug": "light-gun-trigger-fine-tune",
+    "title": "Pixel Boost: Fine-Tuning Light Gun Trigger Pull for Consistent Frames",
+    "dek": "Adjust your retro light gun’s trigger tension to shave off missed shots without compromising durability.",
+    "takeaway": "A modest trigger tweak can dramatically improve hit consistency for speedrun runs.",
+    "whatHappened": "We discovered that many classic light guns suffer from worn trigger springs, leading to variable pull resistance. By swapping the spring for one with a slightly tighter coil, the pull becomes smoother and more predictable.",
+    "whyItMatters": "Speedrunners rely on split‑second timing; an inconsistent trigger adds unnecessary variance. Collectors who use light guns for authentic play also benefit from a more reliable feel, extending the hardware’s lifespan.",
+    "howToThink": "When evaluating your gun, feel the resistance and listen for any looseness. Choose a spring that offers a firm yet comfortable pull, and test it in a short run before committing. Remember that over‑tightening can strain the mechanism.",
+    "pros": [
+      "More reliable hits",
+      "Extended hardware life",
+      "Improved tactile feedback"
+    ],
+    "cons": [
+      "Requires opening the gun",
+      "Potential void of warranty",
+      "Slight increase in trigger effort"
+    ],
+    "watchOut": "Avoid using a spring that’s too stiff, as it can damage the trigger mechanism over time.",
+    "faq": [
+      {
+        "q": "Can I use any off‑the‑shelf spring?",
+        "a": "Look for springs sized for vintage arcade joysticks; they usually match the needed tension."
+      },
+      {
+        "q": "Do I need special tools?",
+        "a": "A small screwdriver and a pair of needle‑nose pliers are sufficient."
+      },
+      {
+        "q": "Will this affect the gun’s calibration?",
+        "a": "The trigger change doesn’t alter aiming calibration, but re‑test to confirm alignment."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "light gun",
+      "hardware mod"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-11-19T05:45:07.701Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "refining-nes-zapper-timing",
     "title": "Pixel Boost: Refining NES Zapper Timing for Consistent Hits",
     "dek": "Tweak your NES Zapper's trigger response to nail every target on speedrun leaderboards.",

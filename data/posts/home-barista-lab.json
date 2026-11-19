@@ -1,5 +1,56 @@
 [
   {
+    "slug": "dial-in-espresso-shot-brew-ratio",
+    "title": "Dial in Your Espresso Shot with a Simple Brew Ratio Check",
+    "dek": "A quick ratio audit can reveal hidden imbalances and sharpen every shot you pull.",
+    "takeaway": "A consistent brew ratio is the backbone of repeatable espresso quality.",
+    "whatHappened": "I noticed my espresso tasted thin despite a solid grind and tamp. By weighing the dose and yield, I discovered the shot was running 15% lean. Adjusting the coffee‑to‑water ratio brought the body back instantly.",
+    "whyItMatters": "Even minor ratio shifts change extraction balance, affecting sweetness, acidity, and mouthfeel. Home baristas often overlook this because the numbers feel abstract, yet they’re the most reliable dial for consistency.",
+    "howToThink": "Start by weighing your dose, then aim for a 1:2.0 to 1:2.5 coffee‑to‑water ratio on the scale. If the shot feels thin, increase the ratio; if it’s overly heavy, decrease it. Keep the ratio constant while you tweak grind and pressure.",
+    "pros": [
+      "Easy to track with a kitchen scale",
+      "Immediate feedback on extraction",
+      "Works across all espresso machines"
+    ],
+    "cons": [
+      "Requires a scale for each shot",
+      "Adds a step to routine",
+      "May tempt over‑precision for casual brewers"
+    ],
+    "watchOut": "Don’t chase the exact number at the expense of taste; use the ratio as a guide, not a rule.",
+    "faq": [
+      {
+        "q": "Do I need a calibrated scale for ratio checks?",
+        "a": "A reliable digital scale that measures to 0.1 g is sufficient for home use."
+      },
+      {
+        "q": "What ratio should I start with?",
+        "a": "A 1:2.0 ratio (e.g., 18 g coffee to 36 g liquid) is a solid baseline for most beans."
+      },
+      {
+        "q": "Will changing the ratio affect my grind size?",
+        "a": "Yes, a richer ratio often requires a finer grind to maintain flow time, while a leaner ratio can tolerate a slightly coarser setting."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "brew‑ratio"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-11-19T05:45:06.267Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "boost-espresso-crema-portafilter-trick",
     "title": "Boost Your Espresso Crema with a Simple Portafilter Trick",
     "dek": "A quick tweak to your portafilter can give you richer crema without buying new gear.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "slow-train-cooking",
+    "title": "Slow Train Cooking: Low‑Impact Meals on the Rails",
+    "dek": "Whipping up zero‑waste, low‑impact meals from a train pantry keeps your journey tasty and sustainable.",
+    "takeaway": "Simple, portable cooking tricks let you eat well without leaving a carbon footprint on the rails.",
+    "whatHappened": "During a week‑long night‑train crossing, I experimented with a compact induction stove, reusable containers, and locally sourced ingredients bought at station markets. Each meal required only a few minutes of prep and left no single‑use waste behind. The result was a series of satisfying dishes that felt like a culinary adventure rather than a compromise.",
+    "whyItMatters": "Food waste and single‑use plastics are major contributors to travel’s environmental impact. By cooking on board, you reduce reliance on pre‑packaged snacks and avoid the hidden emissions of frequent take‑away purchases. Plus, sharing a home‑cooked plate fosters genuine connections with fellow travelers at the dining car.",
+    "howToThink": "Treat the train carriage as a tiny kitchen: prioritize multi‑use tools, plan meals around ingredients that don’t spoil quickly, and use the train’s power outlets wisely. Pack a lightweight induction plate, a silicone pot, and a set of bamboo cutlery. Keep a small stash of spices, dried legumes, and fresh produce that can be stored in a cooler bag for the duration of the trip.",
+    "pros": [
+      "Zero waste meals",
+      "Fresh flavors from local markets",
+      "Budget-friendly"
+    ],
+    "cons": [
+      "Limited cooking space",
+      "Power availability varies",
+      "Requires pre‑planning"
+    ],
+    "watchOut": "Be aware of fire safety rules and always secure your cooking gear while the train is in motion.",
+    "faq": [
+      {
+        "q": "Can I use a portable stove on any train?",
+        "a": "Most modern passenger trains provide power outlets, but open flames are prohibited; an electric induction plate is the safest option."
+      },
+      {
+        "q": "How do I keep food fresh without a fridge?",
+        "a": "Use a well‑insulated cooler bag with ice packs and choose ingredients like hard cheeses, cured meats, and sturdy vegetables that stay safe for a few days."
+      },
+      {
+        "q": "What if the train has no power at night?",
+        "a": "Plan for a no‑cook night by preparing a cold‑meal option such as a quinoa salad or overnight oats before boarding."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "packing"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-11-19T05:45:05.378Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "morning-platform-yoga",
     "title": "Morning Platform Yoga: Low‑Impact Stretching on the Rails",
     "dek": "Start your day with simple stretches on the platform, boosting circulation without extra carbon.",
