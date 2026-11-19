@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Restoring Classic Arcade Joysticks for Smoother Pulls</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/restoring-arcade-joysticks.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/restoring-arcade-joysticks.html</guid>
+      <pubDate>Thu, 19 Nov 2026 23:45:06 GMT</pubDate>
+      <description>A quick guide to reviving arcade stick springs and contacts for tighter, more reliable pulls.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Rewiring the Intellivision Controller for Reliable Inputs</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-rewiring-intellivision-controller.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-rewiring-intellivision-controller.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-upgrading-mega-drive-audio.html</guid>
       <pubDate>Wed, 18 Nov 2026 18:45:05 GMT</pubDate>
       <description>Give your Genesis a richer sound with a simple DAC swap and a few solder joints.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Upgrading SNES AV Cable for Crisper Video</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-upgrade-snes-av-cable.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-upgrade-snes-av-cable.html</guid>
-      <pubDate>Wed, 18 Nov 2026 17:45:12 GMT</pubDate>
-      <description>Swap your SNES’s cheap AV cable for a premium composite line and instantly sharpen colors without breaking the bank.</description>
     </item>
   </channel>
 </rss>

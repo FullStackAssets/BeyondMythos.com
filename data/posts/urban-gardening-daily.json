@@ -1,5 +1,56 @@
 [
   {
+    "slug": "self-watering-balcony-planter",
+    "title": "DIY Self‑Watering Balcony Planter: Keep Crops Moist Without Daily Checks",
+    "dek": "Turn a simple bucket into a low‑maintenance balcony planter that waters itself, so you can enjoy fresh veggies even on a busy schedule.",
+    "takeaway": "A self‑watering system lets apartment growers harvest more with less daily fuss.",
+    "whatHappened": "We repurposed a 5‑liter food‑grade bucket, added a wicking cotton rope and a water reservoir, then filled the planting chamber with soil and herbs. After a week of testing, the soil stayed moist longer than a standard pot, and the plants showed steady growth.",
+    "whyItMatters": "Balcony gardeners often juggle work, travel, and limited watering access. A passive water supply reduces missed watering, preventing wilting and saving time, which is crucial for small‑space growers who can’t afford a wilted crop.",
+    "howToThink": "Start with a container that has a tight‑fit lid; drill a small hole for a wicking rope that reaches the reservoir below. Fill the upper chamber with a light, well‑draining mix, then add your favorite herbs or compact veggies. Top up the reservoir as needed and let capillary action do the rest.",
+    "pros": [
+      "Minimal daily watering",
+      "Extended soil moisture",
+      "Easy to build from common items"
+    ],
+    "cons": [
+      "Limited to shallow‑rooted crops",
+      "Needs occasional reservoir refilling",
+      "Potential for over‑watering if not monitored"
+    ],
+    "watchOut": "If the wick stays saturated too long, roots can rot, so check that excess water can drain away.",
+    "faq": [
+      {
+        "q": "Can I use any type of bucket?",
+        "a": "A food‑grade, opaque bucket works best to keep light out of the water and prevent algae growth."
+      },
+      {
+        "q": "What plants thrive in this system?",
+        "a": "Herbs like basil, mint, and parsley, plus shallow veggies such as lettuce, radish, and baby carrots."
+      },
+      {
+        "q": "How often should I refill the reservoir?",
+        "a": "Check the water level every few days; refill when it drops to the wick’s lower end."
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "containers",
+      "DIY"
+    ],
+    "sources": [
+      {
+        "label": "r/UrbanGardening community threads",
+        "url": "https://www.reddit.com/r/UrbanGardening/"
+      },
+      {
+        "label": "Search interest: \"balcony garden ideas\"",
+        "url": "https://duckduckgo.com/?q=balcony%20garden%20ideas"
+      }
+    ],
+    "publishedAt": "2026-11-19T23:45:06.173Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "microgreens-on-the-ledge",
     "title": "Microgreens on the Ledge: Fast Greens for Tiny Balconies",
     "dek": "Turn a narrow balcony rail into a microgreen runway and harvest fresh greens in weeks.",

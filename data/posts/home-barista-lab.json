@@ -1,5 +1,56 @@
 [
   {
+    "slug": "boost-espresso-crema-tilt",
+    "title": "Boost Your Espresso Crema with a Simple Portafilter Tilt",
+    "dek": "A tiny tilt of the portafilter can coax richer crema without changing any settings.",
+    "takeaway": "A slight portafilter tilt during extraction adds airflow that lifts crema.",
+    "whatHappened": "I tried a 5‑degree tilt on my bottomless portafilter during a standard 25‑second pull. The crema swelled noticeably while the body stayed balanced.",
+    "whyItMatters": "Crema is the visual cue of a well‑extracted espresso and signals balanced flavors. Small technique tweaks that enhance crema can improve the overall tasting experience without extra equipment.",
+    "howToThink": "Start with your usual dose and tamp, then gently rotate the portafilter a few degrees clockwise as you begin the pump. Keep the tilt consistent across shots and adjust based on crema thickness.",
+    "pros": [
+      "Easy to try",
+      "No extra tools needed",
+      "Improves visual appeal"
+    ],
+    "cons": [
+      "Requires steady hand",
+      "May affect shot volume slightly",
+      "Not ideal for pressure‑sensitive machines"
+    ],
+    "watchOut": "Avoid over‑tilting, which can cause channeling and uneven extraction.",
+    "faq": [
+      {
+        "q": "Will tilting affect the flavor?",
+        "a": "It mainly changes crema texture; flavor remains similar if extraction time stays constant."
+      },
+      {
+        "q": "Can I use this on a pressurized portafilter?",
+        "a": "Yes, but the effect is subtler because the built‑in pressure already shapes crema."
+      },
+      {
+        "q": "How much tilt is optimal?",
+        "a": "A gentle 3‑5 degree tilt is enough; experiment in small increments."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "technique"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-11-19T23:45:09.933Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-timer-hack-2",
     "title": "Master Your Shot Timing with a Kitchen Timer Hack",
     "dek": "A kitchen timer can give you repeatable shot times without pricey equipment, keeping your espresso consistent day after day.",

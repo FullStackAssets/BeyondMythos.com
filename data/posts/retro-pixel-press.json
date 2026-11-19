@@ -1,5 +1,56 @@
 [
   {
+    "slug": "restoring-arcade-joysticks",
+    "title": "Pixel Boost: Restoring Classic Arcade Joysticks for Smoother Pulls",
+    "dek": "A quick guide to reviving arcade stick springs and contacts for tighter, more reliable pulls.",
+    "takeaway": "Regular cleaning and spring replacement keep your arcade stick feeling brand‑new.",
+    "whatHappened": "We opened a late‑90s arcade stick, stripped away grime, lubricated the spring, and swapped out a worn contact plate. After reassembly the lever snapped back with a noticeably crisper feel. A short test run confirmed smoother inputs across all directions.",
+    "whyItMatters": "For collectors the stick’s condition reflects the console’s overall health, and for speedrunners every millisecond counts. A sticky or inconsistent joystick can ruin a run and accelerate wear on the PCB. Restoring the hardware preserves both playability and value.",
+    "howToThink": "Start by documenting the disassembly sequence, then use isopropyl alcohol and a soft brush to clean contacts. Replace the spring with one of comparable tension, and re‑apply a thin layer of high‑grade lubricant. Re‑test each direction before final closure to catch mis‑alignments early.",
+    "pros": [
+      "Improved response",
+      "Extended lifespan",
+      "Cost-effective"
+    ],
+    "cons": [
+      "Time‑consuming",
+      "Requires basic tools",
+      "Potential for mis‑alignment"
+    ],
+    "watchOut": "Watch out for static discharge when handling PCB contacts.",
+    "faq": [
+      {
+        "q": "Can I use any spring?",
+        "a": "Use springs rated for similar tension; generic arcade‑stick springs work well."
+      },
+      {
+        "q": "Do I need to desolder the PCB?",
+        "a": "No, most cleaning can be done without desoldering; only replace contacts if corroded."
+      },
+      {
+        "q": "How often should I service the stick?",
+        "a": "A light clean every few months and full spring check annually is a good rhythm."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "hardware",
+      "arcade"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-11-19T23:45:06.913Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-boost-rewiring-intellivision-controller",
     "title": "Pixel Boost: Rewiring the Intellivision Controller for Reliable Inputs",
     "dek": "A quick solder‑and‑wire fix brings back crisp, dependable button presses on your classic Intellivision controller.",

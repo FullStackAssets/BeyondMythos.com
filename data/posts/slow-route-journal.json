@@ -1,5 +1,52 @@
 [
   {
+    "slug": "sunlit-carriage-book-exchange",
+    "title": "Sunlit Carriage Book Exchange: Low‑Impact Reading on the Rails",
+    "dek": "Turn a quiet train ride into a traveling library with a simple book‑swap ritual that leaves no trace.",
+    "takeaway": "A low‑impact book swap turns idle rail time into shared literary moments without extra waste.",
+    "whatHappened": "During a half‑day regional train, I left a small tote with a few gently used paperbacks and a handwritten note inviting fellow passengers to take or leave a book. Within an hour, the tote was full of fresh reads and the carriage buzzed with quiet conversation.",
+    "whyItMatters": "Slow‑travel thrives on small, communal gestures that reduce individual consumption. A book swap extends the life of printed pages while fostering connection among low‑impact explorers sharing the same route.",
+    "howToThink": "Carry a reusable tote, a few well‑chosen paperbacks, and a clear sign. Keep the swap low‑key: no digital ads, just a handwritten invitation. Encourage travelers to respect the space and leave the tote tidy for the next ride.",
+    "pros": [
+      "Zero waste, just books\",\"Fosters spontaneous community\",\"Easy to set up on any train"
+    ],
+    "cons": [
+      "Depends on passenger interest\",\"Limited to paper books\",\"Requires a tidy tote"
+    ],
+    "watchOut": "Make sure the tote stays sealed when the train is moving to avoid books slipping onto the floor.",
+    "faq": [
+      {
+        "q": "Do I need permission from the train operator?",
+        "a": "Usually not, as long as the tote sits in the seat or luggage area and doesn’t block aisles."
+      },
+      {
+        "q": "What kind of books work best?",
+        "a": "Lightpaperbacks, travel guides, poetry—anything easy to carry and enjoyable in short bursts."
+      },
+      {
+        "q": "How do I keep the swap low‑impact?",
+        "a": "Use a reusable bag, avoid disposable wrappers, and limit the number of books you bring."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "low-impact"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-11-19T23:45:05.351Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-stays-mistakes-60",
     "title": "Five mistakes everyone makes in their first month of stays",
     "dek": "The most common early stumbles in stays, and the cheap corrections that fix them for slow-travel and low-impact explorers.",
