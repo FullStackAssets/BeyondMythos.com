@@ -2463,8 +2463,29 @@
       "streamUrl": "https://beyondmythos.com/",
       "elevenlabsAgentId": null,
       "lastPostAt": "2026-11-19T03:45:46.149Z"
+    },
+    {
+      "id": "crumb-structure-3-1795061742811",
+      "slug": "crumb-structure-3",
+      "name": "Crumb Structure",
+      "tagline": "Fresh takes for home sourdough bakers.",
+      "nicheId": "sourdough",
+      "audience": "home sourdough bakers",
+      "categories": [
+        "Starters",
+        "Hydration",
+        "Scoring",
+        "Whole Grain"
+      ],
+      "url": "https://beyondmythos.com/sites/crumb-structure-3/",
+      "localUrl": "https://beyondmythos.com/sites/crumb-structure-3/",
+      "design": "ember",
+      "postCount": 6,
+      "createdAt": "2026-11-19T04:15:33.621Z",
+      "streamUrl": "https://beyondmythos.com/",
+      "elevenlabsAgentId": null
     }
   ],
-  "lastGeneratedAt": "2026-11-19T03:16:03.719Z",
+  "lastGeneratedAt": "2026-11-19T04:15:33.621Z",
   "lastPostRunAt": "2026-11-19T03:45:46.158Z"
 }
