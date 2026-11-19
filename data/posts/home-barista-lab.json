@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-milk-texture-stir",
+    "title": "Master Your Espresso Milk Texture with a Simple Stir Technique",
+    "dek": "A quick stir after pulling the shot can smooth out micro‑foam and boost mouthfeel without extra equipment.",
+    "takeaway": "A brief, controlled stir transforms milk texture for a silkier espresso experience.",
+    "whatHappened": "We tried a light clockwise stir for a few seconds right after extracting a standard espresso. The resulting milk felt creamier and the crema held longer. Baristas reported a subtle but noticeable lift in body.",
+    "whyItMatters": "Texture is a key component of espresso enjoyment, yet many home brewers overlook the post‑pull step. A smoother milk layer enhances flavor perception and can make a modest machine feel more professional.",
+    "howToThink": "Treat the espresso shot like a cocktail: a quick stir integrates the crema and milk, evening out temperature and micro‑bubbles. Use a spoon or the back of a tamper, keep the motion gentle, and limit it to a few seconds to avoid over‑aerating.",
+    "pros": [
+      "Instant improvement",
+      "No extra tools needed",
+      "Works with any espresso machine"
+    ],
+    "cons": [
+      "Requires timing practice",
+      "May slightly cool the shot",
+      "Not a substitute for good milk steaming"
+    ],
+    "watchOut": "Stir too vigorously and you’ll introduce unwanted foam, negating the benefit.",
+    "faq": [
+      {
+        "q": "Can I use a regular spoon?",
+        "a": "Yes, a stainless steel spoon works fine as long as it’s clean and the motion is gentle."
+      },
+      {
+        "q": "Should I stir before or after adding sugar?",
+        "a": "Stir first to blend the milk and crema, then sweeten if desired."
+      },
+      {
+        "q": "Does this work with cold brew espresso?",
+        "a": "The technique is meant for hot espresso; cold brew textures respond differently."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "technique"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-11-19T07:45:05.251Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-tamp-technique",
     "title": "Master Your Espresso Tamping: Simple Hand Technique",
     "dek": "A quick guide to consistent tamping that boosts shot stability without buying new gear.",

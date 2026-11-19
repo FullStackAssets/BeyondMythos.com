@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Synchronizing Light Gun Refresh Rate for Ultra‑Precise Frames</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-sync-light-gun-refresh.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-sync-light-gun-refresh.html</guid>
+      <pubDate>Thu, 19 Nov 2026 07:45:06 GMT</pubDate>
+      <description>Tame your light gun&apos;s refresh lag to shave hundredths off every shot and stay competitive in tight runs.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Tuning Light Gun Sensitivity for Tight Speedrun Shots</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/tuning-light-gun-sensitivity.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/tuning-light-gun-sensitivity.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-repairing-nes-controller-dpad-spring.html</guid>
       <pubDate>Wed, 18 Nov 2026 02:45:09 GMT</pubDate>
       <description>A quick guide to strengthen the D‑Pad springs in your classic NES controller, restoring crisp directional input for both collectors and speedrunners.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Restoring SNES Controller Buttons for Tactile Precision</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/restoring-snes-controller-buttons.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/restoring-snes-controller-buttons.html</guid>
-      <pubDate>Wed, 18 Nov 2026 01:45:05 GMT</pubDate>
-      <description>Give your SNES controller a crisp, clicky feel without breaking the bank.</description>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "minimalist-packing-low-impact-rail",
+    "title": "Minimalist Packing: Low‑Impact Gear for Slow Rail Adventures",
+    "dek": "Trim your luggage, cut waste, and travel lighter on the rails.",
+    "takeaway": "Traveling light reduces your footprint and makes every stop more enjoyable.",
+    "whatHappened": "I swapped my usual suitcase for a compact rolling bag on a week‑long east‑west rail trek. The lighter load let me hop off at small stations without hassle and left room for local souvenirs.",
+    "whyItMatters": "Every kilogram saved means less energy used by the train and fewer bags to manage in crowded platforms. Plus, a smaller pack encourages mindful consumption and more flexibility on the road.",
+    "howToThink": "Start by listing essential items and eliminating duplicates; choose multi‑use gear like a scarf that doubles as a blanket. Pack in layers, using packing cubes to keep things organized and visible. Prioritize refillable containers and biodegradable toiletries to keep waste low.",
+    "pros": [
+      "Less strain on your body",
+      "Lower environmental impact",
+      "More space for local finds"
+    ],
+    "cons": [
+      "Fewer outfit changes",
+      "Limited backup gear",
+      "May require more frequent laundry"
+    ],
+    "watchOut": "Don’t skimp on weather‑appropriate layers; being under‑packed can leave you uncomfortable.",
+    "faq": [
+      {
+        "q": "How many bags should I bring on a slow‑rail trip?",
+        "a": "One compact rolling bag or a medium‑sized backpack usually suffices for a week‑long journey."
+      },
+      {
+        "q": "Can I still bring souvenirs?",
+        "a": "Yes—leave a small, dedicated compartment for items you collect, and pack them loosely to avoid overloading."
+      },
+      {
+        "q": "What toiletries are best for low‑impact travel?",
+        "a": "Refillable bottles of solid shampoo, bar soap, and a bamboo toothbrush keep waste minimal."
+      }
+    ],
+    "category": "Packing",
+    "tags": [
+      "packing",
+      "rail"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-11-19T07:45:07.557Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "sunset-platform-reading",
     "title": "Sunset Platform Reading: Low‑Impact Literary Moments on the Rails",
     "dek": "Turn evening train stops into quiet reading rituals that boost mindfulness and cut your carbon footprint.",

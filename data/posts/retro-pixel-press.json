@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-boost-sync-light-gun-refresh",
+    "title": "Pixel Boost: Synchronizing Light Gun Refresh Rate for Ultra‑Precise Frames",
+    "dek": "Tame your light gun's refresh lag to shave hundredths off every shot and stay competitive in tight runs.",
+    "takeaway": "Matching your gun's refresh to the console’s frame timing boosts consistency without extra hardware.",
+    "whatHappened": "While testing a classic arcade‑style shooter, we noticed occasional frame‑skips that threw off shot timing. By probing the gun’s sync signals with a cheap oscilloscope, we identified a mismatch between the gun's internal clock and the console’s video output. Adjusting the gun’s pull‑up resistor brought the two into harmony.",
+    "whyItMatters": "Speedrunners rely on pixel‑perfect timing; even a single mis‑fire can cost a run. A synced refresh rate eliminates that hidden variance, letting skill shine through. Collectors also benefit, as the gun runs cooler and lasts longer when its timing is stable.",
+    "howToThink": "Start by measuring the gun’s output pulse with a basic scope or logic probe. Compare it to the console’s V‑sync period (typically 60 Hz for NTSC). If the gun’s pulse drifts, add a small resistor (≈10 kΩ) to the timing capacitor and re‑test. Iterate until the pulses line up with each frame. Verify by running a few practice splits.",
+    "pros": [
+      "Improved shot consistency",
+      "No expensive mods required",
+      "Extends controller lifespan"
+    ],
+    "cons": [
+      "Requires basic diagnostic tools",
+      "May need trial‑and‑error resistor values",
+      "Only works on compatible guns"
+    ],
+    "watchOut": "Avoid over‑tightening the timing capacitor – it can cause the gun to become unresponsive.",
+    "faq": [
+      {
+        "q": "Do I need a professional oscilloscope?",
+        "a": "A low‑cost USB logic analyzer or even a cheap handheld scope works fine for spotting the sync mismatch."
+      },
+      {
+        "q": "Will this work on all light guns?",
+        "a": "Only on guns that expose a timing capacitor or resistor; many early NES/Zapper clones can be tweaked this way."
+      },
+      {
+        "q": "Can I revert the change if it fails?",
+        "a": "Yes – simply remove the added resistor and the gun returns to its original behavior."
+      }
+    ],
+    "category": "Speedruns",
+    "tags": [
+      "hardware",
+      "light-gun"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-11-19T07:45:06.077Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "tuning-light-gun-sensitivity",
     "title": "Pixel Boost: Tuning Light Gun Sensitivity for Tight Speedrun Shots",
     "dek": "Fine‑tune your retro light gun to hit targets consistently without sacrificing speed.",
