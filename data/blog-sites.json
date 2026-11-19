@@ -2419,8 +2419,29 @@
       "streamUrl": "https://beyondmythos.com/",
       "elevenlabsAgentId": null,
       "lastPostAt": "2026-11-19T01:45:43.860Z"
+    },
+    {
+      "id": "paddle-lines-3-1795054532782",
+      "slug": "paddle-lines-3",
+      "name": "Paddle Lines",
+      "tagline": "Fresh takes for recreational kayakers and paddlers.",
+      "nicheId": "kayaking",
+      "audience": "recreational kayakers and paddlers",
+      "categories": [
+        "Boats",
+        "Safety",
+        "Trips",
+        "Storage"
+      ],
+      "url": "https://beyondmythos.com/sites/paddle-lines-3/",
+      "localUrl": "https://beyondmythos.com/sites/paddle-lines-3/",
+      "design": "prism",
+      "postCount": 6,
+      "createdAt": "2026-11-19T02:15:32.634Z",
+      "streamUrl": "https://beyondmythos.com/",
+      "elevenlabsAgentId": null
     }
   ],
-  "lastGeneratedAt": "2026-11-19T01:16:14.026Z",
+  "lastGeneratedAt": "2026-11-19T02:15:32.634Z",
   "lastPostRunAt": "2026-11-19T01:45:43.868Z"
 }
