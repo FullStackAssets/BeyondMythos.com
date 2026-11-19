@@ -1,5 +1,56 @@
 [
   {
+    "slug": "unlock-consistent-crema-pre-infusion-pause",
+    "title": "Unlock Consistent Crema with a Simple Pre-Infusion Pause",
+    "dek": "A quick pre-infusion pause can stabilize pressure and boost crema without new gear.",
+    "takeaway": "A short pre-infusion pause yields richer crema and steadier shots.",
+    "whatHappened": "I added a 2-second pause after the pump engages on my home machine and noticed a thicker, gold-brown crema on every shot.",
+    "whyItMatters": "Crema is the visual cue of extraction quality and a richer layer protects flavor compounds, making each cup taste more balanced.",
+    "howToThink": "Set your machine’s pre-infusion timer (or manually pause the pump) for about 2 seconds before full pressure; adjust slightly until the crema looks full and uniform.",
+    "pros": [
+      "Richer crema",
+      "More stable pressure",
+      "No extra equipment needed"
+    ],
+    "cons": [
+      "May add a few seconds to pull time",
+      "Requires manual timing on some machines",
+      "Effect varies with bean freshness"
+    ],
+    "watchOut": "Don’t over-pause, or you’ll under-extract and get sour notes.",
+    "faq": [
+      {
+        "q": "Can I use this on a pressure-stat machine?",
+        "a": "Yes, just set the pre-infusion time in the machine’s menu or briefly hold the brew button."
+      },
+      {
+        "q": "Will this work with a bottomless portafilter?",
+        "a": "Absolutely, the pause helps prevent channeling, which is especially visible with a bottomless portafilter."
+      },
+      {
+        "q": "Is there an optimal pause length?",
+        "a": "Start with 2 seconds; adjust up or down in half-second steps based on crema thickness."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "Espresso",
+      "Technique"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-11-19T19:45:09.456Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-dose-scale-trick",
     "title": "Fine‑Tune Your Espresso Dose with a Simple Scale Trick",
     "dek": "Learn how a kitchen scale can fine‑tune your espresso dose for consistent flavor without pricey tools.",

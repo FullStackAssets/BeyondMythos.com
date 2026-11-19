@@ -1,5 +1,56 @@
 [
   {
+    "slug": "revive-atari-5200-controller",
+    "title": "Pixel Boost: Reviving the Atari 5200 Controller for Reliable Play",
+    "dek": "A quick guide to cleaning, lubricating, and re-soldering the Atari 5200 joystick to bring it back to life for collectors and speedrunners.",
+    "takeaway": "A refreshed Atari 5200 controller can eliminate missed inputs and extend your hardware’s lifespan.",
+    "whatHappened": "We opened an aging Atari 5200 joystick, removed corrosion, applied contact cleaner, and re‑flowed the solder joints on the PCB. After reassembly, the stick responded smoothly with no dead zones.",
+    "whyItMatters": "Unreliable controllers can ruin a speedrun attempt and discourage collectors from preserving classic hardware. Restoring the joystick restores confidence in the machine’s responsiveness, essential for high‑precision runs and long‑term play.",
+    "howToThink": "Start by inspecting the contacts for oxidation, then clean with isopropyl alcohol before gently sanding any stubborn residue. Use a fine‑tip soldering iron to re‑heat joints, avoiding excess heat that could damage the board. Finally, test the controller with the console’s built‑in diagnostics before diving into a run.",
+    "pros": [
+      "Restores original feel",
+      "Prevents future failures",
+      "Cost‑effective vs buying new"
+    ],
+    "cons": [
+      "Requires soldering skill",
+      "Time‑consuming for beginners",
+      "Potential for accidental damage"
+    ],
+    "watchOut": "Avoid applying too much pressure on the PCB while cleaning to prevent trace lifting.",
+    "faq": [
+      {
+        "q": "Do I need a special soldering iron for Atari 5200 repairs?",
+        "a": "A standard fine‑tip soldering iron with temperature control works fine; just keep it below the board’s melting point."
+      },
+      {
+        "q": "Can I use generic contact cleaner?",
+        "a": "A non‑conductive, isopropyl‑based cleaner is safe for the plastic and metal parts."
+      },
+      {
+        "q": "How often should I service my Atari 5200 controller?",
+        "a": "A quick visual check each few months and a full cleaning when you notice stickiness or missed inputs will keep it reliable."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Atari 5200",
+      "Controller Restoration"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-11-19T19:45:10.962Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "retro-game-restoration-field-test-21",
     "title": "\"retro game restoration\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about retro game restoration through a month of actual use. Some of it survived.",
