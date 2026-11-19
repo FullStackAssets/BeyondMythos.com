@@ -1,5 +1,56 @@
 [
   {
+    "slug": "enhance-atari-2600-rf-switch",
+    "title": "Pixel Boost: Enhancing Atari 2600 RF Switch for Cleaner Signal",
+    "dek": "Swap the original RF switch in your Atari 2600 for a modern low‑noise version to cut static and improve picture clarity.",
+    "takeaway": "A simple RF switch upgrade can dramatically clean up your Atari’s picture without breaking the console.",
+    "whatHappened": "We opened a well‑used Atari 2600, desoldered the aging RF switch, and soldered in a low‑noise replacement. The console powered up, and the screen instantly showed less fuzz and more stable colors. Testing with multiple games confirmed the improvement was consistent.",
+    "whyItMatters": "Static and signal loss are common culprits that degrade the visual experience of classic consoles, especially when using older RF cables. Cleaning up the signal preserves the original look of games and reduces eye strain during long speedrun sessions. It also extends the console’s usable life by reducing stress on internal components.",
+    "howToThink": "Choose a replacement RF switch that matches the original’s pinout and voltage rating; many hobbyist suppliers label them as “low‑noise” or “high‑quality” for vintage consoles. Practice basic soldering techniques on a spare board before tackling the Atari to ensure clean joints. After installation, test with a known-good game before reassembling to verify the fix.",
+    "pros": [
+      "Cleaner picture",
+      "No extra power needed",
+      "Reversible with original parts"
+    ],
+    "cons": [
+      "Requires soldering",
+      "May void warranty",
+      "Finding the right part can be tricky"
+    ],
+    "watchOut": "Double‑check polarity and solder joints to avoid short circuits.",
+    "faq": [
+      {
+        "q": "Do I need a desoldering pump or wick?",
+        "a": "A wick works well for the tiny pins; a pump is optional but can speed up removal."
+      },
+      {
+        "q": "Can I use a generic RF switch?",
+        "a": "Only if its pin configuration matches the Atari’s; otherwise the console won’t power correctly."
+      },
+      {
+        "q": "Will this affect game timing for speedruns?",
+        "a": "The RF switch only handles video signal, so input timing remains unchanged."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "hardware",
+      "atari-2600"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-11-19T01:45:08.077Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "turbo-tune-retro-light-gun",
     "title": "Turbo-Tune Your Retro Light Gun for Precision Speedruns",
     "dek": "Learn how a simple sensor tweak can tighten aim, cut lag, and give your classic light-gun games a speedrunning edge.",

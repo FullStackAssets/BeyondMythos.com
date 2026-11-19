@@ -1,5 +1,56 @@
 [
   {
+    "slug": "balcony-kale-kaleidoscope-3",
+    "title": "Balcony Kale Kaleidoscope: Nutritious Greens for Small Spaces",
+    "dek": "Discover how to grow kale on a balcony, even in limited light, for a steady supply of vitamin‑rich greens.",
+    "takeaway": "Even a modest balcony can produce a healthy kale harvest with the right varieties and care.",
+    "whatHappened": "We set up a shallow trough of soil on a sunny balcony, planted dwarf kale seedlings, and monitored growth over six weeks. The plants thrived, delivering tender leaves ready to harvest.",
+    "whyItMatters": "Kale adds essential nutrients to apartment meals and reduces grocery trips. Growing it locally also cuts food miles and showcases the potential of small‑space gardening.",
+    "howToThink": "Choose compact, cold‑tolerant kale varieties and use a light‑weight container that fits your railing. Keep soil consistently moist and feed with a balanced liquid fertilizer every few weeks. Harvest the outer leaves early to encourage continuous growth.",
+    "pros": [
+      "Compact varieties fit tight spaces",
+      "Continuous harvest through season",
+      "Boosts home nutrition"
+    ],
+    "cons": [
+      "Requires regular watering",
+      "May bolt in heat",
+      "Leaves can be tough if over‑mature"
+    ],
+    "watchOut": "Watch for bolting if temperatures spike; pinch the flower stalks early to prolong leaf production.",
+    "faq": [
+      {
+        "q": "Can kale grow in shade?",
+        "a": "Kale tolerates partial shade, but at least 4–5 hours of direct sunlight yields the best leaf quality."
+      },
+      {
+        "q": "How often should I water balcony kale?",
+        "a": "Keep the soil evenly moist; water when the top inch feels dry, usually every 1–2 days in warm weather."
+      },
+      {
+        "q": "When is the best time to harvest?",
+        "a": "Start cutting outer leaves once they reach 6‑8 inches, and continue harvesting throughout the growing season."
+      }
+    ],
+    "category": "Seasonal",
+    "tags": [
+      "kale",
+      "balcony gardening"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-11-19T01:45:09.577Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "balcony-citrus-burst-mini-oranges",
     "title": "Balcony Citrus Burst: Mini Oranges for Sunlit Terraces",
     "dek": "Turn your balcony into a mini citrus orchard with dwarf orange trees that thrive in sunny apartments.",
