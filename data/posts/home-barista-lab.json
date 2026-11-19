@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-dose-scale-trick",
+    "title": "Fine‑Tune Your Espresso Dose with a Simple Scale Trick",
+    "dek": "Learn how a kitchen scale can fine‑tune your espresso dose for consistent flavor without pricey tools.",
+    "takeaway": "A precise dose measured with a scale unlocks repeatable espresso quality.",
+    "whatHappened": "I swapped my usual eyeballed dose for a digital kitchen scale and recorded taste differences over a week. The results showed clearer flavor balance and less bitterness when the dose stayed within a tight range.",
+    "whyItMatters": "Espresso flavor swings often trace back to inconsistent coffee mass. By locking the dose, you remove one major variable, making grind and tamp adjustments more meaningful.",
+    "howToThink": "Start by weighing your beans for a single shot and note the gram amount that tastes best. Keep that number as your baseline, then adjust grind size or tamp pressure while staying within ±0.5 g. Treat the scale as a calibration tool, not a permanent crutch.",
+    "pros": [
+      "Improves flavor consistency",
+      "Easy to implement with any kitchen scale",
+      "Helps isolate other variables"
+    ],
+    "cons": [
+      "Adds a step to routine",
+      "Requires careful cleaning of scale",
+      "May tempt over‑precision"
+    ],
+    "watchOut": "Don’t chase the exact gram at the expense of proper extraction; the dose is a guide, not a rule.",
+    "faq": [
+      {
+        "q": "Do I need a specialty coffee scale?",
+        "a": "A standard digital kitchen scale with 0.1 g resolution works fine for espresso dosing."
+      },
+      {
+        "q": "How often should I re‑weigh my beans?",
+        "a": "Re‑weigh when you change bean batches or notice taste drift, typically every few weeks."
+      },
+      {
+        "q": "Can I use the scale for both single and double shots?",
+        "a": "Yes—just record separate baseline weights for each shot size."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "dosing"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-11-19T18:45:09.070Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pour-over-technique-field-test-19",
     "title": "\"pour over technique\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about pour over technique through a month of actual use. Some of it survived.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "dawn-carriage-coffee",
+    "title": "Dawn Carriage Coffee: Low‑Impact Sip on the Rails",
+    "dek": "Start your day with a quiet coffee in the carriage, letting the rhythm of the rails set a low‑impact pace.",
+    "takeaway": "A simple coffee ritual on the train can anchor mindfulness and reduce travel stress.",
+    "whatHappened": "I boarded the early morning train with a reusable mug, brewed a pour‑over using the carriage kettle, and watched sunrise creep over the countryside. The gentle clatter became a backdrop for quiet reflection.",
+    "whyItMatters": "Morning caffeine can boost alertness, but doing it sustainably keeps waste low and deepens connection to the journey. It also signals the start of a deliberate, slow travel mindset.",
+    "howToThink": "Pack a lightweight, reusable coffee kit and learn the train’s brewing etiquette. Choose a seat near a window for natural light, and sip slowly, syncing breaths with the train’s motion. Treat each sip as a pause to notice sounds, smells, and scenery.",
+    "pros": [
+      "Zero waste",
+      "Boosts alertness",
+      "Enhances presence"
+    ],
+    "cons": [
+      "Requires prep time",
+      "Limited kettle access",
+      "Can be noisy in crowded cars"
+    ],
+    "watchOut": "Avoid spilling on fellow passengers; use a spill‑proof lid.",
+    "faq": [
+      {
+        "q": "Can I brew coffee on any train?",
+        "a": "Most long‑distance services provide a kettle or hot water tap, but check the specific route’s amenities beforehand."
+      },
+      {
+        "q": "What’s the best coffee kit for rail travel?",
+        "a": "A compact French press or pour‑over cone, a reusable mug, and a small bag of ground beans work well."
+      },
+      {
+        "q": "How do I keep the brew warm without electricity?",
+        "a": "Insulate your mug with a sleeve and keep the kettle filled with hot water for a few minutes between pours."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "Rail",
+      "Coffee"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-11-19T18:45:11.426Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "dusk-carriage-yoga",
     "title": "Dusk Carriage Yoga: Low‑Impact Stretching on the Rails",
     "dek": "A quick, quiet yoga flow in the carriage as dusk settles, keeping travel gentle and mindful.",

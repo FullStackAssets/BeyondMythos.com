@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>&quot;retro game restoration&quot; in practice: a real-world field test</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-game-restoration-field-test-21.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-game-restoration-field-test-21.html</guid>
+      <pubDate>Thu, 19 Nov 2026 18:45:03 GMT</pubDate>
+      <description>We put the most-repeated advice about retro game restoration through a month of actual use. Some of it survived.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Refreshing Atari 2600 Paddle Wiring for Consistent Turns</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/atari-2600-paddle-refresh.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/atari-2600-paddle-refresh.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-atari-2600-cartridge-contacts.html</guid>
       <pubDate>Wed, 18 Nov 2026 13:45:08 GMT</pubDate>
       <description>A quick solder‑and‑tape fix that steadies flaky Atari 2600 cartridges without opening the console.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Adding a Turbo Switch to Your Sega Genesis Controller</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-adding-turbo-switch-sega-genesis.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-adding-turbo-switch-sega-genesis.html</guid>
-      <pubDate>Wed, 18 Nov 2026 12:45:11 GMT</pubDate>
-      <description>Install a simple turbo switch on a Genesis pad for rapid fire without compromising feel.</description>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,13 @@
     <link>https://beyondmythos.com/sites/retro-pixel-press-3/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Five mistakes everyone makes in their first month of speedruns</title>
+      <link>https://beyondmythos.com/sites/retro-pixel-press-3/posts/five-speedruns-mistakes-4.html</link>
+      <guid>https://beyondmythos.com/sites/retro-pixel-press-3/posts/five-speedruns-mistakes-4.html</guid>
+      <pubDate>Thu, 19 Nov 2026 18:45:46 GMT</pubDate>
+      <description>The most common early stumbles in speedruns, and the cheap corrections that fix them for retro game collectors and speedrunners.</description>
+    </item>
+    <item>
       <title>&quot;crt setup guide&quot; in practice: a real-world field test</title>
       <link>https://beyondmythos.com/sites/retro-pixel-press-3/posts/crt-setup-guide-field-test-2.html</link>
       <guid>https://beyondmythos.com/sites/retro-pixel-press-3/posts/crt-setup-guide-field-test-2.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://beyondmythos.com/sites/retro-pixel-press-3/posts/weekend-project-hardware.html</guid>
       <pubDate>Wed, 18 Nov 2026 13:45:44 GMT</pubDate>
       <description>One contained, satisfying hardware project for retro game collectors — start Saturday morning, done by lunch.</description>
-    </item>
-    <item>
-      <title>NES Flash Mod Revives Classic Cartridges</title>
-      <link>https://beyondmythos.com/sites/retro-pixel-press-3/posts/nes-flash-mod.html</link>
-      <guid>https://beyondmythos.com/sites/retro-pixel-press-3/posts/nes-flash-mod.html</guid>
-      <pubDate>Wed, 18 Nov 2026 13:15:51 GMT</pubDate>
-      <description>A plug‑in flash board lets collectors load ROMs onto original NES carts, blending nostalgia with modern convenience.</description>
     </item>
   </channel>
 </rss>
