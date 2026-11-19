@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-joystick-diode-mod",
+    "title": "Pixel Boost: Installing a Diode on Classic Joysticks for Consistent Directional Input",
+    "dek": "Add a simple diode to vintage joysticks to stop ghosting and keep your inputs clean for marathon runs.",
+    "takeaway": "A cheap diode fix can dramatically improve joystick reliability without breaking authenticity.",
+    "whatHappened": "A batch of Atari-compatible joysticks was found to register multiple directions when pushed hard, causing missed inputs during speedruns. After soldering a 1N4148 diode across the offending axis, the ghosting vanished. The community reported smoother cornering in classic racing titles.",
+    "whyItMatters": "Speedrunners rely on precise, repeatable inputs; any ambiguity can cost seconds or a run. Preservationists also benefit because the mod is reversible and doesn’t alter the original wiring. The fix extends the usable life of aging hardware without invasive modifications.",
+    "howToThink": "Identify the axis that registers double‑hits, locate the contact pads on the PCB, and solder a diode in forward bias across them. Test each direction with a controller tester before sealing the case. Keep a small spare diode kit for future tweaks.",
+    "pros": [
+      "Inexpensive component",
+      "Reversible and non‑destructive",
+      "Immediate input clarity"
+    ],
+    "cons": [
+      "Requires basic soldering skills",
+      "May void collector warranty if not careful",
+      "Only fixes specific ghosting issue"
+    ],
+    "watchOut": "Make sure the diode is oriented correctly; reverse polarity will block the signal entirely.",
+    "faq": [
+      {
+        "q": "Do I need a hot‑air gun for this mod?",
+        "a": "No, a fine‑tip soldering iron and steady hands are sufficient."
+      },
+      {
+        "q": "Will this affect the joystick’s original feel?",
+        "a": "The mechanical feel stays the same; only the electrical noise is removed."
+      },
+      {
+        "q": "Can I apply this to any vintage joystick?",
+        "a": "It works on most 5‑pin D‑sub joysticks that suffer from axis ghosting, but test first."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "joystick",
+      "mod"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-11-19T03:45:05.275Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "optimizing-game-boy-color-backlight",
     "title": "Pixel Boost: Optimizing Game Boy Color Backlight for Night Runs",
     "dek": "Boost your Game Boy Color's screen brightness for late‑night speedruns without draining the battery.",

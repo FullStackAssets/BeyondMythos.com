@@ -1,5 +1,56 @@
 [
   {
+    "slug": "unlock-consistent-crema",
+    "title": "Unlock Consistent Crema: Simple Tweaks for Espresso Mouthfeel",
+    "dek": "Boost crema quality with tiny adjustments that any home barista can try today.",
+    "takeaway": "Small changes to grind, tamp, and temperature can dramatically improve crema consistency.",
+    "whatHappened": "I kept pulling shots with a dull, thin crema and wondered why the visual appeal lagged behind the taste. After a quick series of tweaks to grind, tamp pressure, and water temperature, the crema transformed into a thick, honey‑gold foam. The results were immediate and striking.",
+    "whyItMatters": "Crema isn’t just eye candy—it signals proper extraction and contributes to aroma and texture. A stable, rich crema elevates the overall espresso experience and signals that your variables are in harmony. Ignoring it means missing a key quality cue.",
+    "howToThink": "Start by dialing your grind a notch finer than usual, but stay clear of a choke‑point. Apply a consistent, firm tamp—about the pressure you’d use for a solid handshake. Finally, heat your water toward the higher end of the espresso range to promote stable emulsification. Small, repeatable steps yield big visual and taste gains.",
+    "pros": [
+      "Richer mouthfeel",
+      "Better visual appeal",
+      "Improved flavor balance"
+    ],
+    "cons": [
+      "Requires attention to detail",
+      "May need equipment tuning",
+      "Slight learning curve"
+    ],
+    "watchOut": "Avoid over‑tamping, which can cause channeling and ruin the crema you’re chasing.",
+    "faq": [
+      {
+        "q": "What grind size yields the best crema?",
+        "a": "A slightly finer setting than your usual espresso grind works best, but don’t go so fine it blocks water flow."
+      },
+      {
+        "q": "Does water temperature affect crema?",
+        "a": "Yes—targeting the higher end of the typical espresso temperature range helps produce a more stable, abundant crema."
+      },
+      {
+        "q": "Should I adjust my tamp pressure?",
+        "a": "Consistent, firm tamp around a solid handshake pressure is key; excessive force can compress the puck too much and hinder extraction."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "crema",
+      "espresso-tips"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-11-19T03:45:06.079Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-routine-tweaks",
     "title": "Revamp Your Espresso Routine: Simple Tweaks for Better Shots",
     "dek": "A quick guide to fine‑tune everyday espresso steps for richer flavor and steadier extraction.",

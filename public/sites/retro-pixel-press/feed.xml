@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Installing a Diode on Classic Joysticks for Consistent Directional Input</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-joystick-diode-mod.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-joystick-diode-mod.html</guid>
+      <pubDate>Thu, 19 Nov 2026 03:45:05 GMT</pubDate>
+      <description>Add a simple diode to vintage joysticks to stop ghosting and keep your inputs clean for marathon runs.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Optimizing Game Boy Color Backlight for Night Runs</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/optimizing-game-boy-color-backlight.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/optimizing-game-boy-color-backlight.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/refurbish-sega-master-system-power-switch.html</guid>
       <pubDate>Tue, 17 Nov 2026 22:45:06 GMT</pubDate>
       <description>Learn how swapping the Master System’s aging power switch can stop dead‑on start‑up hiccups and extend console life.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Replacing Atari 2600 Joystick Contact Springs for Tighter Response</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/replacing-atari-2600-joystick-springs.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/replacing-atari-2600-joystick-springs.html</guid>
-      <pubDate>Tue, 17 Nov 2026 21:45:10 GMT</pubDate>
-      <description>Swap out the worn springs in your Atari 2600 joystick for a snappier, more reliable input—essential for collectors and speedrunners.</description>
     </item>
   </channel>
 </rss>

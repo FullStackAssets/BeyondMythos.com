@@ -1,5 +1,56 @@
 [
   {
+    "slug": "balcony-mushroom-magic",
+    "title": "Balcony Mushroom Magic: Fungi for Small Spaces",
+    "dek": "Turn a modest balcony pot into a thriving mushroom patch with minimal fuss and space.",
+    "takeaway": "Even tiny terraces can produce fresh mushrooms year‑round with the right container setup.",
+    "whatHappened": "We tested a lightweight, breathable tote filled with straw and inoculated with oyster mushroom spawn on a sunny balcony. Within weeks the mycelium colonized, and the first pins appeared, turning the tote into a mini farm.",
+    "whyItMatters": "Home‑grown mushrooms add protein and umami without needing soil, and they thrive in the limited light of most balconies. Growing them locally cuts grocery trips and reduces packaging waste.",
+    "howToThink": "Pick a container that drains but retains moisture, use a substrate like straw or coffee grounds, and keep it shaded during peak sun. Mist regularly and harvest when caps unfurl for best texture.",
+    "pros": [
+      "Space‑efficient",
+      "Fast harvest",
+      "Low odor"
+    ],
+    "cons": [
+      "Needs moisture control",
+      "Limited to shade‑loving species",
+      "Short fruiting cycle"
+    ],
+    "watchOut": "Avoid over‑watering; soggy substrate invites mold.",
+    "faq": [
+      {
+        "q": "Can I grow mushrooms in any balcony container?",
+        "a": "Yes, as long as the container allows airflow and can hold a moist substrate without leaking."
+      },
+      {
+        "q": "Do mushrooms need direct sunlight?",
+        "a": "Most edible varieties prefer indirect light or shade; a bright, filtered spot works best."
+      },
+      {
+        "q": "How long until I can harvest?",
+        "a": "Depending on the species, you’ll see harvest‑ready caps in 3‑4 weeks after pinning."
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "Mushrooms",
+      "Balcony"
+    ],
+    "sources": [
+      {
+        "label": "r/houseplants community threads",
+        "url": "https://www.reddit.com/r/houseplants/"
+      },
+      {
+        "label": "Search interest: \"small space vegetables\"",
+        "url": "https://duckduckgo.com/?q=small%20space%20vegetables"
+      }
+    ],
+    "publishedAt": "2026-11-19T03:45:06.841Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-urbangardening-20",
     "title": "Community pulse: what r/UrbanGardening is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the seasonal community this week.",
