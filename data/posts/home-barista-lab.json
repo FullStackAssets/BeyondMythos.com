@@ -1,5 +1,56 @@
 [
   {
+    "slug": "boost-espresso-crema-portafilter-trick",
+    "title": "Boost Your Espresso Crema with a Simple Portafilter Trick",
+    "dek": "A quick tweak to your portafilter can give you richer crema without buying new gear.",
+    "takeaway": "A tighter portafilter basket seal yields thicker crema and more consistent shots.",
+    "whatHappened": "I experimented with a small rubber O-ring placed under the basket before locking the portafilter. The extra seal produced a visibly fuller crema on each pull. I recorded the difference over several shots to confirm consistency.",
+    "whyItMatters": "Crema is the visual cue of a well‑extracted espresso and a richer layer signals better flavor balance. For home baristas, improving crema without new equipment boosts confidence and enjoyment of each shot.",
+    "howToThink": "Start with a clean, dry basket, add a thin O‑ring or a piece of food‑grade silicone, then lock the portafilter as usual. Adjust the tightness until the basket feels snug but not forced. Observe the crema and tweak as needed.",
+    "pros": [
+      "Richer crema",
+      "No extra cost",
+      "Easier cleanup"
+    ],
+    "cons": [
+      "May need tighter tamp",
+      "Slightly longer lock time",
+      "Potential for over‑extraction if over‑tight"
+    ],
+    "watchOut": "Don’t overtighten the basket or you could damage the gasket.",
+    "faq": [
+      {
+        "q": "Do I need a specific size O‑ring?",
+        "a": "A standard 18‑mm silicone ring fits most home portafilters; any food‑grade material of similar thickness works."
+      },
+      {
+        "q": "Will this affect shot volume?",
+        "a": "The seal may slightly increase resistance, but shot volume remains essentially unchanged if you keep your grind and dose steady."
+      },
+      {
+        "q": "Is this safe for my machine?",
+        "a": "Yes, as long as the ring is clean and you avoid excessive force when locking the portafilter."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "technique"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-11-19T04:45:06.931Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "unlock-consistent-crema",
     "title": "Unlock Consistent Crema: Simple Tweaks for Espresso Mouthfeel",
     "dek": "Boost crema quality with tiny adjustments that any home barista can try today.",

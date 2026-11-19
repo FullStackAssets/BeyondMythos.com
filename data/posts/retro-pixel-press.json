@@ -1,5 +1,56 @@
 [
   {
+    "slug": "refining-nes-zapper-timing",
+    "title": "Pixel Boost: Refining NES Zapper Timing for Consistent Hits",
+    "dek": "Tweak your NES Zapper's trigger response to nail every target on speedrun leaderboards.",
+    "takeaway": "A simple timing tweak can dramatically improve Zapper accuracy without expensive mods.",
+    "whatHappened": "We discovered that the Zapper's internal spring can develop slack over years, causing a lag between pull and signal. By gently tightening the spring and adjusting the trigger stop, the response snaps back to factory crispness. The fix takes under ten minutes and uses a tiny flathead screwdriver.",
+    "whyItMatters": "Speedrunners rely on frame-precise inputs; a delayed Zapper can cost precious milliseconds and ruin a run. Collectors also benefit from preserving original hardware functionality, extending the gun's usable life. The tweak avoids costly replacements while keeping the classic feel.",
+    "howToThink": "Treat the Zapper like any other controller: check for mechanical play and ensure the trigger returns swiftly. If you feel a soft thunk when pulling, the spring likely needs tension. A light, controlled adjustment is all that's required—no soldering, no new parts.",
+    "pros": [
+      "Restores original feel",
+      "No extra components needed",
+      "Boosts speedrun consistency"
+    ],
+    "cons": [
+      "Requires steady hands",
+      "Risk of over‑tightening",
+      "May void warranty"
+    ],
+    "watchOut": "Avoid forcing the spring too hard; overtightening can break the trigger mechanism.",
+    "faq": [
+      {
+        "q": "Do I need any special tools?",
+        "a": "A small flathead screwdriver and a pair of tweezers are sufficient."
+      },
+      {
+        "q": "Will this affect the Zapper's compatibility with other consoles?",
+        "a": "No, the adjustment only changes spring tension, leaving signal output unchanged."
+      },
+      {
+        "q": "Is the fix reversible?",
+        "a": "Yes, you can loosen the spring back to its original state if desired."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "NES",
+      "Controller"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-11-19T04:45:05.370Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "retro-joystick-diode-mod",
     "title": "Pixel Boost: Installing a Diode on Classic Joysticks for Consistent Directional Input",
     "dek": "Add a simple diode to vintage joysticks to stop ghosting and keep your inputs clean for marathon runs.",

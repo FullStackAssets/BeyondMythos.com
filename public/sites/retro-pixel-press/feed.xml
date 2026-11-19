@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Refining NES Zapper Timing for Consistent Hits</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/refining-nes-zapper-timing.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/refining-nes-zapper-timing.html</guid>
+      <pubDate>Thu, 19 Nov 2026 04:45:05 GMT</pubDate>
+      <description>Tweak your NES Zapper&apos;s trigger response to nail every target on speedrun leaderboards.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Installing a Diode on Classic Joysticks for Consistent Directional Input</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-joystick-diode-mod.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-joystick-diode-mod.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/cleaning-nes-cartridge-contacts.html</guid>
       <pubDate>Tue, 17 Nov 2026 23:45:29 GMT</pubDate>
       <description>A quick guide to safely clean NES cartridge contacts and avoid loading hiccups.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Refurbishing Sega Master System Power Switch for Smoother On/Off</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/refurbish-sega-master-system-power-switch.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/refurbish-sega-master-system-power-switch.html</guid>
-      <pubDate>Tue, 17 Nov 2026 22:45:06 GMT</pubDate>
-      <description>Learn how swapping the Master System’s aging power switch can stop dead‑on start‑up hiccups and extend console life.</description>
     </item>
   </channel>
 </rss>

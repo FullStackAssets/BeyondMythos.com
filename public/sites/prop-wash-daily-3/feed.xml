@@ -5,6 +5,13 @@
     <link>https://beyondmythos.com/sites/prop-wash-daily-3/</link>
     <description>Fresh takes for FPV drone pilots and builders.</description>
     <item>
+      <title>Myth vs. reality: fpv simulator practice</title>
+      <link>https://beyondmythos.com/sites/prop-wash-daily-3/posts/myth-vs-reality-fpv-simulator-practice-2.html</link>
+      <guid>https://beyondmythos.com/sites/prop-wash-daily-3/posts/myth-vs-reality-fpv-simulator-practice-2.html</guid>
+      <pubDate>Thu, 19 Nov 2026 04:45:45 GMT</pubDate>
+      <description>The persistent myths around fpv simulator practice, stress-tested against what FPV drone pilots and builders actually report.</description>
+    </item>
+    <item>
       <title>A weekend project: level up your builds in two hours</title>
       <link>https://beyondmythos.com/sites/prop-wash-daily-3/posts/weekend-project-builds-4.html</link>
       <guid>https://beyondmythos.com/sites/prop-wash-daily-3/posts/weekend-project-builds-4.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://beyondmythos.com/sites/prop-wash-daily-3/posts/line-cut-freestyle-quick-recovery.html</guid>
       <pubDate>Mon, 16 Nov 2026 12:15:48 GMT</pubDate>
       <description>Learn how to handle a line cut mid‑flight and keep the show going without crashing.</description>
-    </item>
-    <item>
-      <title>Prop Wash Module Brings Real‑World Turbulence to Simulators</title>
-      <link>https://beyondmythos.com/sites/prop-wash-daily-3/posts/simulator-prop-wash-module.html</link>
-      <guid>https://beyondmythos.com/sites/prop-wash-daily-3/posts/simulator-prop-wash-module.html</guid>
-      <pubDate>Sat, 14 Nov 2026 23:15:48 GMT</pubDate>
-      <description>A new plugin adds realistic prop wash effects to popular FPV simulators, helping pilots train for real‑world turbulence.</description>
     </item>
   </channel>
 </rss>
