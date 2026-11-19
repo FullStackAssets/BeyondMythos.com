@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Recalibrating the NES Zapper for Faster Reloads</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-recalibrating-nes-zapper.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-recalibrating-nes-zapper.html</guid>
+      <pubDate>Thu, 19 Nov 2026 09:45:05 GMT</pubDate>
+      <description>A simple mod to tighten the Zapper trigger and shave precious frames off your reload time.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Recalibrating the SNES Mouse for Faster Dragging</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/recalibrate-snes-mouse-drag.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/recalibrate-snes-mouse-drag.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/preservation-pre-spend-checklist-58.html</guid>
       <pubDate>Wed, 18 Nov 2026 04:45:03 GMT</pubDate>
       <description>Seven questions that separate a justified preservation purchase from an expensive mood.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Upgrading Game Boy Advance Link Cable for Faster Multiplayer</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-upgrading-gbaj-link-cable.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-upgrading-gbaj-link-cable.html</guid>
-      <pubDate>Wed, 18 Nov 2026 03:45:06 GMT</pubDate>
-      <description>A simple swap of the GBA link cable can shave lag and improve battle‑royale timing.</description>
     </item>
   </channel>
 </rss>

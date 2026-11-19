@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-boost-recalibrating-nes-zapper",
+    "title": "Pixel Boost: Recalibrating the NES Zapper for Faster Reloads",
+    "dek": "A simple mod to tighten the Zapper trigger and shave precious frames off your reload time.",
+    "takeaway": "A tighter trigger gives speedrunners a marginal but meaningful edge.",
+    "whatHappened": "We discovered the stock NES Zapper trigger often has a loose spring, causing a delayed click. By swapping the spring for a slightly stiffer one and lubricating the pivot, the click registers faster. The mod was tested on a handful of classic shooters with consistent results.",
+    "whyItMatters": "Every frame counts in a speedrun, and a sluggish trigger can ruin a perfect run. Faster reloads translate directly into lower split times on titles like Duck Hunt and Hogan's Alley. The mod also restores the feel of the original hardware, which many collectors cherish.",
+    "howToThink": "Identify the spring inside the trigger housing and compare its tension to a new, stiffer spring of similar dimensions. Replace it, add a dab of silicone grease to the pivot, and reassemble. Test the click with a simple input logger before heading back to a full run.",
+    "pros": [
+      "Low cost and easy to source parts",
+      "No soldering required",
+      "Restores original feel"
+    ],
+    "cons": [
+      "Requires careful disassembly",
+      "Spring tension is subjective",
+      "May void collector value for pristine units"
+    ],
+    "watchOut": "Avoid overtightening the spring, as it can make the trigger feel too harsh and increase fatigue.",
+    "faq": [
+      {
+        "q": "Will this mod work on the NES Zapper for the NES Classic Edition?",
+        "a": "The NES Classic Zapper uses a different internal design, so the spring swap is not applicable."
+      },
+      {
+        "q": "Do I need any special tools?",
+        "a": "A small screwdriver set and a pair of tweezers are sufficient."
+      },
+      {
+        "q": "Can I revert the mod later?",
+        "a": "Yes, simply reinstall the original spring and clean any grease."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Zapper",
+      "Trigger Mod"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-11-19T09:45:05.113Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "recalibrate-snes-mouse-drag",
     "title": "Pixel Boost: Recalibrating the SNES Mouse for Faster Dragging",
     "dek": "Give your SNES mouse the precision edge needed for high‑speed dragging in classic platformers and drawing tools.",

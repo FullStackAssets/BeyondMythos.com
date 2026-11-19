@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midday-platform-meditation-3",
+    "title": "Midday Platform Meditation: Low‑Impact Mindfulness on the Rails",
+    "dek": "A quick, low‑impact meditation routine to reset your mind while waiting for the next train.",
+    "takeaway": "A brief mindfulness practice can boost your slow‑travel experience without adding waste.",
+    "whatHappened": "During a three‑hour layover at a small town station, I tried a seated breathing exercise and a simple body scan while watching the tracks.",
+    "whyItMatters": "Slow travelers often spend idle time on platforms; turning that time into calm reduces stress and keeps the journey sustainable.",
+    "howToThink": "Treat each stop as a micro‑retreat: find a seat, set a timer for five minutes, focus on breath, notice sounds, then return to the journey refreshed.",
+    "pros": [
+      "Zero waste",
+      "Boosts focus",
+      "Easy to start"
+    ],
+    "cons": [
+      "May feel odd to others",
+      "Requires quiet spot",
+      "Limited to safe platforms"
+    ],
+    "watchOut": "Avoid blocking aisles or getting too absorbed when announcements are made.",
+    "faq": [
+      {
+        "q": "Do I need special equipment?",
+        "a": "No gear needed—just a seat and your breath."
+      },
+      {
+        "q": "How long should the session be?",
+        "a": "Five minutes is enough to notice a shift without missing announcements."
+      },
+      {
+        "q": "Can I do this on a crowded train?",
+        "a": "Prefer a quieter carriage or platform corner, but even a brief pause works."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "mindfulness",
+      "rail"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-11-19T09:45:05.939Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "evening-platform-sketching",
     "title": "Evening Platform Sketching: Low-Impact Creativity on the Rails",
     "dek": "Grab a sketchpad and let the rhythm of the rails inspire low-impact art between stations.",

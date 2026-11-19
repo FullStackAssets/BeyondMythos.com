@@ -1,5 +1,56 @@
 [
   {
+    "slug": "balcony-herb-tower-maximize-flavor",
+    "title": "Balcony Herb Tower: Maximize Flavor in Minimal Space",
+    "dek": "Build a vertical herb tower on your balcony and harvest fresh flavor all season.",
+    "takeaway": "A simple tower lets you grow more herbs in less space.",
+    "whatHappened": "We installed a DIY PVC herb tower on a sunny balcony, stocked it with basil, mint, and parsley, and tracked growth over weeks.",
+    "whyItMatters": "Space is premium for apartment gardeners; vertical solutions turn walls into productive garden real estate, boosting meals and mood.",
+    "howToThink": "Start with a sturdy frame, use lightweight soil mix, and place the tower where it gets at least six hours of sun; water from the top and let gravity feed lower pots.",
+    "pros": [
+      "Space‑saving",
+      "Continuous harvest",
+      "Easy to expand"
+    ],
+    "cons": [
+      "Needs stable mounting",
+      "May dry out faster",
+      "Limited to shallow‑root herbs"
+    ],
+    "watchOut": "Secure the tower to prevent tipping in wind or heavy rain.",
+    "faq": [
+      {
+        "q": "What kind of container works best?",
+        "a": "A lightweight, waterproof box or PVC pipe with drainage holes works well."
+      },
+      {
+        "q": "How often should I water?",
+        "a": "Water when the top soil feels dry to the touch, usually every 1–2 days in warm weather."
+      },
+      {
+        "q": "Can I grow non‑herb plants?",
+        "a": "Shallow‑root veggies like lettuce can fit, but deep‑rooted plants need a different setup."
+      }
+    ],
+    "category": "Herbs",
+    "tags": [
+      "vertical gardening",
+      "herb tower"
+    ],
+    "sources": [
+      {
+        "label": "r/houseplants community threads",
+        "url": "https://www.reddit.com/r/houseplants/"
+      },
+      {
+        "label": "Search interest: \"small space vegetables\"",
+        "url": "https://duckduckgo.com/?q=small%20space%20vegetables"
+      }
+    ],
+    "publishedAt": "2026-11-19T09:45:07.412Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "balcony-microgreen-boost",
     "title": "Balcony Microgreen Boost: Fast Greens for Small Spaces",
     "dek": "Turn your balcony into a rapid‑growth microgreen kitchen, even when the city freezes outside.",

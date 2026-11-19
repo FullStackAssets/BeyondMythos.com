@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-cleaning-routine-2",
+    "title": "Refresh Your Espresso Machine with a Simple Cleaning Routine",
+    "dek": "A quick, daily cleaning habit keeps your shots tasting bright and extends machine life.",
+    "takeaway": "Regular light cleaning prevents bitter buildup and maintains consistency.",
+    "whatHappened": "I tried a five‑minute end‑of‑day wipe‑down followed by a weekly backflush with plain water. The espresso tasted cleaner within a week, and the portafilter stayed free of oily residue.",
+    "whyItMatters": "Coffee oils and fine grounds can cling to group heads, altering extraction and masking flavor nuances. Keeping the machine clean ensures each shot reflects the beans, not stale film.",
+    "howToThink": "Treat cleaning like a pre‑flight checklist: after each brew, wipe the group head, purge water, and once a week run a water backflush. Simple steps become habit, and the machine rewards you with stable pressure and flavor.",
+    "pros": [
+      "Brighter flavor",
+      "Longer machine life",
+      "Easy to adopt"
+    ],
+    "cons": [
+      "Requires daily attention",
+      "May add a few minutes to routine",
+      "Needs access to clean water"
+    ],
+    "watchOut": "Avoid using harsh chemicals that can damage seals; stick to water or manufacturer‑approved cleaners.",
+    "faq": [
+      {
+        "q": "How often should I backflush my espresso machine?",
+        "a": "A weekly backflush with plain water is sufficient for most home machines; increase frequency if you pull many shots daily."
+      },
+      {
+        "q": "Can I use vinegar for cleaning?",
+        "a": "Vinegar is too acidic for regular use and can harm gaskets; reserve it for occasional deep cleaning with proper rinsing."
+      },
+      {
+        "q": "Do I need to clean the portafilter basket daily?",
+        "a": "A quick tap‑out and rinse after each use keeps the basket clear; a thorough soak once a month prevents buildup."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "maintenance",
+      "espresso"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-11-19T09:45:10.980Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-timing-hack",
     "title": "Elevate Your Espresso Consistency with a Simple Shot Timing Hack",
     "dek": "A quick timing trick that steadies shot volume and flavor without buying new gear.",
