@@ -1,0 +1,308 @@
+[
+  {
+    "slug": "bulk-buy-basics",
+    "title": "Bulk‑Buy Basics for Frugal Households",
+    "category": "Groceries",
+    "dek": "Learn how buying in bulk can shave dollars off your grocery bill without waste.",
+    "takeaway": "Bulk buying works when you match quantity to consumption and storage.",
+    "whatHappened": "Many households fill their pantry with large packages, only to find items expire or go unused. The habit stems from the perception of lower unit cost. Adjusting purchase size can keep waste low.",
+    "whyItMatters": "Food waste directly inflates grocery costs and harms the environment. Controlling bulk purchases aligns spending with actual needs, preserving savings.",
+    "howToThink": "Treat each bulk item as a mini‑budget line. Estimate how many weeks you’ll realistically use it, then compare package sizes. Store it properly to extend shelf life.",
+    "pros": [
+      "Lower unit price",
+      "Fewer trips to store",
+      "Reduced packaging waste"
+    ],
+    "cons": [
+      "Potential for spoilage",
+      "Requires storage space",
+      "Up‑front cash outlay"
+    ],
+    "watchOut": "Beware of buying more than you can consume before the product degrades.",
+    "faq": [
+      {
+        "q": "How do I know the right bulk size?",
+        "a": "Calculate weekly usage and multiply by a safe buffer, then compare package sizes."
+      },
+      {
+        "q": "What’s the best way to store bulk goods?",
+        "a": "Use airtight containers in a cool, dry place to prolong freshness."
+      },
+      {
+        "q": "Can bulk buying hurt my cash flow?",
+        "a": "Plan purchases around pay periods to avoid tying up too much cash at once."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/Frugal community threads",
+        "url": "https://www.reddit.com/r/Frugal/"
+      },
+      {
+        "label": "Search interest: \"grocery budget tips\"",
+        "url": "https://duckduckgo.com/?q=grocery%20budget%20tips"
+      }
+    ],
+    "tags": [
+      "shopping",
+      "savings"
+    ],
+    "publishedAt": "2026-11-19T09:15:40.737Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "streaming-audit",
+    "title": "Streaming Audit: Trim the Fat from Your Media Budget",
+    "category": "Subscriptions",
+    "dek": "A quick review of your streaming services can reveal hidden costs and overlapping content.",
+    "takeaway": "Canceling redundant subscriptions frees cash for higher‑impact savings.",
+    "whatHappened": "Families often accumulate multiple video and music platforms, assuming each offers unique content. Over time, shows migrate, leaving duplicates across services. A periodic audit highlights which accounts are underused.",
+    "whyItMatters": "Subscription fees add up silently each month, eroding the budget without notice. Cutting overlap restores discretionary spending.",
+    "howToThink": "List each service, note the shows you actually watch, and match them against free alternatives or shared family plans.",
+    "pros": [
+      "Immediate monthly savings",
+      "Simplified bill tracking",
+      "Less decision fatigue"
+    ],
+    "cons": [
+      "Potential loss of niche content",
+      "Need to remember login details",
+      "May require sharing with others"
+    ],
+    "watchOut": "Ensure you’ve backed up any saved playlists or watchlists before cancelling.",
+    "faq": [
+      {
+        "q": "How often should I audit my subscriptions?",
+        "a": "A semi‑annual review keeps you aware of changes in content libraries."
+      },
+      {
+        "q": "What about family plans?",
+        "a": "Combine members under one plan when possible to lower per‑person cost."
+      },
+      {
+        "q": "Is it worth keeping a low‑use service?",
+        "a": "If you watch it less than once a month, consider pausing or canceling."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/personalfinance community threads",
+        "url": "https://www.reddit.com/r/personalfinance/"
+      },
+      {
+        "label": "Search interest: \"subscription audit\"",
+        "url": "https://duckduckgo.com/?q=subscription%20audit"
+      }
+    ],
+    "tags": [
+      "media",
+      "budget"
+    ],
+    "publishedAt": "2026-11-17T20:15:40.737Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "smart-thermostat-tricks",
+    "title": "Smart Thermostat Tricks to Cut Home Energy Bills",
+    "category": "Energy",
+    "dek": "Simple settings tweaks on a smart thermostat can reduce heating and cooling costs.",
+    "takeaway": "Optimizing schedule and temperature offsets saves energy without sacrificing comfort.",
+    "whatHappened": "Homeowners install programmable thermostats expecting automatic savings, yet many leave default settings that run heating or cooling longer than needed. Small adjustments can align indoor climate with occupancy patterns.",
+    "whyItMatters": "Heating and cooling are major household energy expenses; fine‑tuning control reduces waste and lowers bills.",
+    "howToThink": "Set lower temperatures at night and while away, then program a gradual rise before you return. Use the “away” mode for vacations.",
+    "pros": [
+      "Energy savings",
+      "Customizable schedules",
+      "Remote control via phone"
+    ],
+    "cons": [
+      "Initial learning curve",
+      "Potential for accidental extremes",
+      "Depends on reliable Wi‑Fi"
+    ],
+    "watchOut": "Avoid setting temperatures too low in winter, which can cause pipes to freeze in cold climates.",
+    "faq": [
+      {
+        "q": "What temperature is efficient in winter?",
+        "a": "A setting around 68 °F (20 °C) when home and lower when away is commonly recommended."
+      },
+      {
+        "q": "Can I use geofencing?",
+        "a": "Yes, enable it so the thermostat adjusts when your phone leaves or returns home."
+      },
+      {
+        "q": "Do I need a separate sensor?",
+        "a": "Adding a room sensor improves accuracy for larger homes."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/EatCheapAndHealthy community threads",
+        "url": "https://www.reddit.com/r/EatCheapAndHealthy/"
+      },
+      {
+        "label": "Search interest: \"cut energy bill\"",
+        "url": "https://duckduckgo.com/?q=cut%20energy%20bill"
+      }
+    ],
+    "tags": [
+      "energy",
+      "tech"
+    ],
+    "publishedAt": "2026-11-16T07:15:40.737Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "zero-sum-budgeting",
+    "title": "Zero‑Sum Budgeting: Make Every Dollar Accounted For",
+    "category": "Mindset",
+    "dek": "Assign every incoming dollar a purpose to eliminate wasteful spending.",
+    "takeaway": "A zero‑sum approach forces intentional allocation, boosting savings.",
+    "whatHappened": "Many households track expenses loosely, leaving “extra” cash that drifts into impulse buys. By allocating each paycheck dollar to a category, the leftover balance is zero, preventing accidental overspend.",
+    "whyItMatters": "Intentional allocation curtails subconscious spending and highlights where money can be redirected to savings or debt repayment.",
+    "howToThink": "Divide income into categories like groceries, bills, fun, and a buffer. Adjust categories each month based on actual needs.",
+    "pros": [
+      "Clear spending picture",
+      "Higher savings potential",
+      "Reduces financial stress"
+    ],
+    "cons": [
+      "Requires discipline",
+      "May feel restrictive initially",
+      "Needs regular updates"
+    ],
+    "watchOut": "Don’t forget to include irregular expenses like car maintenance; otherwise they’ll break the zero balance.",
+    "faq": [
+      {
+        "q": "How detailed should categories be?",
+        "a": "Start broad, then split categories that consistently overspend."
+      },
+      {
+        "q": "What tool works best?",
+        "a": "Simple spreadsheets or budgeting apps that let you assign every dollar."
+      },
+      {
+        "q": "Can I have a “fun” fund?",
+        "a": "Yes, allocate a modest amount for discretionary spending to stay satisfied."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/Frugal community threads",
+        "url": "https://www.reddit.com/r/Frugal/"
+      },
+      {
+        "label": "Search interest: \"grocery budget tips\"",
+        "url": "https://duckduckgo.com/?q=grocery%20budget%20tips"
+      }
+    ],
+    "tags": [
+      "finance",
+      "mindset"
+    ],
+    "publishedAt": "2026-11-14T18:15:40.737Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "seasonal-swap",
+    "title": "Seasonal Swap: Align Grocery Purchases with Harvest Cycles",
+    "category": "Groceries",
+    "dek": "Buying produce in season trims cost and boosts flavor without extra effort.",
+    "takeaway": "Seasonal produce is cheaper and fresher, stretching your food budget.",
+    "whatHappened": "Shoppers often chase out‑of‑season items, paying premium prices while missing out on local harvests. Switching to a seasonal list aligns meals with what’s abundant locally.",
+    "whyItMatters": "Seasonal abundance lowers farm‑gate prices, passing savings to consumers and reducing transport emissions.",
+    "howToThink": "Check a simple seasonal chart, then plan meals around featured vegetables and fruits for the month.",
+    "pros": [
+      "Lower prices",
+      "Better taste",
+      "Supports local farms"
+    ],
+    "cons": [
+      "Limited variety",
+      "May require new recipes",
+      "Potentially unfamiliar items"
+    ],
+    "watchOut": "Verify storage life; some seasonal items spoil quickly if not used promptly.",
+    "faq": [
+      {
+        "q": "Where can I find a seasonal guide?",
+        "a": "Local extension services or online seasonal produce charts provide month‑by‑month lists."
+      },
+      {
+        "q": "How do I store fresh berries?",
+        "a": "Keep them refrigerated in a breathable container and wash just before eating."
+      },
+      {
+        "q": "Can frozen seasonal produce be a fallback?",
+        "a": "Yes, frozen versions retain nutrition and can fill gaps when fresh supply wanes."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/personalfinance community threads",
+        "url": "https://www.reddit.com/r/personalfinance/"
+      },
+      {
+        "label": "Search interest: \"subscription audit\"",
+        "url": "https://duckduckgo.com/?q=subscription%20audit"
+      }
+    ],
+    "tags": [
+      "food",
+      "seasonal"
+    ],
+    "publishedAt": "2026-11-13T05:15:40.737Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "free-trial-trap",
+    "title": "The Free‑Trial Trap: Avoid Unwanted Subscription Charges",
+    "category": "Subscriptions",
+    "dek": "Free trials feel risk‑free until they silently convert into paid plans.",
+    "takeaway": "Setting reminders and using virtual cards prevents accidental renewals.",
+    "whatHappened": "Consumers sign up for a 30‑day trial, enjoy the service, then forget to cancel before the auto‑renewal date. The charge appears on the next statement, often unnoticed until later.",
+    "whyItMatters": "Unplanned fees erode the budget and add administrative hassle to reverse. Proactive management keeps cash flow predictable.",
+    "howToThink": "Mark the trial end date in your calendar, and consider using a disposable virtual card that expires after the trial period.",
+    "pros": [
+      "Access to premium features temporarily",
+      "Can test suitability",
+      "Often easy to cancel"
+    ],
+    "cons": [
+      "Risk of forgotten renewal",
+      "May require credit card info",
+      "Potential impact on credit if unpaid"
+    ],
+    "watchOut": "Review your bank statements regularly to spot any unexpected subscription charges.",
+    "faq": [
+      {
+        "q": "How to set a reminder?",
+        "a": "Create a calendar event a few days before the trial ends with a clear cancel note."
+      },
+      {
+        "q": "What is a virtual card?",
+        "a": "A temporary card number generated by many banks for online use, which can be set to expire after the trial."
+      },
+      {
+        "q": "Can I get a refund after auto‑renewal?",
+        "a": "Contact the provider quickly; many offer a grace period for refund on accidental renewals."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/EatCheapAndHealthy community threads",
+        "url": "https://www.reddit.com/r/EatCheapAndHealthy/"
+      },
+      {
+        "label": "Search interest: \"cut energy bill\"",
+        "url": "https://duckduckgo.com/?q=cut%20energy%20bill"
+      }
+    ],
+    "tags": [
+      "subscriptions",
+      "tips"
+    ],
+    "publishedAt": "2026-11-11T16:15:40.737Z",
+    "readMinutes": 2
+  }
+]

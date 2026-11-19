@@ -2573,8 +2573,29 @@
       "streamUrl": "https://beyondmythos.com/",
       "elevenlabsAgentId": null,
       "lastPostAt": "2026-11-19T08:45:44.902Z"
+    },
+    {
+      "id": "lean-ledger-3-1795079740737",
+      "slug": "lean-ledger-3",
+      "name": "Lean Ledger",
+      "tagline": "Fresh takes for budget-minded households and frugal optimizers.",
+      "nicheId": "frugal-living",
+      "audience": "budget-minded households and frugal optimizers",
+      "categories": [
+        "Groceries",
+        "Subscriptions",
+        "Energy",
+        "Mindset"
+      ],
+      "url": "https://beyondmythos.com/sites/lean-ledger-3/",
+      "localUrl": "https://beyondmythos.com/sites/lean-ledger-3/",
+      "design": "moss",
+      "postCount": 6,
+      "createdAt": "2026-11-19T09:15:31.883Z",
+      "streamUrl": "https://beyondmythos.com/",
+      "elevenlabsAgentId": null
     }
   ],
-  "lastGeneratedAt": "2026-11-19T08:15:10.025Z",
+  "lastGeneratedAt": "2026-11-19T09:15:31.883Z",
   "lastPostRunAt": "2026-11-19T08:45:44.912Z"
 }
