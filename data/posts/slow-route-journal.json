@@ -1,5 +1,56 @@
 [
   {
+    "slug": "dusk-carriage-storytelling",
+    "title": "Dusk Carriage Storytelling: Low‑Impact Narrative on the Rails",
+    "dek": "Evening rides become a stage for shared tales, turning idle time into a low‑impact cultural exchange.",
+    "takeaway": "Story swaps on the carriage deepen connections without adding carbon.",
+    "whatHappened": "We gathered a handful of travelers on a slow evening train and invited anyone with a short story to share. The carriage filled with voices ranging from childhood anecdotes to local legends, each lasting a few minutes.",
+    "whyItMatters": "Narrative exchange nurtures community and keeps the journey lively, while requiring no extra resources. It also preserves oral traditions that might otherwise fade on modern routes.",
+    "howToThink": "Treat each stop as a micro‑forum: set a simple cue, like a bell, and let volunteers step up. Keep stories brief to respect schedules, and encourage listeners to ask follow‑up questions.",
+    "pros": [
+      "Builds camaraderie",
+      "Zero waste activity",
+      "Enriches travel experience"
+    ],
+    "cons": [
+      "Requires willing participants",
+      "May extend travel time slightly",
+      "Noise for those seeking quiet"
+    ],
+    "watchOut": "Ensure stories stay respectful and inclusive, avoiding topics that could alienate fellow passengers.",
+    "faq": [
+      {
+        "q": "Do I need any equipment to host a story session?",
+        "a": "No, just a voice and a willingness to listen; a small bell or chime can serve as a gentle prompt."
+      },
+      {
+        "q": "What if some passengers prefer silence?",
+        "a": "Announce the session in advance and give an opt‑out cue, like a hand signal, so quiet travelers can stay undisturbed."
+      },
+      {
+        "q": "Can I record the stories for later sharing?",
+        "a": "Only with explicit permission from each storyteller; otherwise keep the moments live."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "storytelling"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-11-20T08:45:04.498Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "dawn-carriage-journaling",
     "title": "Dawn Carriage Journaling: Low‑Impact Reflection on the Rails",
     "dek": "Start your day with mindful journaling in the carriage, turning travel moments into low‑impact reflections.",

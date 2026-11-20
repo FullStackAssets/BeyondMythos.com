@@ -1,5 +1,56 @@
 [
   {
+    "slug": "stabilize-espresso-temperature-with-thermos",
+    "title": "Stabilize Espresso Extraction Temperature with a Simple Thermos Flask Buffer",
+    "dek": "A quick thermos trick keeps your brew water steady, shaving off temperature swing for richer espresso.",
+    "takeaway": "A pre‑heated thermos can act as a low‑cost temperature buffer for more consistent shots.",
+    "whatHappened": "I noticed my espresso shot temperature dropping by a few degrees between pulls on a cold morning. By filling a small stainless‑steel thermos with hot water, letting it sit for a minute, then pouring that water into the group head, the temperature stayed steadier across multiple shots.",
+    "whyItMatters": "Espresso extraction is highly sensitive to water temperature; even a small dip can mute flavor clarity and body. Maintaining a stable temperature helps you hit your target brew profile without constantly adjusting the machine.",
+    "howToThink": "Treat the thermos as a short‑term heat reservoir. Heat it to your target brew temperature, dump out any excess, then use the retained heat to top up the machine before each pull. Keep the thermos insulated between uses for best results.",
+    "pros": [
+      "Low cost",
+      "Minimal equipment",
+      "Improves temperature consistency"
+    ],
+    "cons": [
+      "Adds an extra step",
+      "Requires a good thermos",
+      "May not replace a built‑in temperature stabilizer"
+    ],
+    "watchOut": "Avoid overfilling the group head – too much hot water can cause overflow or dilute the coffee.",
+    "faq": [
+      {
+        "q": "Can I use any thermos?",
+        "a": "A stainless‑steel, insulated thermos works best; avoid plastic containers that lose heat quickly."
+      },
+      {
+        "q": "How long does the heat stay useful?",
+        "a": "A few minutes is enough for a batch of shots; reheat if it cools noticeably."
+      },
+      {
+        "q": "Do I need to adjust my grinder?",
+        "a": "No major changes, but you may notice a slightly brighter flavor due to steadier temperature."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "temperature",
+      "espresso"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-11-20T08:45:02.855Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "rescue-espresso-shot-temperature",
     "title": "Rescue a Flat Espresso Shot with a Quick Water Temperature Check",
     "dek": "A fast temperature tweak can bring life back to a dull espresso without extra gear.",

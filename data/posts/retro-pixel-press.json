@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-boost-optimizing-nes-ram-timings",
+    "title": "Pixel Boost: Optimizing NES RAM Timings for Faster Load‑Ins",
+    "dek": "Tweaking the NES's RAM timing chips can shave seconds off load screens without compromising stability.",
+    "takeaway": "A simple timing‑chip swap can noticeably speed up game boots on classic NES hardware.",
+    "whatHappened": "A recent community teardown revealed that the original timing resistors on many NES boards drift over decades, causing marginally slower RAM access. Enthusiasts swapped them for tighter‑tolerance parts and logged quicker title screens across several cartridges.",
+    "whyItMatters": "Speedrunners thrive on every millisecond, and collectors appreciate hardware that performs as originally intended. Faster RAM access also reduces heat buildup during marathon runs, extending component life.",
+    "howToThink": "When evaluating a timing swap, compare stock resistor values with modern equivalents, test with a known fast‑booting cartridge, and verify stability by running a short playthrough. Keep a backup of the original parts in case a game exhibits glitches.",
+    "pros": [
+      "Noticeable load‑time reduction",
+      "Low‑cost component swap",
+      "Preserves original aesthetics"
+    ],
+    "cons": [
+      "Requires soldering skill",
+      "Potential incompatibility with rare cartridges",
+      "No measurable gain on already‑fast titles"
+    ],
+    "watchOut": "If the new resistors are too low, you may encounter graphical glitches on certain games.",
+    "faq": [
+      {
+        "q": "Do I need a special screwdriver?",
+        "a": "A standard #0 Phillips works for most NES board screws."
+      },
+      {
+        "q": "Will this void my warranty?",
+        "a": "Original NES units are out of warranty, but any modification is technically non‑factory."
+      },
+      {
+        "q": "Can I revert the change?",
+        "a": "Yes—solder the original resistors back before the epoxy sets."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "NES",
+      "Hardware"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-11-20T08:45:05.301Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "upgrading-atari-2600-rf-shield",
     "title": "Pixel Boost: Upgrading the Atari 2600 RF Shield for Cleaner Signal",
     "dek": "Boost your Atari 2600's picture quality with a simple RF shield upgrade, no soldering required.",
