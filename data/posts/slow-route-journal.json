@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midnight-carriage-tea",
+    "title": "Midnight Carriage Tea: Low‑Impact Refreshment on the Rails",
+    "dek": "A quick guide to brewing and sharing tea on night trains without waste.",
+    "takeaway": "Simple tea rituals can enrich slow journeys while staying low‑impact.",
+    "whatHappened": "On a recent overnight sleeper, I swapped a disposable coffee pod for a reusable tin of loose leaf tea. The kettle on the carriage provided hot water, and a few fellow travelers joined in for a quiet sip under the dim cabin lights.",
+    "whyItMatters": "Tea needs minimal packaging, uses less energy than coffee machines, and creates a gentle communal moment that aligns with low‑impact values. It also reduces single‑use waste on a journey where disposal options are scarce.",
+    "howToThink": "Carry a compact, insulated tea tin, a collapsible mug, and a small reusable spoon. When the carriage announces a water stop, fill your mug, steep, and enjoy. Offer a cup to a neighbor to spark conversation without extra waste.",
+    "pros": [
+      "Zero waste brewing",
+      "Boosts camaraderie",
+      "Easy to pack"
+    ],
+    "cons": [
+      "Requires hot water source",
+      "Limited flavors on board",
+      "Potential spillage"
+    ],
+    "watchOut": "Watch the steam to avoid burns in cramped cabins.",
+    "faq": [
+      {
+        "q": "Can I use the carriage’s kettle for tea?",
+        "a": "Yes, most night‑train carriages provide a communal kettle; just be courteous and clean up any spills."
+      },
+      {
+        "q": "What tea varieties work best on a train?",
+        "a": "Loose leaf black, green, or herbal blends that don’t need precise temperature control are ideal."
+      },
+      {
+        "q": "Do I need a special mug?",
+        "a": "A collapsible silicone cup or a small insulated stainless steel mug works well and fits in tight luggage."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "tea",
+      "night-train"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-11-20T09:45:05.571Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "dusk-carriage-storytelling",
     "title": "Dusk Carriage Storytelling: Low‑Impact Narrative on the Rails",
     "dek": "Evening rides become a stage for shared tales, turning idle time into a low‑impact cultural exchange.",

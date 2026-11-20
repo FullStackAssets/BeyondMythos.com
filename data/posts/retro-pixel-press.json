@@ -1,5 +1,56 @@
 [
   {
+    "slug": "cleaning-snes-cartridge-contacts-2",
+    "title": "Pixel Boost: Cleaning the SNES Cartridge Contacts for Reliable Reads",
+    "dek": "A quick guide to restoring SNES cartridge pins for glitch‑free gameplay.",
+    "takeaway": "Clean contacts and you’ll see smoother loads and fewer freezes.",
+    "whatHappened": "Many collectors notice intermittent freezes when loading classic SNES titles. The culprit is often oxidized cartridge pins. A simple cleaning routine can revive the hardware.",
+    "whyItMatters": "Unreliable reads can ruin speedrun attempts and spoil nostalgic sessions. Restoring contact integrity extends the life of both the cartridge and console.",
+    "howToThink": "Use a soft, anti‑static brush and isopropyl alcohol to gently scrub each pin, then let it dry fully before re‑inserting. Test with a known‑good game to confirm.",
+    "pros": [
+      "Restores original performance",
+      "Low‑cost solution",
+      "Easy DIY"
+    ],
+    "cons": [
+      "Requires careful handling",
+      "May need repeat cleaning",
+      "Alcohol fumes if not ventilated"
+    ],
+    "watchOut": "Avoid excessive liquid; too much can seep into the cartridge and damage the board.",
+    "faq": [
+      {
+        "q": "Do I need a special brush?",
+        "a": "A soft toothbrush or anti‑static brush works fine."
+      },
+      {
+        "q": "Can I use regular rubbing alcohol?",
+        "a": "Use 90%+ isopropyl alcohol to avoid residue."
+      },
+      {
+        "q": "How often should I clean contacts?",
+        "a": "When you notice loading issues or after many play sessions."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "hardware",
+      "maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-11-20T09:45:06.437Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-boost-optimizing-nes-ram-timings",
     "title": "Pixel Boost: Optimizing NES RAM Timings for Faster Load‑Ins",
     "dek": "Tweaking the NES's RAM timing chips can shave seconds off load screens without compromising stability.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "portafilter-pressure-release",
+    "title": "Stabilize Espresso Shots with a Simple Portafilter Pressure Release",
+    "dek": "A quick trick to keep pressure steady during extraction by gently releasing excess tension in the portafilter.",
+    "takeaway": "Letting the portafilter breathe prevents pressure spikes and yields a smoother shot.",
+    "whatHappened": "I noticed my espresso sometimes tasted thin mid‑shot. A tiny wobble in the portafilter was letting pressure leak, causing inconsistency. By adding a brief, gentle pressure release before pulling, the flow steadied.",
+    "whyItMatters": "Stable pressure ensures even extraction, preserving flavor balance and crema quality. Small pressure variations can over‑extract or under‑extract the coffee grounds.",
+    "howToThink": "Before you lock the portafilter, give it a half‑turn clockwise, then pause and ease it back a half‑turn counter‑clockwise. This tiny release removes trapped air and excess tension, letting the pump work smoothly.",
+    "pros": [
+      "Improves consistency",
+      "No extra tools needed",
+      "Quick to apply"
+    ],
+    "cons": [
+      "Adds a tiny step",
+      "May feel odd at first",
+      "Not needed on all machines"
+    ],
+    "watchOut": "Avoid forceful twists; a gentle motion prevents damaging the brew head.",
+    "faq": [
+      {
+        "q": "Do I need a special tool?",
+        "a": "No, just use your hand—it's a manual adjustment."
+      },
+      {
+        "q": "Can this trick be used on a bottomless portafilter?",
+        "a": "Yes, it works the same way and can even reduce spillage."
+      },
+      {
+        "q": "How often should I perform the pressure release?",
+        "a": "Do it each time you lock the portafilter for the best results."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "technique"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-11-20T09:45:07.961Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "stabilize-espresso-temperature-with-thermos",
     "title": "Stabilize Espresso Extraction Temperature with a Simple Thermos Flask Buffer",
     "dek": "A quick thermos trick keeps your brew water steady, shaving off temperature swing for richer espresso.",

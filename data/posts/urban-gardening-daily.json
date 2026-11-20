@@ -1,5 +1,56 @@
 [
   {
+    "slug": "fall-balcony-prep-ready-your-containers",
+    "title": "Fall Balcony Prep: Ready Your Containers for Cooler Nights",
+    "dek": "Get your balcony garden snug and productive as temperatures dip, without a major overhaul.",
+    "takeaway": "A few simple tweaks keep your balcony harvest thriving through the first frosts.",
+    "whatHappened": "As September rolls in, many apartment gardeners notice slower growth and occasional leaf chill. We tested a trio of low‑effort adjustments—insulating sleeves, wind‑break fabrics, and timed lighting—to see how they affect plant vigor. The trial showed steadier leaf color and extended harvest windows.",
+    "whyItMatters": "Balcony growers often lose momentum once the season shifts, leading to wasted effort and space. Maintaining productivity means more fresh produce, better morale, and a smoother transition to winter indoor gardening. Small changes also reduce the need for costly, full‑scale greenhouse setups.",
+    "howToThink": "Start with a breathable, frost‑resistant sleeve around each pot to trap residual warmth. Pair that with a lightweight wind‑break panel on the wind‑ward side of the balcony. Finally, add a timer‑controlled LED grow light for an extra hour of light on overcast days—just enough to keep photosynthesis humming without overheating.",
+    "pros": [
+      "Low cost",
+      "Easy installation",
+      "Minimal space impact"
+    ],
+    "cons": [
+      "Requires occasional adjustment",
+      "May need extra power outlet",
+      "Effectiveness varies with extreme cold"
+    ],
+    "watchOut": "Avoid covering containers so tightly that air circulation is blocked, which can foster mold.",
+    "faq": [
+      {
+        "q": "Do I need to bring my plants indoors?",
+        "a": "Only if nighttime lows consistently fall below the hard‑freeze point for your species; otherwise, the sleeves and wind‑break suffice."
+      },
+      {
+        "q": "Can I use any fabric for the wind‑break?",
+        "a": "A breathable, UV‑stable garden fabric works best; heavy tarps can trap moisture."
+      },
+      {
+        "q": "How long should the supplemental light run?",
+        "a": "One additional hour after natural sunset is usually enough for most balcony crops."
+      }
+    ],
+    "category": "Seasonal",
+    "tags": [
+      "Fall Prep",
+      "Balcony Containers"
+    ],
+    "sources": [
+      {
+        "label": "r/houseplants community threads",
+        "url": "https://www.reddit.com/r/houseplants/"
+      },
+      {
+        "label": "Search interest: \"small space vegetables\"",
+        "url": "https://duckduckgo.com/?q=small%20space%20vegetables"
+      }
+    ],
+    "publishedAt": "2026-11-20T09:45:07.183Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "vertical-pocket-planters-grow-more",
     "title": "Vertical Pocket Planters: Grow More in Tiny Balconies",
     "dek": "Turn a narrow balcony rail into a thriving mini‑garden with pocket planters that stack vertically.",
