@@ -3079,8 +3079,29 @@
       "streamUrl": "https://beyondmythos.com/",
       "elevenlabsAgentId": null,
       "lastPostAt": "2026-11-20T08:45:48.331Z"
+    },
+    {
+      "id": "crimp-weekly-3-1795166163039",
+      "slug": "crimp-weekly-3",
+      "name": "Crimp Weekly",
+      "tagline": "Fresh takes for indoor boulderers and new climbers.",
+      "nicheId": "bouldering",
+      "audience": "indoor boulderers and new climbers",
+      "categories": [
+        "Technique",
+        "Training",
+        "Gear",
+        "Recovery"
+      ],
+      "url": "https://beyondmythos.com/sites/crimp-weekly-3/",
+      "localUrl": "https://beyondmythos.com/sites/crimp-weekly-3/",
+      "design": "cinema",
+      "postCount": 6,
+      "createdAt": "2026-11-20T09:15:54.490Z",
+      "streamUrl": "https://beyondmythos.com/",
+      "elevenlabsAgentId": null
     }
   ],
-  "lastGeneratedAt": "2026-11-20T07:15:34.544Z",
+  "lastGeneratedAt": "2026-11-20T09:15:54.490Z",
   "lastPostRunAt": "2026-11-20T08:45:48.342Z"
 }
