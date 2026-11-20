@@ -1,0 +1,308 @@
+[
+  {
+    "slug": "browser-privacy-mode-2024",
+    "title": "Chrome’s New “Local‑Only” Privacy Mode",
+    "category": "Browsers",
+    "dek": "Chrome adds a mode that keeps browsing data off the cloud, ideal for the privacy‑first user.",
+    "takeaway": "Turn on Local‑Only mode to stop sync services from seeing your tabs.",
+    "whatHappened": "Google rolled out a beta feature that isolates cookies, history, and form data to the device, never sending it to Google servers. The mode can be enabled per‑window and works with existing extensions.",
+    "whyItMatters": "Cloud sync is a convenient attack surface; keeping data local reduces exposure to data‑center breaches. Users regain control over what information leaves their machine.",
+    "howToThink": "Treat the mode like a sandbox: use it for sensitive searches and logins, then close the window to discard traces. Pair it with a privacy‑focused DNS to seal leaks.",
+    "pros": [
+      "No cloud leakage",
+      "Works with existing extensions",
+      "Easy toggle"
+    ],
+    "cons": [
+      "May break some sync features",
+      "Limited to Chrome",
+      "Higher memory use"
+    ],
+    "watchOut": "Extensions that rely on sync may lose settings when the mode is active.",
+    "faq": [
+      {
+        "q": "Does this affect existing bookmarks?",
+        "a": "Bookmarks stay synced; only browsing data is isolated."
+      },
+      {
+        "q": "Can I use it on mobile?",
+        "a": "The feature is currently desktop‑only."
+      },
+      {
+        "q": "Is it compatible with incognito?",
+        "a": "It replaces incognito for local‑only sessions."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/privacy community threads",
+        "url": "https://www.reddit.com/r/privacy/"
+      },
+      {
+        "label": "Search interest: \"password manager setup\"",
+        "url": "https://duckduckgo.com/?q=password%20manager%20setup"
+      }
+    ],
+    "tags": [
+      "chrome",
+      "privacy-mode"
+    ],
+    "publishedAt": "2026-11-20T05:16:02.737Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "offline-sync-password-manager",
+    "title": "Bitwarden’s Offline Sync Option",
+    "category": "Passwords",
+    "dek": "Bitwarden now lets you sync vaults between devices without touching the cloud.",
+    "takeaway": "Use offline sync to keep passwords out of remote servers.",
+    "whatHappened": "The open‑source manager introduced a peer‑to‑peer sync method that encrypts data locally and transfers it over the local network. Users can enable it in settings and choose which devices to pair.",
+    "whyItMatters": "Even encrypted cloud storage can be a target; keeping vaults off the internet eliminates that risk. It also gives control over when and where vault data travels.",
+    "howToThink": "Set up a trusted home network, enable offline sync, and treat the vault as a local file you move manually if you need remote access. Combine with a strong master password.",
+    "pros": [
+      "Zero cloud exposure",
+      "Open‑source code",
+      "Simple UI"
+    ],
+    "cons": [
+      "Requires devices on same network",
+      "No automatic backup",
+      "Limited to Bitwarden clients"
+    ],
+    "watchOut": "If you lose a device, you must have another copy of the vault to recover.",
+    "faq": [
+      {
+        "q": "Can I still use cloud sync?",
+        "a": "Yes, offline sync is optional and can coexist."
+      },
+      {
+        "q": "What encryption is used?",
+        "a": "Standard end‑to‑end AES‑256 encryption."
+      },
+      {
+        "q": "Does it work over Wi‑Fi only?",
+        "a": "It works over any local network, including Ethernet."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/cybersecurity community threads",
+        "url": "https://www.reddit.com/r/cybersecurity/"
+      },
+      {
+        "label": "Search interest: \"privacy browser comparison\"",
+        "url": "https://duckduckgo.com/?q=privacy%20browser%20comparison"
+      }
+    ],
+    "tags": [
+      "bitwarden",
+      "offline-sync"
+    ],
+    "publishedAt": "2026-11-18T16:16:02.737Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "hardware-wallet-firmware-patch",
+    "title": "Ledger’s Firmware Patch Closes USB‑Debug Leak",
+    "category": "Devices",
+    "dek": "A recent firmware update blocks a USB debugging channel that could expose keys.",
+    "takeaway": "Install the patch to stop accidental key leakage via USB.",
+    "whatHappened": "Security researchers disclosed a debug interface that could be triggered when the device was connected to a compromised computer. Ledger released a firmware version that disables the interface by default.",
+    "whyItMatters": "A hidden debug channel can allow an attacker to extract seed data without user interaction. Closing it restores the hardware wallet’s air‑gap promise.",
+    "howToThink": "Keep firmware current, verify signatures, and only connect the wallet to trusted machines. Use a separate, clean USB port for transactions.",
+    "pros": [
+      "No extra attack vector",
+      "Verified signature",
+      "Simple update"
+    ],
+    "cons": [
+      "Requires device reboot",
+      "May break custom scripts",
+      "Only for newer models"
+    ],
+    "watchOut": "Never install firmware from unofficial sources; a malicious build could reinstate the leak.",
+    "faq": [
+      {
+        "q": "Do I need to reset my wallet?",
+        "a": "No, the update applies in place."
+      },
+      {
+        "q": "Is the device still usable with older computers?",
+        "a": "Yes, but only after the update is applied."
+      },
+      {
+        "q": "Can the debug channel be re‑enabled?",
+        "a": "Only by flashing unsigned firmware, which is not recommended."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/opsec community threads",
+        "url": "https://www.reddit.com/r/opsec/"
+      },
+      {
+        "label": "Search interest: \"home network security basics\"",
+        "url": "https://duckduckgo.com/?q=home%20network%20security%20basics"
+      }
+    ],
+    "tags": [
+      "ledger",
+      "firmware"
+    ],
+    "publishedAt": "2026-11-17T03:16:02.737Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "ai-phishing-trend",
+    "title": "AI‑Generated Phishing Hits New Sophistication",
+    "category": "Threats",
+    "dek": "Machine‑generated emails now mimic personal writing styles, making detection harder.",
+    "takeaway": "Treat unexpected requests with extra scrutiny, regardless of how natural they sound.",
+    "whatHappened": "Adversaries are leveraging publicly available language models to craft emails that match a target’s prior correspondence. The emails include realistic salutations and context clues.",
+    "whyItMatters": "Traditional spam filters rely on generic patterns; AI can evade them by producing human‑like text. Users may trust the content and click malicious links.",
+    "howToThink": "Verify requests through a separate channel, especially for financial or credential actions. Use DMARC and anti‑spoofing headers, and keep security awareness training up to date.",
+    "pros": [
+      "Can be caught by behavior analysis",
+      "Raises awareness of phishing",
+      "Stimulates better filters"
+    ],
+    "cons": [
+      "Harder for automated filters",
+      "May increase user fatigue",
+      "Requires more manual checks"
+    ],
+    "watchOut": "Don’t assume an email is safe just because it reads fluently.",
+    "faq": [
+      {
+        "q": "Can AI create attachments?",
+        "a": "Yes, it can embed malicious files, so scan all attachments."
+      },
+      {
+        "q": "Are there tools to detect AI‑written text?",
+        "a": "Some services analyze linguistic patterns, but they are not foolproof."
+      },
+      {
+        "q": "Should I block all unknown senders?",
+        "a": "Blocking everything is impractical; focus on verification steps."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/privacy community threads",
+        "url": "https://www.reddit.com/r/privacy/"
+      },
+      {
+        "label": "Search interest: \"password manager setup\"",
+        "url": "https://duckduckgo.com/?q=password%20manager%20setup"
+      }
+    ],
+    "tags": [
+      "phishing",
+      "ai"
+    ],
+    "publishedAt": "2026-11-15T14:16:02.737Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "open-source-router-firmware",
+    "title": "OpenWrt 23.05 Brings Built‑In DNS‑Over‑HTTPS",
+    "category": "Devices",
+    "dek": "The latest OpenWrt release includes native DoH, boosting home network privacy.",
+    "takeaway": "Enable DoH in your router to encrypt DNS queries without extra software.",
+    "whatHappened": "OpenWrt 23.05 added a lightweight DoH client that can be configured via LuCI. It routes all DNS traffic through encrypted providers while preserving local DNS overrides.",
+    "whyItMatters": "Unencrypted DNS reveals every site you visit to your ISP and any on‑path observer. Encrypting at the router protects all devices, including those without native DoH support.",
+    "howToThink": "Pick a trustworthy DoH provider, enable the client, and test with a DNS leak tool. Keep the firmware updated to receive security patches.",
+    "pros": [
+      "Network‑wide encryption",
+      "No extra client needed",
+      "Open source"
+    ],
+    "cons": [
+      "Configuration can be tricky",
+      "May increase latency slightly",
+      "Depends on provider reliability"
+    ],
+    "watchOut": "Misconfiguring DNS can break internet access for all devices on the network.",
+    "faq": [
+      {
+        "q": "Can I still use local DNS entries?",
+        "a": "Yes, static entries are respected alongside DoH."
+      },
+      {
+        "q": "Does it work with IPv6?",
+        "a": "DoH supports IPv6 when the provider offers it."
+      },
+      {
+        "q": "Is there a performance impact?",
+        "a": "The impact is minimal for typical home use."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/cybersecurity community threads",
+        "url": "https://www.reddit.com/r/cybersecurity/"
+      },
+      {
+        "label": "Search interest: \"privacy browser comparison\"",
+        "url": "https://duckduckgo.com/?q=privacy%20browser%20comparison"
+      }
+    ],
+    "tags": [
+      "openwrt",
+      "doh"
+    ],
+    "publishedAt": "2026-11-14T01:16:02.737Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "android-12-eol-privacy",
+    "title": "Android 12 Reaches End‑of‑Life – What It Means for Privacy",
+    "category": "Threats",
+    "dek": "When Google stops updates, devices become vulnerable to unpatched exploits.",
+    "takeaway": "Switch to a supported OS or hardened custom ROM to stay protected.",
+    "whatHappened": "Google announced that Android 12 will no longer receive security patches after a set date. Devices still running the version will not get fixes for newly discovered flaws.",
+    "whyItMatters": "Unpatched vulnerabilities can be exploited for data exfiltration, ransomware, or remote control. Privacy‑focused users need an actively maintained platform.",
+    "howToThink": "Check your device’s update status; if unsupported, consider installing a privacy‑centric ROM like GrapheneOS or LineageOS, and keep it updated.",
+    "pros": [
+      "Longer security support",
+      "Reduced attack surface",
+      "Community‑driven patches"
+    ],
+    "cons": [
+      "Installation complexity",
+      "Potential loss of some proprietary features",
+      "May void warranty"
+    ],
+    "watchOut": "Flashing a custom ROM without verifying signatures can introduce malicious code.",
+    "faq": [
+      {
+        "q": "Can I still receive Google Play updates?",
+        "a": "Play services may still work, but core OS patches stop."
+      },
+      {
+        "q": "Is GrapheneOS available for all phones?",
+        "a": "It supports a limited set of devices, mainly Pixel models."
+      },
+      {
+        "q": "Do custom ROMs affect battery life?",
+        "a": "They can improve or reduce battery life depending on configuration."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/opsec community threads",
+        "url": "https://www.reddit.com/r/opsec/"
+      },
+      {
+        "label": "Search interest: \"home network security basics\"",
+        "url": "https://duckduckgo.com/?q=home%20network%20security%20basics"
+      }
+    ],
+    "tags": [
+      "android",
+      "eol"
+    ],
+    "publishedAt": "2026-11-12T12:16:02.737Z",
+    "readMinutes": 2
+  }
+]

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Private Stack Brief</title>
+    <link>https://beyondmythos.com/sites/private-stack-brief-2/</link>
+    <description>Fresh takes for privacy-conscious consumers and security hobbyists.</description>
+    <item>
+      <title>Chrome’s New “Local‑Only” Privacy Mode</title>
+      <link>https://beyondmythos.com/sites/private-stack-brief-2/posts/browser-privacy-mode-2024.html</link>
+      <guid>https://beyondmythos.com/sites/private-stack-brief-2/posts/browser-privacy-mode-2024.html</guid>
+      <pubDate>Fri, 20 Nov 2026 05:16:02 GMT</pubDate>
+      <description>Chrome adds a mode that keeps browsing data off the cloud, ideal for the privacy‑first user.</description>
+    </item>
+    <item>
+      <title>Bitwarden’s Offline Sync Option</title>
+      <link>https://beyondmythos.com/sites/private-stack-brief-2/posts/offline-sync-password-manager.html</link>
+      <guid>https://beyondmythos.com/sites/private-stack-brief-2/posts/offline-sync-password-manager.html</guid>
+      <pubDate>Wed, 18 Nov 2026 16:16:02 GMT</pubDate>
+      <description>Bitwarden now lets you sync vaults between devices without touching the cloud.</description>
+    </item>
+    <item>
+      <title>Ledger’s Firmware Patch Closes USB‑Debug Leak</title>
+      <link>https://beyondmythos.com/sites/private-stack-brief-2/posts/hardware-wallet-firmware-patch.html</link>
+      <guid>https://beyondmythos.com/sites/private-stack-brief-2/posts/hardware-wallet-firmware-patch.html</guid>
+      <pubDate>Tue, 17 Nov 2026 03:16:02 GMT</pubDate>
+      <description>A recent firmware update blocks a USB debugging channel that could expose keys.</description>
+    </item>
+    <item>
+      <title>AI‑Generated Phishing Hits New Sophistication</title>
+      <link>https://beyondmythos.com/sites/private-stack-brief-2/posts/ai-phishing-trend.html</link>
+      <guid>https://beyondmythos.com/sites/private-stack-brief-2/posts/ai-phishing-trend.html</guid>
+      <pubDate>Sun, 15 Nov 2026 14:16:02 GMT</pubDate>
+      <description>Machine‑generated emails now mimic personal writing styles, making detection harder.</description>
+    </item>
+    <item>
+      <title>OpenWrt 23.05 Brings Built‑In DNS‑Over‑HTTPS</title>
+      <link>https://beyondmythos.com/sites/private-stack-brief-2/posts/open-source-router-firmware.html</link>
+      <guid>https://beyondmythos.com/sites/private-stack-brief-2/posts/open-source-router-firmware.html</guid>
+      <pubDate>Sat, 14 Nov 2026 01:16:02 GMT</pubDate>
+      <description>The latest OpenWrt release includes native DoH, boosting home network privacy.</description>
+    </item>
+    <item>
+      <title>Android 12 Reaches End‑of‑Life – What It Means for Privacy</title>
+      <link>https://beyondmythos.com/sites/private-stack-brief-2/posts/android-12-eol-privacy.html</link>
+      <guid>https://beyondmythos.com/sites/private-stack-brief-2/posts/android-12-eol-privacy.html</guid>
+      <pubDate>Thu, 12 Nov 2026 12:16:02 GMT</pubDate>
+      <description>When Google stops updates, devices become vulnerable to unpatched exploits.</description>
+    </item>
+  </channel>
+</rss>

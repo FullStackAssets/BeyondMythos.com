@@ -3013,8 +3013,29 @@
       "streamUrl": "https://beyondmythos.com/",
       "elevenlabsAgentId": null,
       "lastPostAt": "2026-11-20T04:45:49.734Z"
+    },
+    {
+      "id": "private-stack-brief-2-1795151762737",
+      "slug": "private-stack-brief-2",
+      "name": "Private Stack Brief",
+      "tagline": "Fresh takes for privacy-conscious consumers and security hobbyists.",
+      "nicheId": "privacy-security",
+      "audience": "privacy-conscious consumers and security hobbyists",
+      "categories": [
+        "Browsers",
+        "Passwords",
+        "Devices",
+        "Threats"
+      ],
+      "url": "https://beyondmythos.com/sites/private-stack-brief-2/",
+      "localUrl": "https://beyondmythos.com/sites/private-stack-brief-2/",
+      "design": "cinema",
+      "postCount": 6,
+      "createdAt": "2026-11-20T05:15:53.563Z",
+      "streamUrl": "https://beyondmythos.com/",
+      "elevenlabsAgentId": null
     }
   ],
-  "lastGeneratedAt": "2026-11-20T04:15:53.292Z",
+  "lastGeneratedAt": "2026-11-20T05:15:53.563Z",
   "lastPostRunAt": "2026-11-20T04:45:49.743Z"
 }
