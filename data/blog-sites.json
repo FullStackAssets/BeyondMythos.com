@@ -2925,8 +2925,29 @@
       "streamUrl": "https://beyondmythos.com/",
       "elevenlabsAgentId": null,
       "lastPostAt": "2026-11-20T00:45:49.368Z"
+    },
+    {
+      "id": "layer-lines-3-1795137345821",
+      "slug": "layer-lines-3",
+      "name": "Layer Lines",
+      "tagline": "Fresh takes for home 3D-printing hobbyists.",
+      "nicheId": "3d-printing",
+      "audience": "home 3D-printing hobbyists",
+      "categories": [
+        "Calibration",
+        "Filament",
+        "Design",
+        "Upgrades"
+      ],
+      "url": "https://beyondmythos.com/sites/layer-lines-3/",
+      "localUrl": "https://beyondmythos.com/sites/layer-lines-3/",
+      "design": "prism",
+      "postCount": 6,
+      "createdAt": "2026-11-20T01:15:45.670Z",
+      "streamUrl": "https://beyondmythos.com/",
+      "elevenlabsAgentId": null
     }
   ],
-  "lastGeneratedAt": "2026-11-20T00:15:30.009Z",
+  "lastGeneratedAt": "2026-11-20T01:15:45.670Z",
   "lastPostRunAt": "2026-11-20T00:45:49.389Z"
 }

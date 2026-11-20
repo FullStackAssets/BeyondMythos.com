@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Layer Lines</title>
+    <link>https://beyondmythos.com/sites/layer-lines-3/</link>
+    <description>Fresh takes for home 3D-printing hobbyists.</description>
+    <item>
+      <title>The state of Calibration in 2026</title>
+      <link>https://beyondmythos.com/sites/layer-lines-3/posts/state-of-calibration.html</link>
+      <guid>https://beyondmythos.com/sites/layer-lines-3/posts/state-of-calibration.html</guid>
+      <pubDate>Fri, 20 Nov 2026 01:15:45 GMT</pubDate>
+      <description>A field report on calibration: where things stand, and what home 3D-printing hobbyists should do next.</description>
+    </item>
+    <item>
+      <title>Starter guide: Filament without the overwhelm</title>
+      <link>https://beyondmythos.com/sites/layer-lines-3/posts/starter-guide-filament.html</link>
+      <guid>https://beyondmythos.com/sites/layer-lines-3/posts/starter-guide-filament.html</guid>
+      <pubDate>Wed, 18 Nov 2026 12:15:45 GMT</pubDate>
+      <description>A practical on-ramp to filament for home 3D-printing hobbyists — one repeatable workflow, no gear debt.</description>
+    </item>
+    <item>
+      <title>&quot;3d print stringing fix&quot; — separating signal from noise</title>
+      <link>https://beyondmythos.com/sites/layer-lines-3/posts/signal-vs-noise-3d-print-stringing-fix.html</link>
+      <guid>https://beyondmythos.com/sites/layer-lines-3/posts/signal-vs-noise-3d-print-stringing-fix.html</guid>
+      <pubDate>Mon, 16 Nov 2026 23:15:45 GMT</pubDate>
+      <description>Thousands of people search &quot;3d print stringing fix&quot; every month. Most of what they find is recycled. Here is what holds up.</description>
+    </item>
+    <item>
+      <title>Why home 3D-printing hobbyists are rethinking Design</title>
+      <link>https://beyondmythos.com/sites/layer-lines-3/posts/rethinking-design.html</link>
+      <guid>https://beyondmythos.com/sites/layer-lines-3/posts/rethinking-design.html</guid>
+      <pubDate>Sun, 15 Nov 2026 10:15:45 GMT</pubDate>
+      <description>A quiet shift is underway in how home 3D-printing hobbyists approach design — less maximalism, more maintenance.</description>
+    </item>
+    <item>
+      <title>Upgrades on a budget: what actually matters</title>
+      <link>https://beyondmythos.com/sites/layer-lines-3/posts/budget-upgrades.html</link>
+      <guid>https://beyondmythos.com/sites/layer-lines-3/posts/budget-upgrades.html</guid>
+      <pubDate>Fri, 13 Nov 2026 21:15:45 GMT</pubDate>
+      <description>Where money changes outcomes in upgrades — and the line items that are pure vanity.</description>
+    </item>
+    <item>
+      <title>What to watch next in Filament: five quiet shifts</title>
+      <link>https://beyondmythos.com/sites/layer-lines-3/posts/what-to-watch-filament.html</link>
+      <guid>https://beyondmythos.com/sites/layer-lines-3/posts/what-to-watch-filament.html</guid>
+      <pubDate>Thu, 12 Nov 2026 08:15:45 GMT</pubDate>
+      <description>Ignore the headlines — these are the slower currents reshaping filament for home 3D-printing hobbyists.</description>
+    </item>
+  </channel>
+</rss>
