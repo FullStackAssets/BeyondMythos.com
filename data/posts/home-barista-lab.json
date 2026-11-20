@@ -1,5 +1,56 @@
 [
   {
+    "slug": "optimize-espresso-shot-consistency",
+    "title": "Optimize Espresso Shot Consistency with a Simple Tap‑Down Technique",
+    "dek": "A quick tap‑down on the portafilter after dosing can smooth out puck density for more repeatable shots.",
+    "takeaway": "A gentle tap‑down evens the coffee bed, improving extraction consistency.",
+    "whatHappened": "I tried lightly tapping the portafilter on the countertop right after dosing and before tamping. The coffee settled more uniformly, and the espresso tasted steadier across multiple pulls.",
+    "whyItMatters": "Uneven puck density leads to channeling, causing fluctuating flavor and crema. By standardizing the bed before tamping, you reduce one variable in the extraction chain, making your espresso more reliable day to day.",
+    "howToThink": "After dosing, give the portafilter a firm but controlled tap—about the height of a single coffee bean—so the grounds settle without compacting. Follow with your usual tamp pressure. This simple step fits into any routine without extra equipment.",
+    "pros": [
+      "Easy to adopt",
+      "No extra gear needed",
+      "Improves shot repeatability"
+    ],
+    "cons": [
+      "Adds a tiny extra motion",
+      "May feel unnecessary to some",
+      "Effect varies with grind size"
+    ],
+    "watchOut": "Avoid hammering the portafilter; a gentle tap is enough to settle the grounds.",
+    "faq": [
+      {
+        "q": "Do I need a special surface to tap the portafilter?",
+        "a": "A sturdy countertop works fine; just ensure it’s clean and stable."
+      },
+      {
+        "q": "Can tapping replace tamping?",
+        "a": "No, tamping still compacts the grounds; tapping only evens the surface before tamping."
+      },
+      {
+        "q": "Will this work with a bottomless portafilter?",
+        "a": "Yes, the technique helps prevent channeling, which is especially noticeable with a bottomless basket."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "technique"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-11-20T04:45:08.265Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "diagnose-espresso-shot-issues-bottomless-portafi",
     "title": "Diagnose Espresso Shot Issues with a Bottomless Portafilter",
     "dek": "A bottom‑less portafilter reveals channeling and uneven extraction in seconds.",

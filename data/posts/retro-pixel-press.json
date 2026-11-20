@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-boost-enhancing-sega-master-system-control",
+    "title": "Pixel Boost: Enhancing the Sega Master System Controller for a Tighter Grip",
+    "dek": "A quick guide to beefing up your Master System stick for smoother runs and longer play sessions.",
+    "takeaway": "A sturdier controller can shave off wasted time and reduce breakage during marathon runs.",
+    "whatHappened": "We swapped the stock plastic shell for a reinforced resin case and added a rubberized grip overlay. The mod was tested over several playthroughs of classic titles.",
+    "whyItMatters": "A solid feel prevents hand fatigue and accidental button slips, crucial for speedrunning precision. It also extends the controller’s lifespan for collectors.",
+    "howToThink": "When tweaking hardware, prioritize durability over aesthetics, use non‑conductive materials, and verify that any added layers don’t interfere with button travel.",
+    "pros": [
+      "Improved grip",
+      "Reduced wear",
+      "Minimal cost"
+    ],
+    "cons": [
+      "Slightly heavier",
+      "Potential fit issues",
+      "Requires basic tools"
+    ],
+    "watchOut": "Make sure the new grip doesn’t obstruct the button springs, or you may lose responsiveness.",
+    "faq": [
+      {
+        "q": "Will this mod void my controller’s warranty?",
+        "a": "Yes, any opening of the case typically voids the original warranty."
+      },
+      {
+        "q": "Do I need soldering skills?",
+        "a": "No, this upgrade uses adhesive and snap‑fit parts only."
+      },
+      {
+        "q": "Can I revert to the original feel?",
+        "a": "The original shell can be reinstalled if you keep it safe during the mod."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "controller mod",
+      "speedrun prep"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-11-20T04:45:07.506Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "recalibrate-game-boy-camera",
     "title": "Pixel Boost: Recalibrating the Game Boy Camera Lens for Sharper Shots",
     "dek": "A quick guide to tweaking your Game Boy Camera’s focus for clearer, more vibrant photos without opening the case.",

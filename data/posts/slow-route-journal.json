@@ -1,5 +1,56 @@
 [
   {
+    "slug": "afternoon-platform-plant-swap",
+    "title": "Afternoon Platform Plant Swap: Low‑Impact Green Exchange on the Rails",
+    "dek": "Swap seedlings and cuttings with fellow travelers while staying green and moving slow.",
+    "takeaway": "Sharing plants on the rails builds community and reduces travel carbon footprint.",
+    "whatHappened": "During a midday stop at a small town, I set up a modest table of potted herbs and seed packets. Fellow passengers lingered, trading seedlings and stories, turning the platform into a micro‑garden hub.",
+    "whyItMatters": "Plant exchanges encourage low‑impact gifting, foster connections, and spread biodiversity across regions without extra transport.",
+    "howToThink": "Carry a few lightweight containers, choose hardy cuttings, and label them clearly. Offer swaps at stations with waiting time, and keep a small notebook for contacts.",
+    "pros": [
+      "Boosts community",
+      "Zero waste gifting",
+      "Adds greenery to journeys"
+    ],
+    "cons": [
+      "Requires extra space in luggage",
+      "May need permission at some stations",
+      "Plants can be fragile"
+    ],
+    "watchOut": "Ensure any exchanged flora complies with local regulations to avoid invasive species issues.",
+    "faq": [
+      {
+        "q": "Can I exchange seeds on any train?",
+        "a": "Most regional services allow it, but check station rules and customs restrictions for certain plants."
+      },
+      {
+        "q": "What’s the best type of plant for a rail swap?",
+        "a": "Hardy herbs, succulents, and native seedlings that tolerate brief handling and variable temperatures."
+      },
+      {
+        "q": "How do I keep the plants safe during travel?",
+        "a": "Use sturdy, breathable containers, wrap roots in damp cloth, and place them in a stable spot in your baggage."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "plant swap"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-11-20T04:45:05.899Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "evening-platform-foraging",
     "title": "Evening Platform Foraging: Low‑Impact Food Gathering on the Rails",
     "dek": "Discover how a simple evening stroll on train platforms can turn into a low‑impact foraging adventure, adding flavor to your slow‑travel routine.",

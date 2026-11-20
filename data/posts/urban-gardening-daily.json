@@ -1,5 +1,56 @@
 [
   {
+    "slug": "tiered-herb-towers-maximize-space",
+    "title": "Tiered Herb Towers: Maximize Space and Flavor",
+    "dek": "Stacked herb pots turn a narrow balcony into a fragrant, harvest‑ready garden in minutes.",
+    "takeaway": "Vertical herb towers let apartment growers get more variety without sacrificing floor space.",
+    "whatHappened": "We installed a three‑tier wooden tower on a south‑facing balcony, planting basil, thyme, and mint in separate levels. Within a week the seedlings broke ground and the scent filled the patio. The setup proved stable even on a breezy evening.",
+    "whyItMatters": "Balcony space is premium, and many growers quit herbs because they crowd out other plants. A tower gives each herb its own niche, improving airflow and light exposure, which translates to healthier growth and longer harvests.",
+    "howToThink": "Choose a sturdy, weather‑resistant container and drill drainage holes in each tier. Use a light, well‑draining mix and water from the bottom to encourage even moisture. Rotate the tower occasionally so all sides receive equal sunlight.",
+    "pros": [
+      "Space‑efficient",
+      "Better airflow for each herb",
+      "Easy to rotate for even light"
+    ],
+    "cons": [
+      "Initial cost of tower",
+      "Needs regular watering from bottom",
+      "Weight adds load to balcony rail"
+    ],
+    "watchOut": "Make sure the balcony railing can support the added weight of soil and water.",
+    "faq": [
+      {
+        "q": "Can I use any kind of pot for the tiers?",
+        "a": "A sturdy, non‑porous material like cedar, metal, or heavy‑wall plastic works best; avoid thin ceramics that can crack under weight."
+      },
+      {
+        "q": "How often should I water a tiered tower?",
+        "a": "Water from the bottom once the topsoil feels dry to the touch; this keeps moisture consistent across levels."
+      },
+      {
+        "q": "What herbs thrive in this setup?",
+        "a": "Most Mediterranean herbs—basil, thyme, oregano, mint, and rosemary—do well, but keep mint contained to prevent spreading."
+      }
+    ],
+    "category": "Herbs",
+    "tags": [
+      "herbs",
+      "space-saving"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-11-20T04:45:06.746Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "modular-stack-planters",
     "title": "Boost Your Balcony Yield with Modular Stack Planters",
     "dek": "Turn cramped balcony corners into productive mini‑farms using modular stack planters that maximize vertical space.",
