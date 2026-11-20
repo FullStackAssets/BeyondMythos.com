@@ -1,0 +1,308 @@
+[
+  {
+    "slug": "hidden-garage-escape",
+    "title": "Hidden Garage Escape Routes",
+    "category": "Routes",
+    "dek": "Discover shortcuts through city garages that shave minutes off your commute.",
+    "takeaway": "Use underutilized garage pathways to avoid traffic snarls.",
+    "whatHappened": "A commuter noticed a network of municipal garages with pedestrian doors that open during off‑peak hours, providing a direct link between two busy districts. Testing the route cut the usual ride time without adding complexity.",
+    "whyItMatters": "Time saved translates to less exposure to traffic stress and more predictable arrival times. It also reduces the load on main streets, easing congestion for everyone.",
+    "howToThink": "Map your start and end points, then look for nearby public or commercial garages that allow bike access. Verify opening hours and any security rules before relying on them.",
+    "pros": [
+      "Faster",
+      "Low traffic",
+      "Scenic"
+    ],
+    "cons": [
+      "Limited hours",
+      "Potential security checks",
+      "May be unfamiliar"
+    ],
+    "watchOut": "Make sure the garage permits cyclists and that doors remain unlocked during your commute.",
+    "faq": [
+      {
+        "q": "Are public garages generally bike‑friendly?",
+        "a": "Many allow cyclists during off‑peak hours, but policies vary by city."
+      },
+      {
+        "q": "Do I need a lock for the garage entrance?",
+        "a": "A sturdy lock is advisable in case doors stay open longer than expected."
+      },
+      {
+        "q": "Can I use the route at night?",
+        "a": "Check lighting and security presence before riding after dark."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/bikecommuting community threads",
+        "url": "https://www.reddit.com/r/bikecommuting/"
+      },
+      {
+        "label": "Search interest: \"bike commute gear\"",
+        "url": "https://duckduckgo.com/?q=bike%20commute%20gear"
+      }
+    ],
+    "tags": [
+      "shortcuts",
+      "urban‑navigation"
+    ],
+    "publishedAt": "2026-11-20T04:16:01.615Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "rain-ready-brake-maintenance",
+    "title": "Rain‑Ready Brake Maintenance",
+    "category": "Maintenance",
+    "dek": "Keep your brakes reliable when wet streets turn slick.",
+    "takeaway": "Regularly inspect pads and cables to maintain stopping power in rain.",
+    "whatHappened": "A commuter slipped on a wet corner after noticing reduced brake response on a rainy Thursday. After a quick pad check, they discovered worn surface that needed replacement.",
+    "whyItMatters": "Brakes that fade in wet conditions increase the risk of collisions, especially at intersections. Maintaining them prevents sudden loss of control.",
+    "howToThink": "Inspect pad thickness monthly, clean rotors with a rag, and test lever feel before rides in forecasted rain. Replace any pad that shows uneven wear.",
+    "pros": [
+      "Improved safety",
+      "Consistent feel",
+      "Low cost"
+    ],
+    "cons": [
+      "Time to check",
+      "Potential parts cost",
+      "Requires basic tools"
+    ],
+    "watchOut": "Never ride with contaminated or glazed pads; they can dramatically reduce friction.",
+    "faq": [
+      {
+        "q": "How often should I clean my rotors?",
+        "a": "A quick wipe after each wet ride helps prevent buildup."
+      },
+      {
+        "q": "Can I use any bike grease on brake cables?",
+        "a": "Use a light, non‑sticky grease designed for cables to avoid slippage."
+      },
+      {
+        "q": "Is it okay to ride with slightly worn pads?",
+        "a": "If the pad is below the manufacturer’s minimum thickness, replace it promptly."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/bicycling community threads",
+        "url": "https://www.reddit.com/r/bicycling/"
+      },
+      {
+        "label": "Search interest: \"urban cycling safety\"",
+        "url": "https://duckduckgo.com/?q=urban%20cycling%20safety"
+      }
+    ],
+    "tags": [
+      "brakes",
+      "wet‑weather"
+    ],
+    "publishedAt": "2026-11-18T15:16:01.615Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "smart-helmet-tech",
+    "title": "Smart Helmet Tech",
+    "category": "Gear",
+    "dek": "New heads‑up displays give commuters glance‑at alerts without looking down.",
+    "takeaway": "Integrated HUDs can boost awareness but need careful setup.",
+    "whatHappened": "A rider tried a helmet with a built‑in navigation HUD on a busy downtown route. The device projected turn arrows onto the visor, letting the rider keep eyes forward.",
+    "whyItMatters": "Eyes‑off‑the‑road distractions are a major safety issue; HUDs aim to reduce that risk. However, over‑reliance can create new blind spots if the display is cluttered.",
+    "howToThink": "Start with minimal notifications—speed and turn prompts—then adjust brightness for daylight. Test the helmet in low‑traffic areas before full deployment.",
+    "pros": [
+      "Eyes forward",
+      "Custom alerts",
+      "Integrated"
+    ],
+    "cons": [
+      "Battery drain",
+      "Potential glare",
+      "Higher price"
+    ],
+    "watchOut": "Ensure the HUD does not obscure peripheral vision, especially in traffic.",
+    "faq": [
+      {
+        "q": "Does the HUD work in rain?",
+        "a": "Most units are water‑resistant, but heavy spray can affect visibility."
+      },
+      {
+        "q": "Can I pair it with my phone?",
+        "a": "Bluetooth pairing is common for navigation and calls."
+      },
+      {
+        "q": "Is the added weight noticeable?",
+        "a": "Weight is modest; most riders adapt quickly."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/whichbike community threads",
+        "url": "https://www.reddit.com/r/whichbike/"
+      },
+      {
+        "label": "Search interest: \"commuter bike maintenance\"",
+        "url": "https://duckduckgo.com/?q=commuter%20bike%20maintenance"
+      }
+    ],
+    "tags": [
+      "tech",
+      "safety"
+    ],
+    "publishedAt": "2026-11-17T02:16:01.615Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "bike-share-station-hacks",
+    "title": "Bike‑Share Station Hacks",
+    "category": "Routes",
+    "dek": "Turn public bike‑share docks into reliable waypoints for multi‑modal trips.",
+    "takeaway": "Using dock locations as anchor points simplifies planning and adds flexibility.",
+    "whatHappened": "A commuter combined a personal bike with a city bike‑share dock near work, swapping bikes to avoid a steep hill. The hybrid approach kept effort low and arrival time steady.",
+    "whyItMatters": "Strategic dock usage lets riders avoid terrain challenges and extend range without extra fatigue. It also integrates seamlessly with public transit.",
+    "howToThink": "Map dock locations along your route, note elevation changes, and decide where a swap would be beneficial. Keep a credit balance for spontaneous swaps.",
+    "pros": [
+      "Flexibility",
+      "Reduced effort",
+      "Transit integration"
+    ],
+    "cons": [
+      "Dock availability",
+      "Potential fees",
+      "Need to carry lock"
+    ],
+    "watchOut": "Check dock real‑time status; an empty dock can force a detour.",
+    "faq": [
+      {
+        "q": "Do I need a subscription to swap bikes?",
+        "a": "Many systems allow pay‑as‑you‑go with a credit card."
+      },
+      {
+        "q": "Can I leave my personal bike at a dock?",
+        "a": "Only the system’s bikes are permitted in official docks."
+      },
+      {
+        "q": "What if the dock is full?",
+        "a": "Look for nearby alternative stations or ride to the next open one."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/bikecommuting community threads",
+        "url": "https://www.reddit.com/r/bikecommuting/"
+      },
+      {
+        "label": "Search interest: \"bike commute gear\"",
+        "url": "https://duckduckgo.com/?q=bike%20commute%20gear"
+      }
+    ],
+    "tags": [
+      "multi‑modal",
+      "dock‑strategy"
+    ],
+    "publishedAt": "2026-11-15T13:16:01.615Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "tire-pressure-quick-check",
+    "title": "Tire Pressure Quick Check",
+    "category": "Maintenance",
+    "dek": "A simple routine keeps rolling resistance low and puncture risk down.",
+    "takeaway": "Check pressure before each ride to maintain optimal performance.",
+    "whatHappened": "A rider felt a sluggish start on a flat‑topped road and discovered under‑inflated tires after a quick gauge check. Re‑inflating restored smooth rolling.",
+    "whyItMatters": "Proper pressure improves efficiency, handling, and reduces pinch flats on rough urban surfaces. Consistency also extends tire life.",
+    "howToThink": "Carry a compact hand pump or CO₂ cartridge, and learn the recommended pressure range for your tire width. Check pressure at the start and after long rides.",
+    "pros": [
+      "Better efficiency",
+      "Fewer flats",
+      "Longer tire life"
+    ],
+    "cons": [
+      "Carry pump",
+      "Need gauge",
+      "Pressure drops over time"
+    ],
+    "watchOut": "Avoid over‑inflating; a tire that feels hard may reduce grip on wet pavement.",
+    "faq": [
+      {
+        "q": "How often does pressure change?",
+        "a": "It can drop a few PSI over a day, especially in temperature shifts."
+      },
+      {
+        "q": "Can I use a floor pump at work?",
+        "a": "Yes, if you have space; a portable pump works anywhere."
+      },
+      {
+        "q": "What’s a safe pressure for city tires?",
+        "a": "Follow the range printed on the sidewall, typically 50‑70 psi for narrow road tires."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/bicycling community threads",
+        "url": "https://www.reddit.com/r/bicycling/"
+      },
+      {
+        "label": "Search interest: \"urban cycling safety\"",
+        "url": "https://duckduckgo.com/?q=urban%20cycling%20safety"
+      }
+    ],
+    "tags": [
+      "efficiency",
+      "flat‑prevention"
+    ],
+    "publishedAt": "2026-11-14T00:16:01.615Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "reflective-gear-budget-boost",
+    "title": "Reflective Gear on a Budget",
+    "category": "Gear",
+    "dek": "Boost visibility without breaking the bank using DIY reflective tricks.",
+    "takeaway": "Simple reflective tape and accessories can make you seen from a distance.",
+    "whatHappened": "A commuter added reflective strips to their jacket, pedals, and helmet after a near‑miss at dusk. The next evening, drivers reported seeing them earlier in the approach.",
+    "whyItMatters": "Visibility is the most effective crash‑avoidance tool for cyclists in low‑light conditions. Low‑cost upgrades make a big safety impact.",
+    "howToThink": "Identify high‑movement areas—edges of sleeves, shoe soles, bike frame—and apply tape that meets safety standards. Replace worn sections regularly.",
+    "pros": [
+      "Cheap",
+      "Easy install",
+      "Highly visible"
+    ],
+    "cons": [
+      "Tape wears",
+      "Limited color options",
+      "Needs periodic renewal"
+    ],
+    "watchOut": "Make sure the tape adheres well to fabric; loose strips can flap and distract.",
+    "faq": [
+      {
+        "q": "Is any tape okay?",
+        "a": "Choose tape labeled for bicycle safety, with strong adhesive."
+      },
+      {
+        "q": "Can I use spray paint?",
+        "a": "Reflective spray works, but may wear faster than tape."
+      },
+      {
+        "q": "How often should I replace it?",
+        "a": "When the surface looks dull or peels, typically after a few months of use."
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/whichbike community threads",
+        "url": "https://www.reddit.com/r/whichbike/"
+      },
+      {
+        "label": "Search interest: \"commuter bike maintenance\"",
+        "url": "https://duckduckgo.com/?q=commuter%20bike%20maintenance"
+      }
+    ],
+    "tags": [
+      "visibility",
+      "budget"
+    ],
+    "publishedAt": "2026-11-12T11:16:01.615Z",
+    "readMinutes": 2
+  }
+]

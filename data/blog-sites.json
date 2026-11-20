@@ -2991,8 +2991,29 @@
       "streamUrl": "https://beyondmythos.com/",
       "elevenlabsAgentId": null,
       "lastPostAt": "2026-11-20T03:45:47.291Z"
+    },
+    {
+      "id": "pedal-commute-notes-3-1795148161615",
+      "slug": "pedal-commute-notes-3",
+      "name": "Pedal Commute Notes",
+      "tagline": "Fresh takes for urban bike commuters and car-light riders.",
+      "nicheId": "bike-commuting",
+      "audience": "urban bike commuters and car-light riders",
+      "categories": [
+        "Routes",
+        "Safety",
+        "Maintenance",
+        "Gear"
+      ],
+      "url": "https://beyondmythos.com/sites/pedal-commute-notes-3/",
+      "localUrl": "https://beyondmythos.com/sites/pedal-commute-notes-3/",
+      "design": "moss",
+      "postCount": 6,
+      "createdAt": "2026-11-20T04:15:53.292Z",
+      "streamUrl": "https://beyondmythos.com/",
+      "elevenlabsAgentId": null
     }
   ],
-  "lastGeneratedAt": "2026-11-20T03:15:58.659Z",
+  "lastGeneratedAt": "2026-11-20T04:15:53.292Z",
   "lastPostRunAt": "2026-11-20T03:45:47.301Z"
 }
