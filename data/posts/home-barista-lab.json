@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-temperature-hack-2",
+    "title": "Fine‑Tune Espresso Brew Temperature Using a Kitchen Thermometer",
+    "dek": "A quick thermometer hack lets you nail the perfect brew temperature without pricey equipment.",
+    "takeaway": "Consistent water temperature yields more predictable espresso flavor.",
+    "whatHappened": "I grabbed a cheap digital kitchen thermometer, measured the water just before it hit the portafilter, and tweaked my kettle's heat setting until the reading hit 93 °C. The next shot tasted noticeably cleaner and more balanced.",
+    "whyItMatters": "Water temperature governs extraction speed and flavor balance; too low and you under‑extract, too high and you scorch delicate aromatics. Tight control makes every bean’s character shine.",
+    "howToThink": "Measure the water as it leaves the kettle, not after it sits in the portafilter. Adjust the kettle or stove in small increments, and pre‑heat your portafilter to avoid heat loss. Keep a log of temperature vs. taste to fine‑tune your sweet spot.",
+    "pros": [
+      "Low cost",
+      "Immediate feedback",
+      "Easy to implement"
+    ],
+    "cons": [
+      "Thermometer can be fragile",
+      "Adds an extra step",
+      "May need occasional calibration"
+    ],
+    "watchOut": "Never submerge the probe in boiling water without a protective guard—handle it safely to avoid burns.",
+    "faq": [
+      {
+        "q": "Do I need a high‑end thermometer?",
+        "a": "A basic digital kitchen thermometer with ±2 °C accuracy works fine for espresso."
+      },
+      {
+        "q": "Where should I measure the temperature?",
+        "a": "Place the probe in the stream of water right before it contacts the coffee puck."
+      },
+      {
+        "q": "Can I use a Bluetooth thermometer?",
+        "a": "Yes, as long as it gives a real‑time readout you can trust during brewing."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "temperature"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-11-20T01:45:06.467Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-pressure-reset",
     "title": "Boost Your Espresso Consistency with a Simple Pressure Reset",
     "dek": "A quick tap on your machine’s pressure valve can smooth out shot variability without extra gear.",

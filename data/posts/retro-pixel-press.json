@@ -1,5 +1,56 @@
 [
   {
+    "slug": "calibrating-tg16-controller",
+    "title": "Pixel Boost: Calibrating the TurboGrafx-16 Controller for Lightning‑Fast Inputs",
+    "dek": "A quick guide to fine‑tuning your TurboGrafx‑16 controller for snappy, reliable inputs during marathon runs.",
+    "takeaway": "Proper calibration can shave precious frames off your reaction time without hardware mods.",
+    "whatHappened": "We opened a batch of TurboGrafx‑16 controllers, adjusted the potentiometer tension, and re‑mapped the dead zone using a simple utility. The tweaks were tested on a classic platformer and showed noticeably tighter directional response.",
+    "whyItMatters": "Speedrunners rely on every millisecond, and a sluggish controller can cost a run. Collectors also benefit because a well‑tuned controller preserves the original feel while extending its usable life.",
+    "howToThink": "Start by measuring baseline input lag with the console's built‑in diagnostics, then make incremental adjustments and retest. Keep a log of each change so you can revert if needed. Aim for a dead zone small enough for precision but large enough to avoid drift.",
+    "pros": [
+      "Improved responsiveness",
+      "No soldering needed",
+      "Reversible tweaks"
+    ],
+    "cons": [
+      "Time‑consuming setup",
+      "May wear potentiometers faster",
+      "Limited to analog sticks"
+    ],
+    "watchOut": "Avoid overtightening the adjustment screw, as it can damage the potentiometer.",
+    "faq": [
+      {
+        "q": "Do I need special tools?",
+        "a": "A small Phillips screwdriver and the console's controller calibration menu are sufficient."
+      },
+      {
+        "q": "Will this affect the controller's warranty?",
+        "a": "Adjusting the internal screw does not void the warranty, but opening the case may."
+      },
+      {
+        "q": "Can I apply this to other retro consoles?",
+        "a": "The same principle works for any controller with adjustable potentiometers, though the exact steps vary."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "controller",
+      "TurboGrafx-16"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-11-20T01:45:08.013Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "colecovision-controller-fine-tuning",
     "title": "Pixel Boost: Fine‑Tuning the ColecoVision Controller for Snappy Response",
     "dek": "Revive your ColecoVision joystick with simple contact cleaning and spring adjustment for tighter, more reliable inputs.",

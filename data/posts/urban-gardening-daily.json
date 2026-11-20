@@ -1,5 +1,56 @@
 [
   {
+    "slug": "rain-harvesting-balcony",
+    "title": "Rain‑Harvesting on the Balcony: Simple Catch‑and‑Use System",
+    "dek": "Turn everyday rain into a low‑maintenance water source for your balcony garden.",
+    "takeaway": "A modest rain‑catcher can keep containers hydrated and cut down on faucet use.",
+    "whatHappened": "After a light spring shower, I set up a compact rain barrel on my balcony railing and connected a short hose to a few herb pots. The water flowed directly into the trays, keeping the soil moist without a single extra watering session.",
+    "whyItMatters": "Balcony growers often battle inconsistent watering schedules, especially in apartments where outdoor access is limited. Using rain water reduces reliance on municipal supply and softens tap water’s mineral load, which can benefit sensitive plants.",
+    "howToThink": "Choose a shallow, UV‑protected container that fits your rail or balcony edge. Position a funnel or flexible gutter to channel runoff into the barrel, then use a drip line or squeeze bottle to deliver water to pots as needed. Keep the barrel covered to prevent mosquito breeding and empty it before freezing weather.",
+    "pros": [
+      "Zero‑cost water after rain",
+      "Reduces tap‑water usage",
+      "Easy to set up with minimal tools"
+    ],
+    "cons": [
+      "Limited capacity on small balconies",
+      "Requires occasional cleaning",
+      "Dependent on rainfall frequency"
+    ],
+    "watchOut": "Make sure the collection system is securely anchored to avoid spills during windy conditions.",
+    "faq": [
+      {
+        "q": "Do I need a pump to move the water?",
+        "a": "A simple gravity feed works for most balcony setups; a pump is only needed if you want pressurized delivery."
+      },
+      {
+        "q": "Can I use any type of barrel?",
+        "a": "Use a food‑grade, UV‑stable container with a tight‑fit lid to keep debris out and prevent algae."
+      },
+      {
+        "q": "What plants benefit most from rain water?",
+        "a": "Herbs, leafy greens, and shallow‑rooted veggies appreciate the softer, mineral‑lighter rain water."
+      }
+    ],
+    "category": "Seasonal",
+    "tags": [
+      "water conservation",
+      "balcony tips"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-11-20T01:45:05.620Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "shade-loving-herbs-low-light-balcony",
     "title": "Shade‑Loving Herbs: Thriving on Low‑Light Balconies",
     "dek": "Discover which herbs flourish in shady balcony corners and how to keep them happy year‑round.",

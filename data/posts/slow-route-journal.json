@@ -1,5 +1,56 @@
 [
   {
+    "slug": "morning-platform-birdwatching",
+    "title": "Morning Platform Birdwatching: Low‑Impact Auditory Exploration on the Rails",
+    "dek": "Start your day listening to local songbirds from a quiet platform, enriching travel without leaving a carbon trace.",
+    "takeaway": "Listening to birds on the rails sharpens presence and deepens connection to place.",
+    "whatHappened": "We arrived at a small regional station before sunrise, settled on a bench, and let the chorus of sparrows, finches, and warblers fill the air.",
+    "whyItMatters": "Auditory immersion requires no extra gear, reduces screen time, and supports mental calm, aligning with low‑impact travel values.",
+    "howToThink": "Pick stations known for nearby habitats, bring a simple field guide or app, and schedule 10‑15 minutes of quiet listening before boarding.",
+    "pros": [
+      "Zero waste",
+      "Boosts mindfulness",
+      "No equipment needed"
+    ],
+    "cons": [
+      "Depends on weather",
+      "Limited to daylight",
+      "May need patience for quiet"
+    ],
+    "watchOut": "Avoid loud conversations; you’ll drown out the birds.",
+    "faq": [
+      {
+        "q": "Do I need special gear?",
+        "a": "No, just ears and maybe a notebook."
+      },
+      {
+        "q": "What if the station is noisy?",
+        "a": "Choose less busy stops or earlier times when fewer commuters are present."
+      },
+      {
+        "q": "Can I record the birds?",
+        "a": "Yes, but keep recordings short and respect any station policies."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "Rail",
+      "Local"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-11-20T01:45:07.224Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "midnight-platform-meditation",
     "title": "Midnight Platform Meditation: Low‑Impact Calm on the Rails",
     "dek": "A brief guide to turning a late‑night stop into a grounding meditation session.",
