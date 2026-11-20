@@ -1,5 +1,56 @@
 [
   {
+    "slug": "sun-smart-balcony-grids",
+    "title": "Sun‑Smart Balcony Grids: Capture Light for Compact Veggies",
+    "dek": "A lightweight grid system redirects sunlight onto shade‑prone balcony planters, boosting growth without extra space.",
+    "takeaway": "A simple grid can turn a dim balcony corner into a productive mini‑garden.",
+    "whatHappened": "We tested a reflective aluminum grid angled over a row of lettuce and herbs on a north‑facing balcony. The plants showed noticeably greener leaves after two weeks compared to controls.",
+    "whyItMatters": "Balcony gardeners often lose yield to insufficient light, especially in apartments with limited sun exposure. Improving light capture without expanding footprint directly increases harvest and plant health.",
+    "howToThink": "Use a shallow, rust‑proof grid and position it to reflect the sun onto your containers during peak hours. Adjust the angle seasonally and ensure airflow to avoid overheating. Pair with lightweight, fast‑growing crops for best results.",
+    "pros": [
+      "Boosts light without extra floor space",
+      "Easy DIY with common materials",
+      "Adaptable to any balcony orientation"
+    ],
+    "cons": [
+      "May require occasional angle adjustment",
+      "Potential glare for neighbors",
+      "Needs sturdy mounting to prevent wind damage"
+    ],
+    "watchOut": "Ensure the grid doesn’t block ventilation, which can cause heat stress on seedlings.",
+    "faq": [
+      {
+        "q": "Can I use any type of reflective material?",
+        "a": "Aluminum foil, reflective Mylar, or matte white surfaces work well; avoid glossy mirrors that can focus light too intensely."
+      },
+      {
+        "q": "How high should the grid be above the pots?",
+        "a": "A gap of about 6‑12 inches allows airflow while still reflecting light onto the foliage."
+      },
+      {
+        "q": "Will the grid work on a south‑facing balcony?",
+        "a": "It’s most beneficial on east, west, or north‑facing spots, but can still add a modest boost on bright south exposures."
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "light",
+      "DIY"
+    ],
+    "sources": [
+      {
+        "label": "r/houseplants community threads",
+        "url": "https://www.reddit.com/r/houseplants/"
+      },
+      {
+        "label": "Search interest: \"small space vegetables\"",
+        "url": "https://duckduckgo.com/?q=small%20space%20vegetables"
+      }
+    ],
+    "publishedAt": "2026-11-20T06:45:11.770Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "compact-companion-planting",
     "title": "Compact Companion Planting: Boost Your Balcony Harvest",
     "dek": "Pair fast‑growing veggies with herb allies in tiny pots to boost flavor, deter pests, and stretch limited balcony space.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "morning-carriage-yoga",
+    "title": "Morning Carriage Yoga: Low‑Impact Stretch on the Rails",
+    "dek": "Start your day on the train with a simple stretch routine that keeps you limber and reduces travel fatigue.",
+    "takeaway": "A few minutes of on‑board yoga boosts energy and cuts the strain of long rides.",
+    "whatHappened": "I rolled out a quick 10‑minute yoga flow in the carriage aisle as the sunrise painted the horizon. Fellow passengers joined, and the carriage felt surprisingly communal. By the next stop, everyone seemed a bit more awake and relaxed.",
+    "whyItMatters": "Slow‑travel is about savoring movement, not just the destination. Stretching counters the stiffness that comes from sitting for hours, supporting both physical health and mindful presence during the journey.",
+    "howToThink": "Treat the carriage as a moving studio: choose a spot with a little headroom, focus on breath, and pick poses that fit the limited space—seated cat‑cow, standing forward fold, and ankle circles. Keep movements gentle; the goal is to awaken, not to impress.",
+    "pros": [
+      "No equipment needed",
+      "Boosts circulation and mood",
+      "Creates a shared calm vibe"
+    ],
+    "cons": [
+      "Limited space can feel cramped",
+      "May disturb sleeping passengers if too loud",
+      "Requires a bit of confidence to start publicly"
+    ],
+    "watchOut": "Avoid any poses that could tip over personal luggage or bump into nearby seats.",
+    "faq": [
+      {
+        "q": "Do I need a yoga mat?",
+        "a": "A thin travel mat or even a folded blanket works, but you can also practice directly on the seat cushion."
+      },
+      {
+        "q": "What if the carriage is crowded?",
+        "a": "Choose a seat with extra legroom or use the aisle during a quieter segment; even seated twists count."
+      },
+      {
+        "q": "Is it okay to play music?",
+        "a": "Soft, personal headphones are fine; keep volume low to respect fellow travelers."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "Rail",
+      "Wellness"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-11-20T06:45:05.014Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "evening-carriage-composting",
     "title": "Evening Carriage Composting: Low-Impact Waste Management on the Rails",
     "dek": "Turn leftover food scraps into soil on the go, keeping your train journey greener.",

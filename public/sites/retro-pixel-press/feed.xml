@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Reinforcing NES Controller Contacts for Consistent Inputs</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-pixel-press-quick-fix-nes-controller.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/retro-pixel-press-quick-fix-nes-controller.html</guid>
+      <pubDate>Fri, 20 Nov 2026 06:45:05 GMT</pubDate>
+      <description>A simple soldering fix restores your NES controller&apos;s reliability without breaking the bank.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Revitalizing the Game Boy Pocket Sound for Crisper Audio</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-revitalizing-game-boy-pocket-sound.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-revitalizing-game-boy-pocket-sound.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/enhance-atari-2600-rf-switch.html</guid>
       <pubDate>Thu, 19 Nov 2026 01:45:08 GMT</pubDate>
       <description>Swap the original RF switch in your Atari 2600 for a modern low‑noise version to cut static and improve picture clarity.</description>
-    </item>
-    <item>
-      <title>Turbo-Tune Your Retro Light Gun for Precision Speedruns</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/turbo-tune-retro-light-gun.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/turbo-tune-retro-light-gun.html</guid>
-      <pubDate>Thu, 19 Nov 2026 00:45:10 GMT</pubDate>
-      <description>Learn how a simple sensor tweak can tighten aim, cut lag, and give your classic light-gun games a speedrunning edge.</description>
     </item>
   </channel>
 </rss>

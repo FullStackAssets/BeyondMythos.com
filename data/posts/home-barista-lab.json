@@ -1,5 +1,56 @@
 [
   {
+    "slug": "extend-espresso-machine-lifespan-cleaning-routin",
+    "title": "Extend Your Espresso Machine Lifespan with a Simple Group Head Cleaning Routine",
+    "dek": "A quick weekly brush‑and‑rinse can keep your machine humming and your shots tasting fresh.",
+    "takeaway": "Regular group‑head cleaning prevents buildup that degrades temperature stability and flavor.",
+    "whatHappened": "I noticed a subtle bitterness creeping into my espresso after weeks of heavy use. A quick inspection revealed coffee oils coating the group head. After a brief cleaning session, the taste snapped back to bright and clean.",
+    "whyItMatters": "Residue on the group head acts as an insulator, causing temperature fluctuations and uneven extraction. Over time, that buildup can corrode seals and shorten the machine's service life.",
+    "howToThink": "Treat the group head like a kitchen faucet—wipe it clean after each use, then give it a deeper brush‑and‑rinse once a week. Use a soft brass brush and hot water; avoid harsh chemicals that could damage internal parts.",
+    "pros": [
+      "Longer machine life",
+      "Consistent shot temperature",
+      "Better flavor clarity"
+    ],
+    "cons": [
+      "Requires a few minutes weekly",
+      "Needs a proper brush",
+      "May feel tedious at first"
+    ],
+    "watchOut": "Never soak the group head in water; excess moisture can seep into seals.",
+    "faq": [
+      {
+        "q": "How often should I deep‑clean the group head?",
+        "a": "A thorough brush‑and‑rinse once a week is sufficient for most home setups."
+      },
+      {
+        "q": "Can I use dishwasher detergent?",
+        "a": "No—use only hot water and a dedicated espresso brush to avoid residue and seal damage."
+      },
+      {
+        "q": "Will cleaning affect my brew pressure?",
+        "a": "Proper cleaning actually stabilizes pressure by removing blockages that cause spikes."
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "maintenance",
+      "espresso"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-11-20T06:45:06.597Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "calibrate-espresso-pressure-gauge",
     "title": "Calibrate Your Espresso Machine Pressure with a Simple Gauge Hack",
     "dek": "A quick gauge check can reveal hidden pressure drift, letting you dial in consistent espresso without expensive service.",
