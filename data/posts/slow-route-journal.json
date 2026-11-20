@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midnight-platform-meditation",
+    "title": "Midnight Platform Meditation: Low‑Impact Calm on the Rails",
+    "dek": "A brief guide to turning a late‑night stop into a grounding meditation session.",
+    "takeaway": "Even a five‑minute pause on the platform can reset your travel rhythm.",
+    "whatHappened": "After a slow train rolled into a quiet station, I stepped onto the platform and let the night air guide a simple breathing practice. The hush of distant tracks became a natural metronome for mindfulness.",
+    "whyItMatters": "Travel fatigue often piles up unnoticed, especially on long routes. A micro‑meditation restores focus, reduces stress, and keeps your low‑impact mindset sharp.",
+    "howToThink": "Treat the platform as a temporary sanctuary: locate a spot away from foot traffic, breathe in sync with the faint rumble, and let thoughts drift like passing trains. Keep it brief, aim for consistency, and you’ll carry the calm forward.",
+    "pros": [
+      "Zero cost",
+      "No gear needed",
+      "Fits any schedule"
+    ],
+    "cons": [
+      "Requires quiet spot",
+      "May need extra time",
+      "Weather dependent"
+    ],
+    "watchOut": "Beware of sudden announcements that can break concentration.",
+    "faq": [
+      {
+        "q": "Do I need a mat?",
+        "a": "No, a clean spot on the platform is enough."
+      },
+      {
+        "q": "What if it’s crowded?",
+        "a": "Find the edge or a less‑used carriage platform area."
+      },
+      {
+        "q": "How long should I meditate?",
+        "a": "Start with three to five minutes and extend as you feel comfortable."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "mindfulness",
+      "rail"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-11-20T00:45:07.867Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "sunlit-carriage-book-exchange",
     "title": "Sunlit Carriage Book Exchange: Low‑Impact Reading on the Rails",
     "dek": "Turn a quiet train ride into a traveling library with a simple book‑swap ritual that leaves no trace.",

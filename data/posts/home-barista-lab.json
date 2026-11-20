@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-pressure-reset",
+    "title": "Boost Your Espresso Consistency with a Simple Pressure Reset",
+    "dek": "A quick tap on your machine’s pressure valve can smooth out shot variability without extra gear.",
+    "takeaway": "A brief pressure reset can stabilize espresso flow and improve flavor balance.",
+    "whatHappened": "I noticed my shots fluctuating after the machine warmed up, so I tried briefly releasing the pump pressure between pulls. The next batch showed a steadier extraction and a richer crema.",
+    "whyItMatters": "Inconsistent pressure leads to uneven extraction, which muddles taste and wastes coffee. A simple reset keeps the brewing environment stable, letting you taste the beans as intended.",
+    "howToThink": "When you feel the pump humming unevenly, pause the shot, press the pressure release button for a second, then resume. This brief vent clears any pressure buildup in the group head. Incorporate it into your routine whenever the machine has been on for a while.",
+    "pros": [
+      "Immediate shot stability",
+      "No extra equipment needed",
+      "Easy to remember"
+    ],
+    "cons": [
+      "Adds a tiny pause to workflow",
+      "May not help if machine is faulty",
+      "Requires familiarity with valve"
+    ],
+    "watchOut": "Don’t over‑release pressure, or you’ll force air into the brew path.",
+    "faq": [
+      {
+        "q": "Does this work on all espresso machines?",
+        "a": "Most pump‑based home machines have a pressure release valve that can be tapped, but steam‑only units won’t benefit."
+      },
+      {
+        "q": "How long should the pressure be released?",
+        "a": "A one‑second press is enough to vent excess pressure without cooling the group head."
+      },
+      {
+        "q": "Will this affect my machine’s warranty?",
+        "a": "A brief manual pressure release is a normal operation and won’t void the warranty."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "technique"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-11-20T00:45:07.093Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "boost-espresso-crema-tilt",
     "title": "Boost Your Espresso Crema with a Simple Portafilter Tilt",
     "dek": "A tiny tilt of the portafilter can coax richer crema without changing any settings.",

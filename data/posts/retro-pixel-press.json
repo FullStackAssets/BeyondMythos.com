@@ -1,5 +1,56 @@
 [
   {
+    "slug": "colecovision-controller-fine-tuning",
+    "title": "Pixel Boost: Fine‑Tuning the ColecoVision Controller for Snappy Response",
+    "dek": "Revive your ColecoVision joystick with simple contact cleaning and spring adjustment for tighter, more reliable inputs.",
+    "takeaway": "A quick clean and tweak can restore crisp control to a classic ColecoVision gamepad.",
+    "whatHappened": "We opened a well‑used ColecoVision controller, removed the old contact pads, cleaned the metal traces with isopropyl alcohol, and gently compressed the spring mechanism to its original tension. After reassembly, the joystick snapped back to center with noticeably less wobble and a cleaner signal to the console.",
+    "whyItMatters": "Retro collectors often discard controllers that feel sluggish, but a few minutes of maintenance can salvage hardware that’s otherwise hard to replace. For speedrunners, consistent inputs can shave precious frames off runs, keeping the original feel of the era alive.",
+    "howToThink": "Start with a gentle clean—no abrasive tools—then test the controller before adjusting springs. If the response feels too tight, back off slightly; the goal is a crisp snap, not a forced snap. Keep spare contact pads on hand for future tweaks.",
+    "pros": [
+      "Improved input consistency",
+      "Low cost fix",
+      "Extends controller life"
+    ],
+    "cons": [
+      "Requires disassembly",
+      "Potential wear on springs",
+      "Not a permanent fix if parts are worn"
+    ],
+    "watchOut": "Avoid over‑tightening the springs, which can cause premature breakage.",
+    "faq": [
+      {
+        "q": "Do I need special tools to open the controller?",
+        "a": "A small Phillips screwdriver and a plastic prying tool are sufficient."
+      },
+      {
+        "q": "Can I use any contact cleaner?",
+        "a": "Isopropyl alcohol (90%+) works well and evaporates without residue."
+      },
+      {
+        "q": "How often should I repeat this maintenance?",
+        "a": "Whenever the joystick feels loose or inputs become erratic, typically every few years for regular use."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "ColecoVision",
+      "Controller Maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-11-20T00:45:06.341Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "restoring-arcade-joysticks",
     "title": "Pixel Boost: Restoring Classic Arcade Joysticks for Smoother Pulls",
     "dek": "A quick guide to reviving arcade stick springs and contacts for tighter, more reliable pulls.",

@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/home-barista-lab/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Boost Your Espresso Consistency with a Simple Pressure Reset</title>
+      <link>https://www.beyondmythos.com/sites/home-barista-lab/posts/espresso-pressure-reset.html</link>
+      <guid>https://www.beyondmythos.com/sites/home-barista-lab/posts/espresso-pressure-reset.html</guid>
+      <pubDate>Fri, 20 Nov 2026 00:45:07 GMT</pubDate>
+      <description>A quick tap on your machine’s pressure valve can smooth out shot variability without extra gear.</description>
+    </item>
+    <item>
       <title>Boost Your Espresso Crema with a Simple Portafilter Tilt</title>
       <link>https://www.beyondmythos.com/sites/home-barista-lab/posts/boost-espresso-crema-tilt.html</link>
       <guid>https://www.beyondmythos.com/sites/home-barista-lab/posts/boost-espresso-crema-tilt.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/home-barista-lab/posts/upgrade-espresso-pressure-gauge.html</guid>
       <pubDate>Wed, 18 Nov 2026 19:45:09 GMT</pubDate>
       <description>A quick guide to adding a pressure gauge to your home espresso machine for tighter shot control.</description>
-    </item>
-    <item>
-      <title>Read the Shot: Visual Cues for Espresso Timing</title>
-      <link>https://www.beyondmythos.com/sites/home-barista-lab/posts/read-the-shot-visual-cues.html</link>
-      <guid>https://www.beyondmythos.com/sites/home-barista-lab/posts/read-the-shot-visual-cues.html</guid>
-      <pubDate>Wed, 18 Nov 2026 18:45:12 GMT</pubDate>
-      <description>Learn to judge espresso extraction by watching the crema edge and flow, no stopwatch needed.</description>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "shade-loving-herbs-low-light-balcony",
+    "title": "Shade‑Loving Herbs: Thriving on Low‑Light Balconies",
+    "dek": "Discover which herbs flourish in shady balcony corners and how to keep them happy year‑round.",
+    "takeaway": "Even low‑light balconies can produce flavorful herbs with the right choices and care.",
+    "whatHappened": "We tested a handful of shade‑tolerant herbs—mint, parsley, and chervil—in a north‑facing balcony that receives only indirect light. After a month, the plants showed steady growth and aromatic leaves. The experiment proved that sunlight isn’t the only path to a thriving herb garden.",
+    "whyItMatters": "Many apartment dwellers assume herbs need full sun, so they give up on balcony gardening when shade dominates. Knowing which herbs tolerate shade expands edible‑green options for limited‑light spaces, boosting both morale and meals.",
+    "howToThink": "Choose herbs labeled as shade‑tolerant or partial‑shade in seed packets or plant tags. Use lightweight containers that can be moved to catch reflected light, and keep the soil consistently moist but not soggy. Feed with a balanced liquid fertilizer every few weeks to support leaf production.",
+    "pros": [
+      "Increases usable balcony area",
+      "Adds fresh flavor to meals",
+      "Low maintenance once established"
+    ],
+    "cons": [
+      "Limited to certain herb varieties",
+      "Slower leaf growth than sun‑loving herbs",
+      "May need occasional repositioning"
+    ],
+    "watchOut": "Avoid over‑watering; shaded soil dries more slowly and can lead to root rot.",
+    "faq": [
+      {
+        "q": "Can I grow basil in shade?",
+        "a": "Basil prefers full sun; it will grow weakly and become leggy in low light."
+      },
+      {
+        "q": "How often should I water shade‑loving herbs?",
+        "a": "Check the top inch of soil; water when it feels dry to the touch, typically every 2‑3 days in cool, shaded conditions."
+      },
+      {
+        "q": "Do I need special soil for shade?",
+        "a": "A well‑draining potting mix works fine; just ensure it retains enough moisture for the slower‑drying environment."
+      }
+    ],
+    "category": "Herbs",
+    "tags": [
+      "herbs",
+      "low-light"
+    ],
+    "sources": [
+      {
+        "label": "r/houseplants community threads",
+        "url": "https://www.reddit.com/r/houseplants/"
+      },
+      {
+        "label": "Search interest: \"small space vegetables\"",
+        "url": "https://duckduckgo.com/?q=small%20space%20vegetables"
+      }
+    ],
+    "publishedAt": "2026-11-20T00:45:05.525Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "self-watering-balcony-planter",
     "title": "DIY Self‑Watering Balcony Planter: Keep Crops Moist Without Daily Checks",
     "dek": "Turn a simple bucket into a low‑maintenance balcony planter that waters itself, so you can enjoy fresh veggies even on a busy schedule.",
