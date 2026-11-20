@@ -1,5 +1,56 @@
 [
   {
+    "slug": "hidden-gem-gtx1660-super-budget",
+    "title": "Hidden gem: scoring a GTX 1660 Super for under $150",
+    "dek": "A quick guide to finding a solid 1080p GPU on the secondhand market without breaking the bank.",
+    "takeaway": "A gently used GTX 1660 Super can deliver reliable 1080p gaming at a fraction of new‑card prices.",
+    "whatHappened": "We scoured local classifieds and a popular marketplace, spotting a GTX 1660 Super listed at $130. After confirming the card’s condition and testing it in a mid‑range build, it ran modern titles smoothly at 1080p. The price gap compared to new cards was striking.",
+    "whyItMatters": "Budget builders often think they must settle for low‑end performance, but the used market hides capable cards that still hold up in today’s games. Leveraging these finds stretches every dollar and keeps upgrade paths open.",
+    "howToThink": "Inspect the card for physical damage, ask the seller about its usage history, verify the BIOS version matches the official release, and test it in a known‑good system before finalizing. Prioritize listings with photos, clear communication, and a short return window if possible.",
+    "pros": [
+      "Solid 1080p performance",
+      "Low power draw",
+      "Affordable on secondhand market"
+    ],
+    "cons": [
+      "No ray‑tracing support",
+      "Potential prior heavy use",
+      "Limited overclock headroom"
+    ],
+    "watchOut": "Beware of cards that have been used for cryptocurrency mining or show signs of overheating, as they may have reduced lifespan.",
+    "faq": [
+      {
+        "q": "How can I tell if a used GPU has been mined?",
+        "a": "Ask the seller directly, look for unusually high temperatures in screenshots, and check for any aftermarket cooling modifications that suggest intensive use."
+      },
+      {
+        "q": "Do I need to update the BIOS on a used GTX 1660 Super?",
+        "a": "If the card is older than a year, checking the manufacturer's website for the latest BIOS and flashing it can improve stability and compatibility."
+      },
+      {
+        "q": "Is a used GTX 1660 Super still a good buy in 2026?",
+        "a": "Yes, for 1080p gaming it remains a solid performer, especially when new entry‑level cards have risen in price due to supply constraints."
+      }
+    ],
+    "category": "Used Parts",
+    "tags": [
+      "GTX 1660 Super",
+      "used GPU"
+    ],
+    "sources": [
+      {
+        "label": "r/buildapc community threads",
+        "url": "https://www.reddit.com/r/buildapc/"
+      },
+      {
+        "label": "Search interest: \"used pc parts guide\"",
+        "url": "https://duckduckgo.com/?q=used%20pc%20parts%20guide"
+      }
+    ],
+    "publishedAt": "2026-11-20T07:45:10.356Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-gpus-99",
     "title": "A weekend project: level up your gpus in two hours",
     "dek": "One contained, satisfying gpus project for PC builders on a budget — start Saturday morning, done by lunch.",

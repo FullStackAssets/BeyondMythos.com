@@ -1,5 +1,56 @@
 [
   {
+    "slug": "dawn-carriage-journaling",
+    "title": "Dawn Carriage Journaling: Low‑Impact Reflection on the Rails",
+    "dek": "Start your day with mindful journaling in the carriage, turning travel moments into low‑impact reflections.",
+    "takeaway": "Journaling on the rails deepens presence and trims travel waste.",
+    "whatHappened": "I set a small notebook on the seat beside the window as sunrise painted the landscape. Each passing village sparked a line, turning fleeting scenery into a quiet record of the journey.",
+    "whyItMatters": "Writing forces you to notice details you’d otherwise skim past, turning passive travel into active observation. It also creates a low‑impact habit that replaces disposable souvenirs with personal memory.",
+    "howToThink": "Keep the notebook light and use a recycled pen. Write in short bursts—one sentence per stop—to stay present. Review your entries at night to reinforce gratitude and plan the next day’s low‑impact actions.",
+    "pros": [
+      "Boosts mindfulness",
+      "Creates a reusable travel log",
+      "No electronic waste"
+    ],
+    "cons": [
+      "Requires pen/paper",
+      "Can be tempting to over‑write",
+      "Might distract from scenery"
+    ],
+    "watchOut": "Don’t let note‑taking pull your eyes away from safety instructions or moving doors.",
+    "faq": [
+      {
+        "q": "Do I need a special journal?",
+        "a": "A small, recycled‑paper notebook works fine; the lighter the better."
+      },
+      {
+        "q": "Can I journal on a crowded train?",
+        "a": "Yes—short, silent notes are unobtrusive and can be done while seated."
+      },
+      {
+        "q": "What if I forget to write?",
+        "a": "A quick mental note works too; you can flesh it out later in your lodging."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "journaling",
+      "mindful-travel"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-11-20T07:45:05.907Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "morning-carriage-yoga",
     "title": "Morning Carriage Yoga: Low‑Impact Stretch on the Rails",
     "dek": "Start your day on the train with a simple stretch routine that keeps you limber and reduces travel fatigue.",

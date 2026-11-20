@@ -1,5 +1,56 @@
 [
   {
+    "slug": "rescue-espresso-shot-temperature",
+    "title": "Rescue a Flat Espresso Shot with a Quick Water Temperature Check",
+    "dek": "A fast temperature tweak can bring life back to a dull espresso without extra gear.",
+    "takeaway": "A small temperature adjustment often restores espresso body and flavor.",
+    "whatHappened": "You pulled a shot that tasted thin and lacking sweetness. The machine’s boiler had cooled slightly after a long idle. A quick temperature check revealed it was below the optimal range.",
+    "whyItMatters": "Espresso extraction is temperature‑sensitive; even a few degrees off can mute acidity and sweetness. Ignoring this can lead to inconsistent cups and frustration.",
+    "howToThink": "When a shot feels flat, verify the brew water temperature with a cheap thermometer or the machine’s indicator. If it’s low, run a short purge or let the machine heat a bit longer before pulling again.",
+    "pros": [
+      "Instant improvement",
+      "No extra equipment needed",
+      "Boosts consistency"
+    ],
+    "cons": [
+      "Requires a thermometer if machine lacks display",
+      "May add a few seconds to prep",
+      "Not a fix for deeper issues"
+    ],
+    "watchOut": "Avoid overheating the water, which can scorch the coffee and produce bitterness.",
+    "faq": [
+      {
+        "q": "Can I use the built‑in temperature readout?",
+        "a": "Yes, if your machine shows brew temperature, trust it, but give it a moment to stabilize after a purge."
+      },
+      {
+        "q": "How many degrees low is too low?",
+        "a": "If the temperature feels noticeably cooler than usual, even a small drop can affect flavor."
+      },
+      {
+        "q": "Will this hack work on all espresso machines?",
+        "a": "It works on any machine where you can gauge water temperature, whether via display or an external thermometer."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "Espresso",
+      "Temperature"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-11-20T07:45:09.646Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "extend-espresso-machine-lifespan-cleaning-routin",
     "title": "Extend Your Espresso Machine Lifespan with a Simple Group Head Cleaning Routine",
     "dek": "A quick weekly brush‑and‑rinse can keep your machine humming and your shots tasting fresh.",
