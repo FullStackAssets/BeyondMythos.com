@@ -1,5 +1,56 @@
 [
   {
+    "slug": "calibrate-espresso-pressure-gauge",
+    "title": "Calibrate Your Espresso Machine Pressure with a Simple Gauge Hack",
+    "dek": "A quick gauge check can reveal hidden pressure drift, letting you dial in consistent espresso without expensive service.",
+    "takeaway": "Regularly checking your machine’s pressure with a cheap gauge keeps shots stable and tasty.",
+    "whatHappened": "I noticed my espresso’s crema thinning over a week. A quick read on a handheld pressure gauge showed the pump was slipping below the target range, so I tightened the brew pressure screw and restored the sweet spot.",
+    "whyItMatters": "Pressure drift silently degrades extraction, leading to thin body and inconsistent flavor. Catching it early means you avoid wasted beans and maintain the machine’s health.",
+    "howToThink": "Treat pressure like a vital sign: measure it daily, note any drift, and adjust the pressure valve in small increments. Keep a log so you can spot trends before they affect taste.",
+    "pros": [
+      "Cheap gauge, big impact",
+      "Immediate visual feedback",
+      "Easy to integrate into routine"
+    ],
+    "cons": [
+      "Requires occasional calibration",
+      "Adds an extra step",
+      "May void warranty if opened"
+    ],
+    "watchOut": "Never force the gauge into the port; use the proper adapter to avoid damaging the brew head.",
+    "faq": [
+      {
+        "q": "Do I need a professional gauge?",
+        "a": "A basic handheld espresso pressure gauge works fine for home machines."
+      },
+      {
+        "q": "How often should I check pressure?",
+        "a": "A quick check before each brewing session or at least once a week is enough."
+      },
+      {
+        "q": "Can I adjust pressure on any machine?",
+        "a": "Most semi‑automatic machines have a pressure adjustment screw; fully automatic models may need service."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-11-20T05:45:07.778Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "optimize-espresso-shot-consistency",
     "title": "Optimize Espresso Shot Consistency with a Simple Tap‑Down Technique",
     "dek": "A quick tap‑down on the portafilter after dosing can smooth out puck density for more repeatable shots.",

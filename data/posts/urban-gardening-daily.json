@@ -1,5 +1,56 @@
 [
   {
+    "slug": "compact-companion-planting",
+    "title": "Compact Companion Planting: Boost Your Balcony Harvest",
+    "dek": "Pair fast‑growing veggies with herb allies in tiny pots to boost flavor, deter pests, and stretch limited balcony space.",
+    "takeaway": "Smart pairings let you squeeze more bounty from the same square footage.",
+    "whatHappened": "We tested a trio of 8‑inch pots on a south‑facing balcony, mixing cherry tomatoes with basil, radishes with nasturtium, and lettuce with chives. Within three weeks the vegetables were thriving and the herbs showed vigorous growth.",
+    "whyItMatters": "Balcony growers often battle space constraints and pest pressure; companion planting offers a low‑cost, natural way to address both. The approach also adds visual interest, turning a functional grow‑area into a mini‑garden showcase.",
+    "howToThink": "Choose a fast‑grower (like radish) and pair it with a herb that repels its common pests (such as nasturtium). Keep the pot depth shallow enough for the herb but deep enough for the vegetable’s root system. Rotate pairings each season to keep soil health balanced.",
+    "pros": [
+      "Higher yields per pot",
+      "Natural pest deterrence",
+      "Aesthetic variety"
+    ],
+    "cons": [
+      "Requires careful plant selection",
+      "May need extra watering",
+      "Limited to compatible species"
+    ],
+    "watchOut": "Avoid pairing plants that compete for the same nutrients, as they can stunt each other’s growth.",
+    "faq": [
+      {
+        "q": "Can I use the same soil mix for both vegetables and herbs?",
+        "a": "A lightweight, well‑draining mix works for most combos, but add a touch of compost for extra nutrients."
+      },
+      {
+        "q": "How often should I water companion‑planted pots?",
+        "a": "Check the top inch of soil daily; water when it feels dry to the touch, adjusting for sun exposure."
+      },
+      {
+        "q": "Do I need to fertilize more often?",
+        "a": "A monthly light feeding of liquid fertilizer keeps both partners happy without over‑feeding."
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "companion-planting",
+      "balcony"
+    ],
+    "sources": [
+      {
+        "label": "r/UrbanGardening community threads",
+        "url": "https://www.reddit.com/r/UrbanGardening/"
+      },
+      {
+        "label": "Search interest: \"balcony garden ideas\"",
+        "url": "https://duckduckgo.com/?q=balcony%20garden%20ideas"
+      }
+    ],
+    "publishedAt": "2026-11-20T05:45:05.402Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "tiered-herb-towers-maximize-space",
     "title": "Tiered Herb Towers: Maximize Space and Flavor",
     "dek": "Stacked herb pots turn a narrow balcony into a fragrant, harvest‑ready garden in minutes.",

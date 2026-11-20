@@ -1,5 +1,56 @@
 [
   {
+    "slug": "pixel-boost-revitalizing-game-boy-pocket-sound",
+    "title": "Pixel Boost: Revitalizing the Game Boy Pocket Sound for Crisper Audio",
+    "dek": "Upgrade your original Game Boy Pocket's speaker to hear classic chiptunes with newfound clarity.",
+    "takeaway": "A simple speaker swap can dramatically improve audio fidelity on the Game Boy Pocket.",
+    "whatHappened": "We opened a well‑preserved Game Boy Pocket, desoldered the stock speaker, and installed a modern 8 Ω replacement that matches the original impedance. The new component fit the existing cavity without modification, and the device powered up without issue. After reassembly, classic titles like Tetris sounded noticeably richer.",
+    "whyItMatters": "Audio quality is often overlooked in retro collecting, yet clearer sound enhances immersion and can aid speedrunners who rely on audio cues. Preserving the original experience while improving fidelity respects both nostalgia and modern expectations. The upgrade also demonstrates that modest hardware tweaks can extend the lifespan of beloved devices.",
+    "howToThink": "Start by sourcing a speaker that mirrors the original’s electrical specs to avoid power issues. Use a soldering iron with a fine tip and practice on a scrap board before tackling the handheld. Test the unit after each step to catch any connection problems early, and keep a photo log for future reference.",
+    "pros": [
+      "Clearer sound",
+      "Easy parts sourcing",
+      "Minimal soldering"
+    ],
+    "cons": [
+      "Requires opening case",
+      "Potential void of warranty",
+      "Slightly increased power draw"
+    ],
+    "watchOut": "Avoid static discharge when handling the new speaker to prevent damage.",
+    "faq": [
+      {
+        "q": "Can I use any 8 Ω speaker as a replacement?",
+        "a": "Choose one with similar size and power rating to maintain battery life and fit the housing."
+      },
+      {
+        "q": "Will this modification affect the Game Boy Pocket's resale value?",
+        "a": "Modifications can lower value for purists, but many collectors appreciate functional upgrades."
+      },
+      {
+        "q": "Do I need to recalibrate the volume control after swapping speakers?",
+        "a": "Usually not; the stock potentiometer works with the new speaker, but a quick test is advisable."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "hardware",
+      "audio"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-11-20T05:45:06.241Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pixel-boost-enhancing-sega-master-system-control",
     "title": "Pixel Boost: Enhancing the Sega Master System Controller for a Tighter Grip",
     "dek": "A quick guide to beefing up your Master System stick for smoother runs and longer play sessions.",

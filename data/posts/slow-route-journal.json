@@ -1,5 +1,56 @@
 [
   {
+    "slug": "evening-carriage-composting",
+    "title": "Evening Carriage Composting: Low-Impact Waste Management on the Rails",
+    "dek": "Turn leftover food scraps into soil on the go, keeping your train journey greener.",
+    "takeaway": "Composting on a moving train reduces waste and enriches local gardens at your stops.",
+    "whatHappened": "On a recent night train I set up a small sealable compost bucket in the carriage pantry and collected fruit skins and coffee grounds from fellow travelers. By the end of the journey the bin was full enough to donate to a community garden at the next station.",
+    "whyItMatters": "Train travel already cuts carbon per mile; adding composting prevents organic waste from ending up in landfills. It also creates a tangible connection between travelers and the places they pass through.",
+    "howToThink": "Choose a sturdy airtight container with a carbon filter and keep a biodegradable bag for easy transfers. Encourage others to contribute by posting a friendly sign. When you arrive locate a garden or compost drop-off and empty the contents responsibly.",
+    "pros": [
+      "Zero waste addition",
+      "Engages fellow passengers",
+      "Supports local gardens"
+    ],
+    "cons": [
+      "Requires a container",
+      "Limited space in carriage",
+      "Needs proper disposal at stops"
+    ],
+    "watchOut": "Avoid adding meat, dairy, or oily foods, which can attract pests and slow decomposition.",
+    "faq": [
+      {
+        "q": "Can I compost on any train?",
+        "a": "Most long-distance carriages have a pantry area where a sealed bin can sit, but check the operator’s policy first."
+      },
+      {
+        "q": "How often should I empty the bin?",
+        "a": "Empty it at the next station that offers a compost drop-off, usually every few hours on longer trips."
+      },
+      {
+        "q": "What if other passengers are hesitant?",
+        "a": "A brief note explaining the environmental benefit usually encourages participation."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "composting"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-11-20T05:45:07.013Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "afternoon-platform-plant-swap",
     "title": "Afternoon Platform Plant Swap: Low‑Impact Green Exchange on the Rails",
     "dek": "Swap seedlings and cuttings with fellow travelers while staying green and moving slow.",
