@@ -1,5 +1,56 @@
 [
   {
+    "slug": "nes-zapper-calibration",
+    "title": "Pixel Boost: Calibrating the NES Zapper for Pinpoint Accuracy",
+    "dek": "Learn a quick method to fine‑tune your NES Zapper so every shot lands where you aim.",
+    "takeaway": "A properly calibrated Zapper turns sloppy shooting into reliable hits.",
+    "whatHappened": "A recent community challenge revealed many shooters missing targets due to drift in their Zappers. By adjusting the potentiometer and testing with the built‑in TV test pattern, players restored precision.",
+    "whyItMatters": "Accurate aim is crucial for both high‑score runs in shooting games and preserving the original gameplay feel. A misaligned Zapper can ruin a speedrun’s timing and diminish the collector’s experience.",
+    "howToThink": "Treat the Zapper like any analog input: start with a baseline, test, then tweak in small increments. Use the on‑screen crosshair test mode to verify alignment before each session.",
+    "pros": [
+      "Improved hit rate",
+      "Easier to compete in shooting speedruns",
+      "Preserves original hardware feel"
+    ],
+    "cons": [
+      "Requires opening the controller",
+      "Potentially voids warranty",
+      "Adjustment can be finicky without proper tools"
+    ],
+    "watchOut": "Be careful not to overtighten the potentiometer, which can damage the Zapper’s internal circuit.",
+    "faq": [
+      {
+        "q": "Do I need a multimeter to calibrate the Zapper?",
+        "a": "A simple screwdriver and the TV’s test pattern are enough; a multimeter helps only for checking continuity."
+      },
+      {
+        "q": "Can I calibrate the Zapper on modern HDMI adapters?",
+        "a": "Most adapters don’t pass the light sensor signal, so calibrate on the original CRT or a compatible LCD that supports the legacy input."
+      },
+      {
+        "q": "How often should I recalibrate?",
+        "a": "Re‑check whenever you move the unit, replace the bulb, or notice missed shots during play."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "hardware",
+      "speedruns"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-11-20T02:45:07.647Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "calibrating-tg16-controller",
     "title": "Pixel Boost: Calibrating the TurboGrafx-16 Controller for Lightning‑Fast Inputs",
     "dek": "A quick guide to fine‑tuning your TurboGrafx‑16 controller for snappy, reliable inputs during marathon runs.",

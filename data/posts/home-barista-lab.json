@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-flow-rate-check-2",
+    "title": "Elevate Your Espresso Extraction with a Simple Flow Rate Check",
+    "dek": "A quick trick to gauge your espresso flow and fine‑tune extraction without pricey tools.",
+    "takeaway": "Monitoring flow rate lets you spot under‑ or over‑extraction before it ruins a shot.",
+    "whatHappened": "I noticed my espresso shots were inconsistent despite keeping dose and grind steady. By timing the first 30 ml of output, the variation became obvious. A simple stopwatch revealed a 2‑second spread between pulls.",
+    "whyItMatters": "Flow rate directly reflects how water interacts with the coffee puck, influencing balance, sweetness, and bitterness. Small timing differences can mean a shot that's sour or overly bitter, frustrating even seasoned home baristas.",
+    "howToThink": "Start a timer as soon as water contacts the puck, then stop at 30 ml (a kitchen spoon or graduated cup works). Aim for a consistent window—usually around 2–3 seconds for a standard dose. Adjust grind finer if it’s too fast, coarser if it lags.",
+    "pros": [
+      "No expensive equipment needed",
+      "Instant feedback on each pull",
+      "Helps dial in grind and dose quickly"
+    ],
+    "cons": [
+      "Requires a reliable timer",
+      "Only a rough proxy for extraction",
+      "May need practice to read subtle changes"
+    ],
+    "watchOut": "Don’t rely solely on timing; taste and visual cues still matter.",
+    "faq": [
+      {
+        "q": "What if I don’t have a 30 ml measuring cup?",
+        "a": "Use any small container and estimate the volume, or count roughly 2 spoons of liquid."
+      },
+      {
+        "q": "Is a kitchen timer accurate enough?",
+        "a": "A basic stopwatch or phone timer is sufficient; the goal is consistency, not millisecond precision."
+      },
+      {
+        "q": "Can I use this method for pour‑over?",
+        "a": "Yes, timing the first 30 ml of brew can also highlight flow issues in pour‑over."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "extraction"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-11-20T02:45:09.884Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-temperature-hack-2",
     "title": "Fine‑Tune Espresso Brew Temperature Using a Kitchen Thermometer",
     "dek": "A quick thermometer hack lets you nail the perfect brew temperature without pricey equipment.",

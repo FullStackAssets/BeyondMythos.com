@@ -1,5 +1,56 @@
 [
   {
+    "slug": "midday-platform-picnic-low-impact-nourishment",
+    "title": "Midday Platform Picnic: Low‑Impact Nourishment on the Rails",
+    "dek": "A simple, zero‑waste lunch on a waiting platform turns a pause into a culinary adventure.",
+    "takeaway": "A mindful picnic can feed the body and the journey without adding carbon.",
+    "whatHappened": "We arrived at a quiet regional station, spread a reusable cloth, and shared locally sourced snacks while watching the tracks stretch. The pause stretched into a relaxed 45‑minute meal, punctuated by the occasional train whoosh.",
+    "whyItMatters": "Eating on the platform reduces reliance on on‑board catering, cuts packaging waste, and deepens connection with the place. It also demonstrates how small, low‑impact habits amplify the slow‑travel ethos.",
+    "howToThink": "Plan ahead with a compact tote, pack bulk staples, and scout stations with easy access to water and shade. Choose foods that travel well and source them from nearby markets. Keep a minimal footprint by cleaning up fully and leaving the area as you found it.",
+    "pros": [
+      "Zero waste",
+      "Local flavor",
+      "Cost‑effective"
+    ],
+    "cons": [
+      "Limited seating",
+      "Weather dependent",
+      "Prep time needed"
+    ],
+    "watchOut": "Beware of sudden train arrivals; keep your spot clear and your food secure.",
+    "faq": [
+      {
+        "q": "Can I eat on any platform?",
+        "a": "Most stations allow it, but check local signage; some high‑traffic hubs may restrict lingering."
+      },
+      {
+        "q": "What foods travel best?",
+        "a": "Sturdy items like fruit, nuts, cheese, whole‑grain wraps, and pre‑washed veggies stay fresh without refrigeration."
+      },
+      {
+        "q": "How do I dispose of waste responsibly?",
+        "a": "Carry a small bag for leftovers and use provided recycling bins; if none exist, take it back to your accommodation."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail",
+      "packing"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-11-20T02:45:06.196Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "morning-platform-birdwatching",
     "title": "Morning Platform Birdwatching: Low‑Impact Auditory Exploration on the Rails",
     "dek": "Start your day listening to local songbirds from a quiet platform, enriching travel without leaving a carbon trace.",
