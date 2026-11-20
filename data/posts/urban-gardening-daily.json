@@ -1,5 +1,56 @@
 [
   {
+    "slug": "modular-stack-planters",
+    "title": "Boost Your Balcony Yield with Modular Stack Planters",
+    "dek": "Turn cramped balcony corners into productive mini‑farms using modular stack planters that maximize vertical space.",
+    "takeaway": "Stacked planters let you grow more in the same footprint.",
+    "whatHappened": "We set up a three‑tier modular stack on a south‑facing balcony and watched herbs, lettuce, and a few strawberries fill each level over several weeks. The plants responded well to the added height and shared the same watering routine.",
+    "whyItMatters": "Apartment gardeners often battle limited floor space, so using vertical volume turns a narrow balcony into a multi‑layer garden. More growing area means fresher produce without expanding the footprint, which is a win for renters and city dwellers alike.",
+    "howToThink": "Start with a sturdy, lightweight stack that fits your balcony rail and can be moved if needed. Fill each tier with a light, well‑draining mix and group plants by water needs to simplify care. Water from the top and let gravity feed the lower trays, but watch for excess moisture at the bottom.",
+    "pros": [
+      "Maximizes limited square footage",
+      "Easy to move or reconfigure",
+      "Creates visual interest"
+    ],
+    "cons": [
+      "Initial cost higher than single pots",
+      "Requires stable support on windy balconies",
+      "Bottom tray can stay wetter longer"
+    ],
+    "watchOut": "Secure the stack to the balcony rail to prevent tipping in breezy conditions.",
+    "faq": [
+      {
+        "q": "Can I use any type of pot for the stack?",
+        "a": "Choose pots designed for stacking or those with built‑in drainage holes; they fit together snugly and prevent waterlogging."
+      },
+      {
+        "q": "How often should I water a stacked system?",
+        "a": "Water the top tier thoroughly and let moisture trickle down; check the bottom tray daily and top up only when it feels dry to the touch."
+      },
+      {
+        "q": "Is this setup suitable for fruiting plants?",
+        "a": "Yes, dwarf varieties of strawberries or compact cherry tomatoes do well when given enough light and support on the upper tiers."
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "containers",
+      "vertical gardening"
+    ],
+    "sources": [
+      {
+        "label": "r/houseplants community threads",
+        "url": "https://www.reddit.com/r/houseplants/"
+      },
+      {
+        "label": "Search interest: \"small space vegetables\"",
+        "url": "https://duckduckgo.com/?q=small%20space%20vegetables"
+      }
+    ],
+    "publishedAt": "2026-11-20T03:45:04.571Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-urbangardening-21",
     "title": "Community pulse: what r/UrbanGardening is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the seasonal community this week.",

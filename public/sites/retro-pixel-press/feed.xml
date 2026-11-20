@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/retro-pixel-press/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Pixel Boost: Recalibrating the Game Boy Camera Lens for Sharper Shots</title>
+      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/recalibrate-game-boy-camera.html</link>
+      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/recalibrate-game-boy-camera.html</guid>
+      <pubDate>Fri, 20 Nov 2026 03:45:05 GMT</pubDate>
+      <description>A quick guide to tweaking your Game Boy Camera’s focus for clearer, more vibrant photos without opening the case.</description>
+    </item>
+    <item>
       <title>Pixel Boost: Calibrating the NES Zapper for Pinpoint Accuracy</title>
       <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/nes-zapper-calibration.html</link>
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/nes-zapper-calibration.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/pixel-boost-modifying-nes-controller-wiring.html</guid>
       <pubDate>Wed, 18 Nov 2026 22:45:10 GMT</pubDate>
       <description>A quick guide to rewiring your NES controller for tighter, more responsive button feel without pricey parts.</description>
-    </item>
-    <item>
-      <title>Pixel Boost: Reducing Controller Lag on Classic Consoles</title>
-      <link>https://www.beyondmythos.com/sites/retro-pixel-press/posts/reducing-controller-lag.html</link>
-      <guid>https://www.beyondmythos.com/sites/retro-pixel-press/posts/reducing-controller-lag.html</guid>
-      <pubDate>Wed, 18 Nov 2026 21:45:06 GMT</pubDate>
-      <description>Trim the input delay on your retro joystick for tighter, more responsive runs.</description>
     </item>
   </channel>
 </rss>

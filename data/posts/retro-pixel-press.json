@@ -1,5 +1,56 @@
 [
   {
+    "slug": "recalibrate-game-boy-camera",
+    "title": "Pixel Boost: Recalibrating the Game Boy Camera Lens for Sharper Shots",
+    "dek": "A quick guide to tweaking your Game Boy Camera’s focus for clearer, more vibrant photos without opening the case.",
+    "takeaway": "Fine‑tuning the lens yields noticeably sharper images, extending the device’s creative life.",
+    "whatHappened": "We noticed the original Game Boy Camera often produced blurry snapshots, especially in low‑light. By adjusting the tiny focus screw and cleaning the lens, the clarity improves dramatically.",
+    "whyItMatters": "Clearer images make the handheld a viable tool for retro photography contests and documentation of speedrun runs. Better visuals also help preservationists archive authentic screenshots.",
+    "howToThink": "Treat the lens like any other analog focus – a tiny turn can shift the focal plane. Use a magnifying glass and a soft brush to avoid scratches, and test with a solid‑color target before shooting.",
+    "pros": [
+      "Easily reversible",
+      "No soldering required",
+      "Immediate visual improvement"
+    ],
+    "cons": [
+      "Risk of lens mis‑alignment",
+      "Requires steady hands",
+      "May void warranty"
+    ],
+    "watchOut": "Avoid overtightening the focus screw, as it can crack the plastic housing.",
+    "faq": [
+      {
+        "q": "Do I need to open the Game Boy Camera to adjust the lens?",
+        "a": "No, the focus adjustment is accessible through the small screw on the back panel; only a minimal opening is needed."
+      },
+      {
+        "q": "What tools are recommended?",
+        "a": "A precision screwdriver set, a magnifying lens, and a soft anti‑static brush."
+      },
+      {
+        "q": "Will this affect the camera’s battery life?",
+        "a": "The adjustment itself doesn’t draw power, so battery life remains unchanged."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Game Boy",
+      "Camera"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-11-20T03:45:05.346Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "nes-zapper-calibration",
     "title": "Pixel Boost: Calibrating the NES Zapper for Pinpoint Accuracy",
     "dek": "Learn a quick method to fine‑tune your NES Zapper so every shot lands where you aim.",

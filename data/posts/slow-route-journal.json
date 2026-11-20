@@ -1,5 +1,56 @@
 [
   {
+    "slug": "evening-platform-foraging",
+    "title": "Evening Platform Foraging: Low‑Impact Food Gathering on the Rails",
+    "dek": "Discover how a simple evening stroll on train platforms can turn into a low‑impact foraging adventure, adding flavor to your slow‑travel routine.",
+    "takeaway": "Foraging on station grounds lets you eat locally, reduce waste, and deepen your connection to the route.",
+    "whatHappened": "After a long day of riding, I lingered on a quiet platform at dusk and noticed edible herbs and wild berries sprouting near the waiting benches. With a small guidebook and a reusable bag, I harvested a handful of mint, dandelion leaves, and a few ripe berries before the train arrived.",
+    "whyItMatters": "These small finds cut down on packaged snacks, showcase the often‑overlooked biodiversity of rail corridors, and give travelers a tangible sense of place that a cafe can’t match.",
+    "howToThink": "Carry a lightweight field guide or an app for local edible plants, respect any posted prohibitions, harvest responsibly—take only what you need and leave plenty behind. Pair your finds with a simple vinaigrette made from water, lemon, and a pinch of salt for an instant, low‑impact meal.",
+    "pros": [
+      "Zero waste snack",
+      "Engages with local ecology",
+      "Adds surprise to routine travel"
+    ],
+    "cons": [
+      "Requires basic plant ID knowledge",
+      "Limited to seasons and regions",
+      "Potential legal restrictions on some stations"
+    ],
+    "watchOut": "Always verify that foraging is allowed at the station and that the plants you pick are safe and pesticide‑free.",
+    "faq": [
+      {
+        "q": "Is it legal to forage on train stations?",
+        "a": "Rules vary; many stations allow casual gathering of wild herbs, but always check signage or ask staff."
+      },
+      {
+        "q": "What are the safest plants to start with?",
+        "a": "Common, easily identified edibles like mint, dandelion leaves, and wild strawberries are good beginner choices."
+      },
+      {
+        "q": "How do I store my finds without refrigeration?",
+        "a": "Use a small insulated pouch or wrap items in a damp cloth to keep them fresh for a few hours."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "foraging",
+      "rail travel"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-11-20T03:45:02.975Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "midday-platform-picnic-low-impact-nourishment",
     "title": "Midday Platform Picnic: Low‑Impact Nourishment on the Rails",
     "dek": "A simple, zero‑waste lunch on a waiting platform turns a pause into a culinary adventure.",

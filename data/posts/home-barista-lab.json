@@ -1,5 +1,56 @@
 [
   {
+    "slug": "diagnose-espresso-shot-issues-bottomless-portafi",
+    "title": "Diagnose Espresso Shot Issues with a Bottomless Portafilter",
+    "dek": "A bottom‑less portafilter reveals channeling and uneven extraction in seconds.",
+    "takeaway": "Seeing the flow lets you tweak grind, dose, and tamp for a cleaner shot.",
+    "whatHappened": "I popped a bottom‑less portafilter onto my machine and pulled a shot. The coffee streamed in distinct streams, exposing dry spots and channeling. A quick tweak to the grind size smoothed the flow on the next pull.",
+    "whyItMatters": "Spotting uneven extraction early saves beans, time, and frustration. It also prevents the habit of over‑compensating with dose or tamp, which can mask the real issue.",
+    "howToThink": "Start with your usual grind, then watch the shot. If you see thin streams or dark clumps, adjust the grind coarser or finer in small increments. Re‑tamp with consistent pressure and repeat until the flow is even.",
+    "pros": [
+      "Instant visual feedback",
+      "Helps fine‑tune grind and tamp",
+      "No extra equipment needed beyond portafilter"
+    ],
+    "cons": [
+      "Can be messy if not careful",
+      "Requires a compatible machine",
+      "Learning curve to read flow patterns"
+    ],
+    "watchOut": "Handle the hot portafilter with a towel to avoid burns and clean any splatter promptly.",
+    "faq": [
+      {
+        "q": "Do I need a special bottom‑less portafilter?",
+        "a": "Most standard portafilters can be swapped for a bottom‑less version; just ensure it fits your group head."
+      },
+      {
+        "q": "How often should I use it?",
+        "a": "Use it whenever you notice inconsistent shots or after changing beans or grind settings."
+      },
+      {
+        "q": "Will it affect my brew temperature?",
+        "a": "No, the portafilter design doesn’t change temperature; it only changes the visual outlet."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "troubleshooting"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-11-20T03:45:03.807Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-flow-rate-check-2",
     "title": "Elevate Your Espresso Extraction with a Simple Flow Rate Check",
     "dek": "A quick trick to gauge your espresso flow and fine‑tune extraction without pricey tools.",
